@@ -13111,25 +13111,25 @@ msgid "You need the following permission to access simulators: Simulator Admin."
 msgstr ""
 
 msgid "You need these roles to access bulk operations: Bulk Operation Read / Admin"
-msgstr ""
+msgstr "تحتاج إلى هذه الأدوار للوصول إلى العمليات المجمّعة: قراءة / إدارة العملية المجمّعة"
 
 msgid "You need these roles to access retention rules: Retention Rule Read / Admin"
-msgstr ""
+msgstr "أنت بحاجة إلى هذه الأدوار للوصول إلى قواعد الاحتفاظ: قراءة / الاحتفاظ بقاعدة الاحتفاظ"
 
 msgid "You need these roles to manage demo: Inventory Read / Admin, Simulator Admin, Smart Rule Read / Admin"
-msgstr ""
+msgstr "تحتاج إلى هذه الأدوار لإدارة العرض التوضيحي: قراءة / إدارة المخزون ، مسؤول المحاكاة ، قراءة / إدارة القاعدة الذكية"
 
 msgid "You need to fix validation errors before you can save."
-msgstr ""
+msgstr "تحتاج إلى إصلاح أخطاء التحقق من الصحة قبل أن تتمكن من الحفظ."
 
 msgid "You need to select a device and fill all mappings to be able to preview an SVG."
-msgstr ""
+msgstr ".SVG تحتاج إلى تحديد جهاز وملء جميع التعيينات لتتمكن من معاينة"
 
 msgid "You reached devices limit. No more devices can be registered."
-msgstr ""
+msgstr "لقد وصلت إلى حد الأجهزة. لا يمكن تسجيل المزيد من الأجهزة."
 
 msgid "You reached the limit of {{vm.limitStatus.limit}} devices. No more devices can be registered."
-msgstr ""
+msgstr "لقد وصلت إلى حد الأجهزة. لا يمكن {{vm.limitStatus.limit}} تسجيل المزيد من الأجهزة."
 
 msgid ""
 "You reached the limit of {{vm.limitStatus.limit}} devices.<br>\n"
@@ -13138,7 +13138,7 @@ msgid ""
 msgstr ""
 
 msgid "You removed delegation from user \"{{userName}}\"."
-msgstr ""
+msgstr ".\"{{userName}}\" لقد قمت بإزالة التفويض من المستخدم"
 
 msgid "You will get a CSV/Excel file for 1 series via email."
 msgid_plural "You will get CSV/Excel files for {{$count}} series via email."
@@ -13146,619 +13146,619 @@ msgstr[0] ""
 msgstr[1] ""
 
 msgid "You will receive a CSV/Excel file for each selected type of data via email."
-msgstr ""
+msgstr "سوف تتلقى ملف CSV / Excel لكل نوع من البيانات المحددة عبر البريد الإلكتروني."
 
 msgid "You will receive download links by email."
-msgstr ""
+msgstr "سوف تتلقى روابط التنزيل عن طريق البريد الإلكتروني."
 
 msgid "Your account has been closed."
-msgstr ""
+msgstr "تم إغلاق الحساب الخاص بك."
 
 msgid "Your account will be closed at the end of the current billing period."
-msgstr ""
+msgstr "سيتم إغلاق حسابك في نهاية فترة الفوترة الحالية."
 
 msgid "Your branding and URL"
-msgstr ""
+msgstr "URL علامتك التجارية وعنوان"
 
 msgid "Your dashboard is locked now."
-msgstr ""
+msgstr "لوحة التحكم مقفلة الآن."
 
 msgid "Your dashboard is unlocked now."
-msgstr ""
+msgstr "لوحة التحكم الخاصة بك غير مؤمنة الآن."
 
 msgid "Your password is expired. Please set a new password."
-msgstr ""
+msgstr "انتهت صلاحية كلمة المرور الخاصة بك. يرجى تعيين كلمة مرور جديدة."
 
 msgid "Your password is not strong enough. Please include numbers, lower and upper case characters"
-msgstr ""
+msgstr "كلمة المرور الخاصة بك ليست قوية بما فيه الكفاية. يرجى إدراج أرقام وأحرف صغيرة وكبيرة"
 
 msgid "Your password will expire {{expirationTime | relativeDate}}. Consider changing password now."
-msgstr ""
+msgstr "ستنتهي صلاحية كلمة المرور الخاصة بك {{expirationTime | relativeDate}}. ضع في اعتبارك تغيير كلمة المرور الآن."
 
 msgid "Your phone number"
-msgstr ""
+msgstr "رقم تليفونك"
 
 msgid "Your upgrade was successfully completed."
-msgstr ""
+msgstr "اكتملت الترقية الخاصة بك بنجاح."
 
 msgid "ZIP / Postal code"
-msgstr ""
+msgstr "الرمز البريدي / الرمز البريدي"
 
 msgid "ZIP / city"
-msgstr ""
+msgstr "ZIP / المدينة"
 
 msgid "[DeviceType] - not found"
-msgstr ""
+msgstr "غير موجود  - [DeviceType]"
 
 msgid "[{{id}}] - added as variable"
-msgstr ""
+msgstr "تمت إضافته كمتغير - [{{id}}]"
 
 msgid "[{{id}}] - missing ParameterName"
-msgstr ""
+msgstr "ParameterName  مفقود - [{{id}}]"
 
 msgid "[{{id}}] - missing, invalid or unsupported AccessType"
-msgstr ""
+msgstr "AccessType مفقود أو غير صالح أو غير مدعوم - [{{id}}]"
 
 msgid "[{{id}}] - missing, invalid or unsupported DataType"
-msgstr ""
+msgstr "DataType مفقود أو غير صالح أو غير مدعوم -  [{{id}}]"
 
 msgid "accept"
-msgstr ""
+msgstr "قبول"
 
 msgid "accuracy"
-msgstr ""
+msgstr "صحة"
 
 msgid "activating`connector`"
-msgstr ""
+msgstr "تنشيط الموصل"
 
 msgid "active devices"
-msgstr ""
+msgstr "الأجهزة النشطة"
 
 msgid "active`connector`"
-msgstr ""
+msgstr "الاشتراك النشط"
 
 msgid "active`subscription`"
 msgstr ""
 
 msgid "all types of objects"
-msgstr ""
+msgstr "جميع أنواع الأشياء"
 
 msgid "altitude"
-msgstr ""
+msgstr "ارتفاع"
 
 msgid "amount"
-msgstr ""
+msgstr "كمية"
 
 msgid "and"
-msgstr ""
+msgstr "و"
 
 msgid "and template ID"
-msgstr ""
+msgstr "ومعرف القالب"
 
 msgid "any"
-msgstr ""
+msgstr "أي"
 
 msgid "applications [{{applicationsList}}] added"
-msgstr ""
+msgstr " [{{applicationsList}}] تمت إضافة تطبيقات"
 
 msgid "applications [{{applicationsList}}] removed"
-msgstr ""
+msgstr " [{{applicationsList}}] تمت إزالة التطبيقات "
 
 msgid "applications {{list}} added"
-msgstr ""
+msgstr "التطبيقات {{list}} المضافة"
 
 msgid "applications {{list}} removed"
-msgstr ""
+msgstr "تمت إزالة {{list}} من التطبيقات"
 
 msgid "at {{field.address}}"
-msgstr ""
+msgstr "{{field.address}} في"
 
 msgid "automatic"
-msgstr ""
+msgstr "تلقائي"
 
 msgid "battery value"
-msgstr ""
+msgstr "قيمة البطارية"
 
 msgid "c8y_EnergyConsumption"
-msgstr ""
+msgstr "c8y_EnergyConsumption"
 
 msgid "c8y_EnergyCounter"
-msgstr ""
+msgstr "c8y_EnergyCounter"
 
 msgid "c8y_GeofenceAlarm"
-msgstr ""
+msgstr "c8y_GeofenceAlarm"
 
 msgid "c8y_MissingMeasurementsAlarm"
-msgstr ""
+msgstr "c8y_MissingMeasurementsAlarm"
 
 msgid "c8y_ThresholdAlarm"
-msgstr ""
+msgstr "c8y_ThresholdAlarm"
 
 msgid "calculating number of API requests"
-msgstr ""
+msgstr "حساب عدد طلبات API"
 
 msgid "calculating number of device API requests"
-msgstr ""
+msgstr "حساب عدد طلبات واجهة برمجة التطبيقات للجهاز"
 
 msgid "calculating number of devices"
-msgstr ""
+msgstr "حساب عدد الأجهزة"
 
 msgid "calculating number of inbound API requests"
-msgstr ""
+msgstr "حساب عدد طلبات API الواردة"
 
 msgid "calculating number of users"
-msgstr ""
+msgstr "حساب عدد المستخدمين"
 
 msgid "calculating storage"
-msgstr ""
+msgstr "حساب التخزين"
 
 msgid "cancel"
-msgstr ""
+msgstr "إلغاء"
 
 msgid "cents"
-msgstr ""
+msgstr "سنتات"
 
 msgid "change"
-msgstr ""
+msgstr "يتغيرون"
 
 msgid "children of current device or group, you can access their properties e.g."
-msgstr ""
+msgstr "أطفال الجهاز أو المجموعة الحالية ، يمكنك الوصول إلى خصائصهم ، على سبيل المثال"
 
 msgid "codconnect"
-msgstr ""
+msgstr "كودكونيكت"
 
 msgid "codconnect (password protected)"
-msgstr ""
+msgstr "كودكونيكت (محمي بكلمة مرور)"
 
 msgid "coddisconnect"
-msgstr ""
+msgstr "قطع الاتصال"
 
 msgid "coddisconnect (password protected)"
-msgstr ""
+msgstr "(password protected) قطع الاتصال "
 
 msgid "comma - ,"
-msgstr ""
+msgstr ", - فاصلة"
 
 msgid "configuration"
-msgstr ""
+msgstr "ترتيب"
 
 msgid "create alarm"
-msgstr ""
+msgstr "إنشاء منبه"
 
 msgid "current device or group, you can access its properties e.g."
-msgstr ""
+msgstr "الجهاز أو المجموعة الحالية ، يمكنك الوصول إلى خصائصها ، على سبيل المثال"
 
 msgid "current payment method"
-msgstr ""
+msgstr "طريقة الدفع الحالية"
 
 msgid "days"
-msgstr ""
+msgstr "أيام"
 
 msgid "default 0 = unlimited validity"
-msgstr ""
+msgstr "افتراضي 0 = صلاحية غير محدودة"
 
 msgid "delegated by: \"{{delegate}}\""
-msgstr ""
+msgstr "\"{{delegate}}\" : مفوض من قبل"
 
 msgid "description=\"{{description | translate}}\""
-msgstr ""
+msgstr "\"{{description | translate}}\"=وصف"
 
 msgid "device name"
-msgstr ""
+msgstr "اسم الجهاز"
 
 msgid "device name=\"{{deviceName}}\""
-msgstr ""
+msgstr " \"{{deviceName}}\"=اسم الجهاز"
 
 msgid "device time"
-msgstr ""
+msgstr "وقت الجهاز"
 
 msgid "device type"
-msgstr ""
+msgstr "نوع الجهاز"
 
 msgid "e.g."
-msgstr ""
+msgstr "على سبيل المثال"
 
 msgid "e.g. \"Lato\", Arial, Verdana, sans-serif"
-msgstr ""
+msgstr "\"Lato\", Arial, Verdana, sans-serif  على سبيل المثال"
 
 msgid "e.g. * or 12345"
-msgstr ""
+msgstr "12345 *على سبيل المثال أو"
 
 msgid "e.g. * or specific fragment type"
-msgstr ""
+msgstr "أو نوع جزء محدد  * على سبيل المثال"
 
 msgid "e.g. +49 9 876 543 210`LOCALIZE`"
-msgstr ""
+msgstr "`LOCALIZE` على سبيل المثال + 49 9 876 543 210"
 
-msgid "e.g. +495434323210`LOCALIZE`"
-msgstr ""
+msgid "e.g. +495434323210"
+msgstr "`LOCALIZE` +495434323210 على سبيل المثال"
 
 msgid "e.g. 10"
-msgstr ""
+msgstr "10  على سبيل المثال"
 
 msgid "e.g. 10300, you can use an asterisk (*) as wildcard character"
-msgstr ""
+msgstr "10300 على سبيل المثال ، يمكنك استخدام العلامة النجمية (*) كحرف بدل"
 
 msgid "e.g. 46543432321, you can use an asterisk (*) as wildcard character"
-msgstr ""
+msgstr "46543432321  على سبيل المثال ، يمكنك استخدام العلامة النجمية (*) كحرف بدل"
 
 msgid "e.g. 4:Device/2:child"
-msgstr ""
+msgstr "  على سبيل المثال 4: الجهاز / 2: طفل"
 
 msgid "e.g. 54321-123, you can use an asterisk (*) as wildcard character"
-msgstr ""
+msgstr " 54321-123, على سبيل المثال يمكنك استخدام علامة النجمة (*) كحرف بدل"
 
 msgid "e.g. Application to manage devices"
-msgstr ""
+msgstr " تطبيق لإدارة الأجهزة  على سبيل المثال"
 
 msgid "e.g. Company A"
-msgstr ""
+msgstr "Company A  على سبيل المثال"
 
 msgid "e.g. Doe`LOCALIZE`"
-msgstr ""
+msgstr "Doe`LOCALIZE`  على سبيل المثال"
 
 msgid "e.g. Door opened"
-msgstr ""
+msgstr "  على سبيل المثال فتح الباب"
 
 msgid "e.g. Door sensor"
-msgstr ""
+msgstr "  على سبيل المثال مستشعر الباب"
 
 msgid "e.g. Door status changed"
-msgstr ""
+msgstr "  على سبيل المثال تغيرت حالة الباب"
 
 msgid "e.g. Elements"
-msgstr ""
+msgstr "  على سبيل المثال عناصر"
 
 msgid "e.g. Forwarding measurements"
-msgstr ""
+msgstr "  على سبيل المثال قياسات الشحن"
 
 msgid "e.g. Joe Doe&amp;Sons Company`LOCALIZE`"
-msgstr ""
+msgstr "Joe Doe&amp;Sons Company`LOCALIZE`  على سبيل المثال"
 
 msgid "e.g. Joe`LOCALIZE`"
-msgstr ""
+msgstr "Joe`LOCALIZE`  على سبيل المثال"
 
 msgid "e.g. Location update"
-msgstr ""
+msgstr "على سبيل المثال تحديث الموقع"
 
 msgid "e.g. Main element"
-msgstr ""
+msgstr "على سبيل المثال العنصر الرئيسي"
 
 msgid "e.g. ModelName, you can use an asterisk (*) as wildcard character"
-msgstr ""
+msgstr "على سبيل المثال يمكنك استخدام علامة النج ModelName مة (*) كحرف بدل "
 
 msgid "e.g. My Device, you can use an asterisk (*) as wildcard character"
-msgstr ""
+msgstr "على سبيل المثال جهازي ، يمكنك استخدام علامة النجمة (*) كحرف بدل"
 
 msgid "e.g. My Impact protocol"
-msgstr ""
+msgstr "My Impact على سبيل لمثال  بروتوكول  "
 
 msgid "e.g. My OPC UA protocol"
-msgstr ""
+msgstr "على سبيل المثال بروتوكول OPC UA الخاص بي"
 
 msgid "e.g. My SmartREST template"
-msgstr ""
+msgstr "على سبيل المثال نموذج SmartREST الخاص بي"
 
 msgid "e.g. My application"
-msgstr ""
+msgstr "على سبيل المثال طلبي"
 
 msgid "e.g. My command template"
-msgstr ""
+msgstr "على سبيل المثال قالب الأمر الخاص بي"
 
 msgid "e.g. My configuration"
-msgstr ""
+msgstr "على سبيل المثال التكوين الخاص بي"
 
 msgid "e.g. My configuration snapshot"
-msgstr ""
+msgstr "على سبيل المثال لقطة التكوين الخاصة بي"
 
 msgid "e.g. My connector"
-msgstr ""
+msgstr "على سبيل المثال الموصل الخاص بي"
 
 msgid "e.g. My dashboard"
-msgstr ""
+msgstr "على سبيل المثال لوحة التحكم الخاصة بي"
 
 msgid "e.g. My element"
-msgstr ""
+msgstr "على سبيل المثال عنصري"
 
 msgid "e.g. My export"
-msgstr ""
+msgstr "على سبيل المثال تصديري"
 
 msgid "e.g. My external application"
-msgstr ""
+msgstr "على سبيل المثال تطبيقي الخارجي"
 
 msgid "e.g. My firmware"
-msgstr ""
+msgstr "على سبيل المثال البرامج الثابتة الخاصة بي"
 
 msgid "e.g. My global role"
-msgstr ""
+msgstr "على سبيل المثال دوري العالمي"
 
 msgid "e.g. My group"
-msgstr ""
+msgstr "على سبيل المثال مجموعتي"
 
 msgid "e.g. My header"
-msgstr ""
+msgstr "على سبيل المثال رأسي"
 
 msgid "e.g. My icon map"
-msgstr ""
+msgstr "على سبيل المثال خريطة أيقونة بلدي"
 
 msgid "e.g. My inventory role"
-msgstr ""
+msgstr "على سبيل المثال دور المخزون الخاص بي"
 
 msgid "e.g. My message"
-msgstr ""
+msgstr "على سبيل المثال رسالتي"
 
 msgid "e.g. My property"
-msgstr ""
+msgstr "على سبيل المثال ملكيتي"
 
 msgid "e.g. My protocol"
-msgstr ""
+msgstr "على سبيل المثال بروتوكول بلدي"
 
 msgid "e.g. My remote access endpoint"
-msgstr ""
+msgstr "على سبيل المثال نقطة نهاية الوصول عن بُعد"
 
 msgid "e.g. My report"
-msgstr ""
+msgstr "على سبيل المثال تقريري"
 
 msgid "e.g. My request template"
-msgstr ""
+msgstr "على سبيل المثال نموذج طلبي"
 
 msgid "e.g. My resource"
-msgstr ""
+msgstr "على سبيل المثال موردي"
 
 msgid "e.g. My response template"
-msgstr ""
+msgstr "على سبيل المثال قالب ردي"
 
 msgid "e.g. My simulator"
-msgstr ""
+msgstr "على سبيل المثال جهاز محاكاة بلدي"
 
 msgid "e.g. My smart application"
-msgstr ""
+msgstr "على سبيل المثال تطبيقي الذكي"
 
 msgid "e.g. My software"
-msgstr ""
+msgstr "على سبيل المثال برنامجي"
 
 msgid "e.g. My subject"
-msgstr ""
+msgstr "على سبيل المثال موضوعي"
 
 msgid "e.g. My templates category"
-msgstr ""
+msgstr "على سبيل المثال فئة القوالب الخاصة بي"
 
 msgid "e.g. My tenant policy"
-msgstr ""
+msgstr "على سبيل المثال سياسة المستأجر"
 
 msgid "e.g. New York`LOCALIZE`"
-msgstr ""
+msgstr "New York`LOCALIZE`  على سبيل المثال"
 
 msgid "e.g. Off"
-msgstr ""
+msgstr "على سبيل المثال إيقاف"
 
 msgid "e.g. On"
-msgstr ""
+msgstr "على سبيل المثال شغله"
 
 msgid "e.g. Position"
-msgstr ""
+msgstr "على سبيل المثال موضع"
 
 msgid "e.g. SNMP device 1"
-msgstr ""
+msgstr "على سبيل المثال جهاز SNMP 1"
 
 msgid "e.g. Temperature"
-msgstr ""
+msgstr "على سبيل المثال درجة الحرارة"
 
 msgid "e.g. Temperature is high"
-msgstr ""
+msgstr "على سبيل المثال درجة الحرارة عالية"
 
 msgid "e.g. Text to display"
-msgstr ""
+msgstr "على سبيل المثال النص المراد عرضه"
 
 msgid "e.g. Wall Street`LOCALIZE`"
-msgstr ""
+msgstr "Wall Street`LOCALIZE`  على سبيل المثال"
 
 msgid "e.g. c8y.onmicrosoft.de"
-msgstr ""
+msgstr "c8y.onmicrosoft.de على سبيل المثال"
 
 msgid "e.g. c8y_FragmentToCopy"
-msgstr ""
+msgstr "c8y_FragmentToCopy  على سبيل المثال"
 
 msgid "e.g. c8y_FragmentToFilter"
-msgstr ""
+msgstr "c8y_FragmentToFilter  على سبيل المثال"
 
 msgid "e.g. c8y_Linux"
-msgstr ""
+msgstr "c8y_Linux  على سبيل المثال"
 
 msgid "e.g. childDevice2"
-msgstr ""
+msgstr "childDevice2  على سبيل المثال"
 
 msgid "e.g. device_user"
-msgstr ""
+msgstr "device_user على سبيل المثال"
 
 msgid "e.g. https://example.com/mypolicy"
-msgstr ""
+msgstr "https://example.com/mypolicy  على سبيل المثال"
 
 msgid "e.g. https://login.microsoftonline.de"
-msgstr ""
+msgstr "https://login.microsoftonline.de  على سبيل المثال"
 
 msgid "e.g. https://my_tenant.cumulocity.com/apps/cockpit"
-msgstr ""
+msgstr "https://my_tenant.cumulocity.com/apps/cockpit  على سبيل المثال"
 
 msgid "e.g. https://target-tenant.com"
-msgstr ""
+msgstr "https://target-tenant.com  على سبيل المثال"
 
 msgid "e.g. joe.doe@example.com`LOCALIZE`"
-msgstr ""
+msgstr "joe.doe@example.com`LOCALIZE` على سبيل المثال"
 
 msgid "e.g. joe.doe`LOCALIZE`"
-msgstr ""
+msgstr "joe.doe`LOCALIZE`  على سبيل المثال"
 
 msgid "e.g. joe`LOCALIZE`"
-msgstr ""
+msgstr "joe`LOCALIZE`  على سبيل المثال"
 
 msgid "e.g. ls"
-msgstr ""
+msgstr "ls  على سبيل المثال"
 
 msgid "e.g. my notes"
-msgstr ""
+msgstr "my notes على سبيل المثال"
 
 msgid "e.g. my-application"
-msgstr ""
+msgstr "my-application  على سبيل المثال"
 
 msgid "e.g. my-application-key"
-msgstr ""
+msgstr "my-application-key  على سبيل المثال"
 
 msgid "e.g. my-external-application-key"
-msgstr ""
+msgstr "my-external-application-key  على سبيل المثال"
 
 msgid "e.g. my-service"
-msgstr ""
+msgstr "my-service  على سبيل المثال"
 
 msgid "e.g. myCustomOperation"
-msgstr ""
+msgstr "myCustomOperation  على سبيل المثال"
 
 msgid "e.g. myModule01"
-msgstr ""
+msgstr "myModule01  على سبيل المثال"
 
 msgid "e.g. myProperty"
-msgstr ""
+msgstr "mySmartRESTTemplateUniqueId  على سبيل المثال"
 
 msgid "e.g. mySmartRESTTemplateUniqueId"
-msgstr ""
+msgstr "mySmartRESTTemplateUniqueId  على سبيل المثال"
 
 msgid "e.g. my_current_password"
-msgstr ""
+msgstr "my_current_password  على سبيل المثال"
 
 msgid "e.g. my_new_password"
-msgstr ""
+msgstr "my_new_password  على سبيل المثال"
 
 msgid "e.g. my_password"
-msgstr ""
+msgstr "my_password  على سبيل المثال"
 
 msgid "e.g. my_tenant"
-msgstr ""
+msgstr "my_tenant  على سبيل المثال"
 
 msgid "e.g. my_tenant.example.com"
-msgstr ""
+msgstr "my_tenant.example.com على سبيل المثال"
 
 msgid "e.g. my_username"
-msgstr ""
+msgstr "my_username على سبيل المثال اسمي"
 
 msgid "e.g. smart-application"
-msgstr ""
+msgstr "على سبيل المثال تطبيق ذكي"
 
 msgid "e.g. text to find"
-msgstr ""
+msgstr "على سبيل المثال نص للعثور عليه"
 
 msgid "e.g. update"
-msgstr ""
+msgstr "على سبيل المثال تحديث"
 
 msgid "e.g. value, you can use an asterisk (*) as wildcard character"
-msgstr ""
+msgstr "على سبيل المثال قيمة ، يمكنك استخدام علامة النجمة (*) كحرف بدل"
 
 msgid "e.g.:"
-msgstr ""
+msgstr ": على سبيل المثال"
 
 msgid "e.g.: #27b3ce"
-msgstr ""
+msgstr "#27b3ce : على سبيل المثال"
 
 msgid "e.g.: 10"
-msgstr ""
+msgstr "10 : على سبيل المثال"
 
 msgid "e.g.: 25"
-msgstr ""
+msgstr "على سبيل المثال: 25"
 
 msgid "e.g.: 4:Boilers/4:Boiler #1"
-msgstr ""
+msgstr "على سبيل المثال: 4: غلايات / 4: غلاية # 1"
 
 msgid "e.g.: Verification code: {token}"
-msgstr ""
+msgstr "{token} : على سبيل المثال: رمز التحقق"
 
 msgid "e.g.: administration,devicemanagement,cockpit"
-msgstr ""
+msgstr "على سبيل المثال: الإدارة ، الإدارة ، قمرة القيادة"
 
 msgid "e.g.: localhost"
-msgstr ""
+msgstr "localhost : على سبيل المثال"
 
 msgid "e.g.: {{expireDate}}"
-msgstr ""
+msgstr "{{expireDate}} :على سبيل المثال"
 
 msgid "edit"
-msgstr ""
+msgstr "تعديل"
 
 msgid "email"
-msgstr ""
+msgstr "البريد الإلكتروني"
 
 msgid "energy consumption"
-msgstr ""
+msgstr "استهلاك الطاقة"
 
 msgid "escalate it"
-msgstr ""
+msgstr "تصعيده"
 
-msgid "exampleUser"
-msgstr ""
+msgid "example User"
+msgstr "مثال المستخدم"
 
 msgid "execute operation"
-msgstr ""
+msgstr "تنفيذ العملية"
 
 msgid "failure reason=\"{{failureReason | translate}}\""
-msgstr ""
+msgstr "\"{{failureReason | translate}}\"=سبب الفشل"
 
 msgid "failureReason"
-msgstr ""
+msgstr "سبب الفشل"
 
 msgid "fragment"
-msgstr ""
+msgstr "شظية"
 
 msgid "global roles [{{globalRolesList}}] added"
-msgstr ""
+msgstr "[{{globalRolesList}}] تمت إضافة الأدوار العالمية"
 
 msgid "global roles [{{globalRolesList}}] removed"
-msgstr ""
+msgstr "[{{globalRolesList}}] تمت إزالة الأدوار العالمية"
 
 msgid "green"
-msgstr ""
+msgstr "أخضر"
 
 msgid "hours"
-msgstr ""
+msgstr "ساعات"
 
 msgid "https://support.ram.m2m.telekom.com/apps/HelpAndService/index.html"
 msgstr ""
 
 msgid "in`value-range`"
-msgstr ""
+msgstr "في نطاق القيمة"
 
 msgid "inactive`subscription`"
-msgstr ""
+msgstr "اشتراك غير نشط"
 
 msgid "increase severity"
-msgstr ""
+msgstr "زيادة الشدة"
 
 msgid "inventory assignment [{{inventoryAssignment}}] added"
-msgstr ""
+msgstr "[{{inventoryAssignment}}] تمت إضافة مهمة الجرد"
 
 msgid "inventory assignment [{{inventoryAssignment}}] removed"
-msgstr ""
+msgstr "[{{inventoryAssignment}}]  تمت إزالة مهمة الجرد"
 
 msgid "km"
-msgstr ""
+msgstr "km"
 
 msgid "latitude"
-msgstr ""
+msgstr "خط العرض"
 
 msgid "leaving"
-msgstr ""
+msgstr "مغادرة"
 
 msgid "longitude"
-msgstr ""
+msgstr "خط الطول"
 
 msgid "m"
-msgstr ""
+msgstr "m"
 
 msgid "max"
-msgstr ""
+msgstr "ماكس"
 
 msgid "medium"
-msgstr ""
+msgstr "متوسط"
 
 msgid "min"
-msgstr ""
+msgstr "دقيقة"
 
 msgid "minute"
 msgid_plural "minutes"
@@ -13766,94 +13766,94 @@ msgstr[0] ""
 msgstr[1] ""
 
 msgid "minutes"
-msgstr ""
+msgstr "الدقائق"
 
 msgid "model"
-msgstr ""
+msgstr "نموذج"
 
 msgid "msec"
-msgstr ""
+msgstr "مللي ثانية"
 
 msgid "name"
-msgstr ""
+msgstr "اسم"
 
 msgid "newmodule`KEEP_ORIGINAL`"
-msgstr ""
+msgstr "`KEEP_ORIGINAL` وحدة جديدة"
 
 msgid "no command text or description available"
-msgstr ""
+msgstr "لا يوجد نص أمر أو وصف متاح"
 
 msgid "no description"
-msgstr ""
+msgstr "بدون وصف"
 
 msgid "no description available"
-msgstr ""
+msgstr "لا يوجد وصف متاح"
 
 msgid "no value"
-msgstr ""
+msgstr "ليس موعد"
 
 msgid "not a date"
 msgstr ""
 
 msgid "number of devices"
-msgstr ""
+msgstr "عدد الأجهزة"
 
 msgid "number of devices with critical alarm status"
-msgstr ""
+msgstr "عدد الأجهزة ذات حالة الإنذار الحرجة"
 
 msgid "number of groups"
-msgstr ""
+msgstr "عدد المجموعات"
 
 msgid "number of online devices"
-msgstr ""
+msgstr "عدد الأجهزة عبر الإنترنت"
 
 msgid "number of users"
-msgstr ""
+msgstr "عدد المستخدمين"
 
 msgid "oAuth"
-msgstr ""
+msgstr "oAuth"
 
 msgid "operation details"
-msgstr ""
+msgstr "تفاصيل العملية"
 
 msgid "or"
-msgstr ""
+msgstr "أو"
 
 msgid "or by email"
-msgstr ""
+msgstr "أو عن طريق البريد الإلكتروني"
 
 msgid "or click to browse your computer."
-msgstr ""
+msgstr ".أو انقر لتصفح جهاز الكمبيوتر الخاص بك"
 
 msgid "owner: \"{{owner}}\""
-msgstr ""
+msgstr "\"{{owner}}\" :صاحب"
 
 msgid "parameters"
-msgstr ""
+msgstr "المعلمات"
 
 msgid "password strength"
-msgstr ""
+msgstr "قوة كلمة المرور"
 
 msgid "pdpcycle"
-msgstr ""
+msgstr "pdpcycle"
 
 msgid "pdpcycle (password protected)"
-msgstr ""
+msgstr "pdpcycle (محمي بكلمة مرور)"
 
 msgid "pdpdown"
-msgstr ""
+msgstr "pdpdown"
 
 msgid "pdpdown (password protected)"
-msgstr ""
+msgstr "pdpdown (محمي بكلمة مرور)"
 
 msgid "pdpup"
-msgstr ""
+msgstr "pdpup"
 
 msgid "pdpup (password protected)"
-msgstr ""
+msgstr "pdpup (محمي بكلمة مرور)"
 
 msgid "pending`connector`"
-msgstr ""
+msgstr "'موصل'معلق"
 
 msgid "permission"
 msgid_plural "permissions"
@@ -13861,172 +13861,171 @@ msgstr[0] ""
 msgstr[1] ""
 
 msgid "point - ."
-msgstr ""
+msgstr ". - نقطة"
 
 msgid "powered by Cumulocity"
-msgstr ""
+msgstr "Cumulocity مدعوم من"
 
 msgid "quotation mark - \""
-msgstr ""
+msgstr "\"- علامة اقتباس"
 
 msgid "red"
-msgstr ""
+msgstr "أحمر"
 
 msgid "refresh"
-msgstr ""
+msgstr "تحديث"
 
 msgid "required"
-msgstr ""
+msgstr "مطلوب"
 
 msgid "required interval"
-msgstr ""
+msgstr "الفاصل الزمني المطلوب"
 
 msgid "revision"
-msgstr ""
+msgstr "مراجعة"
 
 msgid "roles {{list}} added"
-msgstr ""
+msgstr "{{list}} تمت إضافة الأدوار"
 
 msgid "roles {{list}} removed"
-msgstr ""
+msgstr " {{list}} تمت إزالة الأدوار"
 
 msgid "searching \"{{expression}}\""
-msgstr ""
+msgstr "\"{{expression}}\" يبحث"
 
 msgid "seconds"
-msgstr ""
+msgstr "ثواني"
 
 msgid "semi-colon - ;"
-msgstr ""
+msgstr ";-فاصلة منقوطة"
 
 msgid "send SMS"
-msgstr ""
+msgstr "أرسل رسالة نصية قصيرة"
 
 msgid "send dashboard via email"
-msgstr ""
+msgstr "إرسال لوحة القيادة عبر البريد الإلكتروني"
 
 msgid "send email"
-msgstr ""
+msgstr "ارسل بريد الكتروني"
 
 msgid "send export via email"
-msgstr ""
+msgstr "إرسال التصدير عبر البريد الإلكتروني"
 
 msgid "serialNumber"
-msgstr ""
+msgstr "رقم سري"
 
 msgid "series"
-msgstr ""
+msgstr "سلسلة"
 
 msgid "severity"
-msgstr ""
+msgstr "خطورة"
 
 msgid "simulated device"
-msgstr ""
+msgstr "جهاز محاكاة"
 
 msgid "status=\"{{status | translate}}\""
-msgstr ""
+msgstr "\"{{status | translate}}\"=الوضع "
 
 msgid "strong"
-msgstr ""
+msgstr "قوي"
 
 msgid "subscribe"
-msgstr ""
+msgstr "الإشتراك"
 
 msgid "suspended`connector`"
-msgstr ""
+msgstr "'موصل' معلق"
 
 msgid "tab - \\t"
-msgstr ""
+msgstr "علامة التبويب - \\ t"
 
 msgid "takes alarms status object and returns a CSS class that can be used for styling: none, warning, minor, major, critical, e.g."
-msgstr ""
+msgstr "يأخذ كائن حالة الإنذارات ويعيد فئة CSS التي يمكن استخدامها للتصميم: لا شيء ، تحذير ، ثانوي ، رئيسي ، مهم ، على سبيل المثال"
 
 msgid "takes device's id and redirects user to device details view, e.g."
-msgstr ""
+msgstr "يأخذ معرف الجهاز ويعيد توجيه المستخدم إلى عرض تفاصيل الجهاز ، على سبيل المثال"
 
 msgid "takes group's id and redirects user to group details view, e.g."
-msgstr ""
+msgstr "يأخذ معرف المجموعة ويعيد توجيه المستخدم إلى عرض تفاصيل المجموعة ، على سبيل المثال"
 
 msgid "temperature value"
-msgstr ""
+msgstr "قيمة درجة الحرارة"
 
 msgid "text"
-msgstr ""
+msgstr "نص"
 
 msgid "the certificate is currently valid (validFrom in the past and validTo in the future)"
-msgstr ""
+msgstr "الشهادة صالحة حاليًا (صالحة من الماضي وصالحة إلى المستقبل)"
 
 msgid "the certificate is in a valid PKCS#12 format"
-msgstr ""
+msgstr "الشهادة بتنسيق PKCS # 12 صالح"
 
 msgid "the certificate is not password protected"
-msgstr ""
+msgstr "الشهادة ليست محمية بكلمة مرور"
 
 msgid "the common name (domain name) is not used by any other tenant"
-msgstr ""
+msgstr "لا يستخدم أي مستأجر آخر الاسم الشائع (اسم المجال)"
 
 msgid "time"
-msgstr ""
+msgstr "زمن"
 
 msgid "type"
-msgstr ""
+msgstr "نوع"
 
 msgid "unique child ID"
-msgstr ""
+msgstr "هوية الطفل الفريدة"
 
 msgid "unit"
-msgstr ""
+msgstr "وحدة"
 
 msgid "unsubscribe"
-msgstr ""
+msgstr "إلغاء الاشتراك"
 
 msgid "value"
-msgstr ""
+msgstr "القيمة"
 
 msgid "version"
-msgstr ""
+msgstr "الإصدار"
 
 msgid "waiting`connector`"
-msgstr ""
+msgstr "'انتظار' الموصل"
 
 msgid "weak"
-msgstr ""
+msgstr "ضعيف"
 
 msgid "with"
-msgstr ""
+msgstr "مع"
 
 msgid "yellow"
-msgstr ""
+msgstr "الأصفر"
 
 msgid "you added a CNAME entry to your DNS server. Make sure to remove all A entries for the wildcard domain. If your DNS service does not provide CNAME entries for wildcard certificates, please contact our support"
-msgstr ""
+msgstr "قمت بإضافة إدخال CNAME إلى خادم DNS الخاص بك. تأكد من إزالة جميع إدخالات A لمجال حرف البدل. إذا كانت خدمة DNS الخاصة بك لا توفر إدخالات CNAME لشهادات أحرف البدل ، فيرجى الاتصال بدعمنا"
 
 msgid "you are using a wildcard certificate to enable creation of subtenants"
-msgstr ""
+msgstr "إنك تستخدم شهادة حرف بدل لتمكين إنشاء الباطن"
 
 msgid "you uploaded a valid SSL certificate for your custom domain"
-msgstr ""
+msgstr "لقد قمت بتحميل شهادة SSL صالحة لنطاقك المخصص"
 
 msgid "{{ appName | translate }} (public)"
-msgstr ""
+msgstr "{{ appName | translate }} (عامة)"
 
 msgid "{{description | translate}} failed."
-msgstr ""
+msgstr "{{description | translate}} فشل"
 
 msgid "{{firstItem}} to {{lastItem}}"
-msgstr ""
+msgstr "{{lastItem}} من {{firstItem}}"
 
 msgid "{{instruction.seconds}} seconds"
-msgstr ""
+msgstr "{{instruction.seconds}} ثواني"
 
-msgid ""
-"{{protocolName | translate}} devices can send messages of different types with different encodings per type.\n"
-"        Depending on the device, the type can be determined by looking either\n"
-"        at the FPort parameter of a message (<b>Source</b>: <i>FPort</i>)\n"
-"        or at the subset of the message payload itself (<b>Source</b>: <i>Payload</i>).\n"
-"        Indicate where the type information starts in the payload (<b>Start bit</b>)\n"
-"        and how long this information is (<b>Number of bits</b>)."
 msgstr ""
+"{{protocolName | translate}} devices can send messages of different types with different encodings per type.\n"
+"        اعتمادًا على الجهاز ، يمكن تحديد النوع من خلال النظر أيضًا\n"
+"        في معلمة FPort للرسالة (<b> مصدر </ b>: <i> FPort </i>)\n"
+"        (<i>حمولة</i> :<b>مصدر</b>).أو في مجموعة فرعية من حمولة الرسالة نفسها\n"
+"        (<b>بت البداية</b>) وضح من أين تبدأ معلومات النوع في الحمولة\n"
+"        (<b>Number of bits</b>). وكم هذه المعلومات"
 
 msgid ""
 "{{protocolName | translate}} devices can send messages of different types with different encodings per type.\n"
@@ -14041,28 +14040,28 @@ msgid ""
 msgstr ""
 
 msgid "{{qty}} loaded"
-msgstr ""
+msgstr "{{qty}} محمل"
 
 msgid "{{qty}} markers"
-msgstr ""
+msgstr "{{qty}} علامات"
 
 msgid "{{qty}} new devices"
-msgstr ""
+msgstr "{{qty}} أجهزة جديدة"
 
 msgid "{{qty}} users"
-msgstr ""
+msgstr "{{qty}} المستخدمين"
 
 msgid "{{status | translate}} using code {{code}}"
-msgstr ""
+msgstr "{{status | translate}} باستخدام الكود {{code}}"
 
 msgid "{{storageLimit}} storage quota"
-msgstr ""
+msgstr "{{storageLimit}} حصة التخزين"
 
 msgid "{{storageSize}} storage"
-msgstr ""
+msgstr "{{storageSize}} تخزين"
 
 msgid "{{vm.getFeatures().label}} device type"
-msgstr ""
+msgstr "{{vm.getFeatures().label}} نوع الجهاز"
 
 msgid "{{vm.notes.lastUpdated | absoluteDate}} by {{vm.notes.user}}"
-msgstr ""
+msgstr "{{vm.notes.lastUpdated | absoluteDate}} بواسطة {{vm.notes.user}}"
