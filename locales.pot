@@ -741,348 +741,350 @@ msgid "Add or remove <a href=\"#/users\">users</a> and <a href=\"#/roles\">roles
 msgstr "أضف أو أزل <a href=\"#/users\">المستخدمين</a> و <a href=\"#/roles\">الأدوار</a> وتكوين أذوناتهم."
 
 msgid "Add or remove <a href=\"#/users\">users</a> and configure their permissions."
-msgstr ""
+msgstr "أضف أو أزل <a href=\"#/users\">المستخدمين</a> و وتكوين أذوناتهم."
 
 msgid "Add pattern"
-msgstr ""
+msgstr "أضف نمطًا"
 
 msgid "Add permission"
-msgstr ""
+msgstr "أضف الإذن"
 
 msgid "Add predefined"
-msgstr ""
+msgstr "أضف مسبقا"
 
 msgid "Add property"
-msgstr ""
+msgstr "أضف عقار"
 
 msgid "Add register"
-msgstr ""
+msgstr "إضافة سجل"
 
 msgid "Add report"
-msgstr ""
+msgstr "أضف تقرير"
 
 msgid "Add request parameter"
-msgstr ""
+msgstr "أضف معلمة الطلب"
 
 msgid "Add resource"
-msgstr ""
+msgstr "أضف موردًا"
 
 msgid "Add response"
-msgstr ""
+msgstr "أضف استجابة"
 
 msgid "Add retention rule"
-msgstr ""
+msgstr "أضف قاعدة الاحتفاظ"
 
 msgid "Add role"
-msgstr ""
+msgstr "أضف دورًا"
 
 msgid "Add rule"
-msgstr ""
+msgstr "أضف قاعدة"
 
 msgid "Add schedule"
-msgstr ""
+msgstr "إضافة جدول"
 
 msgid "Add server"
-msgstr ""
+msgstr "إضافة خادم"
 
 msgid "Add simulator"
-msgstr ""
+msgstr "إضافة محاكي"
 
 msgid "Add sleep"
-msgstr ""
+msgstr "أضف نومًا"
 
 msgid "Add smartphone"
-msgstr ""
+msgstr "أضف هاتف ذكي"
 
 msgid "Add software"
-msgstr ""
+msgstr "إضافة برنامج"
 
 msgid "Add software using the button on the toolbar."
-msgstr ""
+msgstr "أضف برنامجًا باستخدام الزر الموجود على شريط الأدوات."
 
 msgid "Add step"
-msgstr ""
+msgstr "أضف خطوة"
 
 msgid "Add template"
-msgstr ""
+msgstr "إضافة قالب"
 
 msgid "Add tenant license"
-msgstr ""
+msgstr "إضافة ترخيص المستأجر"
 
 msgid "Add tenant option definition"
-msgstr ""
+msgstr "إضافة تعريف خيار المستأجر"
 
 msgid "Add tenant policy"
-msgstr ""
+msgstr "أضف سياسة المستأجر"
 
 msgid "Add to group"
-msgstr ""
+msgstr "إضافة إلى المجموعة"
 
 msgid "Add to tenant"
-msgstr ""
+msgstr "أضف إلى المستأجر"
 
 msgid "Add user"
-msgstr ""
+msgstr "أضف مستخدم"
 
 msgid "Add validation rule"
-msgstr ""
+msgstr "أضف قاعدة التحقق"
 
 msgid "Add value"
-msgstr ""
+msgstr "إضافة قيمة"
 
 msgid "Add variable"
-msgstr ""
+msgstr "أضف متغير"
 
 msgid "Add widget"
-msgstr ""
+msgstr "إضافة القطعة"
 
 msgid "Add widget to dashboard"
-msgstr ""
+msgstr "إضافة القطعة إلى لوحة القيادة"
 
 msgid "Add your first alarm mapping using the button on the toolbar."
-msgstr ""
+msgstr "أضف خريطة التنبيه الأولى باستخدام الزر الموجود على شريط الأدوات."
 
 msgid "Add your first configuration snapshot using the button on the toolbar."
-msgstr ""
+msgstr "أضف لقطة التكوين الأولى باستخدام الزر الموجود على شريط الأدوات."
 
 msgid "Add your first data connector by clicking below."
-msgstr ""
+msgstr "أضف موصل البيانات الأول من خلال النقر أدناه."
 
 msgid "Add your first export using the button below."
-msgstr ""
+msgstr "أضف تصديرك الأول باستخدام الزر أدناه."
 
 msgid "Add your first group or assign devices using the buttons on the toolbar."
-msgstr ""
+msgstr "أضف مجموعتك الأولى أو قم بتعيين الأجهزة باستخدام الأزرار الموجودة على شريط الأدوات."
 
 msgid "Add your first module by clicking below."
-msgstr ""
+msgstr "أضف وحدتك الأولى بالضغط أدناه."
 
 msgid "Add your first retention rule by clicking below."
-msgstr ""
+msgstr "أضف أول قاعدة احتفاظ لديك بالضغط أدناه."
 
 msgid "Add {{vm.mode}} device"
-msgstr ""
+msgstr "أضف{{vm.mode}} جهاز "
 
 msgid "Added child device \"{{name}}\" (ID: {{id}})."
-msgstr ""
+msgstr "تمت إضافة جهاز طفل \"{{name}}\" (ID: {{id}})."
 
 msgid "Added new child device to \"{{parentDeviceName}}\" (ID: {{parentDeviceId}})."
-msgstr ""
+msgstr "تمت إضافة جهاز طفل جديد إلى \"{{parentDeviceName}}\" (ID: {{parentDeviceId}})."
 
 msgid "Adding"
-msgstr ""
+msgstr "مضيفا"
 
 msgid "Address"
-msgstr ""
+msgstr "العنوان"
 
 msgid "Address could not be found."
-msgstr ""
+msgstr "لا يمكن العثور على العنوان."
 
 msgid "Address range"
-msgstr ""
+msgstr "نطاق العنوان"
 
 msgid "Address space"
-msgstr ""
+msgstr "مساحة العنوان"
 
 msgid "Addresses from 248 up to 254 are not allowed."
-msgstr ""
+msgstr "عناوين من 248 حتى 254 غير مسموح بها."
 
 msgid "Admin"
-msgstr ""
+msgstr "مشرف"
 
 msgid "Administration"
-msgstr ""
+msgstr "إدارة"
 
 msgid "Administrator's email"
-msgstr ""
+msgstr "البريد الإلكتروني للإداري"
 
 msgid "Administrator's password"
-msgstr ""
+msgstr "كلمة مرور للإداري"
 
 msgid "Administrator's username"
-msgstr ""
+msgstr "اسم مستخدم للإداري"
 
 msgid "After adding your first message, the CSV preview will be shown here."
-msgstr ""
+msgstr "بعد إضافة رسالتك الأولى ، سيتم عرض معاينة CSV هنا."
 
 msgid "After adding your first response, the CSV preview will be shown here."
-msgstr ""
+msgstr "بعد إضافة ردك الأول ، سيتم عرض معاينة CSV هنا."
 
 msgid "After completing the process you will no longer be able to access your tenant with <b>{{vm.domainName}}</b>, instead use your new domain name. If you encounter any problems accessing your tenant, please contact support."
-msgstr ""
+msgstr "بعد الانتهاء من العملية لن تتمكن من الوصول إلى المستأجر الخاص بك مع <b>{{vm.domainName}}</b>, بدلاً من ذلك ، استخدم اسم المجال الجديد الخاص بك. إذا واجهت أي مشاكل في الوصول إلى المستأجر الخاص بك ، يرجى الاتصال بالدعم."
 
 msgid "After completing the process you will no longer be able to access your tenant with your custom domain name, instead use your old domain name. If you encounter any problems accessing your tenant, please contact support."
-msgstr ""
+msgstr "بعد الانتهاء من العملية ، لن تتمكن من الوصول إلى المستأجر الخاص بك باستخدام اسم المجال المخصص ، بدلاً من ذلك استخدم اسم المجال القديم. إذا واجهت أي مشاكل في الوصول إلى المستأجر الخاص بك ، يرجى الاتصال بالدعم."
 
 msgid "After the activation is completed you will no longer be able to access your tenant with {{vm.domainName}}, instead use your new custom domain name {{vm.newDomainName}}."
-msgstr ""
+msgstr "بعد اكتمال التنشيط ، لن تتمكن من الوصول إلى المستأجر الخاص بك مع {{vm.domainName}}, بدلاً من ذلك ، استخدم اسم المجال المخصص الجديد {{vm.newDomainName}}."
 
 msgid "Agent config"
-msgstr ""
+msgstr "تكوين الوكيل"
 
 msgid "Aggregation"
-msgstr ""
+msgstr "تجميع"
 
 msgid "Aggregation type"
-msgstr ""
+msgstr "نوع التجميع"
 
 msgid "Agree and proceed"
-msgstr ""
+msgstr "الموافقة والمضي قدما"
 
 msgid "Airplane mode Gateway"
-msgstr ""
+msgstr "بوابة وضع الطائرة"
 
 msgid "Airplane mode on. Please place your device on the charger to connect it."
-msgstr ""
+msgstr "وضع الطائرة قيد التشغيل. يرجى وضع جهازك على الشاحن لتوصيله."
 
 msgid "Alarm"
-msgstr ""
+msgstr "إنذار"
 
 msgid "Alarm / event type"
-msgstr ""
+msgstr "نوع التنبيه / الحدث"
 
 msgid "Alarm count 3 months"
-msgstr ""
+msgstr "عدد الإنذار 3 شهور"
 
 msgid "Alarm count today"
-msgstr ""
+msgstr "عدد الانذارات اليوم"
 
 msgid "Alarm created"
-msgstr ""
+msgstr "تم إنشاء المنبه"
 
 msgid "Alarm duration"
-msgstr ""
+msgstr "مدة الانذار"
 
 msgid "Alarm list"
-msgstr ""
+msgstr "قائمة الإنذارات"
 
 msgid "Alarm mapping"
-msgstr ""
+msgstr "خرائط التنبيه"
 
 msgid "Alarm mappings automatically transform the description and severity based on alarm type matching. Alarm types are a defined property of each alarm created on the platform."
-msgstr ""
+msgstr "تعمل خرائط التنبيه تلقائيًا على تحويل الوصف والخطورة بناءً على مطابقة نوع التنبيه. أنواع الإنذارات هي خاصية محددة لكل إنذار يتم إنشاؤه على النظام الأساسي."
 
 msgid "Alarm mask"
-msgstr ""
+msgstr "قناع التنبيه"
 
 msgid "Alarm occurred"
-msgstr ""
+msgstr "حدث إنذار"
 
 msgid "Alarm severity"
-msgstr ""
+msgstr "شدة الإنذار"
 
 msgid "Alarm status"
-msgstr ""
+msgstr "حالة الإنذار"
 
 msgid "Alarm status changed to \"{{status | translate}}\"."
-msgstr ""
+msgstr "تم تغيير حالة التنبيه إلى \"{{status | translate}}\"."
 
 msgid "Alarm text"
-msgstr ""
+msgstr "نص التنبيه"
 
 msgid "Alarm type"
-msgstr ""
+msgstr "نوع التنبيه"
 
 msgid "Alarm type to match"
-msgstr ""
+msgstr "نوع التنبيه للمطابقة"
 
 msgid "Alarm updated"
-msgstr ""
+msgstr "تم تحديث التنبيه"
 
 msgid "Alarms"
-msgstr ""
+msgstr "إنذارات"
 
 msgid "Alarms (3 mo.)"
-msgstr ""
+msgstr "الإنذارات (3 أشهر)"
 
 msgid "Alarms (today)"
-msgstr ""
+msgstr "المنبهات (اليوم)"
 
 msgid "Alarms / Events"
-msgstr ""
+msgstr "الإنذارات / الأحداث"
 
 msgid "Alarms are being cleared in background."
-msgstr ""
+msgstr "يتم مسح التنبيهات في الخلفية."
 
 msgid "Alarms cleared."
-msgstr ""
+msgstr "تم محو الإنذارات."
 
 msgid "Alarms created"
-msgstr ""
+msgstr "إنشاء منبهات"
 
 msgid "Alarms updated"
-msgstr ""
+msgstr "تم تحديث التنبيهات"
 
 msgid "All"
-msgstr ""
+msgstr "الكل"
 
 msgid "All critical alarms"
-msgstr ""
+msgstr "جميع الإنذارات الحرجة"
 
 msgid "All devices"
-msgstr ""
+msgstr "جميع الاجهزة"
 
 msgid "All devices processed successfully."
-msgstr ""
+msgstr "تمت معالجة جميع الأجهزة بنجاح."
 
 msgid "All objects"
-msgstr ""
+msgstr "جميع الأشياء"
 
 msgid "All selected"
-msgstr ""
+msgstr "كل ما تم تحديده"
 
 msgid "All types"
-msgstr ""
+msgstr "كل الانواع"
 
 msgid "Allow creation of subtenants"
-msgstr ""
+msgstr "السماح بإنشاء الباطن"
 
 msgid "Allow insecure use of elements and attributes"
-msgstr ""
+msgstr "السماح بالاستخدام غير الآمن للعناصر والسمات"
 
 msgid "Allow subtenants to edit this retention rule"
-msgstr ""
+msgstr "السماح للمبتدئين بتحرير قاعدة الاحتفاظ هذه"
 
 msgid "Allow subtenants to edit this system option"
-msgstr ""
+msgstr "السماح للمبتدئين بتحرير خيار النظام هذا"
 
 msgid "Allow subtenants to edit this tenant option"
-msgstr ""
+msgstr "السماح للمستأجرين من الباطن بتحرير خيار المستأجر هذا"
 
 msgid "Allow two-factor authentication"
-msgstr ""
+msgstr "السماح بالمصادقة ذات مرحلتين"
 
 msgid "Allowed domain"
-msgstr ""
+msgstr "المجال المسموح به"
 
 msgid "Allows for CREATE, UPDATE and DELETE actions"
-msgstr ""
+msgstr "يسمح بإجراءات خلق و تحديث و حذف"
 
 msgid "Allows for seeing status and operating Modbus device"
-msgstr ""
+msgstr "يسمح برؤية الحالة وتشغيل جهاز Modbus"
 
 msgid ""
 "Allows user to setup groups hierarchy, simulators, dashboards and smart rules\n"
 "          in a tenant and simulate both normal and error conditions."
 msgstr ""
+"يسمح للمستخدم بإعداد التسلسل الهرمي للمجموعات والمحاكاة ولوحات المعلومات والقواعد الذكية \ n"
+"في المستأجر ومحاكاة الظروف العادية وظروف الخطأ."
 
 msgid "Also delete all devices inside this group and its sub-groups."
-msgstr ""
+msgstr "أيضًا حذف جميع الأجهزة الموجودة داخل هذه المجموعة ومجموعاتها الفرعية."
 
 msgid "Also delete associated device owner \"{{owner}}\"."
-msgstr ""
+msgstr "حذف صاحب الجهاز المرتبط أيضًا \"{{owner}}\"."
 
 msgid "Also delete child devices of this device."
-msgstr ""
+msgstr "أيضًا حذف الأجهزة التابعة لهذا الجهاز."
 
 msgid "Altitude"
-msgstr ""
+msgstr "ارتفاع"
 
 msgid "Always"
-msgstr ""
+msgstr "دائما"
 
 msgid "Amount of data in use on {{end}}."
-msgstr ""
+msgstr "كمية البيانات المستخدمة في {{end}}."
 
 msgid ""
 "An <strong>inventory role</strong> contains permissions that can be attached to devices and\n"
@@ -1094,1894 +1096,1909 @@ msgid ""
 "          Click <i c8y-icon=\"plus-circle\" class=\"text-primary\"></i> to add a new permission.\n"
 "          In the permission drop-down, you can further restrict the access to objects containing the defined type."
 msgstr ""
+"<strong>دور المخزون</strong> يحتوي على أذونات يمكن إرفاقها بمجموعات من الأجهزة.<br>\n"
+"          انقر <i c8y-icon=\"plus-circle\" class=\"text-primary\"></i> لإضافة إذن جديد.\n"
+"        في قائمة الإذن المنسدلة ، يمكنك تقييد الوصول إلى الكائنات التي تحتوي على النوع المحدد."
 
 msgid "An error has occurred."
-msgstr ""
+msgstr "حدث خطأ."
 
 msgid "An error occurred during the upgrade process"
-msgstr ""
+msgstr "حدث خطأ أثناء عملية الترقية"
 
 msgid "An error occurred, please contact support."
-msgstr ""
+msgstr "حدث خطأ ، يرجى الاتصال بالدعم."
 
 msgid "An error occurred."
-msgstr ""
+msgstr "حدث خطأ."
 
 msgid "An error occurred. Please try again later."
-msgstr ""
+msgstr "حدث خطأ. الرجاء معاودة المحاولة في وقت لاحق."
 
 msgid "An internal error occurred, try to upload again."
-msgstr ""
+msgstr "حدث خطأ داخلي ، حاول التحميل مرة أخرى."
 
 msgid "And before`date`"
-msgstr ""
+msgstr "و قبل`date`"
 
 msgid "And sort"
-msgstr ""
+msgstr "وفرز"
 
 msgid "Anonymous"
-msgstr ""
+msgstr "مجهول"
 
 msgid "Apama CEP rule"
-msgstr ""
+msgstr "قاعدة Apama CEP"
 
 msgid "Append"
-msgstr ""
+msgstr "ألحق"
 
 msgid "Application"
-msgstr ""
+msgstr "تطبيق"
 
 msgid "Application \"{{appName | humanizeAppName}}\" is now the default application for the tenant."
-msgstr ""
+msgstr "تطبيق \"{{appName | humanizeAppName}}\" هو الآن التطبيق الافتراضي للمستأجر."
 
 msgid "Application EUI"
-msgstr ""
+msgstr "تطبيق EUI"
 
 msgid "Application ID"
-msgstr ""
+msgstr "رقم الاستمارة"
 
 msgid "Application access"
-msgstr ""
+msgstr "الوصول إلى التطبيق"
 
 msgid "Application archive could not be updated."
-msgstr ""
+msgstr "تعذر تحديث أرشيف التطبيق."
 
 msgid "Application archive uploaded and activated."
-msgstr ""
+msgstr "تم تحميل أرشيف التطبيق وتنشيطه."
 
 msgid "Application archive uploaded."
-msgstr ""
+msgstr "تم تحميل أرشيف التطبيق."
 
 msgid "Application containing public options used by branding."
-msgstr ""
+msgstr "تطبيق يحتوي على خيارات عامة تستخدمها العلامة التجارية."
 
 msgid "Application containing static assets used by branding."
-msgstr ""
+msgstr "تطبيق يحتوي على الأصول الثابتة المستخدمة من قبل العلامة التجارية."
 
 msgid "Application created."
-msgstr ""
+msgstr "تم إنشاء التطبيق."
 
 msgid "Application for tenant \"{{tenant}}\" with the following values ({{valuesList}}) already exists."
-msgstr ""
+msgstr "طلب مستأجر \"{{tenant}}\" بالقيم التالية ({{valuesList}}) موجود مسبقا."
 
 msgid "Application key"
-msgstr ""
+msgstr "مفتاح التطبيق"
 
 msgid "Application management"
-msgstr ""
+msgstr "الإدارة التطبيقية"
 
 msgid "Application saved."
-msgstr ""
+msgstr "تم حفظ التطبيق."
 
 msgid "Application session key"
-msgstr ""
+msgstr "مفتاح جلسة التطبيق"
 
 msgid "Application settings"
-msgstr ""
+msgstr "إعدادات التطبيق"
 
 msgid "Application subscriptions management"
-msgstr ""
+msgstr "إدارة اشتراكات التطبيق"
 
 msgid "Application with given name already exists."
-msgstr ""
+msgstr "التطبيق بالاسم المحدد موجود بالفعل."
 
 msgid "Applications"
-msgstr ""
+msgstr "التطبيقات"
 
 msgid "Applications owned <br>by your tenant"
-msgstr ""
+msgstr "التطبيقات المملوكة <br> من قبل المستأجر الخاص بك"
 
 msgid "Applications owned by your tenant"
-msgstr ""
+msgstr "التطبيقات المملوكة للمستأجر الخاص بك"
 
 msgid "Applications your tenant is subscribed to"
-msgstr ""
+msgstr "التطبيقات التي اشترك فيها المستأجر"
 
 msgid "Applications your tenant<br>is subscribed to"
-msgstr ""
+msgstr "التطبيقات التي اشترك فيها المستأجر <br>"
 
 msgid "Apply"
-msgstr ""
+msgstr "طبق"
 
 msgid "Apply branding configuration"
-msgstr ""
+msgstr "تطبيق تكوين العلامة التجارية"
 
 msgid "Apply configuration"
-msgstr ""
+msgstr "تطبيق التكوين"
 
 msgid "Apply configuration snapshot"
-msgstr ""
+msgstr "تطبيق لقطة التكوين"
 
 msgid "Apply dashboard to all devices of type <i>{{dashboard.deviceTypeValue}}</i>"
-msgstr ""
+msgstr "تطبيق لوحة القيادة على جميع الأجهزة من النوع <i>{{dashboard.deviceTypeValue}}</i>"
 
 msgid "Apply filters"
-msgstr ""
+msgstr "تطبيق المرشحات"
 
 msgid "Apply new snapshot"
-msgstr ""
+msgstr "تطبيق لقطة جديدة"
 
 msgid "Apply the selected action to the group of checked rows"
-msgstr ""
+msgstr "قم بتطبيق الإجراء المحدد على مجموعة الصفوف المحددة"
 
 msgid "Apply`filters`"
-msgstr ""
+msgstr "`تطبيق `الفلاتر"
 
 msgid "Archive"
-msgstr ""
+msgstr "أرشيف"
 
 msgid "Archives"
-msgstr ""
+msgstr "أرشيف"
 
 msgid "Archives listing is currently not supported for this application."
-msgstr ""
+msgstr "قائمة المحفوظات غير معتمدة حاليا لهذا التطبيق."
 
 msgid "Archives to upload"
-msgstr ""
+msgstr "أرشيف للتحميل"
 
 msgid "Are you sure you want to deactivate Cell ID information for this device?"
-msgstr ""
+msgstr "هل أنت متأكد من أنك تريد إلغاء تنشيط معلومات معرف الهاتف لهذا الجهاز؟"
 
 msgid "Are you sure you want to delete tenant policy \"{{name}}\"?"
-msgstr ""
+msgstr "هل أنت متأكد أنك تريد حذف سياسة المستأجر \"{{name}}\"?"
 
 msgid ""
 "Are you sure you want to edit the global role?\n"
 "      Please enter \"{{ctrl.randomString}}\" to confirm:"
 msgstr ""
+"هل أنت متأكد أنك تريد تعديل الدور العالمي؟\n"
+"      لو سمحت أدخل \"{{ctrl.randomString}}\" للتاكيد: "
 
 msgid "Area"
-msgstr ""
+msgstr "منطقة"
 
 msgid "Arm alarms"
-msgstr ""
+msgstr "إنذارات الذراع"
 
 msgid "Array of Relays"
-msgstr ""
+msgstr "صفيف التبديلات"
 
 msgid "Ascending"
-msgstr ""
+msgstr "تصاعدي"
 
 msgid "Asset"
-msgstr ""
+msgstr "أصل"
 
 msgid "Asset notes"
-msgstr ""
+msgstr "ملاحظات الأصول"
 
 msgid "Asset properties"
-msgstr ""
+msgstr "خصائص الأصول"
 
 msgid "Asset table"
-msgstr ""
+msgstr "جدول الأصول"
 
 msgid "Assign"
-msgstr ""
+msgstr "تعيين"
 
 msgid "Assign 1 device"
 msgid_plural "Assign {{$count}} devices"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "تعيين جهاز واحد"
+msgstr[1] "تعيين {{$count}} الأجهزة"
 
 msgid "Assign device property"
-msgstr ""
+msgstr "تعيين خاصية الجهاز"
 
 msgid "Assign devices"
-msgstr ""
+msgstr "تعيين الأجهزة"
 
 msgid "Assign fieldbus property"
-msgstr ""
+msgstr "تعيين خاصية ناقل المجال"
 
 msgid "Assign inventory roles to device groups"
-msgstr ""
+msgstr "تعيين أدوار المخزون لمجموعات الأجهزة"
 
 msgid "Assign one device"
 msgid_plural "Assign {{$count}} devices"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "قم بتعيين جهاز واحد"
+msgstr[1] "تعيين {{$count}} الأجهزة"
 
 msgid "Assign the device to a group below."
-msgstr ""
+msgstr "قم بتعيين الجهاز لمجموعة أدناه."
 
 msgid "At least 1 data point must be selected"
-msgstr ""
+msgstr "يجب تحديد نقطة بيانات واحدة على الأقل"
 
 msgid "At least one configuration needs to be added."
-msgstr ""
+msgstr "يجب إضافة تكوين واحد على الأقل."
 
 msgid "At least one field needs to be selected."
-msgstr ""
+msgstr "يجب تحديد حقل واحد على الأقل."
 
 msgid "At least one functionality must be set to enable auto observe."
-msgstr ""
+msgstr "يجب تعيين وظيفة واحدة على الأقل لتمكين المراقبة التلقائية."
 
 msgid "At least one pattern is required. Click below to add the first one."
-msgstr ""
+msgstr "مطلوب نمط واحد على الأقل. انقر أدناه لإضافة الأول."
 
 msgid "At least one step needs to be executed always."
-msgstr ""
+msgstr "يجب تنفيذ خطوة واحدة على الأقل دائمًا."
 
 msgid "At least two bits needed for signed register."
-msgstr ""
+msgstr "يلزم لقمتين على الأقل للتسجيل الموقع."
 
 msgid "Attachment"
-msgstr ""
+msgstr "المرفق"
 
 msgid "Attribute"
-msgstr ""
+msgstr "ينسب"
 
 msgid "Attribute type"
-msgstr ""
+msgstr "نوع السمة"
 
 msgid "Attributes"
-msgstr ""
+msgstr "السمات"
 
 msgid "Audience"
-msgstr ""
+msgstr "الجمهور"
 
 msgid "Audit"
-msgstr ""
+msgstr "تدقيق"
 
 msgid "Audit configuration"
-msgstr ""
+msgstr "تكوين التدقيق"
 
 msgid "Audit configuration - device {{deviceName}}"
-msgstr ""
+msgstr "تكوين التدقيق - الجهاز {{deviceName}}"
 
 msgid "Audit configuration synchronization"
-msgstr ""
+msgstr "مزامنة تكوين التدقيق"
 
 msgid "Audit current device by comparing to the selected reference device, sync checked properties to the reference device values"
-msgstr ""
+msgstr "تدقيق الجهاز الحالي من خلال مقارنة الجهاز المرجعي المحدد ، مزامنة الخصائص المحددة لقيم الجهاز المرجعي"
 
 msgid "Audit logs"
-msgstr ""
+msgstr "سجلات التدقيق"
 
 msgid "Audits"
-msgstr ""
+msgstr "مراجعة الحسابات"
 
 msgid "Auth type"
-msgstr ""
+msgstr "نوع المصادقة"
 
 msgid "Authentication"
-msgstr ""
+msgstr "المصادقة"
 
 msgid "Authentication by SMS - cannot be changed for your own user."
-msgstr ""
+msgstr "المصادقة عن طريق الرسائل القصيرة - لا يمكن تغييرها للمستخدم الخاص بك."
 
 msgid "Authentication failed due to: user account is locked."
-msgstr ""
+msgstr "فشلت المصادقة بسبب: حساب المستخدم مقفل."
 
 msgid "Authorization request"
-msgstr ""
+msgstr "طلب تفويض"
 
 msgid "Auto"
-msgstr ""
+msgstr "تلقاءي"
 
 msgid "Auto apply constraints"
-msgstr ""
+msgstr "قيود التطبيق التلقائي"
 
 msgid "Auto observe"
-msgstr ""
+msgstr "مراقبة تلقائية"
 
 msgid "Auto refresh"
-msgstr ""
+msgstr "التحديث التلقائي"
 
 msgid "Auto save host key"
-msgstr ""
+msgstr "مفتاح المضيف الحفظ التلقائي"
 
 msgid "Auto save host key on first connection on Remote access tab."
-msgstr ""
+msgstr "مفتاح الحفظ التلقائي عند الاتصال الأول في علامة تبويب الوصول عن بعد."
 
 msgid "Autodiscovery"
-msgstr ""
+msgstr "الاكتشاف الذاتي"
 
 msgid "Autodiscovery completed."
-msgstr ""
+msgstr "اكتمل الاكتشاف التلقائي."
 
 msgid "Autodiscovery failed due to: \"{{ failureReason | translate }}\"."
-msgstr ""
+msgstr "فشل الاكتشاف التلقائي بسبب: \"{{ failureReason | translate }}\"."
 
 msgid "Autodiscovery failed."
-msgstr ""
+msgstr "فشل الاكتشاف التلقائي."
 
 msgid "Autodiscovery in progress."
-msgstr ""
+msgstr "الاكتشاف التلقائي قيد التقدم."
 
 msgid "Autodiscovery request"
-msgstr ""
+msgstr "طلب الاكتشاف الذاتي"
 
 msgid "Availability"
-msgstr ""
+msgstr "التوفر"
 
 msgid "Availability monitoring record"
-msgstr ""
+msgstr "سجل مراقبة الإتاحة"
 
 msgid "Availability percentage is based on the number of critical alarms raised and cleared."
-msgstr ""
+msgstr "تعتمد نسبة التوفر على عدد الإنذارات الحرجة التي تم رفعها ومسحها."
 
 msgid "Availability status"
-msgstr ""
+msgstr "توافر الحالة"
 
 msgid "Available applications"
-msgstr ""
+msgstr "التطبيقات المتاحة"
 
 msgid "Available assets"
-msgstr ""
+msgstr "الأصول المتاحة"
 
 msgid "Available payment methods"
-msgstr ""
+msgstr "طرق الدفع المتاحة"
 
 msgid "Available placeholders: {tenant-domain}, {host}, {binaryId}. Whole link to downloadable file is: {tenant-domain}/inventory/binaries/{binaryId}."
-msgstr ""
+msgstr "العناصر النائبة المتوفرة: {tenant-domain}, {host}, {binaryId}. الرابط الكامل للملف القابل للتنزيل هو: {tenant-domain}/inventory/binaries/{binaryId}."
 
 msgid "Awesome tab"
-msgstr ""
+msgstr "علامة تبويب رائعة"
 
 msgid "Azure AD"
-msgstr ""
+msgstr "Azure AD"
 
 msgid "Azure AD address"
-msgstr ""
+msgstr "Azure AD عنوان"
 
 msgid "BER value"
-msgstr ""
+msgstr "قيمة BER"
 
 msgid "BOOLEAN"
-msgstr ""
+msgstr "BOOLEAN"
 
 msgid "Back"
-msgstr ""
+msgstr "عودة"
 
 msgid "Backend"
-msgstr ""
+msgstr "الخلفية"
 
 msgid "Background color"
-msgstr ""
+msgstr "لون الخلفية"
 
 msgid "Background color of current item in navigator"
-msgstr ""
+msgstr "لون خلفية العنصر الحالي في المستكشف"
 
 msgid "Band"
-msgstr ""
+msgstr "فرقة"
 
 msgid "Bars"
 msgstr ""
 
 msgid "Base URL"
-msgstr ""
+msgstr "عنوان URL الأساسي"
 
 msgid "Base font stack"
-msgstr ""
+msgstr "مكدس الخط الأساسي"
 
 msgid "Base pattern"
-msgstr ""
+msgstr "نمط القاعدة"
 
 msgid "Basic"
-msgstr ""
+msgstr "الأساسي"
 
 msgid "Basic Auth"
-msgstr ""
+msgstr "المصادقة الأساسية"
 
 msgid "Basic settings"
-msgstr ""
+msgstr "الإعدادات الأساسية"
 
 msgid "Batch operations"
-msgstr ""
+msgstr "عمليات الدفعة"
 
 msgid "Battery Levels"
-msgstr ""
+msgstr "مستويات البطارية"
 
 msgid "Battery full"
-msgstr ""
+msgstr "البطارية ممتلئة"
 
 msgid "Battery level under 20%"
-msgstr ""
+msgstr "مستوى البطارية أقل من 20٪"
 
 msgid "Battery life approx. 10 days"
-msgstr ""
+msgstr "عمر البطارية التقريبي 10 أيام"
 
 msgid "Battery life approx. 10-15 hours"
-msgstr ""
+msgstr "عمر البطارية التقريبي 10-15 ساعة"
 
 msgid "Battery life approx. 15 days"
-msgstr ""
+msgstr "عمر البطارية التقريبي 15 يوم"
 
 msgid "Battery life approx. 20 days"
-msgstr ""
+msgstr "عمر البطارية التقريبي 20 يوم"
 
 msgid "Battery life approx. 30 days"
-msgstr ""
+msgstr "عمر البطارية التقريبي 30 يوما"
 
 msgid "Battery life approx. 40 days"
-msgstr ""
+msgstr "عمر البطارية التقريبي 40 يوما"
 
 msgid "Battery: level"
-msgstr ""
+msgstr "مستوى البطارية"
 
 msgid "Baud rate"
-msgstr ""
+msgstr "معدل الباود"
 
 msgid "Be aware that when a device is in flight mode, commands are not be executed and remain pending until flight mode is switched off."
-msgstr ""
+msgstr "كن على علم أنه عندما يكون الجهاز في وضع الطيران ، لا يتم تنفيذ الأوامر ويظل معلقًا حتى يتم إيقاف وضع الطيران."
 
 msgid "Before activating the custom domain name, make sure that:"
-msgstr ""
+msgstr "قبل تنشيط اسم النطاق المخصص ، تأكد مما يلي:"
 
 msgid "Before applying new branding configuration, legacy branded applications must be deleted."
-msgstr ""
+msgstr "قبل تطبيق التهيئة الجديدة للعلامة التجارية ، يجب حذف التطبيقات ذات العلامات التجارية القديمة."
 
 msgid ""
 "Below you can configure one or more OPC UA servers. The OPC UA agent will connect to these\n"
 "        servers if they are enabled and the connection state is set to \"connected\"."
 msgstr ""
+"أدناه يمكنك تكوين واحد أو أكثر من خوادم OPC UA. وسيتصل وكيل OPC UA بهذه\n"
+"        الخوادم في حالة تمكينها وتعيين حالة الاتصال على \"connected\"."
 
 msgid "Beware not to lock yourself out of the platform."
-msgstr ""
+msgstr "احذر من إبعاد نفسك عن المنصة."
 
 msgid "Beware that email is required to reset password."
-msgstr ""
+msgstr "احذر أن البريد الإلكتروني مطلوب لإعادة تعيين كلمة المرور."
 
 msgid "Bill validator"
-msgstr ""
+msgstr "مدقق الفاتورة"
 
 msgid "Billing history"
-msgstr ""
+msgstr "سجل الفواتير"
 
 msgid "Billing information"
-msgstr ""
+msgstr "معلومات الفواتير"
 
 msgid "Billing mode"
-msgstr ""
+msgstr "وضع الفوترة"
 
 msgid "Binding mode"
-msgstr ""
+msgstr "وضع ملزم"
 
 msgid "Bluetooth MAC addresses"
-msgstr ""
+msgstr "عناوين البلوتوث MAC"
 
 msgid "Body"
-msgstr ""
+msgstr "الجسم"
 
 msgid "Body template"
-msgstr ""
+msgstr "قالب الجسم"
 
 msgid "Boolean"
-msgstr ""
+msgstr "Boolean"
 
 msgid "Bootstrap ID"
-msgstr ""
+msgstr "معرف Bootstrap"
 
 msgid "Bootstrap key"
-msgstr ""
+msgstr "مفتاح Bootstrap"
 
 msgid "Bootstrap parameters updated"
-msgstr ""
+msgstr "تم تحديث معلمات Bootstrap"
 
 msgid "Bootstrap short server ID"
-msgstr ""
+msgstr "معرّف خادم Bootstrap القصير"
 
 msgid "Border"
-msgstr ""
+msgstr "حدود"
 
 msgid "Bottom margin"
-msgstr ""
+msgstr "الهامش السفلي"
 
 msgid "Box model"
-msgstr ""
+msgstr "نموذج الصندوق"
 
 msgid "Brand logo"
-msgstr ""
+msgstr "شعار العلامة التجارية"
 
 msgid "Brand logo height"
-msgstr ""
+msgstr "ارتفاع شعار العلامة التجارية"
 
 msgid "Branded"
-msgstr ""
+msgstr "ذات علامة تجارية"
 
 msgid "Branded applications creation process completed."
-msgstr ""
+msgstr "اكتملت عملية إنشاء التطبيقات ذات العلامات التجارية."
 
 msgid "Branded applications creation process started."
-msgstr ""
+msgstr "بدأت عملية إنشاء التطبيقات ذات العلامات التجارية."
 
 msgid "Branding"
-msgstr ""
+msgstr "العلامة التجارية"
 
 msgid "Branding configuration applied"
-msgstr ""
+msgstr "تم تطبيق تهيئة العلامة التجارية"
 
 msgid "Branding configuration has been reset."
-msgstr ""
+msgstr "تمت إعادة ضبط تهيئة العلامة التجارية."
 
 msgid "Branding saved."
-msgstr ""
+msgstr "تم حفظ العلامة التجارية."
 
 msgid "Browse path"
-msgstr ""
+msgstr "تصفح المسار"
 
 msgid "Browse the manual <a c8y-guide-href=\"users-guide/cockpit/\">here</a>."
-msgstr ""
+msgstr "تصفح الدليل <a c8y-guide-href=\"users-guide/cockpit/\">هنا</a>."
 
 msgid "Building {{number}}"
-msgstr ""
+msgstr "مبنى {{number}}"
 
 msgid "Built-in"
-msgstr ""
+msgstr "مدمج"
 
 msgid "Built-in applications"
-msgstr ""
+msgstr "تطبيقات مدمجة"
 
 msgid "Built-in applications created"
-msgstr ""
+msgstr "تم إنشاء تطبيقات مضمنة"
 
 msgid "Bulk device registration"
-msgstr ""
+msgstr "تسجيل الجهاز بالجملة"
 
 msgid "Bulk operation"
-msgstr ""
+msgstr "عملية مجمعة"
 
 msgid "Bulk operation cancelled by user."
-msgstr ""
+msgstr "ألغى المستخدم عملية مجمعة."
 
 msgid "Bulk operation delay must be greater than {{minSeconds}} seconds."
-msgstr ""
+msgstr "يجب أن يكون تأخير العملية المجمعة أكبر من {{minSeconds}} ثواني."
 
 msgid "Bulk operation updated."
-msgstr ""
+msgstr "تم تحديث العملية المجمعة."
 
 msgid "Bulk operations"
-msgstr ""
+msgstr "عمليات مجمعة"
 
 msgid "Bulk registration"
-msgstr ""
+msgstr "تسجيل مجمع"
 
 msgid "Business rules"
-msgstr ""
+msgstr "قواعد الاعمال"
 
 msgid "Button border-radius"
-msgstr ""
+msgstr "نصف قطر الزر"
 
 msgid "Button configuration"
-msgstr ""
+msgstr "تكوين الزر"
 
 msgid "Button hover text color"
-msgstr ""
+msgstr "لون نص زر التحويم"
 
 msgid "Button label"
-msgstr ""
+msgstr "تسمية الزر"
 
 msgid "Button name"
-msgstr ""
+msgstr "اسم الزر"
 
 msgid "Button to execute an operation on a device"
-msgstr ""
+msgstr "زر لتنفيذ عملية على الجهاز"
 
 msgid "By active status"
-msgstr ""
+msgstr "حسب الحالة النشطة"
 
 msgid "By changing device type, all changes will be lost. Do you really want to proceed?"
-msgstr ""
+msgstr "عن طريق تغيير نوع الجهاز ، ستفقد جميع التغييرات. هل تريد فعلًا المتابعة؟"
 
 msgid "By severity"
-msgstr ""
+msgstr "حسب الشدة"
 
 msgid ""
 "By showing the QR code, you provide access to the data in your account.\n"
 "          We recommend to use this functionality only for demo accounts."
 msgstr ""
+"من خلال إظهار رمز الاستجابة السريعة ، فإنك توفر الوصول إلى البيانات الموجودة في حسابك.\n"
+"          نوصي باستخدام هذه الوظيفة فقط للحسابات التجريبية."
 
 msgid "CAN Bus"
-msgstr ""
+msgstr "CAN Bus"
 
 msgid "CAN Bus communication"
-msgstr ""
+msgstr "CAN Bus اتصالات"
 
 msgid "CANCELLED"
-msgstr ""
+msgstr "ألغيت"
 
 msgid "CANopen"
-msgstr ""
+msgstr "CANopen"
 
 msgid "CANopen communication"
-msgstr ""
+msgstr "CANopen اتصالات"
 
 msgid "CANopen settings"
-msgstr ""
+msgstr "CANopen الإعدادات"
 
 msgid "CEP Manager"
-msgstr ""
+msgstr "مدير CEP"
 
 msgid "CEP management"
-msgstr ""
+msgstr "إدارة CEP"
 
 msgid "CEP module \"{{name}}\" created"
-msgstr ""
+msgstr "CEP وحدة \"{{name}}\" خلقت"
 
 msgid "CEP module \"{{name}}\" deleted"
-msgstr ""
+msgstr "CEP وحدة \"{{name}}\" حذفت"
 
 msgid "CEP module \"{{name}}\" updated"
-msgstr ""
+msgstr "CEP وحدة \"{{name}}\" تحدثت"
 
 msgid "CEP module created"
-msgstr ""
+msgstr "تم إنشاء وحدة CEP"
 
 msgid "CEP module deleted"
-msgstr ""
+msgstr "تم حذف وحدة CEP"
 
 msgid "CEP module updated"
-msgstr ""
+msgstr "تم تحديث وحدة CEP"
 
 msgid "CLEARED"
-msgstr ""
+msgstr "مسح"
 
 msgid "CLEARED: was active for {{alarmDuration}}"
-msgstr ""
+msgstr "تم المسح: كان نشطًا لـ {{alarmDuration}}"
 
 msgid "COMPLETED SUCCESSFULLY"
-msgstr ""
+msgstr "تم بنجاح"
 
 msgid "COMPLETED WITH FAILURES"
-msgstr ""
+msgstr "مكتمل مع الإخفاقات"
 
 msgid "CPU (m)"
-msgstr ""
+msgstr "وحدة المعالجة المركزية (m)"
 
 msgid "CPU: workload"
-msgstr ""
+msgstr "وحدة المعالجة المركزية: عبء العمل"
 
 msgid "CRITICAL"
-msgstr ""
+msgstr "حرج"
 
 msgid "CSV preview"
-msgstr ""
+msgstr "معاينة CSV"
 
 msgid "Calculate"
-msgstr ""
+msgstr "احسب"
 
 msgid "Calculates energy consumption"
-msgstr ""
+msgstr "يحسب استهلاك الطاقة"
 
 msgid "Camera type"
-msgstr ""
+msgstr "نوع الكاميرا"
 
 msgid "Can access and modify the full user hierarchy"
-msgstr ""
+msgstr "يمكن الوصول وتعديل التسلسل الهرمي للمستخدم بالكامل"
 
 msgid "Can create new user as his own sub-users and manage this"
-msgstr ""
+msgstr "يمكن إنشاء مستخدم جديد كمستخدمين فرعيين له وإدارة هذا"
 
 msgid "Can manage tenant wide configurations like applications, tenant options and retention rules"
-msgstr ""
+msgstr "يمكنه إدارة التكوينات الواسعة للمستأجر مثل التطبيقات وخيارات المستأجر وقواعد الاحتفاظ"
 
 msgid "Can read all data from all devices"
-msgstr ""
+msgstr "يمكن قراءة جميع البيانات من جميع الأجهزة"
 
 msgid "Can read all data of the asset and manage all inventory data, but cannot perform operations. Can also acknowledge and clear alarms. Can create and updates dashboards."
-msgstr ""
+msgstr "يمكنه قراءة جميع بيانات الأصل وإدارة جميع بيانات المخزون ، ولكن لا يمكنه تنفيذ العمليات. يمكن أيضا الاعتراف وإنذارات واضحة. يمكن إنشاء وتحديث لوحات المعلومات."
 
 msgid "Can read all data of the asset."
-msgstr ""
+msgstr "يمكن قراءة جميع بيانات الأصل."
 
 msgid "Can read and write all data from all devices"
-msgstr ""
+msgstr "يمكن قراءة وكتابة جميع البيانات من جميع الأجهزة"
 
 msgid "Can remotely manage the assets by sending operations to the device. This includes for example remote configuration, software update, etc."
-msgstr ""
+msgstr "يمكن إدارة الأصول عن بعد عن طريق إرسال العمليات إلى الجهاز. وهذا يشمل على سبيل المثال التكوين عن بعد وتحديث البرامج وما إلى ذلك"
 
 msgid "Can restart devices."
-msgstr ""
+msgstr "يمكن إعادة تشغيل الأجهزة."
 
 msgid "Can't change type if other step depends on this one."
-msgstr ""
+msgstr "لا يمكن تغيير النوع إذا كانت الخطوة الأخرى تعتمد على هذه الخطوة."
 
 msgid "Cancel"
-msgstr ""
+msgstr "إلغاء"
 
 msgid "Cancel all"
-msgstr ""
+msgstr "ألغ الكل"
 
 msgid "Cancel all pending operations"
-msgstr ""
+msgstr "إلغاء جميع العمليات المعلقة"
 
 msgid "Cancel device registration"
-msgstr ""
+msgstr "إلغاء تسجيل الجهاز"
 
 msgid "Cancel operation"
-msgstr ""
+msgstr "إلغاء العملية"
 
 msgid "Cancel password change"
-msgstr ""
+msgstr "إلغاء تغيير كلمة المرور"
 
 msgid "Cancel registration"
-msgstr ""
+msgstr "إلغاء التسجيل"
 
 msgid "Cancelling pending operations"
-msgstr ""
+msgstr "إلغاء العمليات المعلقة"
 
 msgid "Cannot activate a certificate which is either expired or not yet valid."
-msgstr ""
+msgstr "لا يمكن تفعيل شهادة منتهية الصلاحية أو غير صالحة بعد."
 
 msgid "Cannot add group as its own child."
-msgstr ""
+msgstr "لا يمكن إضافة مجموعة كطفل لها."
 
 msgid "Cannot be greater than 3650 days."
-msgstr ""
+msgstr "لا يمكن أن يكون أكبر من 3650 يومًا."
 
 msgid "Cannot change password: provided token is invalid."
-msgstr ""
+msgstr "لا يمكن تغيير كلمة المرور: الرمز المميز المقدم غير صالح."
 
 msgid "Cannot delete device with associated device owner because this owner is still assigned to other device(s). Try to remove only the device."
-msgstr ""
+msgstr "لا يمكن حذف الجهاز مع مالك الجهاز المرتبط لأن هذا المالك ما زال معينًا لجهاز آخر (أجهزة أخرى). حاول إزالة الجهاز فقط."
 
 msgid "Cannot deploy module {{errorMessage}}"
-msgstr ""
+msgstr "لا يمكن نشر الوحدة النمطية {{errorMessage}}"
 
 msgid "Cannot load template from selected file."
-msgstr ""
+msgstr "لا يمكن تحميل القالب من الملف المحدد."
 
 msgid "Cannot reschedule bulk operation. All its operations are already successful."
-msgstr ""
+msgstr "لا يمكن إعادة جدولة العملية المجمعة. جميع عملياتها ناجحة بالفعل."
 
 msgid "Cannot reset password for user with such email: email not found."
-msgstr ""
+msgstr "لا يمكن إعادة تعيين كلمة المرور للمستخدم بهذا البريد الإلكتروني: لم يتم العثور على البريد الإلكتروني."
 
 msgid "Cannot update/delete application binary via this endpoint"
-msgstr ""
+msgstr "لا يمكن تحديث / حذف التطبيق الثنائي عبر نقطة النهاية هذه"
 
 msgid "Car tracking"
-msgstr ""
+msgstr "تتبع السيارة"
 
 msgid "Cashless 1"
-msgstr ""
+msgstr "غير نقدي 1"
 
 msgid "Cashless 2"
-msgstr ""
+msgstr "غير نقدي 2"
 
 msgid "Category"
-msgstr ""
+msgstr "الفئة"
 
 msgid "Caution! Temperature on device #{source.name} (ID: #{source.id}) is much higher than expected."
-msgstr ""
+msgstr "الحذر! درجة الحرارة على الجهاز #{source.name} (ID: #{source.id}) أعلى بكثير من المتوقع."
 
 msgid "Cell ID"
-msgstr ""
+msgstr "معرف الخلية"
 
 msgid "Cell ID information activated"
-msgstr ""
+msgstr "تم تنشيط معلومات معرف الخلية"
 
 msgid "Cell ID information deactivated"
-msgstr ""
+msgstr "تم تعطيل معلومات معرف الخلية"
 
 msgid "Cell ID usage statistics"
-msgstr ""
+msgstr "إحصائيات استخدام معرف الخلية"
 
 msgid "Cellular WAN"
-msgstr ""
+msgstr "شبكة WAN الخلوية"
 
 msgid "Center map"
-msgstr ""
+msgstr "خريطة المركز"
 
 msgid "Certificate ID"
-msgstr ""
+msgstr "معرف الشهادة"
 
 msgid "Certificate deactivated."
-msgstr ""
+msgstr "تم تعطيل الشهادة."
 
 msgid "Certificate deactivation"
-msgstr ""
+msgstr "تعطيل الشهادة"
 
 msgid "Certificate deleted."
-msgstr ""
+msgstr "تم حذف الشهادة."
 
 msgid "Certificate deployed."
-msgstr ""
+msgstr "تم نشر الشهادة."
 
 msgid "Certificate key"
-msgstr ""
+msgstr "مفتاح الشهادة"
 
 msgid "Certificate password"
-msgstr ""
+msgstr "كلمة مرور الشهادة"
 
 msgid "Certificates"
-msgstr ""
+msgstr "الشهادات"
 
 msgid "Change"
-msgstr ""
+msgstr "تغير"
 
 msgid "Change <a href=\"#/applicationsettings\">application settings</a>."
-msgstr ""
+msgstr "تغير <a href=\"#/applicationsettings\">إعدادات التطبيق</a>."
 
 msgid "Change aggregation or select shorter date range."
-msgstr ""
+msgstr "تغيير التجميع أو تحديد نطاق تاريخ أقصر."
 
 msgid "Change color"
-msgstr ""
+msgstr "غير اللون"
 
 msgid "Change credentials"
-msgstr ""
+msgstr "قم بتغيير بيانات الاعتماد"
 
 msgid "Change log"
-msgstr ""
+msgstr "سجل التغيير"
 
 msgid "Change page size {{pageSize}}"
-msgstr ""
+msgstr "تغيير حجم الصفحة {{pageSize}}"
 
 msgid "Change parameter"
-msgstr ""
+msgstr "تغيير المعلمة"
 
 msgid "Change password"
-msgstr ""
+msgstr "تغيير كلمة المرور"
 
 msgid "Change public/private keys"
-msgstr ""
+msgstr "تغيير المفاتيح العامة / الخاصة"
 
 msgid "Change relay status to CLOSED."
-msgstr ""
+msgstr "تغيير حالة الترحيل إلى مغلق."
 
 msgid "Change relay status to OPEN."
-msgstr ""
+msgstr "تغيير حالة الترحيل لفتح."
 
 msgid "Change relay status to {{status | translate}}."
-msgstr ""
+msgstr "تغيير حالة الترحيل إلى {{status | translate}}."
 
 msgid "Change status of \"{{name}}\" to \"{{label}}\"."
-msgstr ""
+msgstr "تغيير حالة \"{{name}}\" الى \"{{label}}\"."
 
 msgid "Change the severities of alarms based on activity time"
-msgstr ""
+msgstr "قم بتغيير شدة الإنذارات بناءً على وقت النشاط"
 
 msgid "Change trace status to {{state | translate}}."
-msgstr ""
+msgstr "تغيير حالة التتبع إلى {{state | translate}}."
 
 msgid "Change value of \"{{name}}\" to {{value}}."
-msgstr ""
+msgstr "غيّر قيمة \"{{name}}\" الى {{value}}."
 
 msgid "Change value of \"{{name}}\" to {{value}}{{unit}}."
-msgstr ""
+msgstr "غيّر قيمة \"{{name}}\" الى {{value}}{{unit}}."
 
 msgid "Changed"
-msgstr ""
+msgstr "تم التغير"
 
 msgid "Changes"
-msgstr ""
+msgstr "التغييرات"
 
 msgid "Changes in the name server need time to propagate and take effect. Wait approximately one hour before activating your domain here."
-msgstr ""
+msgstr "تحتاج التغييرات في خادم الأسماء إلى وقت للنشر والتفعيل. انتظر ساعة واحدة تقريبًا قبل تنشيط نطاقك هنا."
 
 msgid "Changes saved."
-msgstr ""
+msgstr "تم حفظ التغييرات."
 
 msgid ""
 "Changing the global role \"devices\" can lead to security hole. E.g. if a device is compromised, attackers might\n"
 "      have extended access to the platform."
 msgstr ""
+"تغيير الدور العالمي \"devices\" يمكن أن يؤدي إلى ثغرة أمنية. على سبيل المثال إذا تم اختراق الجهاز ، فقد يقوم المهاجمون\n"
+"      لديها وصول موسع إلى النظام الأساسي."
 
 msgid "Changing this value can cause showing false offline statuses and prevent alarms from being created as early as possible"
-msgstr ""
+msgstr "يمكن أن يتسبب تغيير هذه القيمة في عرض حالات عدم اتصال خاطئة ويمنع إنشاء الإنذارات في أقرب وقت ممكن"
 
 msgid "Changing this value can cause showing false online statuses and prevent alarms from being created as early as possible"
-msgstr ""
+msgstr "يمكن أن يؤدي تغيير هذه القيمة إلى إظهار حالات خاطئة على الإنترنت ومنع إنشاء الإنذارات في أقرب وقت ممكن"
 
 msgid "Charset"
-msgstr ""
+msgstr "Charset"
 
 msgid "Chart type"
-msgstr ""
+msgstr "نوع التخطيط"
 
 msgid "Check Fresenius TDMS server IP"
-msgstr ""
+msgstr "تحقق من IP Fresenius TDMS server"
 
 msgid "Check Fresenius TDMS server port"
-msgstr ""
+msgstr "تحقق من منفذ خادم Fresenius TDMS"
 
 msgid "Check MQTT enablement"
-msgstr ""
+msgstr "تحقق من تمكين MQTT"
 
 msgid "Check MQTT keepalive interval"
-msgstr ""
+msgstr "تحقق من الفاصل الزمني للمحافظة على MQTT"
 
 msgid "Check all visible"
-msgstr ""
+msgstr "تحقق من كل ما هو مرئي"
 
 msgid "Check for the existence of \"{{fragmentPath}}\" fragment"
-msgstr ""
+msgstr "تحقق من وجود \"{{fragmentPath}}\" قطعة"
 
 msgid "Check if TCS:BUS plugin enabled"
-msgstr ""
+msgstr "تحقق مما إذا تم تمكين TCS: BUS plugin"
 
 msgid "Check user permissions"
-msgstr ""
+msgstr "تحقق من أذونات المستخدم"
 
 msgid "Checked"
-msgstr ""
+msgstr "التحقق"
 
 msgid "Checking that DNS is correctly set up."
-msgstr ""
+msgstr "التحقق من إعداد DNS بشكل صحيح."
 
 msgid "Checking that SSL certificate is valid."
-msgstr ""
+msgstr "التحقق من صلاحية شهادة SSL."
 
 msgid "Checking that domain name is available."
-msgstr ""
+msgstr "التحقق من أن اسم المجال متاح."
 
 msgid "Child device changes saved."
-msgstr ""
+msgstr "تم حفظ تغييرات الجهاز الفرعي."
 
 msgid "Child device creation"
-msgstr ""
+msgstr "إنشاء جهاز طفل"
 
 msgid "Child devices"
-msgstr ""
+msgstr "الأجهزة التابعة"
 
 msgid "Children"
-msgstr ""
+msgstr "أطفال"
 
 msgid "City"
-msgstr ""
+msgstr "مدينة"
 
 msgid "City code"
-msgstr ""
+msgstr "رمز المدينة"
 
 msgid "Class 0 ping"
-msgstr ""
+msgstr "الدرجة 0 بينغ"
 
 msgid "Clean up"
-msgstr ""
+msgstr "نظف"
 
 msgid "Clean up IIoT demo"
-msgstr ""
+msgstr "تنظيف عرض IIoT"
 
 msgid "Clear All Logfiles"
-msgstr ""
+msgstr "امسح كافة ملفات السجل"
 
 msgid "Clear System Logfiles"
-msgstr ""
+msgstr "مسح ملفات النظام"
 
 msgid "Clear all`alarms`"
-msgstr ""
+msgstr "قم بإلغاء تحديد `alarms`"
 
 msgid "Clear all`checkboxes`"
-msgstr ""
+msgstr "قم بإلغاء تحديد`checkboxes`"
 
 msgid "Clear date range"
-msgstr ""
+msgstr "محو النطاق الزمني"
 
 msgid "Clear device credentials"
-msgstr ""
+msgstr "محو بيانات اعتماد الجهاز"
 
 msgid "Clear error situation"
-msgstr ""
+msgstr "حالة خطأ واضحة"
 
 msgid "Clear existing alarm"
-msgstr ""
+msgstr "امسح التنبيه الموجود"
 
 msgid "Clear filters"
-msgstr ""
+msgstr "مرشحات واضحة"
 
 msgid "Clear geofence"
-msgstr ""
+msgstr "مسح السياج الجغرافي"
 
 msgid "Clear mapping"
-msgstr ""
+msgstr "مسح واضح"
 
 msgid "Clear`alarm`"
-msgstr ""
+msgstr "واضح`alarm`"
 
 msgid "Clear`filters`"
-msgstr ""
+msgstr "واضح`filters"
 
 msgid "Clear`selection`"
-msgstr ""
+msgstr "واضح`selection`"
 
 msgid "Click below to add the first one."
-msgstr ""
+msgstr "انقر أدناه لإضافة الأول."
 
 msgid "Click below to add your first one."
-msgstr ""
+msgstr "انقر أدناه لإضافة الأول الخاص بك."
 
 msgid "Click below to add your first tenant policy."
-msgstr ""
+msgstr "انقر أدناه لإضافة سياسة المستأجر الأولى الخاصة بك."
 
 msgid "Click below to create your first tenant."
-msgstr ""
+msgstr "انقر أدناه لإنشاء المستأجر الأول."
 
 msgid "Click here to edit"
-msgstr ""
+msgstr "انقر هنا للتحرير"
 
 msgid "Click on \"Show synced properties\" to display all properties."
-msgstr ""
+msgstr "انقر على \"Show synced properties\" لعرض جميع الخصائص."
 
 msgid "Click to edit"
-msgstr ""
+msgstr "إضغط للتعديل"
 
 msgid "Click to hide command editor"
-msgstr ""
+msgstr "انقر لإخفاء محرر الأوامر"
 
 msgid "Click to view command editor"
-msgstr ""
+msgstr "انقر لعرض محرر الأوامر"
 
 msgid "Client ID"
-msgstr ""
+msgstr "معرف العميل"
 
 msgid "Client secret"
-msgstr ""
+msgstr "سر العميل"
 
 msgid "Close"
-msgstr ""
+msgstr "قريب"
 
 msgid "Close account"
-msgstr ""
+msgstr "حساب مغلق"
 
 msgid "Close relay"
-msgstr ""
+msgstr "إغلاق التتابع"
 
 msgid "Close relay {{number}}."
-msgstr ""
+msgstr "إغلاق التتابع {{number}}."
 
 msgid "Close relay {{relayNo}}"
-msgstr ""
+msgstr "إغلاق التتابع {{relayNo}}"
 
 msgid "Close relay."
-msgstr ""
+msgstr "إغلاق التتابع"
 
 msgid "Closed"
-msgstr ""
+msgstr "مغلق"
 
 msgid "Closing relay {{number}}."
-msgstr ""
+msgstr "تتابع الإغلاق {{number}}."
 
 msgid "Cloud SaaS deployment"
-msgstr ""
+msgstr "نشر السحابة كخدمة"
 
 msgid "Cockpit"
-msgstr ""
+msgstr "مقصورة الطيار"
 
 msgid "Cockpit User"
-msgstr ""
+msgstr "مستخدم قمرة القيادة"
 
 msgid "Cockpit Welcome"
-msgstr ""
+msgstr "قمرة القيادة أهلا وسهلا"
 
 msgid "Coil (discrete output)"
-msgstr ""
+msgstr "لفائف (خرج منفصل)"
 
 msgid "Coils (discrete outputs)"
-msgstr ""
+msgstr "لفائف (مخرجات منفصلة)"
 
 msgid "Coin changer"
-msgstr ""
+msgstr "مبدل العملات"
 
 msgid "Collapse"
-msgstr ""
+msgstr "انهيار"
 
 msgid "Collapse all"
-msgstr ""
+msgstr "انهيار جميع"
 
 msgid "Collapse breadcrumbs"
-msgstr ""
+msgstr "تصغير فتات الخبز"
 
 msgid "Color"
-msgstr ""
+msgstr "اللون"
 
 msgid "Colors"
-msgstr ""
+msgstr "الألوان"
 
 msgid "Column"
-msgstr ""
+msgstr "عمود"
 
 msgid "Column visibility"
-msgstr ""
+msgstr "رؤية العمود"
 
 msgid "Column's header name must be unique"
-msgstr ""
+msgstr "يجب أن يكون اسم رأس العمود فريدًا"
 
 msgid "Columns definitions saved."
-msgstr ""
+msgstr "تم حفظ تعريفات الأعمدة."
 
 msgid "Comma-separated list of application names"
-msgstr ""
+msgstr "قائمة بأسماء التطبيقات مفصولة بفواصل"
 
 msgid "Command"
-msgstr ""
+msgstr "أمر"
 
 msgid "Command completed."
-msgstr ""
+msgstr "اكتمل الأمر."
 
 msgid "Command description"
-msgstr ""
+msgstr "وصف الأمر"
 
 msgid "Command failed."
-msgstr ""
+msgstr "فشل الأمر."
 
 msgid "Command sent."
-msgstr ""
+msgstr "تم إرسال الأمر."
 
 msgid "Command state is invalid: {{violations}}"
-msgstr ""
+msgstr "حالة الأمر غير صالحة: {{violations}}"
 
 msgid "Command status updated."
-msgstr ""
+msgstr "تم تحديث حالة الأمر."
 
 msgid "Command template"
-msgstr ""
+msgstr "قالب الأوامر"
 
 msgid "Commands"
-msgstr ""
+msgstr "أوامر"
 
 msgid "Common name"
-msgstr ""
+msgstr "اسم شائع"
 
 msgid "Communication interval"
-msgstr ""
+msgstr "فاصل الاتصال"
 
 msgid "Communication mode"
-msgstr ""
+msgstr "وضع الاتصال"
 
 msgid "Company"
-msgstr ""
+msgstr "شركة"
 
 msgid "Comparison"
-msgstr ""
+msgstr "مقارنة"
 
 msgid "Complete"
-msgstr ""
+msgstr "اكتمال"
 
 msgid "Complete configuration"
-msgstr ""
+msgstr "التكوين الكامل"
 
 msgid "Complete object"
-msgstr ""
+msgstr "كائن كامل"
 
 msgid "Component"
-msgstr ""
+msgstr "مكون"
 
 msgid "Components"
-msgstr ""
+msgstr "مكونات"
 
 msgid "Compressed files must have an index.html at root. URLs in the web application can be relative."
-msgstr ""
+msgstr "يجب أن تحتوي الملفات المضغوطة على index.html في الجذر. يمكن أن تكون عناوين URL في تطبيق الويب نسبية."
 
 msgid "Computed property"
-msgstr ""
+msgstr "خاصية محسوبة"
 
 msgid "Computed property configuration"
-msgstr ""
+msgstr "تكوين خاصية محسوبة"
 
 msgid "Concepts guide`KEEP_ORIGINAL`"
-msgstr ""
+msgstr "دليل المفاهيم`KEEP_ORIGINAL`"
 
 msgid "Condition"
-msgstr ""
+msgstr "حالة"
 
 msgid "Config"
-msgstr ""
+msgstr "التكوين"
 
 msgid "Config Eifeler Vacotec server port"
-msgstr ""
+msgstr "تكوين منفذ خادم Eifeler Vacotec"
 
 msgid "Config Fresenius TDMS server IP"
-msgstr ""
+msgstr "خادم IP Fresenius TDMS"
 
 msgid "Config Fresenius TDMS server port"
-msgstr ""
+msgstr "تكوين خادم Fresenius TDMS"
 
 msgid "Config MQTT keepalive interval [in seconds]"
-msgstr ""
+msgstr "الفاصل الزمني للإبقاء على MQTT [بالثواني]"
 
 msgid "Config renderer"
-msgstr ""
+msgstr "تكوين العارض"
 
 msgid "Configuration"
-msgstr ""
+msgstr "ترتيب"
 
 msgid "Configuration Gateway"
-msgstr ""
+msgstr "بوابة التكوين"
 
 msgid "Configuration applied."
-msgstr ""
+msgstr "تم تطبيق التهيئة."
 
 msgid "Configuration complete."
-msgstr ""
+msgstr "اكتمل التكوين."
 
 msgid "Configuration deleted."
-msgstr ""
+msgstr "تم حذف التكوين."
 
 msgid "Configuration reloaded."
-msgstr ""
+msgstr "تمت إعادة تحميل التكوين."
 
 msgid "Configuration repository"
-msgstr ""
+msgstr "مستودع التكوين"
 
 msgid "Configuration saved."
-msgstr ""
+msgstr "تم حفظ التكوين."
 
 msgid "Configuration snapshot"
-msgstr ""
+msgstr "لقطة التكوين"
 
 msgid "Configuration snapshot applied."
-msgstr ""
+msgstr "تم تطبيق لقطة التكوين."
 
 msgid "Configuration snapshot file"
-msgstr ""
+msgstr "ملف لقطة التكوين"
 
 msgid "Configuration snapshot saved to configuration repository."
-msgstr ""
+msgstr "تم حفظ لقطة التكوين في مستودع التكوين."
 
 msgid "Configuration snapshot saved."
-msgstr ""
+msgstr "تم حفظ لقطة التكوين."
 
 msgid "Configuration snapshot will be applied."
-msgstr ""
+msgstr "سيتم تطبيق لقطة التكوين."
 
 msgid "Configuration snapshot will be retrieved."
-msgstr ""
+msgstr "سيتم استرداد لقطة التكوين."
 
 msgid "Configuration snapshots repository"
-msgstr ""
+msgstr "لقطات تكوين التكوين"
 
 msgid "Configuration update"
-msgstr ""
+msgstr "تحديث التكوين"
 
 msgid "Configuration update request sent to the device."
-msgstr ""
+msgstr "تم إرسال طلب تحديث التكوين إلى الجهاز."
 
 msgid "Configuration will be reloaded."
-msgstr ""
+msgstr "سيتم إعادة تحميل التكوين."
 
 msgid "Configuration will be updated."
-msgstr ""
+msgstr "سيتم تحديث التكوين."
 
 msgid "Configure DHCP settings"
-msgstr ""
+msgstr "تكوين إعدادات DHCP"
 
 msgid "Configure LAN settings"
-msgstr ""
+msgstr "تكوين إعدادات LAN"
 
 msgid "Configure WAN settings"
-msgstr ""
+msgstr "تكوين إعدادات WAN"
 
 msgid "Configure column: {{label}}"
-msgstr ""
+msgstr "تكوين العمود: {{label}}"
 
 msgid "Configure columns"
-msgstr ""
+msgstr "تكوين الأعمدة"
 
 msgid "Configure computed property"
-msgstr ""
+msgstr "تكوين الخاصية المحسوبة"
 
 msgid "Configure debouncing alarm text"
-msgstr ""
+msgstr "تكوين نص التنبيه debouncing"
 
 msgid "Configure debouncing interval for GPIO <N> [seconds]"
-msgstr ""
+msgstr "تكوين الفاصل الزمني لفضح GPIO <N> [ثواني]"
 
 msgid "Configure hardware"
-msgstr ""
+msgstr "تكوين الأجهزة"
 
 msgid "Configure interval for status report in SMS mode [seconds]"
-msgstr ""
+msgstr "تكوين الفاصل الزمني لتقرير الحالة في وضع SMS [ثوانٍ]"
 
 msgid "Configure mobile"
-msgstr ""
+msgstr "تكوين الجوال"
 
 msgid "Configure position"
-msgstr ""
+msgstr "تكوين الموقف"
 
 msgid "Configure smart rules"
-msgstr ""
+msgstr "تكوين القواعد الذكية"
 
 msgid "Configure the Starter kit device: OBU-GT."
-msgstr ""
+msgstr "قم بتكوين جهاز Starter kit: OBU-GT."
 
 msgid "Configure your <a href=\"#/eventprocessing\">own processing rules and actions</a>."
-msgstr ""
+msgstr "تكوين الخاص بك <a href=\"#/eventprocessing\">قواعد وإجراءات المعالجة الخاصة</a>."
 
 msgid "Configuring Starter kit device"
-msgstr ""
+msgstr "تكوين جهاز عدة المبتدئين"
 
 msgid "Confirm"
-msgstr ""
+msgstr "تؤكد"
 
 msgid "Confirm Free vend mode?"
-msgstr ""
+msgstr "تأكيد وضع البائع المجاني؟"
 
 msgid "Confirm cancel?"
-msgstr ""
+msgstr "تأكيد الإلغاء؟"
 
 msgid "Confirm cancelling all pending operations"
-msgstr ""
+msgstr "تأكيد إلغاء جميع العمليات المعلقة"
 
 msgid "Confirm cancelling operation?"
-msgstr ""
+msgstr "هل تريد تأكيد عملية الإلغاء؟"
 
 msgid "Confirm clearing alarms?"
-msgstr ""
+msgstr "تأكيد مسح التنبيهات؟"
 
 msgid "Confirm deprovisioning?"
-msgstr ""
+msgstr "هل تريد تأكيد إلغاء حق الوصول؟"
 
 msgid "Confirm device type change?"
-msgstr ""
+msgstr "تأكيد تغيير نوع الجهاز؟"
 
 msgid "Confirm entering airplane mode?"
-msgstr ""
+msgstr "تأكيد دخول وضع الطائرة؟"
 
 msgid "Confirm new password"
-msgstr ""
+msgstr "تأكيد كلمة المرور الجديدة"
 
 msgid "Confirm password"
-msgstr ""
+msgstr "تأكيد كلمة المرور الجديدة"
 
 msgid "Confirm registration data reset?"
-msgstr ""
+msgstr "تأكيد إعادة تعيين بيانات التسجيل؟ "
 
 msgid "Confirm saving changes?"
-msgstr ""
+msgstr "هل تريد تأكيد حفظ التغييرات؟"
 
 msgid "Connect"
-msgstr ""
+msgstr "الاتصال"
 
 msgid "Connect child device."
-msgstr ""
+msgstr "قم بتوصيل جهاز طفل."
 
 msgid "Connect devices"
-msgstr ""
+msgstr "قم بتوصيل الأجهزة"
 
 msgid "Connect loggers"
-msgstr ""
+msgstr "ربط الحطابين"
 
 msgid "Connected"
-msgstr ""
+msgstr "متصل"
 
 msgid "Connected - waiting for incoming events..."
-msgstr ""
+msgstr "متصل - في انتظار الأحداث الواردة ..."
 
 msgid "Connected to: {{name}}"
-msgstr ""
+msgstr "متصلا: {{name}}"
 
 msgid "Connection"
-msgstr ""
+msgstr "الإتصال"
 
 msgid "Connection encrypted"
-msgstr ""
+msgstr "تم تشفير الاتصال"
 
 msgid "Connection established"
-msgstr ""
+msgstr "تم تأسيس الاتصال"
 
 msgid "Connection monitoring"
-msgstr ""
+msgstr "مراقبة الاتصال"
 
 msgid "Connection not monitored"
-msgstr ""
+msgstr "الاتصال غير مراقب"
 
 msgid "Connection refused"
-msgstr ""
+msgstr "رفض الاتصال"
 
 msgid "Connection status"
-msgstr ""
+msgstr "حالة الإتصال"
 
 msgid "Connection to device established"
-msgstr ""
+msgstr "تم تأسيس الاتصال بالجهاز"
 
 msgid "Connection to device not established (not supported by device or no connectivity)"
-msgstr ""
+msgstr "لم يتم تأسيس الاتصال بالجهاز (غير مدعوم بواسطة الجهاز أو لا يوجد اتصال)"
 
 msgid "Connection type"
-msgstr ""
+msgstr "نوع الاتصال"
 
 msgid "Connectivity"
-msgstr ""
+msgstr "الاتصال"
 
 msgid "Connectivity credentials updated."
-msgstr ""
+msgstr "تم تحديث بيانات اعتماد الاتصال."
 
 msgid "Connectivity plan"
-msgstr ""
+msgstr "خطة الاتصال"
 
 msgid "Connector deleted."
-msgstr ""
+msgstr "تم حذف الموصل."
 
 msgid "Connector is working"
-msgstr ""
+msgstr "الموصل يعمل"
 
 msgid "Connector name \"{{name}}\" already used by another connector."
-msgstr ""
+msgstr "اسم الموصل \"{{name}}\" مستخدم بالفعل بواسطة موصل آخر."
 
 msgid "Connector name updated."
-msgstr ""
+msgstr "تم تحديث اسم الموصل."
 
 msgid "Connector not bootstrapped but suspended by source tenant"
-msgstr ""
+msgstr "الرابط ليس قيد التشغيل ولكن تم تعليقه من قبل المستأجر المصدر"
 
 msgid "Connector not bootstrapped yet"
-msgstr ""
+msgstr "الموصل لم يتم تمهيده بعد"
 
 msgid "Connector saved."
-msgstr ""
+msgstr "تم حفظ الموصل"
 
 msgid "Connector suspended by source tenant"
-msgstr ""
+msgstr "تم تعليق الموصل من قبل المستأجر المصدر"
 
 msgid "Connectors"
-msgstr ""
+msgstr "موصلات"
 
 msgid "Constant"
-msgstr ""
+msgstr "ثابت"
 
 msgid "Constant value"
-msgstr ""
+msgstr "قيمة ثابتة"
 
 msgid "Contact name"
-msgstr ""
+msgstr "اسم جهة الاتصال"
 
 msgid "Contact phone"
-msgstr ""
+msgstr "هاتف الاتصال"
 
 msgid "Contact sales"
-msgstr ""
+msgstr "مبيعات الاتصال"
 
 msgid "Container created."
-msgstr ""
+msgstr "تم إنشاء الحاوية."
 
 msgid "Container started."
-msgstr ""
+msgstr "بدأت الحاوية."
 
 msgid "Content style"
-msgstr ""
+msgstr "نمط المحتوى"
 
 msgid "Continue"
-msgstr ""
+msgstr "استمر"
 
 msgid "Contract"
-msgstr ""
+msgstr "عقد"
 
 msgid "Control"
-msgstr ""
+msgstr "مراقبة"
 
 msgid "Control airplane mode for OBU-GT."
-msgstr ""
+msgstr "التحكم في وضع الطائرة لـ OBU-GT."
 
 msgid "Control demo"
-msgstr ""
+msgstr "عرض تحكم"
 
 msgid "Controls access as a support user."
-msgstr ""
+msgstr "يتحكم في الوصول كمستخدم دعم."
 
 msgid "Controls access in all scopes."
-msgstr ""
+msgstr "يتحكم في الوصول في جميع المجالات."
 
 msgid "Controls access to audit logs."
-msgstr ""
+msgstr "يتحكم في الوصول إلى سجلات التدقيق."
 
 msgid "Controls access to device alarms."
-msgstr ""
+msgstr "يتحكم في الوصول إلى إنذارات الجهاز."
 
 msgid "Controls access to device operations."
-msgstr ""
+msgstr "يتحكم في الوصول إلى عمليات الجهاز."
 
 msgid "Controls access to events."
-msgstr ""
+msgstr "يتحكم في الوصول إلى الأحداث."
 
 msgid "Controls access to managed objects in inventory."
-msgstr ""
+msgstr "يتحكم في الوصول إلى الكائنات المدارة في المخزون."
 
 msgid "Controls access to measurements."
-msgstr ""
+msgstr "يتحكم في الوصول إلى القياسات."
 
 msgid "Cookie banner"
-msgstr ""
+msgstr "بانر ملف تعريف الارتباط"
 
 msgid "Copied to clipboard."
-msgstr ""
+msgstr "نسخ إلى الحافظة."
 
 msgid "Copy"
-msgstr ""
+msgstr "نسخ"
 
 msgid "Copy all fragments"
-msgstr ""
+msgstr "انسخ جميع الأجزاء"
 
 msgid "Copy dashboard"
-msgstr ""
+msgstr "نسخ لوحة القيادة"
 
 msgid "Copy inventory roles from another user"
-msgstr ""
+msgstr "نسخ أدوار المخزون من مستخدم آخر"
 
 msgid "Copy inventory roles from..."
-msgstr ""
+msgstr "نسخ أدوار المخزون من ..."
 
 msgid "Copy roles from..."
-msgstr ""
+msgstr "نسخ الأدوار من ..."
 
 msgid "Copy to clipboard"
-msgstr ""
+msgstr "نسخ إلى الحافظة"
 
 msgid "Copy: all"
-msgstr ""
+msgstr "نسخ: جميع"
 
 msgid "Copy: standard only"
-msgstr ""
+msgstr "نسخ: قياسي فقط"
 
 msgid "Copy: {{fragments}}"
-msgstr ""
+msgstr "نسخ: {{fragments}}"
 
 msgid "Could not accept all pending registration requests."
-msgstr ""
+msgstr "تعذر قبول جميع طلبات التسجيل المعلقة."
 
 msgid "Could not access SSH server on endpoint \"{{endpointName}}\". Provided credentials for user \"{{userName}}\" are incorrect."
-msgstr ""
+msgstr "تعذر الوصول إلى خادم SSH عند نقطة النهاية \"{{endpointName}}\". قدمت أوراق اعتماد للمستخدم \"{{userName}}\" غير صحيحة."
 
 msgid "Could not activate custom domain. DNS setup is incorrect."
-msgstr ""
+msgstr "تعذر تنشيط المجال المخصص. إعداد DNS غير صحيح."
 
 msgid "Could not add identity. External ID \"{{externalId}}\" of the type \"{{type}}\" already exists."
-msgstr ""
+msgstr "تعذرت إضافة الهوية. معرف خارجي \"{{externalId}}\" من النوع \"{{type}}\" موجود مسبقا."
 
 msgid "Could not connect to endpoint \"{{endpointName}}\". Could not verify {{keyType}} host key with fingerprint {{fingerprint}} for host {{host}} on port {{port}}. If you expected this key, please remove the previous one from configuration to allow for connection."
-msgstr ""
+msgstr "تعذر الاتصال بنقطة النهاية \"{{endpointName}}\". لا يمكن التحقق {{keyType}} مفتاح المضيف ببصمة الإصبع {{fingerprint}} للمضيف {{host}} على المنفذ {{port}}. إذا كنت تتوقع هذا المفتاح ، يرجى إزالة المفتاح السابق من التكوين للسماح بالاتصال."
 
 msgid "Could not copy to clipboard, press Ctrl/Cmd+C to copy."
-msgstr ""
+msgstr "تعذر النسخ إلى الحافظة ، اضغط على Ctrl / Cmd + C للنسخ."
 
 msgid "Could not copy to clipboard."
-msgstr ""
+msgstr "تعذر النسخ إلى الحافظة."
 
 msgid "Could not create a tenant. Tenant with given domain/URL already exists."
-msgstr ""
+msgstr "لا يمكن إنشاء مستأجر. المستأجر مع مجال / URL موجود بالفعل."
 
 msgid "Could not create application."
-msgstr ""
+msgstr "تعذر إنشاء التطبيق."
 
 msgid "Could not delete application assigned to other tenants."
-msgstr ""
+msgstr "تعذر حذف التطبيق المعين للمستأجرين الآخرين."
 
 msgid "Could not deploy module \"{{moduleName}}\". Compilation failed in expression \"{{expression}}\": exception compiling script \"{{scriptName}}\" of dialect \"{{scriptDialect}}\": missing \"{{missingSyntax}}\" before statement \"{{affectedStatement}}\"."
-msgstr ""
+msgstr "تعذر نشر الوحدة النمطية \"{{moduleName}}\". فشل التجميع في التعبير \"{{expression}}\": استثناء تجميع النص \"{{scriptName}}\" اللهجة \"{{scriptDialect}}\": مفقود \"{{missingSyntax}}\" قبل البيان \"{{affectedStatement}}\""
 
 msgid "Could not deploy module \"{{moduleName}}\". Compilation failed in expression \"{{expression}}\": incorrect syntax near \"{{incorrectExpression}}\" at line {{line}} column {{column}} near reserved keyword \"{{keyword}}\"."
-msgstr ""
+msgstr "تعذر نشر الوحدة النمطية \"{{moduleName}}\". فشل التجميع في التعبير \"{{expression}}\": بناء جملة غير صحيح بالقرب من \"{{incorrectExpression}}\" في السطر {{line}} خانة {{column}} بالقرب من الكلمة الرئيسية المحجوزة \"{{keyword}}\"."
 
 msgid "Could not deploy module \"{{moduleName}}\". Compilation failed in expression \"{{expression}}\": incorrect syntax near \"{{incorrectExpression}}\" at line {{line}} column {{column}}, check \"where\" clause."
-msgstr ""
+msgstr "تعذر نشر الوحدة النمطية \"{{moduleName}}\". فشل التجميع في التعبير \"{{expression}}\": بناء جملة غير صحيح بالقرب من \"{{incorrectExpression}}\" في السطر {{line}} خانة {{column}}, التحقق من \"where\" بند."
 
 msgid "Could not deploy module \"{{moduleName}}\". Compilation failed in expression \"{{expression}}\": incorrect syntax near \"{{incorrectExpression}}\" at line {{line}} column {{column}}."
-msgstr ""
+msgstr "تعذر نشر الوحدة النمطية \"{{moduleName}}\". فشل التجميع في التعبير \"{{expression}}\": بناء جملة غير صحيح بالقرب من \"{{incorrectExpression}}\" في السطر {{line}} خانة {{column}}."
 
 msgid "Could not download the log file."
-msgstr ""
+msgstr "تعذر تنزيل ملف السجل."
 
 msgid "Could not execute bulk operation on an empty group. Group with ID \"{{groupId}}\" has no child assets."
-msgstr ""
+msgstr "تعذر تنفيذ عملية مجمعة على مجموعة فارغة. المجموعة ذات المعرف \"{{groupId}}\" ليس لها أصول فرعية."
 
 msgid "Could not execute bulk operation on an empty group. Smart group with ID \"{{groupId}}\" has no child assets."
-msgstr ""
+msgstr "تعذر تنفيذ عملية مجمعة على مجموعة فارغة. مجموعة ذكية بمعرف \"{{groupId}}\" ليس لديه أصول تابعة."
 
 msgid "Could not find application by ID {{applicationId}}."
-msgstr ""
+msgstr "تعذر العثور على التطبيق بواسطة المعرّف {{applicationId}}."
 
 msgid "Could not find device for identity {{type}}: {{externalId}}."
-msgstr ""
+msgstr "تعذر العثور على جهاز للهوية {{type}}: {{externalId}}."
 
 msgid "Could not find managed object with ID \"{{deviceId}}\"."
-msgstr ""
+msgstr "تعذر العثور على كائن مُدار برقم التعريف \"{{deviceId}}\"."
 
 msgid "Could not find the resource with ID \"{{id}}\"."
-msgstr ""
+msgstr "لا يمكن العثور على المورد ذو المعرف \"{{id}}\"."
 
 msgid "Could not find user \"{{errorUser}}\". Device owner reverted to \"{{owner}}\"."
-msgstr ""
+msgstr "تعذر العثور على المستخدم \"{{errorUser}}\". عاد مالك الجهاز إلى \"{{owner}}\"."
 
 msgid "Could not get device protocols of type \"{{name}}\"."
-msgstr ""
+msgstr "تعذر الحصول على بروتوكولات الجهاز من النوع \"{{name}}\"."
 
 msgid "Could not get measurements from device."
-msgstr ""
+msgstr "تعذر الحصول على قياسات من الجهاز."
 
 msgid "Could not get measurements from device: \"{{failureReason | translate}}\"."
-msgstr ""
+msgstr "تعذر الحصول على قياسات من الجهاز: \"{{failureReason | translate}}\"."
 
 msgid "Could not import device protocol due to: \"{{errorMessage | translate}}\"."
-msgstr ""
+msgstr "تعذر استيراد بروتوكول الجهاز بسبب: \"{{errorMessage | translate}}\"."
 
 msgid "Could not import device protocol."
-msgstr ""
+msgstr "لا يمكن استيراد بروتوكول الجهاز."
 
 msgid "Could not import device type due to: \"{{errorMessage | translate}}\"."
-msgstr ""
+msgstr "تعذر استيراد نوع الجهاز بسبب: \"{{errorMessage | translate}}\"."
 
 msgid "Could not import device type."
-msgstr ""
+msgstr "تعذر استيراد نوع الجهاز."
 
 msgid "Could not import template due to: \"{{errorMessage | translate}}\"."
-msgstr ""
+msgstr "تعذر استيراد القالب بسبب: \"{{errorMessage | translate}}\"."
 
 msgid "Could not import template."
-msgstr ""
+msgstr "تعذر استيراد القالب."
 
 msgid "Could not initiate measurement poll."
-msgstr ""
+msgstr "تعذر بدء استطلاع القياس."
 
 msgid "Could not initiate measurement poll: \"{{failureReason | translate}}\"."
-msgstr ""
+msgstr "تعذر بدء استطلاع القياس: \"{{failureReason | translate}}\"."
 
 msgid "Could not introduce cyclic ownership dependency."
-msgstr ""
+msgstr "تعذر تقديم تبعية ملكية دورية."
 
 msgid "Could not load OAuth 2.0 configuration."
-msgstr ""
+msgstr "تعذر تحميل تهيئة OAuth 2.0."
 
 msgid "Could not load Smart Rules list."
-msgstr ""
+msgstr "تعذر تحميل قائمة القواعد الذكية."
 
 msgid "Could not load file."
-msgstr ""
+msgstr "تعذر تحميل الملف."
 
 msgid "Could not open URL: {{url}}."
-msgstr ""
+msgstr "تعذر فتح URL: {{url}}."
 
 msgid "Could not parse EDS content."
-msgstr ""
+msgstr "تعذر تحليل محتوى EDS."
 
 msgid "Could not parse JSON content."
-msgstr ""
+msgstr "تعذر تحليل محتوى JSON."
 
 msgid "Could not read file."
-msgstr ""
+msgstr "تعذرت قراءة الملف."
 
 msgid "Could not recognize \"Host key\" format"
-msgstr ""
+msgstr "تعذر التعرف على تنسيق \"Host key\" "
 
 msgid "Could not recognize the format of \"Public key\" or \"Private key\""
-msgstr ""
+msgstr "تعذر التعرف على تنسيق \"Public key\" ولا \"Private key\""
 
 msgid "Could not remove tenant \"{{tenant}}\". Remove its subtenants first."
-msgstr ""
+msgstr "تعذرت إزالة المستأجر \"{{tenant}}\". إزالة ساكنيه من الباطن أولاً."
 
 msgid "Could not save configuration."
-msgstr ""
+msgstr "تعذر حفظ التكوين."
 
 msgid "Could not subscribe to the microservice because another application with the same context path is already subscribed."
-msgstr ""
+msgstr "تعذر الاشتراك في الخدمة المصغرة لأن تطبيقًا آخر له نفس مسار السياق مشترك بالفعل."
 
 msgid "Could not update phone number."
-msgstr ""
+msgstr "تعذر تحديث رقم الهاتف."
 
 msgid "Could not update user \"{{username}}\"."
-msgstr ""
+msgstr "تعذر تحديث المستخدم \"{{username}}\"."
 
 msgid "Could not upload the files."
-msgstr ""
+msgstr "لا يمكن تحميل الملفات."
 
 msgid "Could not use a reserved SQL keyword \"{{tenantId}}\" as a domain name."
-msgstr ""
+msgstr "تعذر استخدام كلمة أساسية محجوزة لـ SQL \"{{tenantId}}\" كاسم المجال."
 
 msgid "Country"
-msgstr ""
+msgstr "بلد"
 
 msgid "Create"
-msgstr ""
+msgstr "أنتج"
 
 msgid "Create Building subgroup"
 msgid_plural "Create Building subgroups"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "إنشاء مجموعة فرعية للمبنى"
+msgstr[1] "إنشاء مجموعات فرعية"
 
 msgid "Create CRITICAL alarm"
-msgstr ""
+msgstr "إنشاء إنذار حاسم"
 
 msgid "Create IIoT demo"
-msgstr ""
+msgstr "إنشاء عرض IIoT"
 
 msgid "Create KPI"
-msgstr ""
+msgstr "إنشاء مؤشر أداء رئيسي"
 
 msgid "Create MAJOR alarm"
-msgstr ""
+msgstr "إنشاء إنذار رئيسي"
 
 msgid "Create MINOR alarm"
-msgstr ""
+msgstr "إنشاء منبه بسيط"
 
 msgid "Create Smart Rule"
-msgstr ""
+msgstr "إنشاء قاعدة ذكية"
 
 msgid "Create WARNING alarm"
-msgstr ""
+msgstr "إنشاء إنذار تحذير"
 
 msgid "Create a measurement whenever the value is changed."
-msgstr ""
+msgstr "قم بإنشاء قياس كلما تغيرت القيمة."
 
 msgid "Create alarm"
-msgstr ""
+msgstr "إنشاء منبه"
 
 msgid "Create alarm if temperature was to low for 15 minutes"
-msgstr ""
+msgstr "قم بإنشاء إنذار إذا كانت درجة الحرارة منخفضة لمدة 15 دقيقة"
 
 msgid "Create alarm on not processed operation"
-msgstr ""
+msgstr "إنشاء إنذار على عملية لم تتم معالجتها"
 
 msgid "Create alarm when measurement reaches explicit thresholds"
-msgstr ""
+msgstr "إنشاء إنذار عندما يصل القياس إلى عتبات صريحة"
 
 msgid "Create alarm when temperature below 0 degree"
-msgstr ""
+msgstr "إنشاء إنذار عندما تكون درجة الحرارة أقل من 0 درجة"
 
 msgid "Create alarm when temperature over 100 degree"
-msgstr ""
+msgstr "إنشاء إنذار عندما تكون درجة الحرارة فوق 100 درجة"
 
 msgid "Create alarm:"
-msgstr ""
+msgstr "إنشاء منبه:"
 
 msgid "Create an alarm if the value is not equal to 0"
-msgstr ""
+msgstr "قم بإنشاء تنبيه إذا كانت القيمة لا تساوي 0"
 
 msgid "Create an event whenever the value is changed"
-msgstr ""
+msgstr "قم بإنشاء حدث كلما تم تغيير القيمة"
 
 msgid "Create and assign"
-msgstr ""
+msgstr "إنشاء وتعيين"
 
 msgid "Create applications"
-msgstr ""
+msgstr "إنشاء تطبيقات"
 
 msgid "Create basic event"
-msgstr ""
+msgstr "إنشاء حدث أساسي"
 
 msgid "Create battery measurement"
-msgstr ""
+msgstr "إنشاء قياس للبطارية"
 
 msgid "Create branded built-in apps"
-msgstr ""
+msgstr "إنشاء تطبيقات مدمجة ذات علامة تجارية"
 
 msgid "Create close relay operation when temperature readings over 100 degree"
-msgstr ""
+msgstr "إنشاء عملية تتابع قريبة عندما قراءات درجة الحرارة فوق 100 درجة"
 
 msgid "Create configuration"
-msgstr ""
+msgstr "إنشاء التكوين"
 
 msgid "Create custom measurement"
-msgstr ""
+msgstr "إنشاء قياس مخصص"
 
 msgid "Create dashboard"
-msgstr ""
+msgstr "إنشاء لوحة عدادات"
 
 msgid "Create device"
-msgstr ""
+msgstr "قم بإنشاء جهاز"
 
 msgid "Create error situation"
-msgstr ""
+msgstr "إنشاء حالة خطأ"
 
 msgid "Create global role"
-msgstr ""
+msgstr "خلق دور عالمي"
 
 msgid "Create group"
-msgstr ""
+msgstr "إنشاء مجموعة"
 
 msgid "Create group with one device"
 msgid_plural "Create group with {{$count}} devices"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "إنشاء مجموعة بجهاز واحد"
+msgstr[1] "إنشاء مجموعة {{$count}} أجهزة"
 
 msgid "Create legacy smartapp"
-msgstr ""
+msgstr "إنشاء تطبيق smartapp قديم"
 
 msgid "Create location update event"
-msgstr ""
+msgstr "إنشاء حدث تحديث الموقع"
 
 msgid "Create location update event with device update"
-msgstr ""
+msgstr "إنشاء حدث تحديث الموقع بتحديث الجهاز"
 
 msgid "Create new KPI"
-msgstr ""
+msgstr "إنشاء مؤشر أداء رئيسي جديد"
 
 msgid "Create new device"
-msgstr ""
+msgstr "قم بإنشاء جهاز جديد"
 
 msgid "Create new group and assign device"
-msgstr ""
+msgstr "إنشاء مجموعة جديدة وتعيين جهاز"
 
 msgid "Create new subscription"
-msgstr ""
+msgstr "إنشاء اشتراك جديد"
 
 msgid "Create operation"
-msgstr ""
+msgstr "إنشاء عملية"
 
 msgid "Create or import your first SmartREST Template."
-msgstr ""
+msgstr "قم بإنشاء أو استيراد أول قالب SmartREST الخاص بك."
 
 msgid "Create report"
-msgstr ""
+msgstr "إنشاء تقرير"
 
 msgid "Create retention rule"
-msgstr ""
+msgstr "إنشاء قاعدة احتفاظ"
 
 msgid "Create rule"
-msgstr ""
+msgstr "إنشاء قاعدة"
 
 msgid "Create signal strength measurement"
-msgstr ""
+msgstr "إنشاء قياس قوة الإشارة"
 
 msgid "Create simulated devices"
-msgstr ""
+msgstr "إنشاء أجهزة محاكاة"
 
 msgid "Create smart group"
-msgstr ""
+msgstr "إنشاء مجموعة ذكية"
 
 msgid "Create temperature measurement"
-msgstr ""
+msgstr "إنشاء قياس درجة الحرارة"
 
 msgid "Create tenant"
-msgstr ""
+msgstr "إنشاء مستأجر"
 
 msgid "Create top level Site group"
 msgid_plural "Create top level Site groups"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "إنشاء مجموعة مواقع ذات مستوى أعلى"
+msgstr[1] "إنشاء مجموعات مواقع عالية المستوى"
 
 msgid "Create widget"
-msgstr ""
+msgstr "إنشاء القطعة"
 
 msgid "Create your first Simulator."
-msgstr ""
+msgstr "قم بإنشاء محاكيك الأول."
 
 msgid "Create your first device protocol by clicking below"
-msgstr ""
+msgstr "قم بإنشاء بروتوكول الجهاز الأول الخاص بك عن طريق النقر أدناه"
 
 msgid "Created"
-msgstr ""
+msgstr "أنشئت"
 
 msgid "Created:"
-msgstr ""
+msgstr "أنشئت: "
 
 msgid "Creates alarm when measurements are missing"
-msgstr ""
+msgstr "يخلق إنذار عندما تكون القياسات مفقودة"
 
 msgid "Creates alarms when measurement reaches thresholds"
-msgstr ""
+msgstr "ينشئ إنذارات عندما يصل القياس إلى العتبات"
 
 msgid ""
 "Creates all device credentials and devices using provided list of property values.\n"
 "          Devices can start communicating with the platform immediately."
 msgstr ""
+"إنشاء كافة بيانات اعتماد الجهاز والأجهزة باستخدام قائمة قيم الخصائص المتوفرة. \ n"
+"يمكن للأجهزة بدء الاتصال بالمنصة على الفور."
 
 msgid "Creates all registration requests at once, then each one needs to go through regular acceptance process."
-msgstr ""
+msgstr "ينشئ جميع طلبات التسجيل مرة واحدة ، ثم يحتاج كل واحد إلى الخضوع لعملية قبول منتظمة."
 
 msgid "Creating application"
-msgstr ""
+msgstr "إنشاء التطبيق"
 
 msgid "Creation time"
-msgstr ""
+msgstr "وقت الابتكار"
 
 msgid "Credentials"
-msgstr ""
+msgstr "شهاداته"
 
 msgid ""
 "Credentials already provided.<br>\n"
 "          Click \"Replace credentials\" below to overwrite them."
 msgstr ""
+"تم توفير بيانات الاعتماد بالفعل. <br>\n"
+"          نقر \"Replace credentials\" ستبدال بيانات الاعتماد."
 
 msgid "Credentials deleted."
-msgstr ""
+msgstr "تم حذف بيانات الاعتماد."
 
 msgid "Credentials saved."
 msgstr ""
@@ -13370,7 +13387,7 @@ msgstr "أو نوع جزء محدد  * على سبيل المثال"
 msgid "e.g. +49 9 876 543 210`LOCALIZE`"
 msgstr "`LOCALIZE` على سبيل المثال + 49 9 876 543 210"
 
-msgid "e.g. +495434323210"
+msgid "e.g. +495434323210 `LOCALIZE`"
 msgstr "`LOCALIZE` +495434323210 على سبيل المثال"
 
 msgid "e.g. 10"
