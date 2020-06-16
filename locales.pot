@@ -3001,878 +3001,881 @@ msgid "Credentials deleted."
 msgstr "تم حذف بيانات الاعتماد."
 
 msgid "Credentials saved."
-msgstr ""
+msgstr "تم حفظ أوراق الاعتماد."
 
 msgid "Credentials updated."
-msgstr ""
+msgstr "تم تحديث بيانات الاعتماد."
 
 msgid "Credit card"
-msgstr ""
+msgstr "بطاقة الائتمان"
 
 msgid "Critical"
-msgstr ""
+msgstr "حرج"
 
 msgid "Critical alarms"
-msgstr ""
+msgstr "الإنذارات الحرجة"
 
 msgid "Cumulocity IoT Edge`KEEP_ORIGINAL`"
-msgstr ""
+msgstr "Cumulocity IoT Edge`KEEP_ORIGINAL`"
 
 msgid "Cumulocity Linux Agent commands"
-msgstr ""
+msgstr "أوامر وكيل Linux التراكمي"
 
 msgid ""
 "Cumulocity's IoT Platform<br>\n"
 "      tailored for your needs"
-msgstr ""
+msgstr "منصة IoT التراكمية <br> \ n "
+"مصممة لاحتياجاتك"
 
 msgid "Current"
-msgstr ""
+msgstr "الحالية"
 
 msgid "Current RDB snapshot"
-msgstr ""
+msgstr "لقطة RDB الحالية"
 
 msgid "Current balance"
-msgstr ""
+msgstr "الرصيد الحالي"
 
 msgid "Current band"
-msgstr ""
+msgstr "الفرقة الحالية"
 
 msgid "Current device"
-msgstr ""
+msgstr "الجهاز الحالي"
 
 msgid "Current firmware"
-msgstr ""
+msgstr "البرامج الثابتة الحالية"
 
 msgid "Current location"
-msgstr ""
+msgstr "الموقع الحالي"
 
 msgid "Current month usage"
-msgstr ""
+msgstr "استخدام الشهر الحالي"
 
 msgid "Current operator"
-msgstr ""
+msgstr "المشغل الحالي"
 
 msgid "Current password"
-msgstr ""
+msgstr "كلمة المرور الحالي"
 
 msgid "Current plan"
-msgstr ""
+msgstr "الخطة الحالية"
 
 msgid "Current roles"
-msgstr ""
+msgstr "الأدوار الحالية"
 
 msgid "Current snapshot"
-msgstr ""
+msgstr "اللقطة الحالية"
 
 msgid "Current value"
-msgstr ""
+msgstr "القيمة الحالية"
 
 msgid "Current value out of defined range."
-msgstr ""
+msgstr "القيمة الحالية خارج النطاق المحدد."
 
 msgid "Currently in trial edition, upgrade to set a payment method."
-msgstr ""
+msgstr "حاليًا في الإصدار التجريبي ، قم بالترقية لتعيين طريقة دفع."
 
 msgid "Custom"
-msgstr ""
+msgstr "مخصص"
 
 msgid "Custom action"
-msgstr ""
+msgstr "إجراء مخصص"
 
 msgid "Custom applications"
-msgstr ""
+msgstr "تطبيقات مخصصة"
 
 msgid "Custom columns"
-msgstr ""
+msgstr "أعمدة مخصصة"
 
 msgid "Custom device registration"
-msgstr ""
+msgstr "تسجيل الجهاز المخصص"
 
 msgid "Custom domain activation"
-msgstr ""
+msgstr "تنشيط المجال المخصص"
 
 msgid "Custom domain name"
-msgstr ""
+msgstr "اسم المجال المخصص"
 
 msgid "Custom key must be different than built-in ones."
-msgstr ""
+msgstr "يجب أن يكون المفتاح المخصص مختلفًا عن المفتاح المضمن."
 
 msgid "Custom operation"
-msgstr ""
+msgstr "عملية مخصصة"
 
 msgid "Custom operation type"
-msgstr ""
+msgstr "نوع العملية المخصصة"
 
 msgid "Custom properties"
-msgstr ""
+msgstr "خصائص مخصصة"
 
 msgid "Custom properties saved."
-msgstr ""
+msgstr "تم حفظ الخصائص المخصصة."
 
 msgid "Custom registration"
-msgstr ""
+msgstr "تسجيل مخصص"
 
 msgid "Customer"
-msgstr ""
+msgstr "الزبون"
 
 msgid "Customer data update failed due to: {{errorMessage | translate}}."
-msgstr ""
+msgstr ".{{errorMessage | translate}} فشل تحديث بيانات العميل بسبب:"
 
 msgid "Customer data update failed."
-msgstr ""
+msgstr "فشل تحديث بيانات العميل."
 
 msgid "Customer data updated."
-msgstr ""
+msgstr "تم تحديث بيانات العميل."
 
 msgid "Customize widget style"
-msgstr ""
+msgstr "تخصيص نمط القطعة"
 
 msgid "Cycle data connection status"
-msgstr ""
+msgstr "دورة اتصال البيانات"
 
 msgid "Cycle detected for route {{route}}."
-msgstr ""
+msgstr ".{{route}} تم اكتشاف دورة للمسار"
 
 msgid "Cyclic read"
-msgstr ""
+msgstr "قراءة دورية"
 
 msgid "DATE"
-msgstr ""
+msgstr "تاريخ"
 
 msgid "DDCMP on RS232 #1"
-msgstr ""
+msgstr "DDCMP on RS232 #1"
 
 msgid "DDCMP on RS232 #2"
-msgstr ""
+msgstr "DDCMP on RS232 #2"
 
 msgid "DEACTIVATE"
-msgstr ""
+msgstr "تعطيل"
 
 msgid "DEACTIVATED"
-msgstr ""
+msgstr "معطل"
 
 msgid "DES"
-msgstr ""
+msgstr "DES"
 
 msgid "DEX on RS232 #1"
-msgstr ""
+msgstr "DEX on RS232 #1"
 
 msgid "DEX on RS232 #2"
-msgstr ""
+msgstr "DEX on RS232 #2"
 
 msgid "DHCP"
-msgstr ""
+msgstr "DHCP"
 
 msgid "DHCP Server"
-msgstr ""
+msgstr "DHCP Server"
 
 msgid "DNS"
-msgstr ""
+msgstr "DNS"
 
 msgid "DNS 1"
-msgstr ""
+msgstr "DNS 1"
 
 msgid "DNS 2"
-msgstr ""
+msgstr "DNS 2"
 
 msgid "Daily"
-msgstr ""
+msgstr "اليومي"
 
 msgid "Daily aggregation"
-msgstr ""
+msgstr "التجميع اليومي"
 
 msgid "Dark"
-msgstr ""
+msgstr "داكن"
 
 msgid "Dark brand color"
-msgstr ""
+msgstr "لون العلامة التجارية الداكنة"
 
 msgid "Dark theme"
-msgstr ""
+msgstr "مظهر داكن"
 
 msgid "Dashboard"
-msgstr ""
+msgstr "لوحة القيادة"
 
 msgid "Dashboard & frequency"
-msgstr ""
+msgstr "لوحة القيادة والتردد"
 
 msgid "Dashboard copied. Navigate to the desired device and select \"Paste dashboard\""
-msgstr ""
+msgstr "\"Paste dashboard\" تم نسخ لوحة التحكم. انتقل إلى الجهاز المطلوب وحدد"
 
 msgid "Dashboard copied. Navigate to the desired group and select \"Paste dashboard\""
-msgstr ""
+msgstr "\"Paste dashboard\" تم نسخ لوحة التحكم. انتقل إلى المجموعة المطلوبة وحدد"
 
 msgid "Dashboard default"
-msgstr ""
+msgstr "لوحة التحكم الافتراضية"
 
 msgid "Dashboard info"
-msgstr ""
+msgstr "معلومات لوحة التحكم"
 
 msgid "Dashboard layout"
-msgstr ""
+msgstr "تخطيط لوحة المعلومات"
 
 msgid "Dashboard theme"
-msgstr ""
+msgstr "مظهر لوحة أجهزة القياس"
 
 msgid "Dashboard visible to all users"
-msgstr ""
+msgstr "لوحة القيادة مرئية لجميع المستخدمين"
 
 msgid "Data"
-msgstr ""
+msgstr "البيانات"
 
 msgid "Data & frequency"
-msgstr ""
+msgstr "البيانات والتردد"
 
 msgid "Data bits"
-msgstr ""
+msgstr "بتات البيانات"
 
 msgid "Data broker"
-msgstr ""
+msgstr "وسيط البيانات"
 
 msgid "Data broker connector"
-msgstr ""
+msgstr "موصل وسيط البيانات"
 
 msgid "Data broker processing is currently overloaded and may stop forwarding your data. Please contact support."
-msgstr ""
+msgstr ".معالجة وسيط البيانات مثقلة حاليًا وقد تتوقف عن إعادة توجيه بياناتك. يرجى الاتصال بالدعم"
 
 msgid "Data broker processing is not able to connect to destination tenant, thus data forwarding is not working. Please contact support."
-msgstr ""
+msgstr ".معالجة وسيط البيانات غير قادرة على الاتصال بالمستأجر الوجهة ، وبالتالي لا تعمل إعادة توجيه البيانات. يرجى الاتصال بالدعم"
 
 msgid "Data connectors"
-msgstr ""
+msgstr "موصلات البيانات"
 
 msgid "Data explorer"
-msgstr ""
+msgstr "مستكشف البيانات"
 
 msgid "Data export"
-msgstr ""
+msgstr "تصدير البيانات"
 
 msgid "Data filters"
-msgstr ""
+msgstr "مرشحات البيانات"
 
 msgid "Data logging"
-msgstr ""
+msgstr "تسجيل البيانات"
 
 msgid "Data point"
-msgstr ""
+msgstr "نقطة البيانات"
 
 msgid "Data point deleted."
-msgstr ""
+msgstr ".تم حذف نقطة البيانات"
 
 msgid "Data point for gauge"
-msgstr ""
+msgstr "نقطة بيانات للقياس"
 
 msgid "Data point for labels"
-msgstr ""
+msgstr "نقطة بيانات للملصقات"
 
 msgid "Data point library"
-msgstr ""
+msgstr "مكتبة نقطة البيانات"
 
 msgid "Data point name"
-msgstr ""
+msgstr "اسم نقطة البيانات"
 
 msgid "Data point status"
-msgstr ""
+msgstr "حالة نقطة البيانات"
 
 msgid "Data point: {{config.fragment}} => {{config.series}}"
-msgstr ""
+msgstr "{{config.fragment}} => {{config.series}}  نقطة البيانات:"
 
 msgid "Data points"
-msgstr ""
+msgstr "نقاط البيانات"
 
 msgid "Data points graph"
-msgstr ""
+msgstr "رسم بياني لنقاط البيانات"
 
 msgid "Data points list"
-msgstr ""
+msgstr "قائمة نقاط البيانات"
 
 msgid "Data points table"
-msgstr ""
+msgstr "جدول نقاط البيانات"
 
 msgid "Data profile widget"
-msgstr ""
+msgstr "أداة ملف تعريف البيانات"
 
 msgid "Data reporting"
-msgstr ""
+msgstr "الإبلاغ عن البيانات"
 
 msgid "Data subscriptions"
-msgstr ""
+msgstr "اشتراكات البيانات"
 
 msgid "Data truncated. Use aggregation."
-msgstr ""
+msgstr "تم اقتطاع البيانات. استخدم التجميع."
 
 msgid "Data type"
-msgstr ""
+msgstr "نوع البيانات"
 
 msgid "Data usage (MB)"
-msgstr ""
+msgstr "(MB) استخدام البيانات"
 
 msgid "Data:"
-msgstr ""
+msgstr ":البيانات"
 
 msgid "Date &amp; time"
-msgstr ""
+msgstr "زمن &amp; تاريخ"
 
 msgid "Date created"
-msgstr ""
+msgstr "تاريخ الإنشاء"
 
 msgid "Date from"
-msgstr ""
+msgstr "التاريخ من"
 
 msgid "Date received"
-msgstr ""
+msgstr "تاريخ الاستلام"
 
 msgid "Date sent"
-msgstr ""
+msgstr "تاريخ إرسالها"
 
 msgid "Date to"
-msgstr ""
+msgstr "التاريخ حتى"
 
 msgid "Date/time"
-msgstr ""
+msgstr "التاريخ / الوقت"
 
 msgid "Day"
-msgstr ""
+msgstr "يوم"
 
 msgid "Deactivate"
-msgstr ""
+msgstr "إبطال"
 
 msgid "Deactivate Cell ID information"
-msgstr ""
+msgstr "إلغاء تنشيط معلومات معرف الخلية"
 
 msgid "Deactivate MDB sniffer mode"
-msgstr ""
+msgstr "قم بإلغاء تنشيط وضع الشم MDB"
 
 msgid "Deactivate access"
-msgstr ""
+msgstr "تعطيل الوصول"
 
 msgid "Deactivate for this device"
-msgstr ""
+msgstr "إلغاء التنشيط لهذا الجهاز"
 
 msgid "Deactivate for this group"
-msgstr ""
+msgstr "إلغاء التنشيط لهذه المجموعة"
 
 msgid "Deactivate for this object"
-msgstr ""
+msgstr "إلغاء التنشيط لهذا الكائن"
 
 msgid "Deactivate geofence"
-msgstr ""
+msgstr "قم بإلغاء تنشيط السياج الجغرافي"
 
 msgid "Deactivate motion tracking"
-msgstr ""
+msgstr "قم بإلغاء تنشيط تتبع الحركة"
 
 msgid "Deactivate support"
-msgstr ""
+msgstr "قم بإلغاء تنشيط الدعم"
 
 msgid "Deactivate support user access"
-msgstr ""
+msgstr "قم بإلغاء تنشيط دعم وصول المستخدم"
 
 msgid "Deactivated"
-msgstr ""
+msgstr "معطل"
 
 msgid "Deactivating SSL certificate"
-msgstr ""
+msgstr "تعطيل شهادة SSL"
 
 msgid "Deactivating support access as tenant admin will disable all other support requests on your tenant."
-msgstr ""
+msgstr "سيؤدي إلغاء تنشيط الوصول إلى الدعم كمسؤول مستأجر إلى تعطيل جميع طلبات الدعم الأخرى على المستأجر."
 
 msgid "Deadband filter"
-msgstr ""
+msgstr "مرشح Deadband"
 
 msgid "Deadband value"
-msgstr ""
+msgstr "قيمة الثبات"
 
 msgid "Debugging and monitoring"
-msgstr ""
+msgstr "التصحيح والمراقبة"
 
 msgid "Decimal places"
-msgstr ""
+msgstr "منازل عشرية"
 
 msgid "Decimal separator"
-msgstr ""
+msgstr "الفاصل العشري"
 
 msgid "Decrease temperature"
-msgstr ""
+msgstr "خفض درجة الحرارة"
 
 msgid "Default"
-msgstr ""
+msgstr "إفتراضي"
 
 msgid "Default AT Commands"
-msgstr ""
+msgstr "أوامر AT الافتراضية"
 
 msgid "Default application"
-msgstr ""
+msgstr "التطبيق الافتراضي"
 
 msgid "Default applications"
-msgstr ""
+msgstr "التطبيقات الافتراضية"
 
 msgid "Default applications for new tenants"
-msgstr ""
+msgstr "التطبيقات الافتراضية للمستأجرين الجدد"
 
 msgid "Default global roles"
-msgstr ""
+msgstr "الأدوار العالمية الافتراضية"
 
 msgid "Default maximum period"
-msgstr ""
+msgstr "الفترة القصوى الافتراضية"
 
 msgid "Default minimum period"
-msgstr ""
+msgstr "الفترة الدنيا الافتراضية"
 
 msgid "Default unit"
-msgstr ""
+msgstr "الوحدة الافتراضية"
 
 msgid "Default value"
-msgstr ""
+msgstr "القيمة الافتراضية"
 
 msgid "Default widget header style"
-msgstr ""
+msgstr "نمط رأس القطعة الافتراضية"
 
 msgid "Default widget margin"
-msgstr ""
+msgstr "هامش القطعة الافتراضي"
 
 msgid "Define how the raw value should be transformed before storing in the platform"
-msgstr ""
+msgstr "حدد كيفية تحويل القيمة الأولية قبل التخزين في المنصة"
 
 msgid "Delay"
-msgstr ""
+msgstr "تأخير"
 
 msgid "Delay before sending the operation to the next device."
-msgstr ""
+msgstr "تأخر قبل إرسال العملية إلى الجهاز التالي."
 
 msgid "Delegate"
-msgstr ""
+msgstr "مندوب"
 
 msgid "Delegated by"
-msgstr ""
+msgstr "مفوض من قبل"
 
 msgid "Delegated by {{::user.delegatedBy}}"
-msgstr ""
+msgstr "{{::user.delegatedBy}}  مفوض من قبل"
 
 msgid "Delete"
-msgstr ""
+msgstr "حذف"
 
 msgid "Delete Active Jobs"
-msgstr ""
+msgstr "حذف الوظائف النشطة"
 
 msgid "Delete Smart Rule"
-msgstr ""
+msgstr "حذف القاعدة الذكية"
 
 msgid "Delete SmartREST template"
-msgstr ""
+msgstr "حذف قالب SmartREST"
 
 msgid "Delete alarm mapping"
-msgstr ""
+msgstr "حذف تعيين التنبيه"
 
 msgid "Delete all subusers"
-msgstr ""
+msgstr "حذف جميع الطواحين"
 
 msgid "Delete and continue"
-msgstr ""
+msgstr "حذف ومتابعة"
 
 msgid "Delete application"
-msgstr ""
+msgstr "حذف التطبيق"
 
 msgid "Delete archive"
-msgstr ""
+msgstr "حذف الأرشيف"
 
 msgid "Delete certificate"
-msgstr ""
+msgstr "حذف الشهادة"
 
 msgid "Delete configuration"
-msgstr ""
+msgstr "حذف التكوين"
 
 msgid "Delete connector"
-msgstr ""
+msgstr "حذف الموصل"
 
 msgid "Delete credentials"
-msgstr ""
+msgstr "حذف بيانات الاعتماد"
 
 msgid "Delete current configuration"
-msgstr ""
+msgstr "حذف التكوين الحالي"
 
 msgid "Delete dashboard"
-msgstr ""
+msgstr "حذف لوحة القيادة"
 
 msgid "Delete data point"
-msgstr ""
+msgstr "حذف نقطة البيانات"
 
 msgid "Delete device"
-msgstr ""
+msgstr "حذف الجهاز"
 
 msgid "Delete device type"
-msgstr ""
+msgstr "حذف نوع الجهاز"
 
 msgid "Delete device without deprovisioning"
-msgstr ""
+msgstr "حذف الجهاز بدون إلغاء حق الوصول"
 
 msgid "Delete endpoint"
-msgstr ""
+msgstr "حذف نقطة النهاية"
 
 msgid "Delete external ID"
-msgstr ""
+msgstr "حذف المعرف الخارجي"
 
 msgid "Delete file"
-msgstr ""
+msgstr "حذف ملف"
 
 msgid "Delete firmware"
-msgstr ""
+msgstr "حذف البرامج الثابتة"
 
 msgid "Delete global role"
-msgstr ""
+msgstr "حذف الدور العالمي"
 
 msgid "Delete group"
-msgstr ""
+msgstr "حذف المجموعة"
 
 msgid "Delete identity"
-msgstr ""
+msgstr "حذف الهوية"
 
 msgid "Delete item"
-msgstr ""
+msgstr "حذف العنصر"
 
 msgid "Delete legacy branded applications"
-msgstr ""
+msgstr "حذف التطبيقات ذات العلامات التجارية القديمة"
 
 msgid "Delete license"
-msgstr ""
+msgstr "حذف الترخيص"
 
 msgid "Delete log"
-msgstr ""
+msgstr "حذف السجل"
 
 msgid "Delete log file"
-msgstr ""
+msgstr "حذف ملف السجل"
 
 msgid "Delete module"
-msgstr ""
+msgstr "حذف الوحدة"
 
 msgid "Delete oldest archive and continue"
-msgstr ""
+msgstr "احذف الأرشيف الأقدم وتابع"
 
 msgid "Delete property"
-msgstr ""
+msgstr "حذف الملكية"
 
 msgid "Delete protocol"
-msgstr ""
+msgstr "حذف البروتوكول"
 
 msgid "Delete report"
-msgstr ""
+msgstr "حذف التقرير"
 
 msgid "Delete resource"
-msgstr ""
+msgstr "حذف المورد"
 
 msgid "Delete retention rule"
-msgstr ""
+msgstr "حذف قاعدة الاحتفاظ"
 
 msgid "Delete role"
-msgstr ""
+msgstr "حذف الدور"
 
 msgid "Delete simulator"
-msgstr ""
+msgstr "حذف المحاكي"
 
 msgid "Delete software"
-msgstr ""
+msgstr "حذف البرنامج"
 
 msgid "Delete software item"
-msgstr ""
+msgstr "حذف عنصر البرنامج"
 
 msgid "Delete subscription"
-msgstr ""
+msgstr "حذف الاشتراك"
 
 msgid "Delete tenant"
-msgstr ""
+msgstr "حذف المستأجر"
 
 msgid "Delete tenant policy"
-msgstr ""
+msgstr "حذف سياسة المستأجر"
 
 msgid "Delete user"
-msgstr ""
+msgstr "مسح المستخدم"
 
 msgid "Delete users"
-msgstr ""
+msgstr "حذف المستخدمين"
 
 msgid "Delete`tenant`"
-msgstr ""
+msgstr "`tenant` مين"
 
 msgid "Deleting items&hellip;"
-msgstr ""
+msgstr "&hellip; حذف العناصر"
 
 msgid "Delivered"
-msgstr ""
+msgstr "تم التوصيل"
 
 msgid "Delivery type"
-msgstr ""
+msgstr "نوع التوصيل"
 
 msgid "Demo"
-msgstr ""
+msgstr "تجريبي"
 
 msgid "Demo data created."
-msgstr ""
+msgstr ".تم إنشاء بيانات تجريبية"
 
 msgid "Demo data deleted."
-msgstr ""
+msgstr ".تم حذف البيانات التجريبية"
 
 msgid "Demo mode"
-msgstr ""
+msgstr "الوضع التجريبي"
 
 msgid "Deployed"
-msgstr ""
+msgstr "نشر"
 
 msgid "Deploying certificate."
-msgstr ""
+msgstr ".نشر الشهادة"
 
 msgid "Deprovision"
-msgstr ""
+msgstr "إلغاء الترخيص"
 
 msgid "Deprovision device"
-msgstr ""
+msgstr "جهاز إلغاء حق الوصول"
 
 msgid "Deprovision device from ThingPark"
-msgstr ""
+msgstr "ThingPark  جهاز إزالة تراخيص"
 
 msgid "Descending"
-msgstr ""
+msgstr "تنازلي"
 
 msgid "Description"
-msgstr ""
+msgstr "وصف"
 
 msgid "Descriptive simulator name"
-msgstr ""
+msgstr "اسم المحاكي الوصفي"
 
 msgid "Descriptive template name"
-msgstr ""
+msgstr "اسم القالب الوصفي"
 
 msgid "Deselect all"
-msgstr ""
+msgstr "الغاء تحديد الكل"
 
 msgid "Deselect all markers"
-msgstr ""
+msgstr "قم بإلغاء تحديد جميع العلامات"
 
 msgid "Desired"
-msgstr ""
+msgstr "مرغوب"
 
 msgid "Details"
-msgstr ""
+msgstr "تفاصيل"
 
 msgid "Device"
-msgstr ""
+msgstr "جهاز"
 
 msgid "Device API requests"
-msgstr ""
+msgstr "طلبات API للجهاز"
 
 msgid "Device Control"
-msgstr ""
+msgstr "جهاز التحكم"
 
 msgid "Device EUI"
-msgstr ""
+msgstr "EUI جهاز"
 
 msgid "Device ID"
-msgstr ""
+msgstr "ID جهاز"
 
 msgid "Device ID duplicates are not allowed."
-msgstr ""
+msgstr "لا يُسمح بتكرار معرف الجهاز"
 
 msgid "Device ID is required."
-msgstr ""
+msgstr "معرّف الجهاز مطلوب"
 
 msgid "Device ID must not contain spaces or slashes (\"/\")."
-msgstr ""
+msgstr ".(\"/\") يجب ألا يحتوي معرف الجهاز على مسافات أو خطوط مائلة"
 
 msgid "Device Info"
-msgstr ""
+msgstr "معلومات الجهاز"
 
 msgid "Device SDK guide`KEEP_ORIGINAL`"
-msgstr ""
+msgstr "`KEEP_ORIGINAL` دليل SDK للجهاز"
 
 msgid "Device added to group"
-msgstr ""
+msgstr "تمت إضافة الجهاز إلى المجموعة"
 
 msgid "Device and communication"
-msgstr ""
+msgstr "الجهاز والاتصال"
 
 msgid "Device authentication details"
-msgstr ""
+msgstr "تفاصيل مصادقة الجهاز"
 
 msgid "Device bootstrap"
-msgstr ""
+msgstr "تمهيد الجهاز"
 
 msgid "Device config"
-msgstr ""
+msgstr "تكوين الجهاز"
 
 msgid "Device control"
-msgstr ""
+msgstr "جهاز التحكم"
 
 msgid "Device creation"
-msgstr ""
+msgstr "إنشاء الجهاز"
 
 msgid "Device credentials"
-msgstr ""
+msgstr "بيانات اعتماد الجهاز"
 
 msgid "Device current position not defined"
-msgstr ""
+msgstr "الموضع الحالي للجهاز غير محدد"
 
 msgid "Device dashboards can only be copied into a device."
-msgstr ""
+msgstr ".لا يمكن نسخ لوحات بيانات الجهاز إلا في جهاز"
 
 msgid "Device data"
-msgstr ""
+msgstr "بيانات الجهاز"
 
 msgid "Device database"
-msgstr ""
+msgstr "قاعدة بيانات الجهاز"
 
 msgid "Device deleted."
-msgstr ""
+msgstr ".تم حذف الجهاز"
 
 msgid "Device deprovisioned."
-msgstr ""
+msgstr ".تم إلغاء حق الوصول للجهاز"
 
 msgid "Device firmware will be updated."
-msgstr ""
+msgstr ".سيتم تحديث البرامج الثابتة للجهاز"
 
 msgid "Device found for identity {{type}}: {{externalId}}."
-msgstr ""
+msgstr ".{{type}}: {{externalId}} تم العثور على الجهاز للهوية"
 
 msgid "Device guides`KEEP_ORIGINAL`"
-msgstr ""
+msgstr "`KEEP_ORIGINAL` أدلة الجهاز"
 
 msgid "Device has been disconnected."
-msgstr ""
+msgstr "تم قطع اتصال الجهاز"
 
 msgid "Device info"
-msgstr ""
+msgstr "معلومات الجهاز"
 
 msgid "Device is now in airplane."
-msgstr ""
+msgstr ".الجهاز الآن في طائرة"
 
 msgid "Device is offline"
-msgstr ""
+msgstr "الجهاز غير متصل بالإنترنت"
 
 msgid "Device is ready to receive commands"
-msgstr ""
+msgstr "الجهاز جاهز لتلقي الأوامر"
 
 msgid ""
 "Device last request:\n"
 "{{date}}"
 msgstr ""
+": طلب الجهاز الأخير \n"
+"{{date}}"
 
 msgid "Device location may be set by the device itself, or manually in the platform"
-msgstr ""
+msgstr "قد يتم تعيين موقع الجهاز بواسطة الجهاز نفسه ، أو يدويًا في النظام الأساسي"
 
 msgid "Device management"
-msgstr ""
+msgstr "إدارة الجهاز"
 
 msgid "Device map"
-msgstr ""
+msgstr "خريطة الجهاز"
 
 msgid "Device name"
-msgstr ""
+msgstr "اسم الجهاز"
 
 msgid "Device name: \"{{deviceName}}\", alarm text: \"{{alarmText | translate}}\""
-msgstr ""
+msgstr "\"{{alarmText | translate}}\" :نص التنبيه ,\"{{deviceName}}\":اسم الجهاز"
 
 msgid "Device not assigned."
-msgstr ""
+msgstr "الجهاز غير معين"
 
 msgid "Device not found"
-msgstr ""
+msgstr "لم يتم العثور علي الجهاز"
 
 msgid "Device operations"
-msgstr ""
+msgstr "عمليات الجهاز"
 
 msgid "Device owner not found for device \"{{name}}\"."
-msgstr ""
+msgstr ". \"{{name}}\" لم يتم العثور على مالك الجهاز للجهاز"
 
 msgid "Device owner updated."
-msgstr ""
+msgstr ".تم تحديث مالك الجهاز"
 
 msgid "Device ping"
-msgstr ""
+msgstr "جهاز ping"
 
 msgid "Device profile"
-msgstr ""
+msgstr "ملف تعريف الجهاز"
 
 msgid "Device profiles"
-msgstr ""
+msgstr "ملفات تعريف الجهاز"
 
 msgid "Device protocol removed."
-msgstr ""
+msgstr ".تمت إزالة بروتوكول الجهاز"
 
 msgid "Device protocol saved."
-msgstr ""
+msgstr ".تم حفظ بروتوكول الجهاز"
 
 msgid "Device protocol type"
-msgstr ""
+msgstr "نوع بروتوكول الجهاز"
 
 msgid "Device protocol updated"
-msgstr ""
+msgstr "تم تحديث بروتوكول الجهاز"
 
 msgid "Device protocols"
-msgstr ""
+msgstr "بروتوكولات الجهاز"
 
 msgid "Device registered."
-msgstr ""
+msgstr ".تم تسجيل الجهاز"
 
 msgid "Device registration"
-msgstr ""
+msgstr "تسجيل الجهاز"
 
 msgid "Device registration accepted."
-msgstr ""
+msgstr ".تم قبول تسجيل الجهاز"
 
 msgid "Device registration cancelled."
-msgstr ""
+msgstr ".تم إلغاء تسجيل الجهاز"
 
 msgid "Device registration created."
-msgstr ""
+msgstr ".تم إنشاء تسجيل الجهاز"
 
 msgid "Device registration request with ID {{id}} already exists."
-msgstr ""
+msgstr "طلب تسجيل الجهاز برقم التعريف {{id}} موجود بالفعل"
 
 msgid "Device related log information will be shown under \"<b>Events</b>\"."
-msgstr ""
+msgstr ".\"<b>Events</b>\" سيتم عرض معلومات السجل المتعلقة بالجهاز ضمن"
 
 msgid "Device removed from group."
-msgstr ""
+msgstr ".تمت إزالة الجهاز من المجموعة"
 
 msgid "Device restart"
-msgstr ""
+msgstr "إعادة تشغيل الجهاز"
 
 msgid "Device setting"
-msgstr ""
+msgstr "إعداد الجهاز"
 
 msgid "Device shell operation label button"
-msgstr ""
+msgstr "زر تسمية عملية غلاف الجهاز"
 
 msgid "Device shell operations"
-msgstr ""
+msgstr "عمليات قذيفة الجهاز"
 
 msgid "Device software will be updated."
-msgstr ""
+msgstr ".سيتم تحديث برنامج الجهاز"
 
 msgid "Device status"
-msgstr ""
+msgstr "حالة الجهاز"
 
 msgid "Device support service"
-msgstr ""
+msgstr "خدمة دعم الجهاز"
 
 msgid "Device time"
-msgstr ""
+msgstr "وقت الجهاز"
 
 msgid "Device type"
-msgstr ""
+msgstr "نوع الجهاز"
 
 msgid "Device type deleted."
-msgstr ""
+msgstr ".تم حذف نوع الجهاز"
 
 msgid "Device type saved."
-msgstr ""
+msgstr ".تم حفظ نوع الجهاز"
 
 msgid "Device types"
-msgstr ""
+msgstr ".أنواع الأجهزة"
 
 msgid "Device updated."
-msgstr ""
+msgstr ".تم تحديث الجهاز"
 
 msgid "Device user"
-msgstr ""
+msgstr "مستخدم الجهاز"
 
 msgid "Device will be connected."
 msgid_plural "{{$count}} devices will be connected."
@@ -3880,837 +3883,839 @@ msgstr[0] ""
 msgstr[1] ""
 
 msgid "Device will be disconnected."
-msgstr ""
+msgstr ".سيتم فصل الجهاز"
 
 msgid "Device will be restarted."
-msgstr ""
+msgstr ".سيتم إعادة تشغيل الجهاز"
 
 msgid "Device with the same address already exists."
-msgstr ""
+msgstr ".الجهاز بنفس العنوان موجود بالفعل"
 
 msgid "Device {{id}}"
-msgstr ""
+msgstr "{{id}} الجهاز "
 
 msgid "Device {{id}} registered."
-msgstr ""
+msgstr "{{id}} تم تسجيل الجهاز"
 
 msgid "Device's name or value of any device's property"
-msgstr ""
+msgstr "اسم الجهاز أو قيمة خاصية أي جهاز"
 
 msgid "Devicemanagement User"
-msgstr ""
+msgstr "مستخدم إدارة الجهاز"
 
 msgid "Devices"
-msgstr ""
+msgstr "الأجهزة"
 
 msgid "Devices scanned and connected."
-msgstr ""
+msgstr "تم فحص الأجهزة وتوصيلها"
 
 msgid "Devices will be scanned and connected."
-msgstr ""
+msgstr ".سيتم فحص الأجهزة وتوصيلها"
 
 msgid "Diff"
-msgstr ""
+msgstr "فرق"
 
 msgid "Diff %"
-msgstr ""
+msgstr "% فرق"
 
 msgid "Direct debit"
-msgstr ""
+msgstr "الخصم المباشر"
 
 msgid "Directory path"
-msgstr ""
+msgstr "مسار الدليل"
 
 msgid "Disable"
-msgstr ""
+msgstr "تعطيل"
 
 msgid "Disable owner"
-msgstr ""
+msgstr "تعطيل المالك"
 
 msgid "Disable user"
-msgstr ""
+msgstr "تعطيل المستخدم"
 
 msgid "Disable`owner`"
-msgstr ""
+msgstr "`owner` تعطيل"
 
 msgid "Disabled"
-msgstr ""
+msgstr "تعطيل"
 
 msgid "Discard"
-msgstr ""
+msgstr "تجاهل"
 
 msgid "Discard changes"
-msgstr ""
+msgstr "تجاهل التغييرات"
 
 msgid "Disconnect"
-msgstr ""
+msgstr "قطع الاتصال"
 
 msgid "Disconnect child devices."
-msgstr ""
+msgstr ".افصل الأجهزة الفرعية"
 
 msgid "Disconnect device"
-msgstr ""
+msgstr "افصل الجهاز"
 
 msgid "Disconnect from session"
-msgstr ""
+msgstr "قطع الاتصال بالجلسة"
 
 msgid "Disconnected"
-msgstr ""
+msgstr "انقطع الاتصال"
 
 msgid "Disconnected SIM card from the session"
-msgstr ""
+msgstr "شريحة SIM منفصلة عن الجلسة"
 
 msgid "Disconnected from {{externalServiceName}}. Log into your account at {{externalServiceName}} and finalize deregistration."
-msgstr ""
+msgstr "انقطع الاتصال بـ {{externalServiceName}}. قم بتسجيل الدخول إلى حسابك على {{externalServiceName}} وإنهاء إلغاء التسجيل"
 
 msgid "Disconnects SIM card from the session"
-msgstr ""
+msgstr "قطع اتصال بطاقة SIM من الجلسة"
 
 msgid "Discover all resources of Object 3300, the generic sensor."
-msgstr ""
+msgstr ".اكتشف جميع موارد Object 3300 ، المستشعر العام"
 
 msgid "Discrete input"
-msgstr ""
+msgstr "مدخلات منفصلة"
 
 msgid "Discrete inputs"
-msgstr ""
+msgstr "مدخلات منفصلة"
 
 msgid "Display"
-msgstr ""
+msgstr "عرض"
 
 msgid "Display a configurable SVG."
-msgstr ""
+msgstr ".عرض SVG شكلي"
 
 msgid "Display a single image selected from the user's computer."
-msgstr ""
+msgstr ".عرض صورة واحدة محددة من كمبيوتر المستخدم"
 
 msgid "Display as"
-msgstr ""
+msgstr "عرض بصيغة"
 
 msgid "Display category"
-msgstr ""
+msgstr "فئة العرض"
 
 msgid "Display current temperature on device"
-msgstr ""
+msgstr "عرض درجة الحرارة الحالية على الجهاز"
 
 msgid "Display custom HTML code"
-msgstr ""
+msgstr "عرض كود HTML المخصص"
 
 msgid "Display selected roaming network"
-msgstr ""
+msgstr "عرض شبكة التجوال المحددة"
 
 msgid "Displays a list of alarms filtered by object, severity and status"
-msgstr ""
+msgstr "يعرض قائمة من الإنذارات التي تمت تصفيتها حسب الكائن والشدة والحالة"
 
 msgid "Displays a map with device position marker"
-msgstr ""
+msgstr "يعرض خريطة بمؤشر موقع الجهاز"
 
 msgid "Displays a map with position markers for selected devices."
-msgstr ""
+msgstr ".يعرض خريطة بعلامات تحديد المواقع للأجهزة المحددة"
 
 msgid "Displays a panel with quick links"
-msgstr ""
+msgstr "يعرض لوحة بروابط سريعة"
 
 msgid "Displays a welcome message for Cockpit"
-msgstr ""
+msgstr "Cockpit يعرض رسالة ترحيب لـ"
 
 msgid "Displays active critical alarms from all devices"
-msgstr ""
+msgstr "يعرض الإنذارات الحرجة النشطة من جميع الأجهزة"
 
 msgid "Displays current device orientation"
-msgstr ""
+msgstr "يعرض اتجاه الجهاز الحالي"
 
 msgid "Displays editable asset notes."
-msgstr ""
+msgstr ".يعرض ملاحظات الأصول القابلة للتحرير"
 
 msgid "Displays in realtime the status of any binary data point."
-msgstr ""
+msgstr ".يعرض في الوقت الحقيقي حالة أي نقطة بيانات ثنائية"
 
 msgid "Displays links to help and service resources."
-msgstr ""
+msgstr ".يعرض روابط للمساعدة وموارد الخدمة"
 
 msgid "Displays the list of events for selected device."
-msgstr ""
+msgstr ".يعرض قائمة الأحداث للجهاز المحدد"
 
 msgid "Displays the list of links to available applications."
-msgstr ""
+msgstr ".يعرض قائمة روابط التطبيقات المتاحة"
 
 msgid "Displays the number of devices which are online or have critical alarms"
-msgstr ""
+msgstr ".يعرض عدد الأجهزة المتصلة بالإنترنت أو التي تحتوي على إنذارات حرجة"
 
 msgid "Displays track lines of tracking device with replay feature"
-msgstr ""
+msgstr "يعرض خطوط المسار لجهاز التتبع مع ميزة إعادة التشغيل"
 
 msgid "Displays tweets from Twitter's embedded timeline widget"
-msgstr ""
+msgstr "يعرض تغريدات من أداة الخط الزمني المضمنة في تويتر"
 
 msgid "Divisor"
-msgstr ""
+msgstr "المقسوم عليه"
 
 msgid "Do not wake device automatically"
-msgstr ""
+msgstr "لا توقظ الجهاز تلقائيًا"
 
 msgid "Do you really want to cancel all pending operations?"
-msgstr ""
+msgstr "هل تريد حقًا إلغاء جميع العمليات المعلقة؟"
 
 msgid "Do you really want to cancel operation \"{{description | translate}}\"?"
-msgstr ""
+msgstr "؟\"{{description | translate}}\" هل تريد حقًا إلغاء العملية"
 
 msgid "Do you really want to cancel registration request for device with the ID {{id}}?"
-msgstr ""
+msgstr "؟{{id}} هل تريد حقًا إلغاء طلب التسجيل للجهاز برقم التعريف"
 
 msgid "Do you really want to cancel this operation?"
-msgstr ""
+msgstr "هل تريد حقًا إلغاء هذه العملية؟"
 
 msgid "Do you really want to clear all alarms of selected severities?"
-msgstr ""
+msgstr "هل تريد حقًا مسح جميع الإنذارات الخاصة بالخطورة المختارة؟"
 
 msgid "Do you really want to clear all tracker registration data?"
-msgstr ""
+msgstr "هل تريد حقًا مسح جميع بيانات تسجيل المتتبع؟"
 
 msgid "Do you really want to delete demo data?"
-msgstr ""
+msgstr "هل تريد حقًا حذف البيانات التجريبية؟"
 
 msgid "Do you really want to remove \"{{name}}\"?"
-msgstr ""
+msgstr "؟\"{{name}}\" هل تريد حقا الإزالة"
 
 msgid "Do you want to move or add the device?"
-msgstr ""
+msgstr "هل تريد نقل الجهاز أو إضافته؟"
 
 msgid "Do you want to move the group?"
-msgstr ""
+msgstr "هل تريد تحريك المجموعة؟"
 
 msgid "Do you want to proceed?"
-msgstr ""
+msgstr "هل تريد المتابعة؟"
 
 msgid "Does not match pattern {{vm.field.attrs.ngPattern.toString()}}"
-msgstr ""
+msgstr "؟{{vm.field.attrs.ngPattern.toString()}} لا يتطابق مع النمط"
 
 msgid "Domain"
-msgstr ""
+msgstr "نطاق"
 
 msgid "Domain / URL"
-msgstr ""
+msgstr "المجال / URL"
 
 msgid "Domain name"
-msgstr ""
+msgstr "اسم النطاق"
 
 msgid "Domain name in uploaded certificate differs from the one in use. Please deactivate the custom domain before uploading new certificate."
-msgstr ""
+msgstr ".يختلف اسم المجال في الشهادة التي تم تحميلها عن الاسم المستخدم. يرجى إلغاء تنشيط المجال المخصص قبل تحميل شهادة جديدة"
 
 msgid "Domain name is already used by another tenant."
-msgstr ""
+msgstr ".اسم المجال مستخدم بالفعل من قبل مستأجر آخر"
 
 msgid "Don't sort"
-msgstr ""
+msgstr "لا تفرز"
 
 msgid "Don't subscribe"
-msgstr ""
+msgstr "لا تشترك"
 
 msgid "Done"
-msgstr ""
+msgstr "منجز"
 
 msgid "Door alarm"
-msgstr ""
+msgstr "إنذار الباب"
 
 msgid "Dots not allowed."
-msgstr ""
+msgstr ".النقاط غير مسموح بها"
 
 msgid "Double click to add points and set the area. Click and drag the points to adjust."
-msgstr ""
+msgstr ".انقر مرتين لإضافة نقاط وتعيين المنطقة. انقر واسحب النقاط للضبط"
 
 msgid "Down"
-msgstr ""
+msgstr "أسفل"
 
 msgid "Download"
-msgstr ""
+msgstr "تحميل"
 
 msgid "Download PDF"
-msgstr ""
+msgstr "PDF تحميل"
 
 msgid "Download as CSV"
-msgstr ""
+msgstr "CSV تحميل"
 
 msgid "Download as Excel"
-msgstr ""
+msgstr "Excel تحميل"
 
 msgid "Download key"
-msgstr ""
+msgstr "مفتاح التنزيل"
 
 msgid "Download list of emails for users subscribed for newsletter on current tenant and its subtenants."
-msgstr ""
+msgstr ".تنزيل قائمة رسائل البريد الإلكتروني للمستخدمين المشتركين في النشرة الإخبارية للمستأجر الحالي والمستأجرين من الباطن"
 
 msgid "Download template"
-msgstr ""
+msgstr "تحميل قالب"
 
 msgid "Downloading"
-msgstr ""
+msgstr "جارى التحميل"
 
 msgid "Downtime"
-msgstr ""
+msgstr "التوقف"
 
 msgid "Drag X-Axis to move time.<br>Select time period to zoom.<br>Double click to zoom out."
-msgstr ""
+msgstr ".اسحب المحور X لتحريك الوقت <br>  .حدد الفترة الزمنية للتكبير <br> .انقر مرتين للتصغير"
 
 msgid "Drag to reorder"
-msgstr ""
+msgstr "اسحب لإعادة ترتيب"
 
 msgid "Drop"
-msgstr ""
+msgstr "إسقاط"
 
 msgid "Duplicate"
-msgstr ""
+msgstr "مكرر"
 
 msgid "Duplicate ParameterName \"{{name}}\" for object [{{id}}] renamed to \"{{register.name}}\"."
-msgstr ""
+msgstr ".\"{{register.name}}\" للكائن [{{id}}] تمت إعادة تسميته إلى \"{{name}}\" اسم معلمة مكرر"
 
 msgid "Duplicate Smart Rule"
-msgstr ""
+msgstr "قاعدة ذكية مكررة"
 
 msgid "Duplicate application"
-msgstr ""
+msgstr "تطبيق مكرر"
 
 msgid "Duplicate existing application"
-msgstr ""
+msgstr "تطبيق موجود مكرر"
 
 msgid "Duplicate of {{config}}"
-msgstr ""
+msgstr "نسخة {{config}} مكررة"
 
 msgid "Duplicate of {{name}}"
-msgstr ""
+msgstr "نسخة {{name}} مكررة"
 
 msgid "Duplicate simulator"
-msgstr ""
+msgstr "محاكاة مكررة"
 
 msgid "Duration"
-msgstr ""
+msgstr "المدة الزمنية"
 
 msgid "Duration (minutes)"
-msgstr ""
+msgstr "المدة (بالدقائق)"
 
 msgid "Duration cannot be larger than 3600"
-msgstr ""
+msgstr "3600 لا يمكن أن تكون المدة أكبر من"
 
 msgid "Duration in seconds"
-msgstr ""
+msgstr "المدة بالثواني"
 
 msgid "Duration must be a number"
-msgstr ""
+msgstr "يجب أن تكون المدة رقماً"
 
 msgid "Duration must be larger than 5"
-msgstr ""
+msgstr "5 يجب أن تكون المدة أكبر من"
 
 msgid "Dynamic access mapping"
-msgstr ""
+msgstr "تعيين الوصول الديناميكي"
 
 msgid "E"
-msgstr ""
+msgstr "E"
 
 msgid "ECN0"
-msgstr ""
+msgstr "ECN0"
 
 msgid "EDS parsed successfully."
-msgstr ""
+msgstr ".EDS تم التحليل بنجاح"
 
 msgid "EDS parsed with errors."
-msgstr ""
+msgstr ".EDS تم تحليل الأخطاء"
 
 msgid "EDS parsed with warnings."
-msgstr ""
+msgstr ".EDS معرب بتحذيرات"
 
 msgid "ERROR"
-msgstr ""
+msgstr "خطأ"
 
 msgid "EVENT"
-msgstr ""
+msgstr "حدث"
 
 msgid "EXECUTING"
-msgstr ""
+msgstr "تنفيذ"
 
 msgid "Each support user request from subtenant user will prolong support user access by the given number of hours (default: 24 hours)"
-msgstr ""
+msgstr "كل طلب مستخدم دعم من مستخدم مستأجر من الباطن سيطيل وصول المستخدم للدعم من خلال عدد الساعات المحدد (افتراضي: 24 ساعة)"
 
 msgid "Edit"
-msgstr ""
+msgstr "تعديل"
 
 msgid "Edit KPI"
-msgstr ""
+msgstr "تحرير KPI"
 
 msgid "Edit Smart Rule"
-msgstr ""
+msgstr "تحرير القاعدة الذكية"
 
 msgid "Edit coil: \"{{name}}\""
-msgstr ""
+msgstr " \"{{name}}\" : تحرير الملف"
 
 msgid "Edit component: \"{{name}}\""
-msgstr ""
+msgstr " \"{{name}}\" :تحرير المكون"
 
 msgid "Edit dashboard"
-msgstr ""
+msgstr "تعديل لوحة القيادة"
 
 msgid "Edit data point settings"
-msgstr ""
+msgstr "تحرير إعدادات نقطة البيانات"
 
 msgid "Edit discrete input: \"{{name}}\""
-msgstr ""
+msgstr "\"{{name}}\"  : تحرير المدخلات المنفصلة"
 
 msgid "Edit geofence"
-msgstr ""
+msgstr "تحرير السياج الجغرافي"
 
 msgid "Edit global Smart Rule"
-msgstr ""
+msgstr "تحرير القاعدة الذكية العالمية"
 
 msgid "Edit holding register: \"{{name}}\""
-msgstr ""
+msgstr " \"{{name}}\" :تحرير سجل الحجز"
 
 msgid "Edit input register: \"{{name}}\""
-msgstr ""
+msgstr " \"{{name}}\" : تحرير سجل الإدخال"
 
 msgid "Edit location"
-msgstr ""
+msgstr "تحديد الوجهة"
 
 msgid "Edit number of simulator instances"
-msgstr ""
+msgstr "تعديل عدد مثيلات المحاكي"
 
 msgid "Edit operation schedule"
-msgstr ""
+msgstr "تعديل جدول العمليات"
 
 msgid "Edit payment method"
-msgstr ""
+msgstr "تحرير طريقة الدفع"
 
 msgid "Edit register: \"{{name}}\""
-msgstr ""
+msgstr " \"{{name}}\" : تحرير التسجيل"
 
 msgid "Edit report"
-msgstr ""
+msgstr "تحرير التقرير"
 
 msgid "Edit retention rule"
-msgstr ""
+msgstr "تعديل قاعدة الاحتفاظ"
 
 msgid "Edit tenant"
-msgstr ""
+msgstr "تحرير المستأجر"
 
 msgid "Edit user"
-msgstr ""
+msgstr "تحرير العضو"
 
 msgid "Edit value: \"{{name}}\""
-msgstr ""
+msgstr " \"{{name}}\" :تحرير القيمة"
 
 msgid "Edit variable: \"{{name}}\""
-msgstr ""
+msgstr " \"{{name}}\" : تحرير المتغير"
 
 msgid "Edit widget"
-msgstr ""
+msgstr "تحرير القطعة"
 
 msgid "Edit`tenant`"
-msgstr ""
+msgstr "`tenant` تعديل"
 
 msgid "Editable form for asset properties."
-msgstr ""
+msgstr ".شكل قابل للتحرير لخصائص الأصول"
 
 msgid "Email"
-msgstr ""
+msgstr "البريد الإلكتروني"
 
 msgid "Email address"
-msgstr ""
+msgstr "عنوان بريد الكتروني"
 
 msgid "Email addresses"
-msgstr ""
+msgstr "عناوين البريد الإلكتروني"
 
 msgid "Email server"
-msgstr ""
+msgstr "خادم البريد الإلكتروني"
 
 msgid "Email subject"
-msgstr ""
+msgstr "موضوع البريد الإلكتروني"
 
 msgid "Email template"
-msgstr ""
+msgstr "قالب البريد الإلكتروني"
 
 msgid "Email which will be sent after over-limit data has been deleted"
-msgstr ""
+msgstr "البريد الإلكتروني الذي سيتم إرساله بعد حذف البيانات الزائدة"
 
 msgid "Email which will be sent after over-limit data has been deleted. Placeholders: {tenant}, {size} - storage usage in %"
-msgstr ""
+msgstr "البريد الإلكتروني الذي سيتم إرساله بعد حذف البيانات الزائدة. العناصر النائبة: {tenant} ، {size} - استخدام التخزين٪"
 
 msgid "Email which will be sent one day before data is deleted"
-msgstr ""
+msgstr "البريد الإلكتروني الذي سيتم إرساله قبل حذف البيانات بيوم واحد"
 
 msgid "Email which will be sent one day before data is deleted. Placeholders: {tenant}, {size} - storage usage in %"
-msgstr ""
+msgstr "%البريد الإلكتروني الذي سيتم إرساله قبل حذف البيانات بيوم واحد. العناصر النائبة: {tenant} ، {size} - استخدام التخزين في"
 
 msgid "Empty simulator"
-msgstr ""
+msgstr "محاكي فارغ"
 
 msgid "Enable"
-msgstr ""
+msgstr "ممكن"
 
 msgid "Enable changing current value from UI (e.g. using Fieldbus widget)"
-msgstr ""
+msgstr " (Fieldbus مثل استخدام القطعة)تمكين تغيير القيمة الحالية من واجهة المستخدم"
 
 msgid "Enable owner"
-msgstr ""
+msgstr "تمكين المالك"
 
 msgid "Enable showing current value in UI (e.g. on Fieldbus widget)"
-msgstr ""
+msgstr "(Fieldbus مثل استخدام القطعة) تفعيل عرض القيمة الحالية في واجهة المستخدم"
 
 msgid "Enable user"
-msgstr ""
+msgstr "تمكين المستخدم"
 
 msgid "Enable/disable MQTT communication"
-msgstr ""
+msgstr "MQTT تمكين / تعطيل اتصال"
 
 msgid "Enable/disable TCS:BUS plugin"
-msgstr ""
+msgstr "TCS: BUS plugin مفعل وغير مفعل"
 
 msgid "Enable/disable owner"
-msgstr ""
+msgstr "تمكين / تعطيل المالك"
 
 msgid "Enable`owner`"
-msgstr ""
+msgstr "'تمكين 'المالك"
 
 msgid "Enabled"
-msgstr ""
+msgstr "ممكّن"
 
 msgid "End"
-msgstr ""
+msgstr "النهاية"
 
 msgid "End of trial period"
-msgstr ""
+msgstr "نهاية الفترة التجريبية"
 
 msgid "Endpoint"
-msgstr ""
+msgstr "نقطة النهاية"
 
 msgid "Endpoint deleted."
-msgstr ""
+msgstr ".تم حذف نقطة النهاية"
 
 msgid "Endpoint devices"
-msgstr ""
+msgstr ".أجهزة نقطة النهاية"
 
 msgid "Endpoint saved."
-msgstr ""
+msgstr ".تم حفظ نقطة النهاية"
 
 msgid "Energy"
-msgstr ""
+msgstr ".الطاقة"
 
 msgid "Energy consumption measurement:"
-msgstr ""
+msgstr ": قياس استهلاك الطاقة"
 
 msgid "Enforce \"green\" passwords for all users"
-msgstr ""
+msgstr "فرض كلمات المرور 'لخضراء' لجميع المستخدمين"
 
 msgid "Enforce OAuth Internal"
-msgstr ""
+msgstr "فرض بروتوكول OAuth الداخلي"
 
 msgid "Enforce TOTP two-factor authentication on all users"
-msgstr ""
+msgstr "فرض مصادقة TOTP ذات العاملين على جميع المستخدمين"
 
 msgid "Enforce that all passwords are \"strong\" (green)"
-msgstr ""
+msgstr "فرض أن كل كلمات المرور \ "قوية \" (باللون الأخضر)"
 
 msgid "Engine ID"
-msgstr ""
+msgstr "معرف المحرك"
 
 msgid "Enquire battery level info"
-msgstr ""
+msgstr "استعلم عن معلومات مستوى البطارية"
 
 msgid "Enquire device release info"
-msgstr ""
+msgstr "الاستفسار عن معلومات إصدار الجهاز"
 
 msgid "Enquire presentation info"
-msgstr ""
+msgstr "استعلام عن معلومات العرض التقديمي"
 
 msgid "Enquire serial number"
-msgstr ""
+msgstr "الاستفسار الرقم التسلسلي"
 
 msgid "Enter a valid international phone number. Accepted format is +49 9 876 543 210"
-msgstr ""
+msgstr "+49 9 876 543 210 أدخل رقم هاتف دولي صالح. التنسيق المقبول"
 
 msgid "Enter a valid international phone number. The accepted format is +49 9 876 543 210."
-msgstr ""
+msgstr "+49 9 876 543 210 أدخل رقم هاتف دولي صالح. التنسيق المقبول"
 
 msgid "Enter address"
-msgstr ""
+msgstr "أدخل العنوان"
 
 msgid "Enter airplane mode"
-msgstr ""
+msgstr "ادخل إلى وضع الطائرة"
 
 msgid "Enter one or more valid email addresses, separated with a comma."
-msgstr ""
+msgstr ".أدخل عنوان بريد إلكتروني صالحًا أو أكثر ، مفصولاً بفاصلة"
 
 msgid "Enter starting fragment of device id or name to search"
-msgstr ""
+msgstr "أدخل جزء بدء معرف الجهاز أو الاسم للبحث"
 
 msgid "Enter the following code <code>{{vm.code}}</code> to proceed:"
-msgstr ""
+msgstr ": أدخل الرمز التالي <code> {{vm.code}} </code> للمتابعة"
 
 msgid "Enter valid international phone numbers. The accepted format is +49 9 876 543 210. Separate multiple numbers with a comma."
-msgstr ""
+msgstr " +49 9 876 543 210 .أدخل أرقام هواتف دولية صالحة. التنسيق المقبول هو. افصل بين الأرقام المتعددة بفاصلة"
 
 msgid "Enterprise Tenant"
-msgstr ""
+msgstr "المستأجر المؤسسة"
 
 msgid "Enumeration type"
-msgstr ""
+msgstr "نوع التعداد"
 
 msgid "Enumeration values"
-msgstr ""
+msgstr "قيم التعداد"
 
 msgid "Equal"
-msgstr ""
+msgstr "مساو"
 
 msgid "Error conditions cleared on device \"{{deviceName}}\" in group \"{{groupName}}\"."
-msgstr ""
+msgstr " . \"{{groupName}}\" في مجموعة \"{{deviceName}}\" تم مسح شروط الخطأ على الجهاز"
 
 msgid "Error conditions triggered on device \"{{deviceName}}\" in group \"{{groupName}}\"."
-msgstr ""
+msgstr ". \"{{groupName}}\" في مجموعة \"{{deviceName}}\" تم تشغيل حالات الخطأ على الجهاز"
 
 msgid "Error detail"
-msgstr ""
+msgstr "تفاصيل الخطأ"
 
 msgid "Error in statement {{moduleName}}:{{statementNumber}}. Incorrect syntax near expression \"{{expression}}\" near reserved keyword \"{{keyword}}\"."
-msgstr ""
+msgstr ".\"{{keyword}}\" بالقرب من الكلمة الرئيسية المحجوزة \"{{expression}}\" بناء جملة غير صحيح بالقرب من التعبير .{{moduleName}}:{{statementNumber}} خطأ في البيان"
 
 msgid "Error message details"
-msgstr ""
+msgstr "تفاصيل رسالة الخطأ"
 
 msgid "Error occurred while processing the uploaded file."
-msgstr ""
+msgstr ".حدث خطأ أثناء معالجة الملف الذي تم تحميله"
 
 msgid "Error occurred: {{message}}"
-msgstr ""
+msgstr " {{message}} : حدث خطأ"
 
 msgid "Errors occurred while running event processing rules. <br> Please check the <a href=\"/apps/devicemanagement/#/alarms\">alarms created</a> for more details."
-msgstr ""
+msgstr ".حدثت أخطاء أثناء تشغيل قواعد معالجة الأحداث <br> لمزيد من التفاصيل <a href=\"/apps/devicemanagement/#/alarms\"> إنشاء منبهات </a> رجاء تاكد من   "
 
 msgid "Escalate alarm"
-msgstr ""
+msgstr "تصعيد التنبيه"
 
 msgid "Escalate as follows:"
-msgstr ""
+msgstr ": تصعيد على النحو التالي"
 
 msgid "Escalation steps"
-msgstr ""
+msgstr "خطوات التصعيد"
 
 msgid ""
 "Especially changing the global role \"devices\" can lead to a security hole.\n"
 "        E.g. if a device is compromised, attackers might have extended access to the platform."
 msgstr ""
+".يمكن أن يؤدي تغيير الدور العالمي \ "الأجهزة \" بشكل خاص إلى ثغرة أمنية \n "
+"على سبيل المثال إذا تم اختراق الجهاز ، فقد يكون لدى المهاجمين وصول موسع إلى النظام الأساسي"
 
 msgid "Event"
-msgstr ""
+msgstr "حدث"
 
 msgid "Event (no Parameter)"
-msgstr ""
+msgstr "الحدث (بدون معلمة)"
 
 msgid "Event (with Parameter)"
-msgstr ""
+msgstr "الحدث (مع المعلمة)"
 
 msgid "Event count 3 months"
-msgstr ""
+msgstr "عدد الأحداث 3 شهور"
 
 msgid "Event count today"
-msgstr ""
+msgstr "عدد الأحداث اليوم"
 
 msgid "Event fragment"
-msgstr ""
+msgstr "جزء الحدث"
 
 msgid "Event list"
-msgstr ""
+msgstr "قائمة الأحداث"
 
 msgid "Event processing"
-msgstr ""
+msgstr "معالجة الأحداث"
 
 msgid "Event processing rules"
-msgstr ""
+msgstr "قواعد معالجة الأحداث"
 
 msgid "Event processing rules examples"
-msgstr ""
+msgstr "أمثلة على قواعد معالجة الأحداث"
 
 msgid "Event property"
-msgstr ""
+msgstr "خاصية الحدث"
 
 msgid "Event text"
-msgstr ""
+msgstr "نص الحدث"
 
 msgid "Event type"
-msgstr ""
+msgstr "نوع الحدث"
 
 msgid "Events"
-msgstr ""
+msgstr "الأحداث"
 
 msgid "Events (3 mo.)"
-msgstr ""
+msgstr ".الأحداث (3 أشهر)"
 
 msgid "Events (today)"
-msgstr ""
+msgstr "الأحداث (اليوم)"
 
 msgid "Events created"
-msgstr ""
+msgstr "تم إنشاء الأحداث"
 
 msgid "Events updated"
-msgstr ""
+msgstr "تم تحديث الأحداث"
 
 msgid "Examples"
-msgstr ""
+msgstr "أمثلة"
 
 msgid "Exception on tenant {{tenantId}} in statement \"{{moduleName}}\": Invocation exception when invoking method \"{{methodName}}\" of class \"{{classPath}}\" passing parameters [{{parameters}}] for statement \"{{statement}}\": {{exceptionType}} : {{exceptionMessage}}."
-msgstr ""
+msgstr "ستثناء على المستأجر {{tenantId}} في العبارة \"{{moduleName}} \": استثناء الاستدعاء عند استدعاء الأسلوب \"{{methodName}} \" للفئة \"{{classPath}} \" معلمات المرور [{{ المعلمات}}] للبيان \"{{statement}} \": {{ExceptType}}: {{استثنائيMessage}}"
 
 msgid "Exception on tenant {{tenantId}} in statement \"{{statement}}\": HTTP status code: {{httpStatusCode}} : {{message | translate}}"
-msgstr ""
+msgstr "استثناء على المستأجر {{tenantId}} في العبارة \"{{statement}} \": رمز حالة HTTP: {{httpStatusCode}}: {{message | ترجمة}}"
 
 msgid "Execute"
-msgstr ""
+msgstr "نفذ - اعدم"
 
 msgid "Execute (password protected)"
-msgstr ""
+msgstr "تنفيذ (محمي بكلمة مرور)"
 
 msgid "Execute (via {{deliveryType | translate}})"
-msgstr ""
+msgstr "{{deliveryType | translate}} تنفيذ (عبر)"
 
 msgid "Execute command template"
-msgstr ""
+msgstr "تنفيذ قالب الأمر"
 
 msgid "Execute for whole group"
-msgstr ""
+msgstr "تنفيذ لمجموعة كاملة"
 
 msgid "Execute generic command: {{command}}."
-msgstr ""
+msgstr " {{command}} : تنفيذ الأمر العام "
 
 msgid "Execute operation for whole group"
-msgstr ""
+msgstr "تنفيذ العملية للمجموعة بأكملها"
 
 msgid "Execute operation:"
-msgstr ""
+msgstr ": تنفيذ العملية"
 
 msgid "Execute shell command"
-msgstr ""
+msgstr "shell تنفيذ أمر"
 
 msgid "Executes an operation when alarm is received"
-msgstr ""
+msgstr "تنفيذ عملية عند تلقي الإنذار"
 
 msgid "Executing"
-msgstr ""
+msgstr "تنفيذ"
 
 msgid "Executing. Takes about 2 minutes"
-msgstr ""
+msgstr "تنفيذ. يستغرق حوالي دقيقتين"
 
 msgid "Executive"
-msgstr ""
+msgstr "تنفيذي"
 
 msgid "Expand"
-msgstr ""
+msgstr "وسعت"
 
 msgid "Expand all"
-msgstr ""
+msgstr "توسيع الكل"
 
 msgid "Expand/collapse"
-msgstr ""
+msgstr "توسيع الانهيار"
 
 msgid "Expected target value for data point"
-msgstr ""
+msgstr "القيمة المستهدفة المتوقعة لنقطة البيانات"
 
 msgid "Expiry date"
-msgstr ""
+msgstr "تاريخ الانتهاء"
 
 msgid "Export"
-msgstr ""
+msgstr "تصدير"
 
 msgid "Export CSV"
-msgstr ""
+msgstr "CSV تصدير"
 
 msgid "Export as CSV"
-msgstr ""
+msgstr "CSV تصدير بتنسيق"
 
 msgid "Export data"
-msgstr ""
+msgstr "تصدير البيانات"
 
 msgid "Export details"
-msgstr ""
+msgstr "تفاصيل التصدير"
 
 msgid "Export of \"{{name}}\""
-msgstr ""
+msgstr "\"{{name}}\" تصدير"
 
 msgid "Export request accepted, you will receive an email."
-msgstr ""
+msgstr ".قبول طلب التصدير ، سوف تتلقى رسالة بريد إلكتروني"
 
 msgid "Exports"
-msgstr ""
+msgstr "صادرات"
 
 msgid "External ID"
-msgstr ""
+msgstr "معرف خارجي"
 
 msgid "External ID \"{{value}}\" of the type \"{{type}}\" already exists."
-msgstr ""
+msgstr ".المعرف الخارجي \"{{value}}\" من النوع \"{{type}}\" موجود بالفعل"
 
 msgid "External ID added."
-msgstr ""
+msgstr "تمت إضافة معرف خارجي"
 
 msgid "External ID deleted."
-msgstr ""
+msgstr "تم حذف المعرف الخارجي"
 
 msgid "External ID not found for type \"{{type}}\" and value \"{{value}}\"."
-msgstr ""
+msgstr "لم يتم العثور على المعرف الخارجي للنوع \"{{type}}\" والقيمة \"{{value}}\"."
 
 msgid "External ID type"
-msgstr ""
+msgstr "نوع معرف خارجي"
 
 msgid "External URL"
-msgstr ""
+msgstr "عنوان URL الخارجي"
 
 msgid "External application"
-msgstr ""
+msgstr "تطبيق خارجي"
 
 msgid "External reference"
-msgstr ""
+msgstr "مرجع خارجي"
 
 msgid "FAILED"
-msgstr ""
+msgstr "فشل"
 
 msgid "FLAG"
-msgstr ""
+msgstr "العلم"
 
 msgid "FLOAT"
-msgstr ""
+msgstr "تطفو"
 
 msgid "Factory Reset"
-msgstr ""
+msgstr "اعدادات المصنع"
 
 msgid "Factory reset"
-msgstr ""
+msgstr "اعدادات المصنع"
 
 msgid "Failed"
-msgstr ""
+msgstr "فشل"
 
 msgid "Failed to activate application"
-msgstr ""
+msgstr "فشل تنشيط التطبيق"
 
 msgid "Failed to add new child device."
-msgstr ""
+msgstr ".فشلت إضافة جهاز طفل جديد"
 
 msgid "Failed to apply configuration snapshot."
-msgstr ""
+msgstr ".فشل تطبيق لقطة التكوين"
 
 msgid "Failed to apply configuration snapshot: \"{{failureReason | translate}}\"."
-msgstr ""
+msgstr "\"{{failureReason | translate}}\" :فشل تطبيق لقطة التكوين "
 
 msgid "Failed to apply configuration."
-msgstr ""
+msgstr ".فشل في تطبيق التكوين"
 
 msgid "Failed to apply configuration: \"{{failureReason | translate}}\"."
-msgstr ""
+msgstr "\"{{failureReason | translate}}\" :فشل في تطبيق التكوين"
 
 msgid "Failed to change child device."
-msgstr ""
+msgstr ".فشل في تغيير الجهاز الفرعي"
 
 msgid "Failed to change status of {{name}} to {{label}}"
-msgstr ""
+msgstr " {{label} إلى {{name}} فشل تغيير حالة "
 
 msgid "Failed to change status of {{name}} to {{label}} due to: \"{{operation.failureReason | translate}}\"."
-msgstr ""
+msgstr "\"{{operation.failureReason | translate}}\" : بسبب {{label}} إلى {{name}}   فشل في تغيير الحالة "
 
 msgid "Failed to change value of {{name}} to {{value}}{{unit}}"
-msgstr ""
+msgstr " {{value}}{{unit}} إلى {{name}} فشل في تغيير قيمة"
 
 msgid "Failed to change value of {{name}} to {{value}}{{unit}} due to: \"{{operation.failureReason | translate}}\"."
 msgstr ""
