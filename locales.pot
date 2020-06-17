@@ -4718,31 +4718,31 @@ msgid "Failed to change value of {{name}} to {{value}}{{unit}}"
 msgstr " {{value}}{{unit}} إلى {{name}} فشل في تغيير قيمة"
 
 msgid "Failed to change value of {{name}} to {{value}}{{unit}} due to: \"{{operation.failureReason | translate}}\"."
-msgstr ""
+msgstr ".\"{{operation.failureReason | translate}}\" بسبب {{value}}{{unit}} إلى {{name}} فشل في تغيير قيمة"
 
 msgid "Failed to close the relay due to: \"{{failureReason | translate}}\"."
-msgstr ""
+msgstr ".\"{{failureReason | translate}}\" :فشل إغلاق التتابع بسبب"
 
 msgid "Failed to close the relay."
-msgstr ""
+msgstr ".فشل في إغلاق التتابع"
 
 msgid "Failed to connect using given credentials."
-msgstr ""
+msgstr ".فشل الاتصال باستخدام بيانات الاعتماد المعطاة"
 
 msgid "Failed to disconnect SIM card from the session."
-msgstr ""
+msgstr ".فشل في فصل بطاقة SIM عن الجلسة"
 
 msgid "Failed to disconnect device."
-msgstr ""
+msgstr ".فشل في فصل الجهاز"
 
 msgid "Failed to extract certificate from PKCS12."
-msgstr ""
+msgstr ".PKCS12 فشل استخراج الشهادة من"
 
 msgid "Failed to open the relay due to: \"{{failureReason | translate}}\"."
-msgstr ""
+msgstr "\"{{failureReason | translate}}\" :فشل في فتح التتابع بسبب"
 
 msgid "Failed to open the relay."
-msgstr ""
+msgstr ".فشل في فتح التتابع بسبب"
 
 msgid ""
 "Failed to process one of the devices.\n"
@@ -4754,229 +4754,235 @@ msgstr[0] ""
 msgstr[1] ""
 
 msgid "Failed to register device."
-msgstr ""
+msgstr ".فشل في تسجيل الجهاز"
 
 msgid "Failed to reload configuration."
-msgstr ""
+msgstr ".فشل في إعادة تحميل التكوين"
 
 msgid "Failed to reload configuration: \"{{failureReason | translate}}\"."
-msgstr ""
+msgstr ".\"{{failureReason | translate}}\" :فشل في إعادة تحميل التكوين"
 
 msgid "Failed to retrieve RDB snapshot."
-msgstr ""
+msgstr ". RDB فشل استرداد لقطة"
 
 msgid "Failed to retrieve RDB snapshot: \"{{failureReason | translate}}\"."
-msgstr ""
+msgstr ". \"{{failureReason | translate}}\"  :RDB فشل استرداد لقطة"
 
 msgid "Failed to retrieve configuration snapshot."
-msgstr ""
+msgstr ".فشل في استعادة لقطة التكوين"
 
 msgid "Failed to retrieve configuration snapshot: \"{{failureReason | translate}}\"."
-msgstr ""
+msgstr ".\"{{failureReason | translate}}\" :فشل في استعادة لقطة التكوين"
 
 msgid "Failed to save configuration."
-msgstr ""
+msgstr ".فشل في حفظ التكوين"
 
 msgid "Failed to save configuration: \"{{failureReason | translate}}\"."
-msgstr ""
+msgstr ".\"{{failureReason | translate}}\" فشل في حفظ التكوين"
 
 msgid "Failed to save. Try again."
-msgstr ""
+msgstr ".فشلت في انقاذ. حاول مجددا"
 
 msgid "Failed to scan and connect devices."
-msgstr ""
+msgstr ".فشل فحص الأجهزة وتوصيلها"
 
 msgid "Failed to update domain at the platform."
-msgstr ""
+msgstr ".فشل تحديث المجال في النظام الأساسي"
 
 msgid "Failure reason"
-msgstr ""
+msgstr "سبب الفشل"
 
 msgid "Faster"
-msgstr ""
+msgstr "بسرعة"
 
 msgid "Favicon"
-msgstr ""
+msgstr "فافيكون"
 
 msgid "Field separator"
-msgstr ""
+msgstr "فاصل المجال"
 
 msgid "Fieldbus device widget"
-msgstr ""
+msgstr "Fieldbus القطعة جهاز "
 
 msgid "Fieldbus type"
-msgstr ""
+msgstr "Fieldbus نوع"
 
 msgid "Fieldbus version"
-msgstr ""
+msgstr "Fieldbus الإصدار"
 
 msgid "Fieldbus4"
-msgstr ""
+msgstr "Fieldbus4"
 
 msgid "Fields"
-msgstr ""
+msgstr "مجالات"
 
 msgid "Fields marked * are required."
-msgstr ""
+msgstr ".الحقول التي تحمل علامة * مطلوبة"
 
 msgid "File"
-msgstr ""
+msgstr "ملف"
 
 msgid "File \"{{vm.details.name}}\" is ready for download."
-msgstr ""
+msgstr ".جاهز للتحميل   \"{{vm.details.name}}\" ملف"
 
 msgid "File download"
-msgstr ""
+msgstr "تحميل الملف"
 
 msgid "File entry outside of the target directory: \"{{path}}\"."
-msgstr ""
+msgstr ".\"{{path}}\" :إدخال ملف خارج الدليل الهدف"
 
 msgid "File type"
-msgstr ""
+msgstr "نوع الملف"
 
 msgid "File with exported data can be downloaded from {tenant-domain}/inventory/binaries/{binaryId}."
-msgstr ""
+msgstr ".{tenant-domain}/inventory/binaries/{binaryId} يمكن تنزيل الملف مع البيانات المصدرة من"
 
 msgid "Files repository"
-msgstr ""
+msgstr "مستودع الملفات"
 
 msgid "Files to upload"
-msgstr ""
+msgstr "ملفات للتحميل"
 
 msgid "Files uploaded."
-msgstr ""
+msgstr ".تم تحميل الملفات"
 
 msgid "Filter"
-msgstr ""
+msgstr "منقي"
 
 msgid "Filter by global roles"
-msgstr ""
+msgstr "التصفية بحسب الأدوار العالمية"
 
 msgid "Filter by maximum date"
-msgstr ""
+msgstr "التصفية حسب التاريخ الأقصى"
 
 msgid "Filter by maximum value"
-msgstr ""
+msgstr "التصفية حسب القيمة القصوى"
 
 msgid "Filter by minimum date"
-msgstr ""
+msgstr "التصفية حسب التاريخ الأدنى"
 
 msgid "Filter by minimum value"
-msgstr ""
+msgstr "التصفية حسب القيمة الدنيا"
 
 msgid "Filter by pattern"
-msgstr ""
+msgstr "التصفية حسب النمط"
 
 msgid "Filter by text"
-msgstr ""
+msgstr "التصفية حسب النص"
 
 msgid "Filter date range"
-msgstr ""
+msgstr "نطاق تاريخ التصفية"
 
 msgid "Filter device groups..."
-msgstr ""
+msgstr "...تصفية مجموعات الأجهزة"
 
 msgid "Filter devices by group"
-msgstr ""
+msgstr "تصفية الأجهزة حسب المجموعة"
 
 msgid "Filter inventory roles"
-msgstr ""
+msgstr "تصفية أدوار المخزون"
 
 msgid "Filter notifications"
-msgstr ""
+msgstr "إشعارات التصفية"
 
 msgid "Filter options"
-msgstr ""
+msgstr "خيارات التصفية"
 
 msgid "Filter properties"
-msgstr ""
+msgstr "خصائص التصفية"
 
 msgid "Filter users"
-msgstr ""
+msgstr "تصفية المستخدمين"
 
 msgid "Filter..."
-msgstr ""
+msgstr "...منقي"
 
 msgid "Filter: none"
-msgstr ""
+msgstr "عامل التصفية: لا يوجد"
 
 msgid "Filter: {{fragments}}"
-msgstr ""
+msgstr " {{fragments}}:منقي"
 
 msgid "Filtered by text"
-msgstr ""
+msgstr "تصفيتها حسب النص"
 
 msgid "Filtering mode"
-msgstr ""
+msgstr "وضع التصفية"
 
 msgid "Filters"
-msgstr ""
+msgstr "مرشحات"
 
 msgid "Filter…"
-msgstr ""
+msgstr "...منقي"
 
 msgid "Find by external ID"
-msgstr ""
+msgstr "البحث عن طريق معرف خارجي"
 
 msgid "Find lat/long by address"
-msgstr ""
+msgstr "ابحث عن خط العرض / الطول حسب العنوان"
 
 msgid "Find out more"
-msgstr ""
+msgstr "اكتشف المزيد"
 
 msgid "Find out more about available applications in the <a c8y-guide-href=\"reference/applications/#application-names\">Reference guide`KEEP_ORIGINAL`</a>."
-msgstr ""
+msgstr ".<a c8y-guide-href=\"reference/applications/#application-names\">`KEEP_ORIGINAL`دليل مرجعي</a> اكتشف المزيد حول التطبيقات المتاحة في"
 
 msgid ""
 "Find out more in the\n"
 "          <a c8y-guide-href=\"users-guide/cockpit/#visualize\">User guide`KEEP_ORIGINAL`</a>."
 msgstr ""
+"اكتشف المزيد في\n"
+"<a c8y-guide-href=\"users-guide/cockpit/#visualize\">`KEEP_ORIGINAL` دليل المستخدم</a>"
 
 msgid ""
 "Find out more in the\n"
 "        <a c8y-guide-href=\"users-guide/cockpit/#export\">User guide`KEEP_ORIGINAL`</a>."
 msgstr ""
+".اكتشف المزيد في\n"
+". <a c8y-guide-href=\"users-guide/cockpit/#export\">`KEEP_ORIGINAL`دليل المستخدم</a>"
 
 msgid ""
 "Find out more in the\n"
 "        <a c8y-guide-href=\"users-guide/overview/\">User guide`KEEP_ORIGINAL`</a>."
 msgstr ""
+"اكتشف المزيد في\n"
+"<a c8y-guide-href=\"users-guide/overview/\">User guide`KEEP_ORIGINAL`</a>"
 
 msgid "Find out more in the <a c8y-guide-href=\"concepts/applications/\">User guide`KEEP_ORIGINAL`</a>."
-msgstr ""
+msgstr "<a c8y-guide-href=\"concepts/applications/\">دليل المستخدم `KEEP_ORIGINAL`</a> اكتشف المزيد في"
 
 msgid "Find out more in the <a c8y-guide-href=\"mqtt/smartrest-2/#creating-templates-via-mqtt\">Device SDK guide`KEEP_ORIGINAL`</a>."
-msgstr ""
+msgstr "<a c8y-guide-href=\"mqtt/smartrest-2/#creating-templates-via-mqtt\">دليل SDK للجهاز `KEEP_ORIGINAL`</a>  اكتشف المزيد في"
 
 msgid "Find out more in the <a c8y-guide-href=\"reference/retention-rules/\">Reference guide`KEEP_ORIGINAL`</a>."
-msgstr ""
+msgstr ".<a c8y-guide-href=\"reference/retention-rules/\">`KEEP_ORIGINAL` دليل مرجعي</a>  اكتشف المزيد في"
 
 msgid "Find out more in the <a c8y-guide-href=\"users-guide/administration/#event-processing\">User guide`KEEP_ORIGINAL`</a>."
-msgstr ""
+msgstr ".<a c8y-guide-href=\"users-guide/administration/#event-processing\">`KEEP_ORIGINAL` دليل المستخدم</a> اكتشف المزيد في"
 
 msgid "Find out more in the <a c8y-guide-href=\"users-guide/administration/#reprio-alarms\">User guide`KEEP_ORIGINAL`</a>."
-msgstr ""
+msgstr ".<a c8y-guide-href=\"users-guide/administration/#reprio-alarms\">`KEEP_ORIGINAL` دليل المستخدم</a>  اكتشف المزيد في"
 
 msgid "Find out more in the <a c8y-guide-href=\"users-guide/cockpit/#dashboards\">User guide`KEEP_ORIGINAL`</a>."
-msgstr ""
+msgstr ".<a c8y-guide-href=\"users-guide/cockpit/#dashboards\">User guide`KEEP_ORIGINAL`</a>  اكتشف المزيد في"
 
 msgid "Find out more in the <a c8y-guide-href=\"users-guide/cockpit/#rules\">User guide`KEEP_ORIGINAL`</a>."
-msgstr ""
+msgstr ".<a c8y-guide-href=\"users-guide/cockpit/#rules\">User guide`KEEP_ORIGINAL`</a>  اكتشف المزيد في"
 
 msgid "Find out more in the <a c8y-guide-href=\"users-guide/cockpit/#visualize\">User guide`KEEP_ORIGINAL`</a>."
-msgstr ""
+msgstr ".<a c8y-guide-href=\"users-guide/cockpit/#visualize\">User guide`KEEP_ORIGINAL`</a>  اكتشف المزيد في"
 
 msgid "Find out more in the <a c8y-guide-href=\"users-guide/device-management/#adding-instructions-to-the-simulator\" target=\"_blank\" rel=\"noopener noreferrer\">User guide`KEEP_ORIGINAL`</a>."
-msgstr ""
+msgstr ".<a c8y-guide-href=\"users-guide/device-management/#adding-instructions-to-the-simulator\" target=\"_blank\" rel=\"noopener noreferrer\">User guide`KEEP_ORIGINAL`</a>  اكتشف المزيد في"
 
 msgid "Find out more in the <a c8y-guide-href=\"users-guide/device-management/#configsnap\">User guide`KEEP_ORIGINAL`</a>."
-msgstr ""
+msgstr ".<a c8y-guide-href=\"users-guide/device-management/#configsnap\">User guide`KEEP_ORIGINAL`</a>  اكتشف المزيد في"
 
 msgid "Find out more in the <a c8y-guide-href=\"users-guide/device-management/#simulator\">User guide`KEEP_ORIGINAL`</a>."
-msgstr ""
+msgstr ".<a c8y-guide-href=\"users-guide/device-management/#simulator\">User guide`KEEP_ORIGINAL`</a>  اكتشف المزيد في"
 
 msgid "Find out more in the <a c8y-guide-href=\"users-guide/overview/\">User guide`KEEP_ORIGINAL`</a>."
-msgstr ""
+msgstr ".<a c8y-guide-href=\"users-guide/overview/\">User guide`KEEP_ORIGINAL`</a>  اكتشف المزيد في"
 
 msgid ""
 "Find your device type in the\n"
@@ -4991,65 +4997,70 @@ msgid ""
 msgstr ""
 
 msgid "Firmware"
-msgstr ""
+msgstr "البرامج الثابتة"
 
 msgid "Firmware item deleted."
-msgstr ""
+msgstr ".تم حذف عنصر البرنامج الثابت"
 
 msgid "Firmware item saved."
-msgstr ""
+msgstr ".تم حفظ عنصر البرنامج الثابت"
 
 msgid "Firmware repository"
-msgstr ""
+msgstr "مستودع البرامج الثابتة"
 
 msgid "Firmware to install"
-msgstr ""
+msgstr "البرامج الثابتة للتثبيت"
 
 msgid "Firmware update"
-msgstr ""
+msgstr "تحديث البرامج الثابتة"
 
 msgid "Firmware version"
-msgstr ""
+msgstr "نسخة برنامج ثابت"
 
 msgid "First name"
-msgstr ""
+msgstr "الاسم الاول"
 
 msgid "First occurrence"
-msgstr ""
+msgstr "التواجد الأول"
 
 msgid ""
 "First you have to upload the appropriate certificate by clicking \"Upload certificate\".\n"
 "            Make sure that:"
 msgstr ""
+" \"Upload certificate\"  أولاً يجب عليك تحميل الشهادة المناسبة بالنقر\n"
+"	:تأكد من أن"
 
 msgid "First`page`"
-msgstr ""
+msgstr "الصفحة الأولى"
 
 msgid "Fix errors"
-msgstr ""
+msgstr "صحح الاخطاء"
 
 msgid "Fixed IP address"
-msgstr ""
+msgstr "عنوان IP ثابت"
 
 msgid "Following mandatory fields should be included: {{fields}}"
-msgstr ""
+msgstr " {{fields}} :يجب إدراج الحقول الإلزامية التالية"
 
 msgid ""
 "For correct application behavior you can use only {{vm.defaultRedirectUrl}}\n"
 "            or {{vm.host}} values, it is advised to use the first one."
 msgstr ""
+"{{vm.defaultRedirectUrl}} لسلوك التطبيق الصحيح يمكنك استخدامه فقط \n"
+".القيم ، ينصح باستخدام الأول ,{{vm.host}} أو"
 
 msgid "For details refer to the <a c8y-guide-href=\"users-guide/administration/\">User guide`KEEP_ORIGINAL`</a>."
-msgstr ""
+msgstr "<a c8y-guide-href=\"users-guide/administration/\">`KEEP_ORIGINAL` دليل المستخدم</a>  لمزيد من التفاصيل راجع"
+
 
 msgid "For device type: {{deviceType}}"
-msgstr ""
+msgstr " {{deviceType}} :لنوع الجهاز"
 
 msgid "For example, if message type is indicated by the first byte of payload, then enter 0"
-msgstr ""
+msgstr "0 على سبيل المثال ، إذا تمت الإشارة إلى نوع الرسالة بالبايت الأول للحمولة ، فأدخل"
 
 msgid "For example, if message type is indicated by the first byte of payload, then enter 8"
-msgstr ""
+msgstr "8 على سبيل المثال ، إذا تمت الإشارة إلى نوع الرسالة بالبايت الأول للحمولة ، فأدخل"
 
 msgid ""
 "For placeholder to be recognized it needs to be used at least once\n"
@@ -5057,150 +5068,153 @@ msgid ""
 "        Then you can use this placeholderName in bindings handled by Angular.\n"
 "        There are also predefined functions available:"
 msgstr ""
+" لكي يتم التعرف على العنصر النائب ، يجب استخدامه مرة واحدة على الأقل\n"
+" في أقواس متعرجة بدون أي تعبير آخر ، على سبيل المثال <var ng-non-bindable> {{placeholderName}} </var> \t"
+" تتوفر أيضًا وظائف محددة مسبقًا\t"
 
 msgid "Force not to use display"
-msgstr ""
+msgstr "يجبر على عدم استخدام العرض"
 
 msgid "Forgot password?"
-msgstr ""
+msgstr "هل نسيت كلمة المرور؟"
 
 msgid "Forum support"
-msgstr ""
+msgstr "دعم المنتدى"
 
 msgid "Found no device users with names starting with <strong>{{::vm.filtering.filters.username}}</strong>."
-msgstr ""
+msgstr " .<strong>{{::vm.filtering.filters.username}}</strong> لم يتم العثور على مستخدمي الجهاز بأسماء تبدأ بـ"
 
 msgid "Fragment"
-msgstr ""
+msgstr "شظية"
 
 msgid "Fragment equals value"
-msgstr ""
+msgstr "الجزء يساوي القيمة"
 
 msgid "Fragment exists"
-msgstr ""
+msgstr "جزء موجود"
 
 msgid "Fragment path"
-msgstr ""
+msgstr "مسار الشظية"
 
 msgid "Fragment type"
-msgstr ""
+msgstr "نوع الشظية"
 
 msgid "Fragments"
-msgstr ""
+msgstr "فتات"
 
 msgid "Fragments to copy"
-msgstr ""
+msgstr "شظايا للنسخ"
 
 msgid "Fragments to filter"
-msgstr ""
+msgstr "شظايا لتصفية"
 
 msgid "Free"
-msgstr ""
+msgstr "مجانا"
 
 msgid "Free vend"
-msgstr ""
+msgstr "بائع مجاني"
 
 msgid "Frequency"
-msgstr ""
+msgstr "تكرر"
 
 msgid "Frequency (seconds)"
-msgstr ""
+msgstr "التردد (بالثواني)"
 
 msgid "From`date`"
-msgstr ""
+msgstr "من التاريخ"
 
 msgid "From`old-value`"
-msgstr ""
+msgstr "من القيمة القديمة"
 
 msgid "Full access"
-msgstr ""
+msgstr "الوصول الكامل"
 
 msgid "Full branding"
-msgstr ""
+msgstr "العلامة التجارية الكاملة"
 
 msgid "Full bulk registration - template.csv"
-msgstr ""
+msgstr "template.csv - تسجيل مجمع كامل"
 
 msgid "Full registration"
-msgstr ""
+msgstr "التسجيل الكامل"
 
 msgid "Full screen"
-msgstr ""
+msgstr "شاشة كاملة"
 
 msgid "Functionalities"
-msgstr ""
+msgstr "وظائف"
 
 msgid "GPIO"
-msgstr ""
+msgstr "GPIO"
 
 msgid "GPIO Pin"
-msgstr ""
+msgstr "GPIO دبوس"
 
 msgid "GPS"
-msgstr ""
+msgstr "GPS"
 
 msgid "GPS position"
-msgstr ""
+msgstr "GPS موضع"
 
 msgid "GPS tracks hidden"
-msgstr ""
+msgstr "GPS المسارات المخفية"
 
 msgid "GPS tracks visible"
-msgstr ""
+msgstr "GPS المسارات مرئية"
 
 msgid "GROUP"
-msgstr ""
+msgstr "مجموعة"
 
 msgid "GSM tracks hidden"
-msgstr ""
+msgstr "GSM المسارات المخفية"
 
 msgid "GSM tracks visible"
-msgstr ""
+msgstr "GSM المسارات مرئية"
 
 msgid "Gateway_Acceleration"
-msgstr ""
+msgstr "Gateway_Acceleration"
 
 msgid "Gateway_Battery"
-msgstr ""
+msgstr "Gateway_Battery"
 
 msgid "Gateway_Humidity"
-msgstr ""
+msgstr "Gateway_Humidity"
 
 msgid "Gateway_Magnetic_Switch"
-msgstr ""
+msgstr "Gateway_Magnetic_Switch"
 
 msgid "Gateway_Signal"
-msgstr ""
+msgstr "Gateway_Signal"
 
 msgid "Gateway_Speed"
-msgstr ""
+msgstr "Gateway_Speed"
 
 msgid "Gateway_Temperature"
-msgstr ""
+msgstr "Gateway_Temperature"
 
 msgid "Gender"
-msgstr ""
+msgstr "جنس"
 
 msgid "General"
-msgstr ""
+msgstr "جنرال لواء"
 
 msgid "General device registration"
-msgstr ""
+msgstr "تسجيل الجهاز العام"
 
 msgid "Generate boostrap server config"
-msgstr ""
+msgstr "تكوين الخادم boostrap انشاء"
 
 msgid "Generate public and private keys"
-msgstr ""
+msgstr "إنشاء مفاتيح عامة وخاصة"
 
 msgid "Generating report"
-msgstr ""
+msgstr "تقرير توليد"
 
 msgid "Geofence"
-msgstr ""
+msgstr "Geofence"
 
 msgid "Geofence violation"
-msgstr ""
+msgstr "انتهاك Geofence"
 
 msgid "Get CANopen interface type"
 msgstr ""
