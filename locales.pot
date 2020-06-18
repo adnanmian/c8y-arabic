@@ -5217,751 +5217,751 @@ msgid "Geofence violation"
 msgstr "انتهاك Geofence"
 
 msgid "Get CANopen interface type"
-msgstr ""
+msgstr "CANopen احصل على نوع واجهة "
 
 msgid "Get CANopen node ID"
-msgstr ""
+msgstr "CANopen احصل على معرف عقدة"
 
 msgid "Get CANopen port"
-msgstr ""
+msgstr "CANopen احصل على منفذ"
 
 msgid "Get CANopen serial port"
-msgstr ""
+msgstr "التسلسلي CANopen احصل على منفذ"
 
 msgid "Get CPU reporting interval"
-msgstr ""
+msgstr "احصل على الفاصل الزمني لإعداد تقارير وحدة المعالجة المركزية"
 
 msgid "Get Cinterion information"
-msgstr ""
+msgstr "Cinterion احصل على معلومات"
 
 msgid "Get Config"
-msgstr ""
+msgstr "احصل على التكوين"
 
 msgid "Get DHCP lease time [seconds]"
-msgstr ""
+msgstr "[ثواني] DHCP حصل على وقت تأجير"
 
 msgid "Get Device Serial Number"
-msgstr ""
+msgstr "احصل على الرقم التسلسلي للجهاز"
 
 msgid "Get EVENTS Database"
-msgstr ""
+msgstr "الحصول على قاعدة بيانات الأحداث"
 
 msgid "Get GPIO notify mode"
-msgstr ""
+msgstr "GPIO احصل على وضع إخطار"
 
 msgid "Get GPIO status"
-msgstr ""
+msgstr "GPIO الحصول على حالة"
 
 msgid "Get GPS enable"
-msgstr ""
+msgstr "GPS احصل على تمكين"
 
 msgid "Get I/O pin analogue input [volts]"
-msgstr ""
+msgstr "[فولت] الحصول على الإدخال التناظري I/O دبوس"
 
 msgid "Get I/O pin analogue raw voltage [volts]"
-msgstr ""
+msgstr "[فولت] احصل على I/O دبوس الجهد التناظري الخام"
 
 msgid "Get I/O pin capability"
-msgstr ""
+msgstr "احصل على إمكانية إدخال / إخراج"
 
 msgid "Get I/O pin digital input"
-msgstr ""
+msgstr "احصل على إدخال I/O الرقمي"
 
 msgid "Get I/O pin digital input threshold"
-msgstr ""
+msgstr "احصل على حد الإدخال الرقمي لدخل الإدخال / الإخراج"
 
 msgid "Get I/O pin hardware gain"
-msgstr ""
+msgstr "احصل على كسب أجهزة الإدخال / الإخراج"
 
 msgid "Get I/O pin mode"
-msgstr ""
+msgstr "pin I/O احصل على وضع"
 
 msgid "Get I/O pin scale"
-msgstr ""
+msgstr "pin I/O احصل على مقياس"
 
 msgid "Get IMSI"
-msgstr ""
+msgstr "IMSI احصل على"
 
 msgid "Get ISP Database"
-msgstr ""
+msgstr "ISP احصل على قاعدة بيانات"
 
 msgid "Get LOG Database"
-msgstr ""
+msgstr "LOG احصل على قاعدة بيانات"
 
 msgid "Get Lua plugins"
-msgstr ""
+msgstr "الإضافية Lua احصل على مكونات"
 
 msgid "Get MTU"
-msgstr ""
+msgstr "MTU احصل على"
 
 msgid "Get Metric"
-msgstr ""
+msgstr "احصل على متري"
 
 msgid "Get PARAM Database"
-msgstr ""
+msgstr "PARAM احصل على قاعدة بيانات"
 
 msgid "Get PENDING operations"
-msgstr ""
+msgstr "احصل على عمليات معلقة"
 
 msgid "Get PPPoE"
-msgstr ""
+msgstr "PPPoE احصل على"
 
 msgid "Get PPPoE (password protected)"
-msgstr ""
+msgstr "(محمي بكلمة مرور) PPPoE احصل على"
 
 msgid "Get PROCCFG Database"
-msgstr ""
+msgstr "PROCCFG احصل على قاعدة بيانات"
 
 msgid "Get SCHEDULE Database"
-msgstr ""
+msgstr "SCHEDULE احصل على قاعدة بيانات"
 
 msgid "Get SIM PIN"
-msgstr ""
+msgstr "SIM لبطاقة  PIN احصل على رمز"
 
 msgid "Get SIM protection"
-msgstr ""
+msgstr "SIM احصل على حماية"
 
 msgid "Get SIM status"
-msgstr ""
+msgstr "SIM الحصول على حالة"
 
 msgid "Get TEMPLATE Database"
-msgstr ""
+msgstr "TEMPLATE احصل على قاعدة بيانات"
 
 msgid "Get Time"
-msgstr ""
+msgstr "احصل على وقت"
 
 msgid "Get USER Database"
-msgstr ""
+msgstr "احصل على قاعدة بيانات المستخدم"
 
 msgid "Get a parameter"
-msgstr ""
+msgstr "احصل على معلمة"
 
 msgid "Get a parameter (password protected)"
-msgstr ""
+msgstr "الحصول على معلمة (محمية بكلمة مرور)"
 
 msgid "Get actual ADC in mV"
-msgstr ""
+msgstr "mV احصل على ADC الفعلي"
 
 msgid "Get actual date and time of RTC"
-msgstr ""
+msgstr "RIC احصل على التاريخ والوقت الفعلي"
 
 msgid "Get agent GPIO interval [seconds]"
-msgstr ""
+msgstr "الحصول على عامل GPIO الفاصل الزمني [بالثواني]"
 
 msgid "Get agent GPS interval [seconds]"
-msgstr ""
+msgstr "الحصول على الفاصل الزمني لتحديد المواقع للوكيل [ثوانٍ]"
 
 msgid "Get agent connection server"
-msgstr ""
+msgstr "احصل على خادم اتصال الوكيل"
 
 msgid "Get agent connection timeout [seconds]"
-msgstr ""
+msgstr "الحصول على مهلة اتصال الوكيل [بالثواني]"
 
 msgid "Get agent enable"
-msgstr ""
+msgstr "تمكين الحصول على وكيل"
 
 msgid "Get agent log level"
-msgstr ""
+msgstr "الحصول على مستوى سجل الوكيل"
 
 msgid "Get agent modbus port"
-msgstr ""
+msgstr "الوكيل modbus الحصول على منفذ"
 
 msgid "Get agent network timeout [seconds]"
-msgstr ""
+msgstr "الحصول على مهلة شبكة الوكيل [ثواني]"
 
 msgid "Get agent reconnect interval [seconds]"
-msgstr ""
+msgstr "إحضار الفاصل الزمني لإعادة اتصال الوكيل [بالثواني]"
 
 msgid "Get agent signal strength measurement interval [seconds]"
-msgstr ""
+msgstr "الحصول على فاصل زمني لقياس قوة إشارة الوكيل [بالثواني]"
 
 msgid "Get agent status"
-msgstr ""
+msgstr "الحصول على حالة الوكيل"
 
 msgid "Get all module events"
-msgstr ""
+msgstr "احصل على جميع أحداث الوحدة"
 
 msgid "Get child device"
-msgstr ""
+msgstr "احصل على جهاز طفل"
 
 msgid "Get cod"
-msgstr ""
+msgstr "احصل على سمك القد"
 
 msgid "Get cod (password protected)"
-msgstr ""
+msgstr "احصل على كود (محمي بكلمة مرور)"
 
 msgid "Get codconnectreg"
-msgstr ""
+msgstr "codconnectreg احصل على"
 
 msgid "Get codconnectreg (password protected)"
-msgstr ""
+msgstr "(محمي بكلمة مرور) codconnectreg احصل على"
 
 msgid "Get coddialport"
-msgstr ""
+msgstr "coddialport احصل على منفذ"
 
 msgid "Get coddialport (password protected)"
-msgstr ""
+msgstr "(محمي بكلمة مرور)  coddialport احصل على منفذ"
 
 msgid "Get coddisconnect"
-msgstr ""
+msgstr "coddisconnect احصل على"
 
 msgid "Get coddisconnect (password protected)"
-msgstr ""
+msgstr "(محمي بكلمة مرور) coddisconnect احصل على"
 
 msgid "Get codignore.dns"
-msgstr ""
+msgstr "codignore.dns احصل على"
 
 msgid "Get codignore.dns (password protected)"
-msgstr ""
+msgstr "(محمي بكلمة مرور)  codignore.dns احصل على"
 
 msgid "Get codignore.icmp"
-msgstr ""
+msgstr "codignore.icmp  احصل على"
 
 msgid "Get codignore.icmp (password protected)"
-msgstr ""
+msgstr "(محمي بكلمة مرور)  codignore.icmp احصل على"
 
 msgid "Get codignore.ncsi"
-msgstr ""
+msgstr "codignore.ncsi  احصل على"
 
 msgid "Get codignore.ncsi (password protected)"
-msgstr ""
+msgstr " (محمي بكلمة مرور) codignore.ncsi  احصل على"
 
 msgid "Get codignore.ntp"
-msgstr ""
+msgstr "codignore.ntp احصل على"
 
 msgid "Get codignore.ntp (password protected)"
-msgstr ""
+msgstr "(محمي بكلمة مرور)  codignore.ntp احصل على"
 
 msgid "Get codignore.tcp"
-msgstr ""
+msgstr "codignore.tcp احصل على"
 
 msgid "Get codignore.tcp (password protected)"
-msgstr ""
+msgstr "(محمي بكلمة مرور) codignore.tcp احصل على"
 
 msgid "Get codignore.udp"
-msgstr ""
+msgstr "codignore.udp احصل على"
 
 msgid "Get codignore.udp (password protected)"
-msgstr ""
+msgstr "(محمي بكلمة مرور) codignore.udp احصل على"
 
 msgid "Get codminonline"
-msgstr ""
+msgstr "codminonline احصل على"
 
 msgid "Get codminonline (password protected)"
-msgstr ""
+msgstr "(محمي بكلمة مرور) codminonline احصل على"
 
 msgid "Get codonline"
-msgstr ""
+msgstr "codonline احصل على"
 
 msgid "Get codonline (password protected)"
-msgstr ""
+msgstr "(محمي بكلمة مرور)  codonline احصل على"
 
 msgid "Get codrandomtime"
-msgstr ""
+msgstr "codrandomtime  احصل على"
 
 msgid "Get codrandomtime (password protected)"
-msgstr ""
+msgstr "(محمي بكلمة مرور) codrandomtime  احصل على"
 
 msgid "Get codredial"
-msgstr ""
+msgstr "codredial احصل على"
 
 msgid "Get codredial (password protected)"
-msgstr ""
+msgstr " (محمي بكلمة مرور) codredial احصل على"
 
 msgid "Get codstatus"
-msgstr ""
+msgstr "codstatus احصل على"
 
 msgid "Get codstatus (password protected)"
-msgstr ""
+msgstr "(محمي بكلمة مرور) codstatus احصل على"
 
 msgid "Get codverbose"
-msgstr ""
+msgstr "codverbose احصل على"
 
 msgid "Get codverbose (password protected)"
-msgstr ""
+msgstr "(محمي بكلمة مرور) codverbose احصل على"
 
 msgid "Get command template"
-msgstr ""
+msgstr "احصل على قالب الأوامر"
 
 msgid "Get current receiver number"
-msgstr ""
+msgstr "احصل على رقم المستقبل الحالي"
 
 msgid "Get detailed Cinterion information"
-msgstr ""
+msgstr "معلومات Cinterion احصل على التفاصيل"
 
 msgid "Get device chipset"
-msgstr ""
+msgstr "احصل على شرائح الجهاز"
 
 msgid "Get device user"
-msgstr ""
+msgstr "احصل على مستخدم الجهاز"
 
 msgid "Get download timeout"
-msgstr ""
+msgstr "احصل على مهلة التنزيل"
 
 msgid "Get download timeout (password protected)"
-msgstr ""
+msgstr "الحصول على مهلة التنزيل (محمية بكلمة مرور)"
 
 msgid "Get firmware and hardware version"
-msgstr ""
+msgstr "احصل على إصدار البرامج الثابتة والأجهزة"
 
 msgid "Get forceplmn"
-msgstr ""
+msgstr "forceplmn احصل على"
 
 msgid "Get forceplmn (password protected)"
-msgstr ""
+msgstr "(محمي بكلمة مرور) forceplmn احصل على"
 
 msgid "Get install timeout"
-msgstr ""
+msgstr "احصل على مهلة التثبيت"
 
 msgid "Get install timeout (password protected)"
-msgstr ""
+msgstr "(محمي بكلمة مرور) احصل على مهلة التثبيت"
 
 msgid "Get installed firmware"
-msgstr ""
+msgstr "احصل على البرامج الثابتة المثبتة"
 
 msgid "Get internal temperature of chip"
-msgstr ""
+msgstr "احصل على درجة حرارة داخلية للرقائق"
 
 msgid "Get ledmode"
-msgstr ""
+msgstr "ledmode احصل على"
 
 msgid "Get ledmode (password protected)"
-msgstr ""
+msgstr "(محمي بكلمة مرور) ledmode احصل على"
 
 msgid "Get list of files saved on device"
-msgstr ""
+msgstr "احصل على قائمة الملفات المحفوظة على الجهاز"
 
 msgid "Get log level"
-msgstr ""
+msgstr "احصل على مستوى السجل"
 
 msgid "Get log path"
-msgstr ""
+msgstr "احصل على مسار السجل"
 
 msgid "Get log quota"
-msgstr ""
+msgstr "احصل على حصة السجل"
 
 msgid "Get measurements"
-msgstr ""
+msgstr "احصل على القياسات"
 
 msgid "Get memory reporting interval"
-msgstr ""
+msgstr "احصل على فاصل زمني لتقارير الذاكرة"
 
 msgid "Get network update interval [seconds]"
-msgstr ""
+msgstr "الحصول على الفاصل الزمني لتحديث الشبكة [بالثواني]"
 
 msgid "Get new snapshot from device"
-msgstr ""
+msgstr "احصل على لقطة جديدة من الجهاز"
 
 msgid "Get operator selection info"
-msgstr ""
+msgstr "الحصول على معلومات اختيار المشغل"
 
 msgid "Get plmnscan"
-msgstr ""
+msgstr "plmnscan احصل على"
 
 msgid "Get plmnscan (password protected)"
-msgstr ""
+msgstr "(محمي بكلمة مرور) plmnscan احصل على"
 
 msgid "Get power source and voltage"
-msgstr ""
+msgstr "احصل على مصدر الطاقة والجهد"
 
 msgid "Get power supply voltage"
-msgstr ""
+msgstr "احصل على جهد مصدر الطاقة"
 
 msgid "Get predefined command"
-msgstr ""
+msgstr "احصل على أمر محدد مسبقًا"
 
 msgid "Get pullup voltage [volts]"
-msgstr ""
+msgstr "الحصول على جهد السحب [فولت]"
 
 msgid "Get reconnect delay [seconds]"
-msgstr ""
+msgstr "الحصول على تأخير إعادة الاتصال [ثواني]"
 
 msgid "Get reconnect retries"
-msgstr ""
+msgstr "احصل على محاولات إعادة الاتصال"
 
 msgid "Get serial baud rate"
-msgstr ""
+msgstr "احصل على معدل الباود التسلسلي"
 
 msgid "Get serial port mode"
-msgstr ""
+msgstr "احصل على وضع المنفذ التسلسلي"
 
 msgid "Get server URL"
-msgstr ""
+msgstr "للخادم URL احصل على عنوان"
 
 msgid "Get session history"
-msgstr ""
+msgstr "احصل على تاريخ الجلسة"
 
 msgid "Get session history (password protected)"
-msgstr ""
+msgstr "الحصول على سجل الجلسة (محمي بكلمة مرور)"
 
 msgid "Get signal strength"
-msgstr ""
+msgstr "احصل على قوة الإشارة"
 
 msgid "Get single location"
-msgstr ""
+msgstr "احصل على موقع واحد"
 
 msgid "Get ssh.keyauth"
-msgstr ""
+msgstr "ssh.keyauth احصل على"
 
 msgid "Get ssh.keyauth (password protected)"
-msgstr ""
+msgstr "(محمي بكلمة مرور) ssh.keyauth احصل على"
 
 msgid "Get ssh.passauth"
-msgstr ""
+msgstr "ssh.passauth احصل على"
 
 msgid "Get ssh.passauth (password protected)"
-msgstr ""
+msgstr "(محمي بكلمة مرور)  ssh.passauth احصل على"
 
 msgid "Get ssh.proto"
-msgstr ""
+msgstr "ssh.proto احصل على"
 
 msgid "Get ssh.proto (password protected)"
-msgstr ""
+msgstr "(محمي بكلمة مرور) ssh.proto  احصل على"
 
 msgid "Get status"
-msgstr ""
+msgstr "الحصول على وضع"
 
 msgid "Get status (password protected)"
-msgstr ""
+msgstr "الحصول على الحالة (محمي بكلمة مرور)"
 
 msgid "Get supported serial baud rates"
-msgstr ""
+msgstr "احصل على معدلات الباود المدعومة"
 
 msgid "Get sw.version"
-msgstr ""
+msgstr "sw.version احصل على"
 
 msgid "Get sw.version (password protected)"
-msgstr ""
+msgstr "(محمي بكلمة مرور)  sw.version احصل على"
 
 msgid "Get system resources measurement interval [seconds]"
-msgstr ""
+msgstr "الحصول على الفاصل الزمني لقياس موارد النظام [بالثواني]"
 
 msgid "Get the new RDB snapshot from device"
-msgstr ""
+msgstr "لقطة من الجهاز RDB احصل على لقطة"
 
 msgid "Getting measurements from device..."
-msgstr ""
+msgstr "...الحصول على القياسات من الجهاز"
 
 msgid "Getting single location"
-msgstr ""
+msgstr "الحصول على موقع واحد"
 
 msgid "Gives access to bulk operations and device management application. This does not include access to any device data."
-msgstr ""
+msgstr " .يمنح الوصول إلى العمليات المجمعة وتطبيق إدارة الجهاز. هذا لا يشمل الوصول إلى أي بيانات الجهاز "
 
 msgid "Global Manager"
-msgstr ""
+msgstr "المدير العالمي"
 
 msgid "Global Reader"
-msgstr ""
+msgstr "القارئ العالمي"
 
 msgid "Global Smart Rules"
-msgstr ""
+msgstr "القواعد الذكية العالمية"
 
 msgid "Global User Manager"
-msgstr ""
+msgstr "مدير المستخدم العالمي"
 
 msgid "Global application ID"
-msgstr ""
+msgstr "معرّف التطبيق العام"
 
 msgid "Global inventory permissions override inventory role permissions. If you want to limit inventory access, grant it only via inventory roles."
-msgstr ""
+msgstr ".تجاوز أذونات المخزون العمومية أذونات دور المخزون. إذا كنت تريد تقييد الوصول إلى المستودع ، فامنحه فقط من خلال أدوار المستودع"
 
 msgid "Global role"
-msgstr ""
+msgstr "دور عالمي"
 
 msgid "Global role \"{{name}}\" updated"
-msgstr ""
+msgstr "تم تحديث الدور العام \"{{name}}\""
 
 msgid "Global role \"{{name}}\" updated: {{updatesList}}"
-msgstr ""
+msgstr " {{updatesList}} :محدث \"{{name}}\" دور عالمي"
 
 msgid "Global role saved."
-msgstr ""
+msgstr ".تم حفظ الدور العالمي"
 
 msgid "Global role updated"
-msgstr ""
+msgstr "تم تحديث الدور العالمي"
 
 msgid "Global roles"
-msgstr ""
+msgstr "الأدوار العالمية"
 
 msgid "Go to \"Smartphones\" group"
-msgstr ""
+msgstr "\"Smartphones\" انتقل إلى مجموعة"
 
 msgid "Go to OpenCellID and see location"
-msgstr ""
+msgstr "انتقل إلى OpenCellID وشاهد الموقع"
 
 msgid "Go to device"
-msgstr ""
+msgstr "انتقل إلى الجهاز"
 
 msgid "Go to location"
-msgstr ""
+msgstr "انتقل إلى الموقع"
 
 msgid "Go to source"
-msgstr ""
+msgstr "انتقل إلى المصدر"
 
 msgid "Google Authenticator (TOTP)"
-msgstr ""
+msgstr " Google (TOTP) أداة مصادقة "
 
 msgid "Got measurements from device."
-msgstr ""
+msgstr ".حصلت على قياسات من الجهاز"
 
 msgid "Grant permissions on a general level."
-msgstr ""
+msgstr ".منح أذونات على مستوى عام"
 
 msgid "Granted permission"
-msgstr ""
+msgstr "منح إذن"
 
 msgid "Graph"
-msgstr ""
+msgstr "رسم بياني"
 
 msgid "Greater than"
-msgstr ""
+msgstr "أكثر من"
 
 msgid "Greater than or equal"
-msgstr ""
+msgstr "أكبر من أو يساوي"
 
 msgid "Grid"
-msgstr ""
+msgstr "جريد"
 
 msgid "Group"
-msgstr ""
+msgstr "مجموعة"
 
 msgid "Group \"{{name}}\" created."
-msgstr ""
+msgstr ".\"{{name}}\" تم إنشاء المجموعة"
 
 msgid "Group \"{{name}}\" saved."
-msgstr ""
+msgstr ".\"{{name}}\" تم حفظ المجموعة"
 
 msgid "Group assignment"
-msgstr ""
+msgstr "مهمه المجموعه"
 
 msgid "Group created."
-msgstr ""
+msgstr ".تم إنشاء المجموعة"
 
 msgid "Group dashboards can only be copied into a group."
-msgstr ""
+msgstr ".لا يمكن نسخ لوحات تحكم المجموعة إلا في مجموعة"
 
 msgid "Group data"
-msgstr ""
+msgstr "بيانات المجموعة"
 
 msgid "Group deleted."
-msgstr ""
+msgstr ".تم حذف المجموعة"
 
 msgid "Group is required"
-msgstr ""
+msgstr "المجموعة مطلوبة"
 
 msgid "Group name"
-msgstr ""
+msgstr "أسم المجموعة"
 
 msgid "Group or device"
-msgstr ""
+msgstr "مجموعة أو جهاز"
 
 msgid "Group permissions"
-msgstr ""
+msgstr "أذونات المجموعة"
 
 msgid "Group:&nbsp;"
-msgstr ""
+msgstr "&nbsp; :مجموعة"
 
 msgid "Groups"
-msgstr ""
+msgstr "مجموعات"
 
 msgid "Groups assignment"
-msgstr ""
+msgstr "تعيين المجموعات"
 
 msgid "HTML"
-msgstr ""
+msgstr "HTML"
 
 msgid "HTML code"
-msgstr ""
+msgstr "HTML كود"
 
 msgid "HTML code will be sanitized."
-msgstr ""
+msgstr "HTML سيتم تعقيم كود"
 
 msgid "Hardware"
-msgstr ""
+msgstr "المعدات"
 
 msgid "Has full access to all deployed CEP modules and SmartRules"
-msgstr ""
+msgstr " SmartRules المنشورة و CEP لديه حق الوصول الكامل إلى جميع وحدات"
 
 msgid "Has right to"
-msgstr ""
+msgstr "له الحق في"
 
 msgid "Header"
-msgstr ""
+msgstr "العنوان"
 
 msgid "Header style"
-msgstr ""
+msgstr "نمط الرأس"
 
 msgid "Headers"
-msgstr ""
+msgstr "الرؤوس"
 
 msgid "Headings font stack"
-msgstr ""
+msgstr "مكدس خط العناوين"
 
 msgid "Heads up"
-msgstr ""
+msgstr "انتباه"
 
 msgid "Heavy mode"
-msgstr ""
+msgstr "الوضع الثقيل"
 
 msgid "Heavy mode GPS"
-msgstr ""
+msgstr "GPS الوضع الثقيل"
 
 msgid "Height for setting the right proportion for the logo: width / height x 100"
-msgstr ""
+msgstr "100 x الارتفاع لتحديد النسبة المناسبة للشعار: العرض / الارتفاع"
 
 msgid "Height for setting the right proportion for the navigator logo: width / height x 100 - should be 230px wide"
-msgstr ""
+msgstr "الارتفاع لتعيين النسبة المناسبة لشعار المستكشف: يجب أن يكون العرض / الارتفاع × 100 - بعرض 230 بكسل"
 
 msgid "Hello"
-msgstr ""
+msgstr "مرحبا"
 
 msgid "Help & Service"
-msgstr ""
+msgstr "المساعدة والخدمة"
 
 msgid "Help &amp; documentation"
-msgstr ""
+msgstr "مساعدة و توثيق"
 
 msgid "Help &amp; support"
-msgstr ""
+msgstr "مساعدةو الدعم "
 
 msgid "Help and service"
-msgstr ""
+msgstr "المساعدة والخدمة"
 
 msgid "Here are a few data points to get you started"
-msgstr ""
+msgstr "إليك بعض نقاط البيانات لتبد"
 
 msgid "Hex, rgb or rgba value."
-msgstr ""
+msgstr "rgba أو rgb أو Hex قيمة"
 
 msgid "Hex, rgb or rgba value. Default: {{defaultColor}}"
-msgstr ""
+msgstr "{{defaultColor}}  : الافتراضي .rgba أو rgb أو Hex قيمة"
 
 msgid "Hexadecimal number"
-msgstr ""
+msgstr "رقم سداسي عشري"
 
 msgid "Hidden"
-msgstr ""
+msgstr "مخفي"
 
 msgid "Hide"
-msgstr ""
+msgstr "إخفاء"
 
 msgid "Hide details"
-msgstr ""
+msgstr "أخف التفاصيل"
 
 msgid "History of changes"
-msgstr ""
+msgstr "تاريخ التغييرات"
 
 msgid "Holding register"
-msgstr ""
+msgstr "سجل قابض"
 
 msgid "Holding registers"
-msgstr ""
+msgstr "مسك السجلات"
 
 msgid "Home"
-msgstr ""
+msgstr "الصفحة الرئيسية"
 
 msgid "Host"
-msgstr ""
+msgstr "مضيف"
 
 msgid "Host key"
 msgstr ""
 
 msgid "Hosted application"
-msgstr ""
+msgstr "تطبيق مستضاف"
 
 msgid "Hour"
-msgstr ""
+msgstr "ساعة"
 
 msgid "Hourly"
-msgstr ""
+msgstr "ساعيا"
 
 msgid "Hourly aggregation"
-msgstr ""
+msgstr "تجميع كل ساعة"
 
 msgid "Hours"
-msgstr ""
+msgstr "ساعات"
 
 msgid "House number"
-msgstr ""
+msgstr "رقم الدار"
 
 msgid "I/O and PLC"
-msgstr ""
+msgstr "I/O و PLC"
 
 msgid "ICCID"
-msgstr ""
+msgstr "ICCID"
 
 msgid "ID"
-msgstr ""
+msgstr "هوية شخصية"
 
 msgid "ID \"{{deviceId}}\" contains invalid character: \"{{invalidCharacter}}\"."
-msgstr ""
+msgstr "  \"{{validCharacter}}\" :يحتوي على حرف غير صالح \"{{deviceId}}\" المعرف "
 
 msgid "ID: {{$ctrl.template.__externalId}}"
-msgstr ""
+msgstr " {{$ctrl.template.__externalId}} : هوية شخصية"
 
 msgid "IMEI"
-msgstr ""
+msgstr "IMEI"
 
 msgid "IMPACT"
-msgstr ""
+msgstr "IMPACT"
 
 msgid "IMPACT group name prefix"
-msgstr ""
+msgstr "IMPACT بادئة اسم مجموعة"
 
 msgid "IMPACT provider settings"
-msgstr ""
+msgstr "IMPACT إعدادات موفر"
 
 msgid "IMSI"
-msgstr ""
+msgstr "IMSI"
 
 msgid "INTEGER"
-msgstr ""
+msgstr "(INTEGER) عدد صحيح"
 
 msgid "INVENTORY"
-msgstr ""
+msgstr "(INVENTORY) المخزون"
 
 msgid "IP"
-msgstr ""
+msgstr "IP"
 
 msgid "IP Address"
-msgstr ""
+msgstr "IP عنوان"
 
 msgid "IP address"
-msgstr ""
+msgstr "IP عنوان"
 
 msgid "IP address or hostname in the local network"
-msgstr ""
+msgstr " أو اسم المضيف في الشبكة المحلية IP عنوان "
 
 msgid "IP address:Port"
-msgstr ""
+msgstr "عنوان IP: Port"
 
 msgid "IP range"
-msgstr ""
+msgstr "مجموعة الملكية الفكرية"
 
 msgid "Icon"
-msgstr ""
+msgstr "أيقونة"
 
 msgid "Icon configuration"
-msgstr ""
+msgstr "تكوين الرمز"
 
 msgid "Icon map"
-msgstr ""
+msgstr "خريطة الرموز"
 
 msgid "Id"
-msgstr ""
+msgstr "هوية شخصية"
 
 msgid "Identification"
-msgstr ""
+msgstr "هوية"
 
 msgid "Identifier"
-msgstr ""
+msgstr "المعرف"
 
 msgid "Identity"
-msgstr ""
+msgstr "هوية"
 
-msgid "If OAuth Internal is enforced, Basic Auth cannot be used to log in to applications anymore. Older applications might fail to display the login correctly and need to be updated."
-msgstr ""
+msgid "If OAuth Internal is enforced, Basic Auth cannot be used to log in to applications anymore Older applications might fail to display the login correctly and need to be updated."
+msgstr "فلا يمكن استخدام المصادقة الأساسية لتسجيل الدخول إلى التطبيقات بعد الآن ، وقد تفشل التطبيقات القديمة في عرض تسجيل الدخول بشكل صحيح وتحتاج إلى التحديث, OAuth Internal إذا تم فرض"
 
 msgid "If no constraints are set, device types are applied at any fitting location on the OPC UA server."
 msgstr ""
