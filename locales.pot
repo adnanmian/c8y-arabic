@@ -5964,255 +5964,257 @@ msgid "If OAuth Internal is enforced, Basic Auth cannot be used to log in to app
 msgstr "فلا يمكن استخدام المصادقة الأساسية لتسجيل الدخول إلى التطبيقات بعد الآن ، وقد تفشل التطبيقات القديمة في عرض تسجيل الدخول بشكل صحيح وتحتاج إلى التحديث, OAuth Internal إذا تم فرض"
 
 msgid "If no constraints are set, device types are applied at any fitting location on the OPC UA server."
-msgstr ""
+msgstr ".OPC UA إذا لم يتم تعيين قيود ، يتم تطبيق أنواع الأجهزة في أي مكان مناسب على خادم"
 
 msgid "If no product certificate key is specified, the device is considered a prototype."
-msgstr ""
+msgstr "إذا لم يتم تحديد مفتاح شهادة منتج ، فسيعتبر الجهاز نموذجًا أوليًا"
 
 msgid "If selected, it will process the result of the request using response templates."
-msgstr ""
+msgstr "إذا تم تحديده ، فسوف يعالج نتيجة الطلب باستخدام قوالب الاستجابة"
 
 msgid "If the user is managed via your authorization server, the change will not be applied. In this case you need to edit the user on your authorization server. Do you want to proceed?"
-msgstr ""
+msgstr "إذا تمت إدارة المستخدم عبر خادم التفويض ، فلن يتم تطبيق التغيير. في هذه الحالة تحتاج إلى تحرير المستخدم على خادم التفويض الخاص بك. هل تريد المتابعة؟"
 
 msgid "If you change your payment settings now,<br> this amount would be settled immediately."
-msgstr ""
+msgstr ".إذا قمت بتغيير إعدادات الدفع الخاصة بك الآن ، <br> فسيتم تسوية هذا المبلغ على الفور"
 
 msgid "If you select the current settings as default, these values will be used whenever this data point is added to a data explorer or in existing threshold Smart Rules which refer to this data point."
-msgstr ""
+msgstr ".إذا حددت الإعدادات الحالية كإعداد افتراضي ، فسيتم استخدام هذه القيم عند إضافة نقطة البيانات هذه إلى مستكشف البيانات أو في القواعد الذكية العتبة الحالية التي تشير إلى نقطة البيانات هذه"
 
 msgid "Image"
-msgstr ""
+msgstr "صورة"
 
 msgid "Image \"{{imageName}}\" pulled."
-msgstr ""
+msgstr " \"{{imageName}}\" تم سحب الصورة"
 
 msgid "Imperial"
-msgstr ""
+msgstr "إمبراطوري"
 
 msgid "Import"
-msgstr ""
+msgstr "استيراد"
 
 msgid "Import SmartREST template"
-msgstr ""
+msgstr "SmartREST استيراد قالب"
 
 msgid "Import device protocol"
-msgstr ""
+msgstr "بروتوكول استيراد الجهاز"
 
 msgid "Import keystore with jks file extension"
-msgstr ""
+msgstr "jks استيراد ملف تخزين المفاتيح مع ملحق ملف"
 
 msgid "Importing, please wait."
-msgstr ""
+msgstr ".جاري الاستيراد ، الرجاء الانتظار"
 
 msgid "In case no value is provided, a device will be able to set it when sending an actual message."
-msgstr ""
+msgstr ".في حالة عدم توفير قيمة ، سيتمكن الجهاز من تعيينها عند إرسال رسالة فعلية"
 
 msgid "In case of key loss, please contact your platform administrator."
-msgstr ""
+msgstr ".في حالة فقدان المفتاح ، يرجى الاتصال بمسؤول النظام الأساسي الخاص بك"
 
 msgid "In order to see the 'Connectivity' tab in device details, the user needs to have 'Read' permission for 'Connectivity'. To change SIM card status and send text messages, the user needs to have 'Admin' permission for 'Connectivity'."
-msgstr ""
+msgstr ".من أجل رؤية علامة التبويب "الاتصال" في تفاصيل الجهاز ، يحتاج المستخدم إلى "إذن قراءة للاتصال". لتغيير حالة بطاقة SIM وإرسال رسائل نصية ، يحتاج المستخدم إلى إذن المسؤول للاتصال"
 
 msgid "In session"
-msgstr ""
+msgstr "في جلسة"
 
 msgid "In this location since"
-msgstr ""
+msgstr "في هذا الموقع منذ ذلك الحين"
 
 msgid "Inactive"
-msgstr ""
+msgstr "غير نشط"
 
 msgid "Inactive for target asset or devices"
-msgstr ""
+msgstr "غير نشط للأصل أو الأجهزة المستهدفة"
 
 msgid "Inactive`rule`"
-msgstr ""
+msgstr "قاعدة غير نشطة"
 
 msgid "Include lowercase characters (e.g. abcdef)"
-msgstr ""
+msgstr "(abcdef مثل) قم بتضمين أحرف صغيرة"
 
 msgid "Include numbers (e.g. 123456)"
-msgstr ""
+msgstr "تضمين أرقام (مثل 123456)"
 
 msgid "Include symbols (e.g. !@#$%^)"
-msgstr ""
+msgstr " تضمين الرموز (على سبيل المثال! @ # $٪ ^)"
 
 msgid "Include uppercase characters (e.g. ABCDEF)"
-msgstr ""
+msgstr "(ABCDEF مثل) تضمين أحرف كبيرة"
 
 msgid "Includes response"
-msgstr ""
+msgstr "يشمل الرد"
 
 msgid "Including child devices of this device"
-msgstr ""
+msgstr "بما في ذلك الأجهزة التابعة لهذا الجهاز"
 
 msgid "Increase alarm severity"
-msgstr ""
+msgstr "زيادة شدة الإنذار"
 
 msgid "Increase alarm severity when active for too long"
-msgstr ""
+msgstr "زيادة شدة الإنذار عندما تكون نشطة لفترة طويلة"
 
 msgid "Increase temperature"
-msgstr ""
+msgstr "ارفع درجة الحرارة"
 
 msgid "Index"
-msgstr ""
+msgstr "فهرس"
 
 msgid "Indicate from where the value should be extracted"
-msgstr ""
+msgstr "وضح من أين يجب أن تستخرج القيمة"
 
 msgid "Info"
-msgstr ""
+msgstr "معلومات"
 
 msgid "Info gauge"
-msgstr ""
+msgstr "مقياس المعلومات"
 
 msgid "Information"
-msgstr ""
+msgstr "معلومات"
 
 msgid "Initializing…"
-msgstr ""
+msgstr "...جار تهيئة"
 
 msgid "Initiate measurement poll"
-msgstr ""
+msgstr "بدء استقصاء القياس"
 
 msgid "Initiated measurement poll."
-msgstr ""
+msgstr ".بدأ قياس الاستطلاع"
 
 msgid "Initiating measurement poll..."
-msgstr ""
+msgstr "...بدء استطلاع القياس"
 
 msgid "Input register"
-msgstr ""
+msgstr "سجل الإدخال"
 
 msgid "Input registers"
-msgstr ""
+msgstr "سجلات الإدخال"
 
 msgid "Insert code provided by source tenant."
-msgstr ""
+msgstr ".أدخل الرمز الذي قدمه المستأجر "
 
 msgid "Insert security code"
-msgstr ""
+msgstr "أدخل رمز الحماية"
 
 msgid "Insert the code received via SMS"
-msgstr ""
+msgstr "أدخل الرمز المستلم عبر الرسائل القصيرة"
 
 msgid "Insert the custom operation type to be supported by your simulator"
-msgstr ""
+msgstr "قم بإدخال نوع العملية المخصص الذي سيدعمه محاكيك"
 
 msgid "Inspect"
-msgstr ""
+msgstr "فحص"
 
 msgid "Inspect Smart Rule"
-msgstr ""
+msgstr "تفقد القاعدة الذكية"
 
 msgid "Install"
-msgstr ""
+msgstr "تثبيت"
 
 msgid ""
 "Install the Cloud Sensor App<br>\n"
 "        on your smartphone"
 msgstr ""
+"قم بتثبيت تطبيق Cloud Sensor <br>\n"
+"على هاتفك الذكي            "
 
 msgid "Instance name"
-msgstr ""
+msgstr "اسم المثيل"
 
 msgid "Instance type"
-msgstr ""
+msgstr "نوع الطلب"
 
 msgid "Instances"
-msgstr ""
+msgstr "المثيلات"
 
 msgid "Instances / Subscribed tenants"
-msgstr ""
+msgstr "المثيلات / المستأجرين المكتتبين"
 
 msgid "Instructions"
-msgstr ""
+msgstr "تعليمات"
 
 msgid "Integer"
-msgstr ""
+msgstr "عدد صحيح"
 
 msgid "International phone number required, in the format +49 9 876 543 210."
-msgstr ""
+msgstr ".+49 9 876 543 210 رقم الهاتف الدولي مطلوب ، بالتنسيق "
 
 msgid "Interval"
-msgstr ""
+msgstr "فترة"
 
 msgid "Interval (in seconds)"
-msgstr ""
+msgstr "الفاصل الزمني (بالثواني)"
 
 msgid "Invalid IP address or hostname."
-msgstr ""
+msgstr ".عنوان IP أو اسم المضيف غير صالح"
 
 msgid "Invalid IP address range."
-msgstr ""
+msgstr ".نطاق عنوان IP غير صالح"
 
 msgid "Invalid MAC address. Valid example: 12:34:56:AB:CD:EF"
-msgstr ""
+msgstr "12:34:56:AB:CD:EF :عنوان MAC غير صالح. مثال صالح"
 
 msgid "Invalid SVG"
-msgstr ""
+msgstr "SVG غير صالح"
 
 msgid "Invalid URL"
-msgstr ""
+msgstr "URL غير صالح"
 
 msgid "Invalid VAT ID."
-msgstr ""
+msgstr ".معرف ضريبة القيمة المضافة غير صالح"
 
 msgid "Invalid browse path."
-msgstr ""
+msgstr ".مسار استعراض غير صالح"
 
 msgid "Invalid code"
-msgstr ""
+msgstr "الرمز غير صحيح"
 
 msgid "Invalid credentials."
-msgstr ""
+msgstr ".بيانات الاعتماد غير صالحة"
 
 msgid "Invalid email address."
-msgstr ""
+msgstr ".عنوان البريد الإلكتروني غير صالح"
 
 msgid "Invalid hexadecimal number."
-msgstr ""
+msgstr ".رقم سداسي عشري غير صالح"
 
 msgid "Invalid license key."
-msgstr ""
+msgstr ".رقم تسجيل خاطئ"
 
 msgid "Invalid pattern."
-msgstr ""
+msgstr ".النمط غير صالح"
 
 msgid "Invalid phone number format. Only digits, spaces, slashes (\"/\") and dashes (\"-\") allowed."
-msgstr ""
+msgstr ". (\"- \") (\"/ \") تنسيق رق م الهاتف غير صالح. يُسمح فقط بالأرقام والمسافات والشرطة المائلة والشرطات"
 
 msgid "Invalid port number."
-msgstr ""
+msgstr ".رقم منفذ غير صالح"
 
 msgid "Invalid verification code. In case of key loss, please contact your platform administrator."
-msgstr ""
+msgstr ".رمز التحقق غير صالح. في حالة فقدان المفتاح ، يرجى الاتصال بمسؤول النظام الأساسي الخاص بك"
 
 msgid "Inventories created"
-msgstr ""
+msgstr "تم إنشاء المخزون"
 
 msgid "Inventories updated"
-msgstr ""
+msgstr "تم تحديث المخزون"
 
 msgid "Inventory"
-msgstr ""
+msgstr "المخزون"
 
 msgid "Inventory role"
-msgstr ""
+msgstr "دور الجرد"
 
 msgid "Inventory role \"{{name}}\" deleted."
-msgstr ""
+msgstr "\"{{name}}\" تم حذف دور الجرد "
 
 msgid "Inventory role \"{{name}}\" updated."
-msgstr ""
+msgstr ". \"{{name}}\" تم تحديث دور المخزون"
 
 msgid "Inventory role removed"
-msgstr ""
+msgstr "تمت إزالة دور المخزون"
 
 msgid "Inventory role saved."
-msgstr ""
+msgstr ".تم حفظ دور المخزون"
 
 msgid "Inventory role updated"
 msgid_plural "Inventory roles updated"
@@ -6220,85 +6222,85 @@ msgstr[0] ""
 msgstr[1] ""
 
 msgid "Inventory roles"
-msgstr ""
+msgstr "أدوار الجرد"
 
 msgid "Inventory structure synchronization in progress"
-msgstr ""
+msgstr "مزامنة بنية المخزون قيد التقدم"
 
 msgid "Inventory update failed due to: \"{{failureReason | translate}}\"."
-msgstr ""
+msgstr "\"{{failureReason | translate}}\" :فشل تحديث المخزون بسبب"
 
 msgid "Inventory update failed."
-msgstr ""
+msgstr ".فشل تحديث المخزون"
 
 msgid "Inventory updated."
-msgstr ""
+msgstr ".تم تحديث المخزون"
 
 msgid "Inventory will be updated."
-msgstr ""
+msgstr ".سيتم تحديث المخزون"
 
 msgid "Invitation email template"
-msgstr ""
+msgstr "قالب دعوة بالبريد الإلكتروني"
 
 msgid "Invoice"
-msgstr ""
+msgstr "فاتورة"
 
 msgid "Invoice number"
-msgstr ""
+msgstr "رقم الفاتورة"
 
 msgid "Isolation"
-msgstr ""
+msgstr "عزل"
 
 msgid "J2ME commands"
-msgstr ""
+msgstr "J2ME أوامر"
 
 msgid "JSON parsed successfully."
-msgstr ""
+msgstr "بنجاح JSON  تم تحليل"
 
 msgid "JWKS"
-msgstr ""
+msgstr "JWKS"
 
 msgid "JWKS URI"
-msgstr ""
+msgstr "JWKS URI"
 
 msgid "JWT field"
-msgstr ""
+msgstr "حقل JWT"
 
 msgid "KNX address"
-msgstr ""
+msgstr "KNX عنوان"
 
 msgid "KPI"
-msgstr ""
+msgstr "KPI"
 
 msgid "KPI?"
-msgstr ""
+msgstr "KPI?"
 
 msgid "Key"
-msgstr ""
+msgstr "مفتاح"
 
 msgid "Key-based Authentication"
-msgstr ""
+msgstr "المصادقة المستندة إلى مفتاح"
 
 msgid "Keystore password"
-msgstr ""
+msgstr "Keystore كلمة مرور"
 
 msgid "LAC"
-msgstr ""
+msgstr "LAC"
 
 msgid "LAN"
-msgstr ""
+msgstr "LAN"
 
 msgid "LAST ACTIVITY"
-msgstr ""
+msgstr "النشاط الاخير"
 
 msgid "LED will be turned off."
-msgstr ""
+msgstr ".سيتم إيقاف LED"
 
 msgid "LED will be turned on."
-msgstr ""
+msgstr ".سيتم تشغيل LED"
 
 msgid "LPWAN device"
-msgstr ""
+msgstr "جهاز LPWAN"
 
 msgid "LWM2M"
 msgstr ""
@@ -13200,7 +13202,7 @@ msgid "Your dashboard is locked now."
 msgstr "لوحة التحكم مقفلة الآن."
 
 msgid "Your dashboard is unlocked now."
-msgstr "لوحة التحكم الخاصة بك غير مؤمنة الآن."
+msgstr "لوحة التحكم الخاصة بك غير مقفوله الآن."
 
 msgid "Your password is expired. Please set a new password."
 msgstr "انتهت صلاحية كلمة المرور الخاصة بك. يرجى تعيين كلمة مرور جديدة."
@@ -13773,7 +13775,7 @@ msgid "inventory assignment [{{inventoryAssignment}}] removed"
 msgstr "[{{inventoryAssignment}}]  تمت إزالة مهمة الجرد"
 
 msgid "km"
-msgstr "km"
+msgstr "كيلو متر"
 
 msgid "latitude"
 msgstr "خط العرض"
