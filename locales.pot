@@ -6303,517 +6303,517 @@ msgid "LPWAN device"
 msgstr "جهاز LPWAN"
 
 msgid "LWM2M"
-msgstr ""
+msgstr "LWM2M"
 
 msgid "LWM2M bootstrap parameters"
-msgstr ""
+msgstr "LWM2M معلمات التشغيل"
 
 msgid "LWM2M post-operations"
-msgstr ""
+msgstr "LWM2M بعد العمليات"
 
 msgid "LWM2M short server ID"
-msgstr ""
+msgstr "LWM2M معرف خادم قصير"
 
 msgid "Label"
-msgstr ""
+msgstr "ضع الكلمة المناسبة"
 
 msgid "Label for active"
-msgstr ""
+msgstr "تسمية نشطة"
 
 msgid "Label for inactive"
-msgstr ""
+msgstr "تسمية غير نشط"
 
 msgid "Language"
-msgstr ""
+msgstr "لغة"
 
 msgid "Last 24 hours availability"
-msgstr ""
+msgstr "توفر آخر 24 ساعة"
 
 msgid "Last 30 days availability"
-msgstr ""
+msgstr "توفر آخر 30 يومًا"
 
 msgid "Last 30 days operability"
-msgstr ""
+msgstr "قابلية التشغيل في آخر 30 يومًا"
 
 msgid "Last 7 days availability"
-msgstr ""
+msgstr "توفر آخر 7 أيام"
 
 msgid "Last N lines"
-msgstr ""
+msgstr "الأخيرة N خطوط"
 
 msgid "Last billing and closing account"
-msgstr ""
+msgstr "آخر حساب فوترة وإغلاق"
 
 msgid "Last clusters calculation time: {{lastCalculation | absoluteDate}}"
-msgstr ""
+msgstr "{{lastCalculation | absoluteDate}}:وقت حساب التكتلات الأخيرة"
 
 msgid "Last communication"
-msgstr ""
+msgstr "التواصل الأخير"
 
 msgid "Last day"
-msgstr ""
+msgstr "بالأمس"
 
 msgid "Last device message"
-msgstr ""
+msgstr "آخر رسالة للجهاز"
 
 msgid "Last edited"
-msgstr ""
+msgstr "آخر تحرير"
 
 msgid "Last edited: {{vm.module.lastModified | absoluteDate}}"
-msgstr ""
+msgstr "{{vm.module.lastModified | absoluteDate}} :آخر تحرير"
 
 msgid "Last hour"
-msgstr ""
+msgstr "الساعة الأخيرة"
 
 msgid "Last lines to display"
-msgstr ""
+msgstr "الخطوط الأخيرة لعرضها"
 
 msgid "Last measurement"
-msgstr ""
+msgstr "القياس الأخير"
 
 msgid "Last message"
-msgstr ""
+msgstr "اخر رسالة"
 
 msgid "Last message: {{date}}"
-msgstr ""
+msgstr "{{date}} :اخر رسالة"
 
 msgid "Last minute"
-msgstr ""
+msgstr "آخر دقيقة"
 
 msgid "Last month"
-msgstr ""
+msgstr "الشهر الماضي"
 
 msgid "Last month usage"
-msgstr ""
+msgstr "استخدام الشهر الماضي"
 
 msgid "Last name"
-msgstr ""
+msgstr "الكنية"
 
 msgid "Last occurrence of this alarm (device time)."
-msgstr ""
+msgstr "آخر تكرار لهذا التنبيه (وقت الجهاز)"
 
 msgid "Last update"
-msgstr ""
+msgstr "اخر تحديث"
 
 msgid "Last updated"
-msgstr ""
+msgstr "آخر تحديث"
 
 msgid "Last valid message"
-msgstr ""
+msgstr "آخر رسالة صالحة"
 
 msgid "Last week"
-msgstr ""
+msgstr "الاسبوع الماضى"
 
 msgid "Last year"
-msgstr ""
+msgstr "العام الماضي"
 
 msgid "Last`page`"
-msgstr ""
+msgstr "'آخر 'صفحة"
 
 msgid "Latitude"
-msgstr ""
+msgstr "خط العرض"
 
 msgid "Leaf machines (without gateways and edges)"
-msgstr ""
+msgstr "آلات الأوراق (بدون بوابات وحواف)"
 
 msgid "Leave empty to skip this constraint"
-msgstr ""
+msgstr "اتركه فارغًا لتخطي هذا القيد"
 
 msgid "Leave empty to use value from tenant options"
-msgstr ""
+msgstr "اتركه فارغًا لاستخدام القيمة من خيارات المستأجر"
 
 msgid "Left"
-msgstr ""
+msgstr "اليسار"
 
 msgid "Left margin"
-msgstr ""
+msgstr "الهامش الأيسر"
 
 msgid "Legacy branded applications deleted."
-msgstr ""
+msgstr "تم حذف التطبيقات ذات العلامات التجارية القديمة"
 
 msgid "Legal notices"
-msgstr ""
+msgstr "الإشعارات القانونية"
 
 msgid "Less than"
-msgstr ""
+msgstr "أقل من"
 
 msgid "Less than or equal"
-msgstr ""
+msgstr "اصغر من او يساوي"
 
 msgid "License key"
-msgstr ""
+msgstr "مفتاح الترخيص"
 
 msgid "License key added."
-msgstr ""
+msgstr "تمت إضافة مفتاح الترخيص"
 
 msgid "License key deleted."
-msgstr ""
+msgstr ".تم حذف مفتاح الترخيص"
 
 msgid "License management"
-msgstr ""
+msgstr "إدارة الترخيص"
 
 msgid "Light"
-msgstr ""
+msgstr "ضوء"
 
 msgid "Light brand color"
-msgstr ""
+msgstr "لون العلامة التجارية الخفيفة"
 
 msgid "Limit HTTP queue"
-msgstr ""
+msgstr "HTTP الحد من قائمة انتظار"
 
 msgid "Limit HTTP requests"
-msgstr ""
+msgstr "HTTP حد طلبات"
 
 msgid "Limit device type scope in the address space"
-msgstr ""
+msgstr "تحديد نطاق نوع الجهاز في مساحة العنوان"
 
 msgid "Limit device type to a set of servers"
-msgstr ""
+msgstr "حدد نوع الجهاز بمجموعة من الخوادم"
 
 msgid "Limit device type to servers with a certain fragment"
-msgstr ""
+msgstr "حدد نوع الجهاز للخوادم التي تحتوي على جزء معين"
 
 msgid "Limit device type to specific root nodes ID"
-msgstr ""
+msgstr "حدد نوع الجهاز بمعرف العقد الجذرية المحددة"
 
 msgid "Limit exceeded email subject"
-msgstr ""
+msgstr "تجاوز الحد موضوع البريد الإلكتروني"
 
 msgid "Limit exceeded email template"
-msgstr ""
+msgstr "تجاوز الحد قالب البريد الإلكتروني"
 
 msgid "Limit number of devices"
-msgstr ""
+msgstr "الحد من عدد الأجهزة"
 
 msgid "Limit password validity for`time-frame`"
-msgstr ""
+msgstr "الحد من صلاحية كلمة المرور للإطار الزمني"
 
 msgid "Limit storage per device"
-msgstr ""
+msgstr "حد التخزين لكل جهاز"
 
 msgid "Limit stream queue"
-msgstr ""
+msgstr "الحد من قائمة انتظار الدفق"
 
 msgid "Limit stream requests"
-msgstr ""
+msgstr "الحد من طلبات الدفق"
 
 msgid "Limit token validity for"
-msgstr ""
+msgstr "حد صلاحية الرمز المميز لـ"
 
 msgid "Limit verification code validity for"
-msgstr ""
+msgstr "الحد من صلاحية رمز التحقق ل"
 
 msgid "Line"
-msgstr ""
+msgstr "خط"
 
 msgid "Line and points"
-msgstr ""
+msgstr "الخط والنقاط"
 
 msgid "Linear Gauge"
-msgstr ""
+msgstr "المقياس الخطي"
 
 msgid "Link color"
-msgstr ""
+msgstr "لون الارتباط"
 
 msgid "Link to privacy policy"
-msgstr ""
+msgstr "رابط إلى سياسة الخصوصية"
 
 msgid "List"
-msgstr ""
+msgstr "قائمة"
 
 msgid "List of 3 values per software"
-msgstr ""
+msgstr "قائمة 3 قيم لكل برنامج"
 
 msgid "List of child devices of an asset with configurable columns."
-msgstr ""
+msgstr ".قائمة بالأجهزة التابعة لمادة ذات أعمدة قابلة للتكوين"
 
 msgid "List of supported operations"
-msgstr ""
+msgstr "قائمة العمليات المدعومة"
 
 msgid "Little-endian"
-msgstr ""
+msgstr "Little-endian"
 
 msgid "Liveness probe failed: {{requestMethod}} {{uri}}: {{protocol}}: request canceled while waiting for connection (Client.Timeout exceeded while awaiting headers)."
-msgstr ""
+msgstr " تم إلغاء الطلب أثناء انتظار الاتصال (تم تجاوز المهلة أثناء انتظار الرؤوس)  : {{requestMethod}} {{uri}}: {{protocol}} :فشل تحقيق الحياة"
 
 msgid "LoRa"
-msgstr ""
+msgstr "LoRa"
 
 msgid "LoRa device"
-msgstr ""
+msgstr "LoRa جهاز"
 
 msgid "LoRa provider settings"
-msgstr ""
+msgstr "LoRa إعدادات الموفر"
 
 msgid "Load"
-msgstr ""
+msgstr "حمل"
 
 msgid "Load \"{{kpi.c8y_Kpi.label}}\" from library"
-msgstr ""
+msgstr "من المكتبة  \"{{kpi.c8y_Kpi.label}}\" حمل"
 
 msgid "Load from file"
-msgstr ""
+msgstr "تحميل من ملف"
 
 msgid "Load more"
-msgstr ""
+msgstr "تحميل المزيد"
 
 msgid "Loading"
-msgstr ""
+msgstr "جار التحميل"
 
 msgid "Loading alarms and events"
-msgstr ""
+msgstr "تحميل الإنذارات والأحداث"
 
 msgid "Loading data points…"
-msgstr ""
+msgstr "...تحميل نقاط البيانات"
 
 msgid "Loading logfiles..."
-msgstr ""
+msgstr "...تحميل ملفات السجل"
 
 msgid "Loading the list of items to be deleted&hellip;"
-msgstr ""
+msgstr "تحميل قائمة العناصر المراد حذفها"
 
 msgid "Loading users&hellip;"
-msgstr ""
+msgstr "تحميل المستخدمين"
 
 msgid "Local"
-msgstr ""
+msgstr "محلي"
 
 msgid "Locate"
-msgstr ""
+msgstr "حدد"
 
 msgid "Location"
-msgstr ""
+msgstr "موقعك"
 
 msgid "Location in navigation"
-msgstr ""
+msgstr "الموقع في الملاحة"
 
 msgid "Location saved."
-msgstr ""
+msgstr ".تم حفظ الموقع"
 
 msgid "Lock"
-msgstr ""
+msgstr "قفل"
 
 msgid "Lock/unlock this dashboard"
-msgstr ""
+msgstr "قفل / فتح لوحة القيادة هذه"
 
 msgid "Log"
-msgstr ""
+msgstr "سجل"
 
 msgid "Log file deleted."
-msgstr ""
+msgstr "تم حذف ملف السجل"
 
 msgid "Log file request"
-msgstr ""
+msgstr "طلب ملف السجل"
 
 msgid "Log file request cancelled."
-msgstr ""
+msgstr "تم إلغاء طلب ملف السجل"
 
 msgid "Log file requested."
-msgstr ""
+msgstr "تم طلب ملف السجل"
 
 msgid "Log into the management tenant first and enter your phone number."
-msgstr ""
+msgstr "قم بتسجيل الدخول إلى مستأجر الإدارة أولاً وأدخل رقم هاتفك"
 
 msgid "Log of recent alarms from all devices with any severity and status"
-msgstr ""
+msgstr "سجل الإنذارات الأخيرة من جميع الأجهزة مع أي شدة وحالة"
 
 msgid "Log out"
-msgstr ""
+msgstr "تسجيل خروج"
 
 msgid "Log out immediately"
-msgstr ""
+msgstr "قم بتسجيل الخروج على الفور"
 
 msgid "Log settings"
-msgstr ""
+msgstr "إعدادات السجل"
 
 msgid "LogIn"
-msgstr ""
+msgstr "تسجيل الدخول"
 
 msgid "LogIn CHAP"
-msgstr ""
+msgstr "CHAP تسجيل الدخول"
 
 msgid "LogIn CHAP Response"
-msgstr ""
+msgstr "CHAP استجابة تسجيل دخول"
 
 msgid "LogOut"
-msgstr ""
+msgstr "تسجيل خروج"
 
 msgid "Logger_Humidity"
-msgstr ""
+msgstr "مسجل_الرطوبة"
 
 msgid "Logger_Signal"
-msgstr ""
+msgstr "تسجيل_ إشارة"
 
 msgid "Logger_Temperature"
-msgstr ""
+msgstr "درجة الحرارة"
 
 msgid "Login"
-msgstr ""
+msgstr "تسجيل الدخول"
 
 msgid "Login alias"
-msgstr ""
+msgstr "اسم مستعار لتسجيل الدخول"
 
 msgid "Login alias must not contain slashes (\"/\", \"\\\") nor (\"+\"), (\":\"), (\"$\") signs."
-msgstr ""
+msgstr "  (\"+\"), (\":\"), (\"$\")    ,(\"/\", \"\\\")  يجب ألا يحتوي الاسم المستعار لتسجيل الدخول على شرطة مائلة  ولا علامات"
 
 msgid "Login options"
-msgstr ""
+msgstr "خيارات تسجيل الدخول"
 
 msgid "Login settings"
-msgstr ""
+msgstr "إعدادات تسجيل الدخول"
 
 msgid "Login settings saved."
-msgstr ""
+msgstr "تم حفظ إعدادات تسجيل الدخول"
 
 msgid "Logo wrapper background color"
-msgstr ""
+msgstr "لون خلفية غلاف الشعار"
 
 msgid "Logout"
-msgstr ""
+msgstr "تسجيل خروج"
 
 msgid "Logout configuration"
-msgstr ""
+msgstr "تكوين تسجيل الخروج"
 
 msgid "Logout request"
-msgstr ""
+msgstr "طلب تسجيل الخروج"
 
 msgid "Logout required"
-msgstr ""
+msgstr "تسجيل الخروج مطلوب"
 
 msgid "Logs"
-msgstr ""
+msgstr "السجلات"
 
 msgid "Longitude"
-msgstr ""
+msgstr "خط الطول"
 
 msgid "Low mode"
-msgstr ""
+msgstr "الوضع المنخفض"
 
 msgid "Low mode GPS"
-msgstr ""
+msgstr "وضع GPS منخفض"
 
 msgid "Lua plugins settings"
-msgstr ""
+msgstr "Lua إعدادات ملحقات"
 
 msgid "M-Bus"
-msgstr ""
+msgstr "M-Bus"
 
 msgid "MAC"
-msgstr ""
+msgstr "MAC"
 
 msgid "MAC address"
-msgstr ""
+msgstr "MAC عنوان"
 
 msgid "MAJOR"
-msgstr ""
+msgstr "رائد"
 
 msgid "MANAGED_OBJECT"
-msgstr ""
+msgstr "MANAGED_OBJECT"
 
 msgid "MCC"
-msgstr ""
+msgstr "MCC"
 
 msgid "MD5"
-msgstr ""
+msgstr "MD5"
 
 msgid "MDB"
-msgstr ""
+msgstr "MDB"
 
 msgid "MEASUREMENT"
-msgstr ""
+msgstr "قياس"
 
 msgid "MIB ZIP parsed successfully."
-msgstr ""
+msgstr "تم تحليل MIB ZIP بنجاح"
 
 msgid "MINOR"
-msgstr ""
+msgstr "تحت السن القانوني"
 
 msgid "MNC"
-msgstr ""
+msgstr "MNC"
 
 msgid "MSISDN"
-msgstr ""
+msgstr "MSISDN"
 
 msgid "MSISDN is not set for tracker. Set it now."
-msgstr ""
+msgstr "MSISDN .لم يتم تعيين لتعقب. ضعه الآن"
 
 msgid "Main background color"
-msgstr ""
+msgstr "لون الخلفية الرئيسي"
 
 msgid "Main brand color"
-msgstr ""
+msgstr "لون العلامة التجارية الرئيسية"
 
 msgid "Main difference is the storage of the authentication information. With Basic Auth, it is saved in a session storage and with OAuth Internal in a HttpOnly cookie. OAuth Internal grant is recommended as the authentication information is not accessible via JavaScript."
-msgstr ""
+msgstr ".الاختلاف الرئيسي هو تخزين معلومات المصادقة باستخدام Basic Auth ، ويتم حفظها في مخزن جلسة ومع OAuth Internal في ملف تعريف الارتباط HoutpOnly ، يُنصح بمنحة OAuth الداخلية حيث لا يمكن الوصول إلى معلومات المصادقة عبر JavaScript "
 
 msgid "Main logo"
-msgstr ""
+msgstr "الشعار الرئيسي"
 
 msgid "Maintenance"
-msgstr ""
+msgstr "اعمال صيانة"
 
 msgid "Maintenance off"
-msgstr ""
+msgstr "إيقاف الصيانة"
 
 msgid "Maintenance on"
-msgstr ""
+msgstr "الصيانة على"
 
 msgid "Major"
-msgstr ""
+msgstr "رائد"
 
 msgid "Major alarms"
-msgstr ""
+msgstr "الإنذارات الرئيسية"
 
 msgid "Manage user permissions on a particular group and/or its children."
-msgstr ""
+msgstr ".إدارة أذونات المستخدم في مجموعة معينة و / أو أطفالها"
 
 msgid "Managed object"
-msgstr ""
+msgstr "كائن مُدار"
 
 msgid "Managed object \"{{name}}\" deleted"
-msgstr ""
+msgstr "\"{{name}}\" تم حذف الكائن المدار"
 
 msgid "Managed object deleted"
-msgstr ""
+msgstr "تم حذف الكائن المُدار"
 
 msgid "Managed object fragment"
-msgstr ""
+msgstr "جزء كائن مُدار"
 
 msgid "Managed object property"
-msgstr ""
+msgstr "خاصية الكائن المُدار"
 
 msgid "Managed objects"
-msgstr ""
+msgstr "الكائنات المدارة"
 
 msgid "Management"
-msgstr ""
+msgstr "إدارة"
 
 msgid "Manager"
-msgstr ""
+msgstr "مدير"
 
 msgid "Mandatory"
-msgstr ""
+msgstr "إلزامي"
 
 msgid "Manifest URL"
-msgstr ""
+msgstr "عنوان URL الظاهر"
 
 msgid "Manual"
-msgstr ""
+msgstr "كتيب"
 
 msgid "Map"
-msgstr ""
+msgstr "خريطة"
 
 msgid "Mapped to"
-msgstr ""
+msgstr "تعيين ل"
 
 msgid "Margin"
-msgstr ""
+msgstr "حافة"
 
 msgid "Max"
-msgstr ""
+msgstr "ماكس"
 
 msgid "Max length:"
-msgstr ""
+msgstr ":الحد الاقصى للطول"
 
 msgid "Max length: 1"
 msgid_plural "Max length: {{$count}}"
@@ -6821,385 +6821,385 @@ msgstr[0] ""
 msgstr[1] ""
 
 msgid "Max value: {{vm.field.attrs.c8yMax}}"
-msgstr ""
+msgstr "{{vm.field.attrs.c8yMax}} :قيمة الحد الأقصى"
 
 msgid "Max value: {{vm.field.attrs.max}}"
-msgstr ""
+msgstr "{{vm.field.attrs.max}}  :قيمة الحد الأقصى"
 
 msgid "Max. 30 IP addresses in total allowed."
-msgstr ""
+msgstr " ماكس. يُسمح بإجمالي 30 عنوان IP "
 
 msgid "Max:"
-msgstr ""
+msgstr ":ماكس"
 
 msgid "Maximum"
-msgstr ""
+msgstr "أقصى"
 
 msgid "Maximum 25 characters; only numbers, letters, spaces and exclamation marks allowed."
-msgstr ""
+msgstr "25 حرفًا كحد أقصى ؛ مسموح فقط بالأرقام والحروف والمسافات وعلامات التعجب"
 
 msgid "Maximum Credit"
-msgstr ""
+msgstr "الحد الأقصى للائتمان"
 
 msgid "Maximum age"
-msgstr ""
+msgstr "الحد الأقصى للسن"
 
 msgid "Maximum age (days)"
-msgstr ""
+msgstr "الحد الأقصى للعمر (أيام)"
 
 msgid "Maximum age cannot be bigger than 10 years."
-msgstr ""
+msgstr "لا يمكن أن يكون العمر الأقصى أكبر من 10 سنوات"
 
 msgid "Maximum file size exceeded."
-msgstr ""
+msgstr "تم تجاوز الحجم الأقصى للملف"
 
 msgid "Maximum length"
-msgstr ""
+msgstr "الحد الأقصى لطول"
 
 msgid "Maximum number of simulators reached."
-msgstr ""
+msgstr "تم الوصول إلى أقصى عدد من المحاكيات"
 
 msgid "Maximum of simulated devices reached."
-msgstr ""
+msgstr "تم الوصول إلى الحد الأقصى من الأجهزة المحاكاة"
 
 msgid "Maximum period"
-msgstr ""
+msgstr "الفترة القصوى"
 
 msgid "Measurement"
-msgstr ""
+msgstr "قياس"
 
 msgid "Measurement series"
-msgstr ""
+msgstr "سلسلة القياس"
 
 msgid "Measurement type"
-msgstr ""
+msgstr "نوع القياس"
 
 msgid "Measurement:"
-msgstr ""
+msgstr ":قياس "
 
 msgid "Measurements"
-msgstr ""
+msgstr "قياسات"
 
 msgid "Measurements created"
-msgstr ""
+msgstr "تم إنشاء القياسات"
 
 msgid "Mechanism"
-msgstr ""
+msgstr "آلية"
 
 msgid "Medium mode"
-msgstr ""
+msgstr "الوضع المتوسط"
 
 msgid "Medium mode GPS"
-msgstr ""
+msgstr "وضع GPS متوسط"
 
 msgid "Memory (MB)"
-msgstr ""
+msgstr "الذاكرة (ميجابايت)"
 
 msgid "Memory: total"
-msgstr ""
+msgstr "الذاكرة: الإجمالي"
 
 msgid "Memory: used"
-msgstr ""
+msgstr "الذاكرة المستخدمة"
 
 msgid "Menu label"
-msgstr ""
+msgstr "تسمية القائمة"
 
 msgid "Menu label to display in submenu when dashboard is attached"
-msgstr ""
+msgstr "ملصق القائمة لعرضه في القائمة الفرعية عند إرفاق لوحة القيادة"
 
 msgid "Merge"
-msgstr ""
+msgstr "دمج"
 
 msgid "Message"
-msgstr ""
+msgstr "رسالة"
 
 msgid "Message ID"
-msgstr ""
+msgstr "معرف الرسالة"
 
 msgid "Message ID must be unique among all message and response templates."
-msgstr ""
+msgstr "يجب أن يكون معرف الرسالة فريدًا بين جميع قوالب الرسائل والردود"
 
 msgid "Message of the day"
-msgstr ""
+msgstr "رسالة اليوم"
 
 msgid "Message sending"
-msgstr ""
+msgstr "إرسال رسالة"
 
 msgid "Message template deleted."
-msgstr ""
+msgstr ".تم حذف قالب الرسالة"
 
 msgid "Message template identifier. It must be unique among all message and response templates."
-msgstr ""
+msgstr "معرف قالب الرسالة. يجب أن تكون فريدة بين جميع قوالب الرسائل والردود."
 
 msgid "Message template saved."
-msgstr ""
+msgstr ".تم حفظ قالب الرسالة"
 
 msgid "Message text"
-msgstr ""
+msgstr "رسالة نصية"
 
 msgid "Message type"
-msgstr ""
+msgstr "نوع الرسالة"
 
 msgid "Message types"
-msgstr ""
+msgstr "أنواع الرسائل"
 
 msgid "Message will be sent."
-msgstr ""
+msgstr "سيتم إرسال الرسالة"
 
 msgid "Message with ID \"{{messageId}}\" doesn't exist in SmartREST template with ID \"{{templateId}}\""
-msgstr ""
+msgstr "لا توجد رسالة برقم التعريف \"{{messageId}}\" في نموذج SmartREST برقم التعريف \"{{templateId}}\""
 
 msgid "Messages"
-msgstr ""
+msgstr "الرسائل"
 
 msgid "Messaging application is not subscribed."
-msgstr ""
+msgstr "تطبيق المراسلة غير مشترك"
 
 msgid "Messaging provider must be configured to send WAN settings to device via SMS"
-msgstr ""
+msgstr "يجب تكوين موفر المراسلة لإرسال إعدادات WAN إلى الجهاز عبر الرسائل القصيرة"
 
 msgid "Method"
-msgstr ""
+msgstr "طريقة"
 
 msgid "Metric"
-msgstr ""
+msgstr "قياس"
 
 msgid "Metrics"
-msgstr ""
+msgstr "المقاييس"
 
 msgid "Microservice"
-msgstr ""
+msgstr "خدمة متناهية الصغر"
 
 msgid "Microservice SDK guide`KEEP_ORIGINAL`"
-msgstr ""
+msgstr "`KEEP_ORIGINAL` دليل الخدمات المصغرة SDK"
 
 msgid "Microservice application name is incorrect: only lower case letters, digits and dashes allowed. Maximum length: {{maxLength}}."
-msgstr ""
+msgstr " {{maxLength}} : اسم تطبيق Microservice غير صحيح: لا يُسمح إلا بالأحرف الصغيرة والأرقام والشرطات. الحد الأقصى لطول"
 
 msgid "Microservice is not available."
-msgstr ""
+msgstr "غير متوفر Microservice "
 
 msgid "Milliseconds"
-msgstr ""
+msgstr "مللي ثانية"
 
 msgid "Min"
-msgstr ""
+msgstr "الحد الأدنى"
 
 msgid "Min value: {{vm.field.attrs.c8yMin}}"
-msgstr ""
+msgstr "{{vm.field.attrs.c8yMin}}  :القيمة الدنيا"
 
 msgid "Min value: {{vm.field.attrs.min}}"
-msgstr ""
+msgstr "{{vm.field.attrs.min}}  :القيمة الدنيا"
 
 msgid "Min/Max"
-msgstr ""
+msgstr "الحد الأدنى - الحد الأقصى"
 
 msgid "Min:"
-msgstr ""
+msgstr ":الحد الأدنى"
 
 msgid "Minimal length of \"green\" password"
-msgstr ""
+msgstr "الحد الأدنى لطول كلمة المرور الخضراء"
 
 msgid "Minimum"
-msgstr ""
+msgstr "الحد الأدنى"
 
 msgid "Minimum 5"
-msgstr ""
+msgstr "الحد الأدنى 5"
 
 msgid "Minimum and maximum"
-msgstr ""
+msgstr "الحد الأدنى والحد الأقصى"
 
 msgid "Minimum length"
-msgstr ""
+msgstr "الحد الأدنى للطول"
 
 msgid "Minimum period"
-msgstr ""
+msgstr "الفترة الدنيا"
 
 msgid "Minor"
-msgstr ""
+msgstr "تحت السن القانوني"
 
 msgid "Minor alarms"
-msgstr ""
+msgstr "إنذارات طفيفة"
 
 msgid "Minutely"
-msgstr ""
+msgstr "بدقة"
 
 msgid "Minutely aggregation"
-msgstr ""
+msgstr "تجميع للغاية"
 
 msgid "Minutes"
-msgstr ""
+msgstr "الدقائق"
 
 msgid "Misc"
-msgstr ""
+msgstr "متفرقات"
 
 msgid "Missing measurements of type: #{type}"
-msgstr ""
+msgstr " #{type} :قياسات مفقودة من النوع"
 
 msgid "Mobile"
-msgstr ""
+msgstr "التليفون المحمول"
 
 msgid "Mobile phone number"
-msgstr ""
+msgstr "Mobile phone number"
 
 msgid "Modbus"
-msgstr ""
+msgstr "مودبوس"
 
 msgid "Modbus communication"
-msgstr ""
+msgstr "اتصالات مودبوس"
 
 msgid "Modbus-RTU config"
-msgstr ""
+msgstr "Modbus-RTU تكوين"
 
 msgid "Mode"
-msgstr ""
+msgstr "الوضع"
 
 msgid "Model"
-msgstr ""
+msgstr "نموذج"
 
 msgid "Model:"
-msgstr ""
+msgstr ":نموذج"
 
 msgid "Module \"{{name}}\" renamed."
-msgstr ""
+msgstr " \"{{name}}\" :إعادة تسمية الوحدة النمطية"
 
 msgid "Module \"{{name}}\" saved."
-msgstr ""
+msgstr "\"{{name}}\" تم حفظ الوحدة النمطية"
 
 msgid "Module config"
-msgstr ""
+msgstr "تكوين الوحدة النمطية"
 
 msgid "Module version"
-msgstr ""
+msgstr "إصدار الوحدة"
 
 msgid "Monitored measurement:"
-msgstr ""
+msgstr ":قياس مراقب"
 
 msgid "Month"
-msgstr ""
+msgstr "شهر"
 
 msgid "More data may be available"
-msgstr ""
+msgstr "قد تتوفر المزيد من البيانات"
 
 msgid "More`details`"
-msgstr ""
+msgstr "المزيد من التفاصيل"
 
 msgid "More…"
-msgstr ""
+msgstr "تفاصيل"
 
 msgid "Motion detector"
-msgstr ""
+msgstr "كاشف الحركة"
 
 msgid "Motion tracking"
-msgstr ""
+msgstr "حركة تابعة"
 
 msgid "Move"
-msgstr ""
+msgstr "نقل"
 
 msgid "Move or add"
-msgstr ""
+msgstr "انقل أو أضف"
 
 msgid "Multi tenant"
-msgstr ""
+msgstr "مستأجر متعدد"
 
 msgid "Multiple"
-msgstr ""
+msgstr "مضاعف"
 
 msgid "Multiple deployment options"
-msgstr ""
+msgstr "خيارات نشر متعددة"
 
 msgid "Multiplier"
-msgstr ""
+msgstr "المضاعف"
 
 msgid "Must be 16 characters hex string"
-msgstr ""
+msgstr "يجب أن يتكون من 16 حرفًا ست عشري"
 
 msgid "Must be 32 characters hex string"
-msgstr ""
+msgstr "يجب أن تكون سلسلة أحرف سداسية 32 حرف"
 
 msgid "Must be a valid HTTP(S) URL"
-msgstr ""
+msgstr "يجب أن يكون عنوان URL HTTP (S) صالحًا"
 
 msgid "Must be a valid JSON object."
-msgstr ""
+msgstr "صالحًا JSON يجب أن يكون كائن"
 
 msgid "Must be a valid JSON path"
-msgstr ""
+msgstr "صالحًا JSON يجب أن يكون مسار"
 
 msgid "Must be valid JSONPath expression."
-msgstr ""
+msgstr "صالحًا JSONPath يجب أن يكون تعبير"
 
 msgid "Must have at least {{length}} characters"
-msgstr ""
+msgstr " {{length}}  يجب ألا يقل عدد الأحرف عن"
 
 msgid "My trackers"
-msgstr ""
+msgstr "متعقبي"
 
 msgid "N/A"
-msgstr ""
+msgstr "N/A"
 
 msgid "NB IoT-SGI"
-msgstr ""
+msgstr "IoT-SGI :ملاحظة"
 
 msgid "NEW"
-msgstr ""
+msgstr "جديد"
 
 msgid "NOAUTH_NOPRIV"
-msgstr ""
+msgstr "NOAUTH_NOPRIV"
 
 msgid "NTC commands"
-msgstr ""
+msgstr "NTC أوامر"
 
 msgid "NUMBER"
-msgstr ""
+msgstr "رقم"
 
 msgid "Name"
-msgstr ""
+msgstr "اسم"
 
 msgid "Name and email"
-msgstr ""
+msgstr "الاسم والبريد الإلكتروني"
 
 msgid "Name is mandatory but has no restricted format or semantics."
-msgstr ""
+msgstr ".الاسم إلزامي ولكن ليس له شكل مقيد أو دلالات"
 
 msgid "Name must be unique among coils and discrete inputs."
-msgstr ""
+msgstr ".يجب أن يكون الاسم فريدًا بين الملفات والمدخلات المنفصلة"
 
 msgid "Name must be unique among components."
-msgstr ""
+msgstr ".يجب أن يكون الاسم فريدًا بين المكونات"
 
 msgid "Name must be unique among registers."
-msgstr ""
+msgstr ".يجب أن يكون الاسم فريدًا بين السجلات"
 
 msgid "Name must be unique among values."
-msgstr ""
+msgstr ".يجب أن يكون الاسم فريدًا بين القيم"
 
 msgid "Name must be unique among variables."
-msgstr ""
+msgstr ".يجب أن يكون الاسم فريدًا بين المتغيرات"
 
 msgid "Navigator"
-msgstr ""
+msgstr "المستكشف"
 
 msgid "Navigator font stack"
-msgstr ""
+msgstr "مكدس خط المستكشف"
 
 msgid "Navigator logo"
-msgstr ""
+msgstr "شعار المستكشف"
 
 msgid "Navigator logo height"
-msgstr ""
+msgstr "ارتفاع شعار المستكشف"
 
 msgid "Nearest measurement:"
-msgstr ""
+msgstr ":أقرب قياس"
 
 msgid "Netmask"
-msgstr ""
+msgstr "قناع الشبكة"
 
 msgid "Network"
-msgstr ""
+msgstr "شبكة الاتصال"
 
 msgid "Network provider name"
-msgstr ""
+msgstr "اسم مزود الشبكة"
 
 msgid "Network service"
 msgstr ""
