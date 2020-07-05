@@ -4498,7 +4498,7 @@ msgid ""
 "Especially changing the global role \"devices\" can lead to a security hole.\n"
 "        E.g. if a device is compromised, attackers might have extended access to the platform."
 msgstr ""
-".يمكن أن يؤدي تغيير الدور العالمي \ "الأجهزة \" بشكل خاص إلى ثغرة أمنية \n "
+".يمكن أن يؤدي تغيير الدور العالمي \ الأجهزة \ بشكل خاص إلى ثغرة أمنية \n "
 "على سبيل المثال إذا تم اختراق الجهاز ، فقد يكون لدى المهاجمين وصول موسع إلى النظام الأساسي"
 
 msgid "Event"
@@ -5820,10 +5820,10 @@ msgid "Help & Service"
 msgstr "المساعدة والخدمة"
 
 msgid "Help &amp; documentation"
-msgstr "مساعدة و توثيق"
+msgstr "المساعدة و توثيق"
 
 msgid "Help &amp; support"
-msgstr "مساعدةو الدعم "
+msgstr "المساعدةو الدعم "
 
 msgid "Help and service"
 msgstr "المساعدة والخدمة"
@@ -5937,7 +5937,7 @@ msgid "IP address:Port"
 msgstr "عنوان IP: Port"
 
 msgid "IP range"
-msgstr "مجموعة الملكية الفكرية"
+msgstr "نطاق ال IP"
 
 msgid "Icon"
 msgstr "أيقونة"
@@ -6705,7 +6705,7 @@ msgid "MAC address"
 msgstr "MAC عنوان"
 
 msgid "MAJOR"
-msgstr "رائد"
+msgstr "رئيسي"
 
 msgid "MANAGED_OBJECT"
 msgstr "MANAGED_OBJECT"
@@ -6759,7 +6759,7 @@ msgid "Maintenance on"
 msgstr "الصيانة على"
 
 msgid "Major"
-msgstr "رائد"
+msgstr "رئيسي"
 
 msgid "Major alarms"
 msgstr "الإنذارات الرئيسية"
@@ -6810,7 +6810,7 @@ msgid "Margin"
 msgstr "حافة"
 
 msgid "Max"
-msgstr "ماكس"
+msgstr "الحد الاقصى"
 
 msgid "Max length:"
 msgstr ":الحد الاقصى للطول"
@@ -6830,10 +6830,10 @@ msgid "Max. 30 IP addresses in total allowed."
 msgstr " ماكس. يُسمح بإجمالي 30 عنوان IP "
 
 msgid "Max:"
-msgstr ":ماكس"
+msgstr ":الحد الاقصى"
 
 msgid "Maximum"
-msgstr "أقصى"
+msgstr "الحد الاقصى"
 
 msgid "Maximum 25 characters; only numbers, letters, spaces and exclamation marks allowed."
 msgstr "25 حرفًا كحد أقصى ؛ مسموح فقط بالأرقام والحروف والمسافات وعلامات التعجب"
@@ -7016,7 +7016,7 @@ msgid "Minimum period"
 msgstr "الفترة الدنيا"
 
 msgid "Minor"
-msgstr "تحت السن القانوني"
+msgstr "طفيفة"
 
 msgid "Minor alarms"
 msgstr "إنذارات طفيفة"
