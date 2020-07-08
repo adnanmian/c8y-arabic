@@ -7202,560 +7202,564 @@ msgid "Network provider name"
 msgstr "اسم مزود الشبكة"
 
 msgid "Network service"
-msgstr ""
+msgstr "خدمة الشبكة"
 
 msgid "Network session key"
-msgstr ""
+msgstr "مفتاح جلسة الشبكة"
 
 msgid "Network: download"
-msgstr ""
+msgstr "الشبكة: تنزيل"
 
 msgid "Network: upload"
-msgstr ""
+msgstr "الشبكة: تحميل"
 
 msgid "New"
-msgstr ""
+msgstr "جديد"
 
 msgid "New #{severity} alarm from #{source.name}"
-msgstr ""
+msgstr "#{source.name} من #{severity} منبه جديد "
 
 msgid "New #{severity} alarm has been received from #{source.name}. Alarm text is: \"#{text}\"."
-msgstr ""
+msgstr "  \"#{text}\" :نص التنبيه .#{source.name} جديد من #{severity} تم استلام تنبيه"
 
 msgid "New bulk operation scheduled."
-msgstr ""
+msgstr ".تمت جدولة عملية مجمعة جديدة"
 
 msgid "New child device added."
-msgstr ""
+msgstr ".مت إضافة جهاز طفل جديد"
 
 msgid "New coil"
-msgstr ""
+msgstr "لفائف جديدة"
 
 msgid "New component"
-msgstr ""
+msgstr "مكون جديد"
 
 msgid "New data connector"
-msgstr ""
+msgstr "موصل بيانات جديد"
 
 msgid "New data point"
-msgstr ""
+msgstr "نقطة بيانات جديدة"
 
 msgid "New data point settings"
-msgstr ""
+msgstr "إعدادات نقطة البيانات الجديدة"
 
 msgid "New data subscription"
-msgstr ""
+msgstr "اشتراك بيانات جديد"
 
 msgid "New description"
-msgstr ""
+msgstr "وصف جديد"
 
 msgid "New device connected."
-msgstr ""
+msgstr ".تم توصيل جهاز جديد"
 
 msgid "New device protocol imported."
-msgstr ""
+msgstr ".تم استيراد بروتوكول الجهاز الجديد"
 
 msgid "New device type"
-msgstr ""
+msgstr "نوع الجهاز الجديد"
 
 msgid "New device type imported."
-msgstr ""
+msgstr ".تم استيراد نوع الجهاز الجديد"
 
 msgid "New discrete input"
-msgstr ""
+msgstr "مدخلات منفصلة جديدة"
 
 msgid "New geofence violation from #{source.name}"
-msgstr ""
+msgstr "#{source.name} انتهاك جوفنس جديد من"
 
 msgid "New global Smart Rule"
-msgstr ""
+msgstr "قاعدة ذكية عالمية جديدة"
 
 msgid "New global role"
-msgstr ""
+msgstr "دور عالمي جديد"
 
 msgid "New group name"
-msgstr ""
+msgstr "اسم مجموعة جديدة"
 
 msgid "New holding register"
-msgstr ""
+msgstr "سجل عقد جديد"
 
 msgid "New input register"
-msgstr ""
+msgstr "سجل إدخال جديد"
 
 msgid "New inventory role"
-msgstr ""
+msgstr "دور المخزون الجديد"
 
 msgid "New message"
-msgstr ""
+msgstr "رسالة جديدة"
 
 msgid "New password"
-msgstr ""
+msgstr "كلمة سر جديدة"
 
 msgid "New password can't be the same as current one."
-msgstr ""
+msgstr ".لا يمكن أن تكون كلمة المرور الجديدة هي نفسها كلمة المرور الحالية"
 
 msgid "New permission"
-msgstr ""
+msgstr "إذن جديد"
 
 msgid "New register"
-msgstr ""
+msgstr "تسجيل جديد"
 
 msgid "New severity"
-msgstr ""
+msgstr "شدة جديدة"
 
 msgid "New tenant"
-msgstr ""
+msgstr "المستأجر الجديد"
 
 msgid "New tenant policy"
-msgstr ""
+msgstr "سياسة المستأجر الجديدة"
 
 msgid "New tenant policy description"
-msgstr ""
+msgstr "وصف سياسة المستأجر الجديدة"
 
 msgid "New tracker added to group."
-msgstr ""
+msgstr ".تمت إضافة متتبع جديد إلى المجموعة"
 
 msgid "New tracker registration"
-msgstr ""
+msgstr "تسجيل تعقب جديد"
 
 msgid "New user"
-msgstr ""
+msgstr "مستخدم جديد"
 
 msgid "New value"
-msgstr ""
+msgstr "قيمة جديدة"
 
 msgid "New variable"
-msgstr ""
+msgstr "متغير جديد"
 
 msgid "Newsletter"
-msgstr ""
+msgstr "النشرة الإخبارية"
 
 msgid "Next"
-msgstr ""
+msgstr "التالى"
 
 msgid "Next billing"
-msgstr ""
+msgstr "الفوترة التالية"
 
 msgid "Next page"
-msgstr ""
+msgstr "الصفحة التالية"
 
 msgid "Next step: register smartphone"
-msgstr ""
+msgstr "الخطوة التالية: تسجيل الهاتف الذكي"
 
 msgid "Next`page`"
-msgstr ""
+msgstr "الصفحة التالية"
 
 msgid "No"
-msgstr ""
+msgstr "لا"
 
 msgid "No LoRa provider settings are found. Please configure the connectivity settings."
-msgstr ""
+msgstr ".يرجى تكوين إعدادات الاتصال .LoRa لم يتم العثور على إعدادات موفر"
 
 msgid "No RDB snapshot assigned to this device. Get current RDB snapshot from device."
-msgstr ""
+msgstr "احصل على لقطة RDB الحالية من الجهاز   .لهذا الجهاز RDB لم يتم تعيين لقطة  "
 
 msgid "No REST API custom fields. Click below to add the first one."
-msgstr ""
+msgstr "لا توجد حقول مخصصة REST API. انقر أدناه لإضافة الأول"
 
 msgid "No Sigfox device type configured. Please create one using Device database."
-msgstr ""
+msgstr "يرجى إنشاء واحدة باستخدام قاعدة بيانات الجهاز .Sigfox لم يتم تكوين نوع جهاز"
 
 msgid "No Smart Rules defined."
-msgstr ""
+msgstr ".لم يتم تحديد قواعد ذكية"
 
 msgid "No SmartREST templates defined yet."
-msgstr ""
+msgstr ".حتى الآن SmartREST  لم يتم تحديد قوالب"
 
 msgid "No access mapping rules defined."
-msgstr ""
+msgstr "لم يتم تحديد قواعد تعيين الوصول"
 
 msgid "No active requests"
-msgstr ""
+msgstr "لا توجد طلبات نشطة"
 
 msgid "No aggregation"
-msgstr ""
+msgstr "لا يوجد تجميع"
 
 msgid "No alarms"
-msgstr ""
+msgstr "لا تنبيهات"
 
 msgid "No alarms to display."
-msgstr ""
+msgstr ".لا توجد منبهات للعرض"
 
 msgid "No alarms/events found."
-msgstr ""
+msgstr ".لم يتم العثور على منبهات / أحداث"
 
 msgid "No applications found."
-msgstr ""
+msgstr ".لم يتم العثور على تطبيقات"
 
 msgid "No assets or devices found for \"{{searchData.lastText}}\"."
-msgstr ""
+msgstr ".\"{{searchData.lastText}}\"  لم يتم العثور على أصول أو أجهزة لـ"
 
 msgid "No assets or devices found."
-msgstr ""
+msgstr ".لم يتم العثور على أصول أو أجهزة"
 
 msgid "No audit logs found."
-msgstr ""
+msgstr ".لم يتم العثور على سجلات تدقيق"
 
 msgid "No borders"
-msgstr ""
+msgstr "لا حدود"
 
 msgid "No bulk operations found."
-msgstr ""
+msgstr ".لم يتم العثور على عمليات مجمعة"
 
 msgid "No categories available."
-msgstr ""
+msgstr ".لا فئات متاحة"
 
 msgid "No coils available."
-msgstr ""
+msgstr ".لا تتوفر لفائف"
 
 msgid "No coils defined."
-msgstr ""
+msgstr ".لم يتم تحديد ملفات"
 
 msgid "No communication with device since {{timestamp | absoluteDate}}."
-msgstr ""
+msgstr ". {{timestamp | absoluteDate}} لا يوجد اتصال بالجهاز منذ ذلك الحين"
 
 msgid "No components defined."
-msgstr ""
+msgstr ".لم يتم تحديد مكونات"
 
 msgid "No connectivity plans with free slots available."
-msgstr ""
+msgstr ".لا توجد خطط اتصال مع فتحات مجانية متاحة"
 
 msgid "No contracts available."
-msgstr ""
+msgstr ".لا توجد عقود متاحة"
 
 msgid "No conversion"
-msgstr ""
+msgstr "لا تحويل"
 
 msgid "No data available."
-msgstr ""
+msgstr ".لا تتوافر بيانات"
 
 msgid "No data connectors to display."
-msgstr ""
+msgstr ".لا توجد موصلات بيانات لعرضها"
 
 msgid "No data points found."
-msgstr ""
+msgstr ".لم يتم العثور على نقاط بيانات"
 
 msgid "No data points to display."
-msgstr ""
+msgstr ".لا توجد نقاط بيانات لعرضها"
 
 msgid "No data received from device within required interval."
-msgstr ""
+msgstr ".لم يتم استلام بيانات من الجهاز خلال الفاصل الزمني المطلوب"
 
 msgid "No data subscriptions to display."
-msgstr ""
+msgstr ".لا توجد اشتراكات بيانات لعرضها"
 
 msgid "No delegation"
-msgstr ""
+msgstr "لا يوجد وفد"
 
 msgid "No description available"
-msgstr ""
+msgstr "لا يوجد وصف متاح"
 
 msgid ""
 "No device groups available due to the device owner permissions. The device owner must be\n"
 "          granted access to some device groups first."
 msgstr ""
+"ا توجد مجموعات أجهزة متاحة بسبب أذونات مالك الجهاز يجب أن يكون مالك الجهاز\n"
+"منح الوصول إلى بعض مجموعات الأجهزة أولاً"
 
 msgid "No device profiles."
-msgstr ""
+msgstr "لا ملفات تعريف الجهاز"
 
 msgid "No device protocols to display"
-msgstr ""
+msgstr "لا توجد بروتوكولات جهاز لعرضها"
 
 msgid "No device types configured. Create a LoRa device type using device database."
-msgstr ""
+msgstr ".باستخدام قاعدة بيانات الجهاز LoRa لم يتم تكوين أنواع أجهزة. قم بإنشاء نوع جهاز"
 
 msgid "No device types found."
-msgstr ""
+msgstr "لم يتم العثور على أنواع الأجهزة"
 
 msgid "No devices assigned to group."
-msgstr ""
+msgstr ".لم يتم تعيين أجهزة للمجموعة"
 
 msgid "No devices found."
-msgstr ""
+msgstr ".لم تجد الأجهزة"
 
 msgid "No devices to display."
-msgstr ""
+msgstr ".لا توجد أجهزة لعرضها"
 
 msgid "No discrete inputs available."
-msgstr ""
+msgstr ".لا توجد مدخلات منفصلة متاحة"
 
 msgid "No discrete inputs defined."
-msgstr ""
+msgstr ".لم يتم تحديد أي مدخلات منفصلة"
 
 msgid "No entries found in uploaded CSV file."
-msgstr ""
+msgstr ".الذي تم تحميله CSV لم يتم العثور على إدخالات في ملف"
 
 msgid "No entries to display."
-msgstr ""
+msgstr "لا توجد إدخالات لعرضها"
 
 msgid "No escalation steps defined."
-msgstr ""
+msgstr ".لم يتم تحديد خطوات تصعيد"
 
 msgid "No event processing modules found"
-msgstr ""
+msgstr "لم يتم العثور على وحدات معالجة الحدث"
 
 msgid "No events to display."
-msgstr ""
+msgstr ".لا يوجد أحداث لعرضها"
 
 msgid "No exports to display."
-msgstr ""
+msgstr ".لا توجد صادرات للعرض"
 
 msgid "No external IDs added yet."
-msgstr ""
+msgstr ".لم تتم إضافة معرفات خارجية حتى الآن"
 
 msgid "No file selected"
-msgstr ""
+msgstr ".لم يتم اختيار اي ملف"
 
 msgid "No file selected."
-msgstr ""
+msgstr ".لم يتم اختيار اي ملف"
 
 msgid "No files found containing <strong>{{vm.searchString}}</strong>."
-msgstr ""
+msgstr ".<strong>{{vm.searchString}}</strong>  لم يتم العثور على ملفات تحتوي على"
 
 msgid "No files to display."
-msgstr ""
+msgstr ".لا توجد ملفات لعرضها"
 
 msgid "No firmware information available."
-msgstr ""
+msgstr ".لا توجد معلومات البرامج الثابتة المتاحة"
 
 msgid "No firmwares to display."
-msgstr ""
+msgstr ".لا توجد برامج ثابتة لعرضها"
 
 msgid "No footer"
-msgstr ""
+msgstr "لا تذييل"
 
 msgid "No global roles found."
-msgstr ""
+msgstr ".لم يتم العثور على أدوار عالمية"
 
 msgid "No header"
-msgstr ""
+msgstr "بدون هوامش رأسية"
 
 msgid "No holding registers available."
-msgstr ""
+msgstr ".لا توجد سجلات حيازة متاحة"
 
 msgid "No holding registers defined."
-msgstr ""
+msgstr ".لم يتم تحديد سجلات حيازة"
 
 msgid "No incoming events at the moment."
-msgstr ""
+msgstr ".لا توجد أحداث واردة في الوقت الحالي"
 
 msgid "No input registers available."
-msgstr ""
+msgstr ".لا توجد سجلات إدخال متاحة"
 
 msgid "No input registers defined."
-msgstr ""
+msgstr ".لم يتم تحديد سجلات إدخال"
 
 msgid "No instructions."
-msgstr ""
+msgstr ".لا تعليمات"
 
 msgid "No items to display."
-msgstr ""
+msgstr ".لا توجد عناصر لعرضها"
 
 msgid "No licenses to display."
-msgstr ""
+msgstr ".لا يوجد تراخيص للعرض"
 
 msgid "No limit"
-msgstr ""
+msgstr "لا حدود"
 
 msgid "No location available"
-msgstr ""
+msgstr "لا يوجد موقع متاح"
 
 msgid "No logs found."
-msgstr ""
+msgstr ".لم يتم العثور على سجلات"
 
 msgid "No matching Smart Rules available."
-msgstr ""
+msgstr ".لا توجد قواعد ذكية مطابقة متاحة"
 
 msgid "No messages."
-msgstr ""
+msgstr "لا رسائل"
 
 msgid "No metrics available"
-msgstr ""
+msgstr "لا توجد مقاييس متاحة"
 
 msgid "No nodes are available that match all of the predicates: [{{predicates}}]."
-msgstr ""
+msgstr ".[{{predicates}}] :لا توجد عُقد تتطابق مع جميع المسندات"
 
 msgid "No notes yet."
-msgstr ""
+msgstr ".لا ملاحظات حتى الان"
 
 msgid "No notifications received yet"
-msgstr ""
+msgstr "لم ترد أي إخطارات حتى الآن"
 
 msgid "No operation selected."
-msgstr ""
+msgstr ".لم يتم تحديد عملية"
 
 msgid "No options defined."
-msgstr ""
+msgstr ".لم يتم تحديد خيارات"
 
 msgid "No password"
-msgstr ""
+msgstr "لا توجد كلمة مرور"
 
 msgid "No patterns."
-msgstr ""
+msgstr "لا أنماط"
 
 msgid "No payment method selected."
-msgstr ""
+msgstr ".لم يتم تحديد طريقة دفع"
 
 msgid ""
 "No payment method selected.<br>\n"
 "      Please select payment method now."
 msgstr ""
+" .لم يتم تحديد طريقة دفع<br>\n"
+" .يرجى تحديد طريقة الدفع الآن"
 
 msgid "No pending registrations to display."
-msgstr ""
+msgstr "لا يوجد تسجيلات معلقة لعرضها"
 
 msgid "No permissions for this scope."
-msgstr ""
+msgstr ".لا أذونات لهذا النطاق"
 
 msgid "No permissions for user."
-msgstr ""
+msgstr "لا أذونات للمستخدم"
 
 msgid "No permissions required."
-msgstr ""
+msgstr ".لا أذونات مطلوبة"
 
 msgid "No position fragment in selected devices"
-msgstr ""
+msgstr "لا يوجد جزء موقف في الأجهزة المختارة"
 
 msgid "No recent operations found."
-msgstr ""
+msgstr ".م يتم العثور على عمليات حديثة"
 
 msgid "No reference device selected"
-msgstr ""
+msgstr "لم يتم تحديد جهاز مرجعي"
 
 msgid "No registers defined."
-msgstr ""
+msgstr ".لم يتم تحديد سجلات"
 
 msgid "No request was denied."
-msgstr ""
+msgstr ".لم يتم رفض أي طلب"
 
 msgid "No required API values."
-msgstr ""
+msgstr ".مطلوبة API لا توجد قيم"
 
 msgid "No resources to display. Click below to add."
-msgstr ""
+msgstr " .لا توجد موارد للعرض .انقر أدناه لإضافة"
 
 msgid "No responses."
-msgstr ""
+msgstr ".لا أجابات"
 
 msgid "No results found."
-msgstr ""
+msgstr ".لم يتم العثور على نتائج"
 
 msgid "No retention rules defined."
-msgstr ""
+msgstr ".لم يتم تحديد قواعد احتفاظ"
 
 msgid "No retention rules to display."
-msgstr ""
+msgstr ".لا توجد قواعد احتفاظ لعرضها"
 
 msgid "No roles provided."
-msgstr ""
+msgstr ".لم يتم تقديم أدوار"
 
 msgid "No sample value exists, connect device first."
-msgstr ""
+msgstr ".لا توجد قيمة عينة, قم بتوصيل الجهاز أولاً"
 
 msgid "No sensors available."
-msgstr ""
+msgstr ".لا توجد أجهزة استشعار متاحة"
 
 msgid "No sessions found."
-msgstr ""
+msgstr ".لم يتم العثور على جلسات"
 
 msgid "No simulated devices available."
-msgstr ""
+msgstr ".لا توجد أجهزة محاكاة متاحة"
 
 msgid "No simulators created yet"
-msgstr ""
+msgstr "لم يتم إنشاء محاكيات بعد"
 
 msgid "No snapshot assigned to this device. Get current snapshot from device or put new one from repository."
-msgstr ""
+msgstr "  .لم يتم تعيين لقطة لهذا الجهاز .احصل على اللقطة الحالية من الجهاز أو ضع واحدة جديدة من المستودع"
 
 msgid "No software available on the device"
-msgstr ""
+msgstr "لا يتوفر برنامج على الجهاز"
 
 msgid "No software to display."
-msgstr ""
+msgstr ".لا يوجد برنامج لعرضه"
 
 msgid "No source data available to fetch address space."
-msgstr ""
+msgstr ".لا توجد بيانات مصدر متاحة لجلب مساحة العنوان"
 
 msgid "No tenant policies to display"
-msgstr ""
+msgstr "لا توجد سياسات المستأجر لعرضها"
 
 msgid "No tenants to display."
-msgstr ""
+msgstr ".لا يوجد مستأجر لعرضه"
 
 msgid "No tracker model specified for this device. Select one from the list of supported models below."
-msgstr ""
+msgstr " .لم يتم تحديد طراز تعقب لهذا الجهاز. حدد واحدًا من قائمة النماذج المدعومة أدناه"
 
 msgid "No tracking events found"
-msgstr ""
+msgstr "لم يتم العثور على أحداث تتبع"
 
 msgid "No unsynced properties found."
-msgstr ""
+msgstr ".لم يتم العثور على خصائص لم تتم مزامنتها"
 
 msgid "No users found."
-msgstr ""
+msgstr ".لم يتم العثور على مستخدمين"
 
 msgid "No validation rules defined."
-msgstr ""
+msgstr ".لم يتم تحديد قواعد التحقق"
 
 msgid "No values defined."
-msgstr ""
+msgstr ".لم يتم تحديد قيم"
 
 msgid "No variables available."
-msgstr ""
+msgstr ".لا توجد متغيرات متاحة"
 
 msgid "No variables defined."
-msgstr ""
+msgstr ".لم يتم تحديد متغيرات"
 
 msgid "No variables to display. Click below to add."
-msgstr ""
+msgstr ". لا متغيرات للعرض. انقر أدناه لإضافة"
 
 msgid "No widgets to display."
-msgstr ""
+msgstr ".لا يوجد الحاجيات لعرضها"
 
 msgid "Node ID"
-msgstr ""
+msgstr "معرف العقدة"
 
 msgid "Node type"
-msgstr ""
+msgstr "نوع العقدة"
 
 msgid "Noise alarm"
-msgstr ""
+msgstr "إنذار ضوضاء"
 
 msgid "None"
-msgstr ""
+msgstr "لا يوجد"
 
 msgid "None selected"
-msgstr ""
+msgstr "لم يتم تحديد أي شيء"
 
 msgid "Normal"
-msgstr ""
+msgstr "عادي"
 
 msgid "Not a valid OPC UA URI."
-msgstr ""
+msgstr ". OPC UA URI ليس صحيحا"
 
 msgid "Not applicable"
-msgstr ""
+msgstr "غير قابل للتطبيق"
 
 msgid "Not deployed"
-msgstr ""
+msgstr "لم يتم نشره"
 
 msgid "Not editable"
-msgstr ""
+msgstr "غير قابل للتحرير"
 
 msgid "Not equal"
-msgstr ""
+msgstr "ليس متساوي"
 
 msgid "Not monitored"
-msgstr ""
+msgstr "غير مراقب"
 
 msgid "Note that exporting data can take some time, email will be sent as soon as export is completed."
-msgstr ""
+msgstr ".لاحظ أن تصدير البيانات قد يستغرق بعض الوقت ، سيتم إرسال البريد الإلكتروني بمجرد اكتمال التصدير"
 
 msgid "Note that this rule may either use a configuration from the data point library or a data point configuration. Changing the data point configuration after the creation of the rule might result in rule malfunction. Consider to use the rule \"Create alarm when measurement reaches explicit thresholds\" instead."
-msgstr ""
+msgstr " .لاحظ أن هذه القاعدة قد تستخدم تكوينًا من مكتبة نقطة البيانات أو تكوين نقطة بيانات. قد يؤدي تغيير تكوين نقطة البيانات بعد إنشاء القاعدة إلى حدوث خلل في القاعدة. قد يؤدي تغيير تكوين نقطة البيانات بعد إنشاء القاعدة إلى حدوث خلل في القاعدة. فكر في استخدام القاعدة  إنشاء إنذار عندما يصل القياس إلى عتبات صريحة. قم بإنشاء تنبيه عندما يصل القياس إلى عتبات صريحة بدلاً من ذلك"
 
 msgid "Note: Report generation can take a long time to complete."
-msgstr ""
+msgstr "ملاحظة: قد يستغرق إنشاء التقارير وقتًا طويلاً حتى يكتمل"
 
 msgid ""
 "Note: Selecting \"All objects\" option will synchronize all types of objects,\n"
@@ -7764,222 +7768,224 @@ msgid ""
 msgstr ""
 
 msgid "Note: Sorting might not work properly until all rows are loaded"
-msgstr ""
+msgstr "ملاحظة: قد لا يعمل التصنيف بشكل صحيح حتى يتم تحميل جميع الصفوف"
 
 msgid "Note: You may need to restart your device to actually apply new settings."
-msgstr ""
+msgstr ".ملاحظة: قد تحتاج إلى إعادة تشغيل جهازك لتطبيق الإعدادات الجديدة بالفعل"
 
 msgid "Notes"
-msgstr ""
+msgstr "ملاحظات"
 
 msgid "Notes saved."
-msgstr ""
+msgstr ".تم حفظ الملاحظات"
 
 msgid "Nothing found."
-msgstr ""
+msgstr ".وجدت شيئا"
 
 msgid "Notification email settings updated."
-msgstr ""
+msgstr ".تم تحديث إعدادات البريد الإلكتروني للإشعار"
 
 msgid "Notifications"
-msgstr ""
+msgstr "إشعارات"
 
 msgid "Notified global role"
-msgstr ""
+msgstr "إخطار دور عالمي"
 
 msgid "Number"
-msgstr ""
+msgstr "رقم"
 
 msgid "Number must be unique among coils."
-msgstr ""
+msgstr ".يجب أن يكون الرقم فريدًا بين الملفات"
 
 msgid "Number must be unique among discrete inputs."
-msgstr ""
+msgstr ".يجب أن يكون الرقم فريدًا بين المدخلات المنفصلة"
 
 msgid "Number of bits"
-msgstr ""
+msgstr "عدد البتات"
 
 msgid "Number of child assets"
-msgstr ""
+msgstr "عدد أصول الطفل"
 
 msgid "Number of child devices"
-msgstr ""
+msgstr "عدد الأجهزة التابعة"
 
 msgid "Number of children"
-msgstr ""
+msgstr "عدد الاطفال"
 
 msgid "Number of children:"
-msgstr ""
+msgstr ":عدد الاطفال"
 
 msgid "Number of devices on {{end}}, including child devices."
-msgstr ""
+msgstr "في ذلك الأجهزة الفرعية ,{{end}} عدد الأجهزة على"
 
 msgid "Number of devices, including child devices"
-msgstr ""
+msgstr " عدد الأجهزة, بما في ذلك الأجهزة التابعة"
 
 msgid "Number of devices:"
-msgstr ""
+msgstr ":عدد الأجهزة"
 
 msgid "Number of instances"
-msgstr ""
+msgstr "عدد الحالات"
 
 msgid "Number of instances of the simulator to create"
-msgstr ""
+msgstr "عدد مثيلات المحاكي المراد إنشاؤه"
 
 msgid "Number of instances: {{vm.simulator.instances}}"
-msgstr ""
+msgstr "{{vm.simulator.instances}}  :عدد الحالات"
 
 msgid "Number of occurrences"
-msgstr ""
+msgstr "عدد مرات الحدوث"
 
 msgid "Number of root devices on {{end}}. Does not include child devices."
-msgstr ""
+msgstr " .لا يشمل الأجهزة التابعة  .{{end}} عدد أجهزة الجذر قيد التشغيل"
 
 msgid "Number of root devices, excluding child devices"
-msgstr ""
+msgstr "عدد الأجهزة الجذرية ، باستثناء الأجهزة الفرعية"
 
 msgid "OAuth Internal"
-msgstr ""
+msgstr "OAuth الداخلي"
 
 msgid "OBJECT ARRAY"
-msgstr ""
+msgstr "OBJECT ARRAY"
 
 msgid "OFF`status of an option, e.g. realtime`"
-msgstr ""
+msgstr " للخيار ، على سبيل المثال في الوقت الحالى OFF حالة "
 
 msgid "OID"
-msgstr ""
+msgstr "OID"
 
 msgid "OID must be unique among components."
-msgstr ""
+msgstr "يجب أن تكون فريدة بين المكونات  OID"
 
 msgid "OK"
-msgstr ""
+msgstr "حسنا"
 
 msgid "ON`status of an option, e.g. realtime`"
-msgstr ""
+msgstr "حالة تشغيل الخيار ، على سبيل المثال في الوقت الحالى"
 
 msgid "OPC UA"
-msgstr ""
+msgstr "OPC UA"
 
 msgid "OPC UA communication"
-msgstr ""
+msgstr "اتصال  OPC UA"
 
 msgid "OPC UA devices"
-msgstr ""
+msgstr "الأجهزة OPC UA"
 
 msgid "OPC UA legacy"
-msgstr ""
+msgstr "ميراث OPC UA"
 
 msgid "OPC UA server"
-msgstr ""
+msgstr "الخادم OPC UA"
 
 msgid "OPC UA servers"
-msgstr ""
+msgstr "خوادم OPC UA"
 
 msgid "OPERATION"
-msgstr ""
+msgstr "عملية"
 
 msgid "OPERATION STATUS"
-msgstr ""
+msgstr "حالة التشغيل"
 
 msgid "Object"
-msgstr ""
+msgstr "موضوع"
 
 msgid "Object identifier"
-msgstr ""
+msgstr "معرف الكائن"
 
 msgid "Object to export"
-msgstr ""
+msgstr "كائن للتصدير"
 
 msgid "Object updated."
-msgstr ""
+msgstr ".تم تحديث الكائن"
 
 msgid "Object's fragment type (e.g. c8y_IsDevice) to which you grant permission. Note that to have access to an object, user has to have access to all its fragments. Use an asterisk (*) to grant permission to any object's fragment type."
-msgstr ""
+msgstr "  الذي تمنحه الإذن (c8y_IsDevice نوع جزء الكائن (مثل "
 
 msgid "Objects"
-msgstr ""
+msgstr "شاء"
 
 msgid "Observe sensor value. Causes device to send every new sensor value"
-msgstr ""
+msgstr " .لاحظ قيمة المستشعر.يجعل الجهاز يرسل كل قيمة جديدة للمستشعر"
 
 msgid "Off`status of an option, e.g. realtime`"
-msgstr ""
+msgstr "حالة إيقاف تشغيل خيار ، على سبيل المثال في الوقت الحالى"
 
 msgid "Offline"
-msgstr ""
+msgstr "غير متصل على الانترنت"
 
 msgid "Offset"
-msgstr ""
+msgstr "عوض"
 
 msgid "On alarm"
-msgstr ""
+msgstr "على المنبه"
 
 msgid "On alarm duration"
-msgstr ""
+msgstr "على مدة التنبيه"
 
 msgid "On alarm matching:"
-msgstr ""
+msgstr ":على مطابقة التنبيه"
 
 msgid "On entering"
-msgstr ""
+msgstr "على الدخول"
 
 msgid "On entering and leaving"
-msgstr ""
+msgstr "عند الدخول والخروج"
 
 msgid "On geofence"
-msgstr ""
+msgstr "حول السياج الجغرافي"
 
 msgid "On geofence create alarm"
-msgstr ""
+msgstr "إنشاء إنذار geofence  على"
 
 msgid "On geofence send email"
-msgstr ""
+msgstr "إرسال البريد الإلكتروني geofence على"
 
 msgid "On geofence violation:"
-msgstr ""
+msgstr ":على انتهاك السياج الجغرافي"
 
 msgid "On high temperature raise alarms"
-msgstr ""
+msgstr "على درجة حرارة عالية ترفع الإنذارات"
 
 msgid "On leaving"
-msgstr ""
+msgstr "حين المغادرة"
 
 msgid "On measurement explicit threshold"
-msgstr ""
+msgstr "على عتبة قياس صريحة"
 
 msgid "On measurement threshold"
-msgstr ""
+msgstr "على عتبة القياس"
 
 msgid "On missing measurements"
-msgstr ""
+msgstr "على القياسات المفقودة"
 
 msgid "On step {{stepNo}} failed"
-msgstr ""
+msgstr "فشل {{stepNo}} في الخطوة "
 
 msgid ""
 "On the left, you can enter a set of LWM2M shell commands.\n"
 "      Each of them will be sent to every newly registered LWM2M device."
 msgstr ""
+" shell LWM2M  على اليسار ، يمكنك إدخال مجموعة من أوامر\n"
+" مسجل حديثًا LWM2M سيتم إرسال كل واحد منهم إلى كل جهاز"
 
 msgid "On threshold:"
-msgstr ""
+msgstr "على العتبة"
 
 msgid "On timer"
-msgstr ""
+msgstr "على الموقت"
 
 msgid "On very high temperature raise alarms"
-msgstr ""
+msgstr "على درجة حرارة عالية جدا رفع الإنذارات"
 
 msgid "On very high temperature send SMS"
-msgstr ""
+msgstr "على درجة حرارة عالية جدا إرسال الرسائل القصيرة "
 
 msgid "On very high temperature send email"
-msgstr ""
+msgstr "على درجة حرارة عالية جدا إرسال بريد إلكتروني"
 
 msgid "On`status of an option, e.g. realtime`"
-msgstr ""
+msgstr "على حالة خيار ، على سبيل المثال الوقت الحقيقي"
 
 msgid "One device connected."
 msgid_plural "{{$count}} devices connected."
@@ -7992,10 +7998,10 @@ msgstr[0] ""
 msgstr[1] ""
 
 msgid "Online"
-msgstr ""
+msgstr "عبر الانترنت"
 
 msgid "Online / Server platform"
-msgstr ""
+msgstr "منصة عبر الإنترنت / الخادم"
 
 msgid "Only connectivity plans with free slots are displayed"
 msgstr ""
