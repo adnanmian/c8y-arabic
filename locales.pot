@@ -8004,1020 +8004,1022 @@ msgid "Online / Server platform"
 msgstr "منصة عبر الإنترنت / الخادم"
 
 msgid "Only connectivity plans with free slots are displayed"
-msgstr ""
+msgstr "يتم عرض خطط الاتصال فقط مع فتحات مجانية"
 
 msgid "Only dashboards from devices or groups can be copied"
-msgstr ""
+msgstr "Only dashboards from devices or groups can be copied"
 
 msgid "Only dashboards with widgets referencing the current device can be copied."
-msgstr ""
+msgstr "يمكن نسخ لوحات المعلومات ذات الحاجيات التي تشير إلى الجهاز الحالي فقط"
 
 msgid "Only dashboards with widgets referencing the current group can be copied."
-msgstr ""
+msgstr "مكن نسخ لوحات المعلومات ذات الحاجيات التي تشير إلى المجموعة الحالية فقط"
 
 msgid "Only global roles defined on the owner can be defined on the owned user"
-msgstr ""
+msgstr "يمكن تحديد الأدوار العالمية المحددة للمالك فقط على المستخدم المملوك"
 
 msgid "Only letters and digits allowed."
-msgstr ""
+msgstr "يسمح فقط الحروف والأرقام"
 
 msgid "Only letters, digits and underscore allowed, must not start with a digit."
-msgstr ""
+msgstr "يجب ألا تبدأ الأحرف والأرقام والشرطة السفلية إلا برقم"
 
 msgid "Only lowercase letters, digits, hyphen and underscore allowed in the first part of the URI. It must start with a letter, hyphen and underscore only allowed in the middle. Must be a valid URI."
-msgstr ""
+msgstr ". URI يُسمح فقط بالأحرف الصغيرة والأرقام والواصلة والشرطة السفلية في الجزء الأول من . يجب أن يبدأ بحرف وواصلة وشرط سفلي مسموح به فقط في المنتصف. يجب أن يكون عنوان URI صالحًا"
 
 msgid "Only lowercase letters, digits, hyphen and underscore allowed. Must start with a letter, hyphen and underscore only allowed in the middle, minimum 2 characters."
-msgstr ""
+msgstr ".يُسمح فقط بالأحرف الصغيرة والأرقام والواصلة والشرطة السفلية. يجب أن يبدأ بحرف وواصلة وشرط سفلي يُسمح به فقط في الوسط ، بحد أدنى حرفين"
 
 msgid "Only natural numbers allowed."
-msgstr ""
+msgstr ".يسمح بالأرقام الطبيعية فقط"
 
 msgid "Only node ID(s) between 1 and 127 are allowed."
-msgstr ""
+msgstr ".يُسمح فقط بمعرفات العقدة بين 1 و 127"
 
 msgid "Only numbers allowed, e.g. 1528197925677."
-msgstr ""
+msgstr "1528197925677 يسمح فقط بالأرقام على سبيل المثال"
 
 msgid "Only send observations if sensor value is higher than 100"
-msgstr ""
+msgstr "رسال الملاحظات فقط إذا كانت قيمة المستشعر أعلى من 100"
 
 msgid "Only showing {{count}} devices due to performance reasons"
-msgstr ""
+msgstr "عرض أجهزة {{count}} فقط لأسباب تتعلق بالأداء"
 
 msgid "Only value"
-msgstr ""
+msgstr "القيمة الوحيدة"
 
 msgid "Only values of type Float allowed"
-msgstr ""
+msgstr "Float يُسمح فقط بقيم نوع"
 
 msgid "Only values of type Integer allowed"
-msgstr ""
+msgstr "Integer  ُسمح فقط بقيم نوع"
 
 msgid "Only whole values of minutes or hours are valid."
-msgstr ""
+msgstr ".فقط القيم الكاملة للدقائق أو الساعات صالحة"
 
 msgid "Open"
-msgstr ""
+msgstr "افتح"
 
 msgid "Open in Device management"
-msgstr ""
+msgstr "فتح في إدارة الجهاز"
 
 msgid "Open in repository"
-msgstr ""
+msgstr "فتح في المستودع"
 
 msgid "Open preview"
-msgstr ""
+msgstr "معاينة مفتوحة"
 
 msgid "Open relay"
-msgstr ""
+msgstr "فتح التتابع"
 
 msgid "Open relay {{number}}."
-msgstr ""
+msgstr ".{{number}} فتح التتابع"
 
 msgid "Open relay {{relayNo}}"
-msgstr ""
+msgstr "{{relayNo}} فتح التتابع"
 
 msgid "Open relay."
-msgstr ""
+msgstr ".فتح التتابع"
 
 msgid ""
 "Open the Cloud Sensor App and proceed with manual device registration option. Automatic\n"
 "        smartphone registration is currently not supported with Single sign-on."
 msgstr ""
+"  .افتح تطبيق تلقائي Cloud Sensor ثم تابع خيار التسجيل اليدوي للجهاز \n"
+" تسجيل الهاتف الذكي غير مدعوم حاليًا بتسجيل الدخول الأحادي"
 
 msgid "Open the Cloud Sensor App on your smartphone and scan the QR code below."
-msgstr ""
+msgstr ".أدناه QR على هاتفك الذكي وافحص رمز Cloud Sensor افتح تطبيق"
 
 msgid "OpenCellId"
-msgstr ""
+msgstr "OpenCellId"
 
 msgid "OpenIT credentials"
-msgstr ""
+msgstr "شهاداته OpenIT"
 
 msgid "Opening relay {{number}}."
-msgstr ""
+msgstr " {{number}} فتح التتابع"
 
 msgid "Operability chart displays how many devices had their average availability on particular level in the last month."
-msgstr ""
+msgstr ".عرض مخطط التشغيل عدد الأجهزة التي كان متوسط ​​توافرها على مستوى معين في الشهر الماضي"
 
 msgid "Operate as MDB Communications Gateway"
-msgstr ""
+msgstr "MDB تعمل كبوابة اتصالات"
 
 msgid "Operation"
-msgstr ""
+msgstr "عملية"
 
 msgid "Operation \"{{operation}}\" succeeded for volume \"{{volume}}\"."
-msgstr ""
+msgstr ".\"{{volume}}\"  لوحدة التخزين \"{{operation}}\" نجحت العملية"
 
 msgid "Operation button"
-msgstr ""
+msgstr "زر التشغيل"
 
 msgid "Operation cancellation triggered. If it is in progress, it may take up to one minute to cancel it."
-msgstr ""
+msgstr ".تم تشغيل عملية الإلغاء. إذا كان قيد التقدم ، فقد يستغرق الأمر دقيقة واحدة لإلغائه"
 
 msgid "Operation cancelled by user."
-msgstr ""
+msgstr ".تم إلغاء العملية من قبل المستخدم"
 
 msgid "Operation completed."
-msgstr ""
+msgstr ".اكتملت العملية"
 
 msgid "Operation created"
-msgstr ""
+msgstr "تم إنشاء العملية"
 
 msgid "Operation created."
-msgstr ""
+msgstr "تم إنشاء العملية"
 
 msgid "Operation created: status=\"{{status | translate}}\"."
-msgstr ""
+msgstr " \"{{status | translate}}\"=إنشاء العملية: الحالة"
 
 msgid "Operation failed."
-msgstr ""
+msgstr ".فشلت العملية"
 
 msgid "Operation failed. Airplane mode not set."
-msgstr ""
+msgstr " فشلت العملية. لم يتم تعيين وضع الطائرة"
 
 msgid "Operation not supported by this device"
-msgstr ""
+msgstr "العملية غير مدعومة بواسطة هذا الجهاز"
 
 msgid "Operation updated."
-msgstr ""
+msgstr ".تم تحديث العملية"
 
 msgid "Operation updated: {{updatesList}}"
-msgstr ""
+msgstr "{{updatesList}} :تم تحديث العملية"
 
 msgid "Operations"
-msgstr ""
+msgstr "عمليات"
 
 msgid "Operations created"
-msgstr ""
+msgstr "إنشاء العمليات"
 
 msgid "Operations: All"
-msgstr ""
+msgstr "العمليات: الكل"
 
 msgid "Operations: Restart Device"
-msgstr ""
+msgstr "العمليات: إعادة تشغيل الجهاز"
 
 msgid "Operator`logical`"
-msgstr ""
+msgstr "`logical` عامل التشغيل"
 
 msgid "Operator`mobile-network`"
-msgstr ""
+msgstr "`mobile-network` عامل التشغيل"
 
 msgid "Option"
-msgstr ""
+msgstr "اختيار"
 
 msgid "Option \"{{option}}\" created."
-msgstr ""
+msgstr "\"{{option}}\"  تم إنشاء الخيار"
 
 msgid "Option \"{{option}}\" deleted."
-msgstr ""
+msgstr "\"{{option}}\" تم حذف الخيار"
 
 msgid "Option created."
-msgstr ""
+msgstr "تم إنشاء الخيار"
 
 msgid "Option deleted."
-msgstr ""
+msgstr ".تم حذف الخيار"
 
 msgid "Option management"
-msgstr ""
+msgstr "إدارة الخيار"
 
 msgid "Options"
-msgstr ""
+msgstr "خيارات"
 
 msgid "Or"
-msgstr ""
+msgstr "أو"
 
 msgid "Or load it from a file"
-msgstr ""
+msgstr "أو تحميله من ملف"
 
 msgid "Or read from a file"
-msgstr ""
+msgstr "أو اقرأ من ملف"
 
 msgid "Order"
-msgstr ""
+msgstr "طلب"
 
 msgid "Order alarms by active status, severity, and time"
-msgstr ""
+msgstr "اطلب الإنذارات حسب الحالة النشطة والشدة والوقت"
 
 msgid "Order alarms by severity and time"
-msgstr ""
+msgstr "تأمر المنبهات بالحدة والوقت"
 
 msgid "Order in navigation menu (10000 first, -10000 last)"
-msgstr ""
+msgstr "الطلب في قائمة التنقل (10000 أولاً ، 10000 أخير)"
 
 msgid "Ordered"
-msgstr ""
+msgstr "أمر"
 
 msgid "Orthographic camera"
-msgstr ""
+msgstr "الكاميرا التقويمية"
 
 msgid "Outstanding tab"
-msgstr ""
+msgstr "علامة التبويب المعلقة"
 
 msgid "Overlay"
-msgstr ""
+msgstr "تراكب"
 
 msgid "Overview"
-msgstr ""
+msgstr "نظرة عامة"
 
 msgid "Overviews"
-msgstr ""
+msgstr "نظرة عامة"
 
 msgid "Overwrite"
-msgstr ""
+msgstr "الكتابة فوق"
 
 msgid "Overwrite resource"
-msgstr ""
+msgstr "استبدال المورد"
 
 msgid "Own applications"
-msgstr ""
+msgstr "التطبيقات الخاصة"
 
 msgid "Own user management"
-msgstr ""
+msgstr "إدارة المستخدم الخاصة"
 
 msgid "Owner"
-msgstr ""
+msgstr "صاحب"
 
 msgid "PAC"
-msgstr ""
+msgstr "PAC"
 
 msgid "PAUSE"
-msgstr ""
+msgstr "وقفة"
 
 msgid "PAUSED"
-msgstr ""
+msgstr "تم الإيقاف مؤقتًا"
 
 msgid "PENDING"
-msgstr ""
+msgstr "قيد الانتظار"
 
 msgid "PENDING ACCEPTANCE"
-msgstr ""
+msgstr "في انتظار قبول"
 
 msgid "PURGED"
-msgstr ""
+msgstr "مطهر"
 
 msgid "Packed decimal"
-msgstr ""
+msgstr "عشري معبأة"
 
 msgid "Page size"
-msgstr ""
+msgstr "مقاس الصفحه"
 
 msgid "Parent group ID"
-msgstr ""
+msgstr "معرف المجموعة الأم"
 
 msgid "Parent tenant"
-msgstr ""
+msgstr "المستأجر الرئيسي"
 
 msgid "Parity"
-msgstr ""
+msgstr "التكافؤ"
 
 msgid "Parsing the DDF file resulted in an internal error"
-msgstr ""
+msgstr "إلى حدوث خطأ داخلي DDF أدى تحليل ملف "
 
 msgid "Pass strength"
-msgstr ""
+msgstr "قوة التمرير"
 
 msgid "Password"
-msgstr ""
+msgstr "كلمه السر"
 
 msgid "Password change confirmation email template"
-msgstr ""
+msgstr "قالب البريد الإلكتروني لتأكيد تغيير كلمة المرور"
 
 msgid "Password changed. You can now log in using new password."
-msgstr ""
+msgstr ".يمكنك الآن تسجيل الدخول باستخدام كلمة مرور جديدة .تم تغيير كلمة السر"
 
 msgid "Password cipher does not match."
-msgstr ""
+msgstr ".لا يتطابق تشفير كلمة المرور"
 
 msgid "Password confirmation does not match."
-msgstr ""
+msgstr ".تأكيد كلمة المرور لا يتطابق"
 
 msgid "Password history size"
-msgstr ""
+msgstr "حجم سجل كلمة المرور"
 
 msgid "Password is invalid. It must have at least {{minCharactersCount}} and no more than {{maxCharactersCount}} characters."
-msgstr ""
+msgstr "حرف {{maxCharactersCount}}  على الأقل ولا يزيد عن {{minCharactersCount}} كلمة المرور غير صالحة. يجب أن يحتوي على "
 
 msgid "Password must have at least 6 characters."
-msgstr ""
+msgstr ".يجب أن تحتوي كلمة المرور على 6 أحرف على الأقل"
 
 msgid "Password must have at least 8 characters and no more than 32 and can only contain letters, numbers and following symbols: `~!@#$%^&*()_|+-=?;:'\",.<>{}[]\\/"
-msgstr ""
+msgstr "  `~!@#$%^&*()_|+-=?;:'\",.<>{}[]\\/ :يجب أن تحتوي كلمة المرور على 8 أحرف على الأقل ولا تزيد عن 32 حرفًا ويمكن أن تحتوي فقط على أحرف وأرقام ورموز تالية"
 
 msgid "Password must have at least 8 characters and no more than 32."
-msgstr ""
+msgstr ".يجب أن تحتوي كلمة المرور على 8 أحرف على الأقل ولا تزيد عن 32 حرفًا ويمكن أن تحتوي فقط على أحرف وأرقام ورموز تالية"
 
 msgid "Password must have at least {{min}} characters and no more than {{max}} and can only contain letters, numbers and following symbols: `~!@#$%^&*()_|+-=?;:'\",.<>{}[]\\/"
-msgstr ""
+msgstr " ولا يمكن أن تحتوي إلا على أحرف وأرقام ورموز تالية {{max}} حرف على الأقل ولا تزيد عن {{min}} يجب أن تحتوي كلمة المرور على "
 
 msgid "Password not good enough, password must be be stronger (green)."
-msgstr ""
+msgstr ".كلمة المرور ليست جيدة بما يكفي ، يجب أن تكون كلمة المرور أقوى (خضراء)"
 
 msgid "Password not good enough, password must be stronger (green)."
-msgstr ""
+msgstr "كلمة المرور ليست جيدة بما يكفي ، يجب أن تكون كلمة المرور أقوى (خضراء)"
 
 msgid "Password only"
-msgstr ""
+msgstr "كلمة المرور فقط"
 
 msgid "Password reset"
-msgstr ""
+msgstr "إعادة تعيين كلمة المرور"
 
 msgid "Password reset email template (when address is known)"
-msgstr ""
+msgstr "نموذج البريد الإلكتروني لإعادة تعيين كلمة المرور (عندما يكون العنوان معروفًا)"
 
 msgid "Password reset email template (when address is not known)"
-msgstr ""
+msgstr "نموذج البريد الإلكتروني لإعادة تعيين كلمة المرور (عندما يكون العنوان غير معروف)"
 
 msgid "Password reset link expired. Please enter your email address to receive a new one."
-msgstr ""
+msgstr ".انتهت صلاحية رابط إعادة تعيين كلمة المرور. يرجى إدخال عنوان بريدك الإلكتروني لتلقي عنوان جديد"
 
 msgid "Password reset request has been sent. Please check your email."
-msgstr ""
+msgstr ".تم إرسال طلب إعادة تعيين كلمة المرور. من فضلك تفقد بريدك الالكتروني"
 
 msgid "Password strength"
-msgstr ""
+msgstr "قوة كلمة المرور"
 
 msgid "Password validity limit (days)"
-msgstr ""
+msgstr "حد صلاحية كلمة المرور (أيام)"
 
 msgid "Passwords"
-msgstr ""
+msgstr "كلمات المرور"
 
 msgid "Passwords do not match."
-msgstr ""
+msgstr ".كلمة المرور غير مطابقة"
 
 msgid "Paste dashboard \"{{name}}\""
-msgstr ""
+msgstr " \"{{name}}\" لصق لوحة القيادة"
 
 msgid "Path"
-msgstr ""
+msgstr "مسار"
 
 msgid "Path must be unique."
-msgstr ""
+msgstr "يجب أن يكون المسار فريدًا"
 
 msgid "Patterns"
-msgstr ""
+msgstr "أنماط - رسم"
 
 msgid "Pause"
 msgstr ""
 
 msgid "Pause device"
-msgstr ""
+msgstr "إيقاف الجهاز مؤقتًا"
 
 msgid "Payment contract ID"
-msgstr ""
+msgstr "معرّف عقد الدفع"
 
 msgid "Payment method"
-msgstr ""
+msgstr "طريقة الدفع او السداد"
 
 msgid "Payment method changed."
-msgstr ""
+msgstr ".تم تغيير طريقة الدفع"
 
 msgid "Payment plan"
-msgstr ""
+msgstr "خطة السداد"
 
 msgid "Peak devices"
-msgstr ""
+msgstr "أجهزة الذروة"
 
 msgid "Peak number of devices, including child devices"
-msgstr ""
+msgstr "عدد الذروة من الأجهزة ، بما في ذلك الأجهزة التابعة"
 
 msgid "Peak number of root devices, excluding child devices"
-msgstr ""
+msgstr "عدد الذروة من الأجهزة الجذر ، باستثناء الأجهزة التابعة"
 
 msgid "Peak root devices"
-msgstr ""
+msgstr "أجهزة الجذر الذروة"
 
 msgid "Peak storage (MB)"
-msgstr ""
+msgstr "تخزين الذروة (ميغا بايت)"
 
 msgid "Pending"
-msgstr ""
+msgstr "قيد الانتظار"
 
 msgid "Pending acceptance"
-msgstr ""
+msgstr "في انتظار قبول"
 
 msgid "Pending tracker registrations"
-msgstr ""
+msgstr "عمليات التسجيل في انتظار المراجعة"
 
 msgid "Percent"
-msgstr ""
+msgstr "نسبه مئويه"
 
 msgid "Permission"
-msgstr ""
+msgstr "الإذن"
 
 msgid "Permissions"
-msgstr ""
+msgstr "أذونات"
 
 msgid "Permissions updated."
-msgstr ""
+msgstr ".تم تحديث الأذونات"
 
 msgid "Personal tracking"
-msgstr ""
+msgstr "تتبع شخصي"
 
 msgid "Perspective camera"
-msgstr ""
+msgstr "كاميرا المنظور"
 
 msgid "Pet tracking"
-msgstr ""
+msgstr "تتبع الحيوانات الأليفة"
 
 msgid "Phone"
-msgstr ""
+msgstr "هاتف"
 
 msgid "Phone model"
-msgstr ""
+msgstr "طراز الهاتف"
 
 msgid "Phone number(s)"
-msgstr ""
+msgstr "أرقام الهواتف"
 
 msgid "Pick you preferred payment method"
-msgstr ""
+msgstr "اختر لك طريقة الدفع المفضلة"
 
 msgid "Pick your Smart Rule"
-msgstr ""
+msgstr "Pick your Smart Rule"
 
 msgid "Pie Chart"
-msgstr ""
+msgstr "مخطط دائري"
 
 msgid "Pie Chart Options"
-msgstr ""
+msgstr "خيارات التخطيط الدائري"
 
 msgid "Place order"
-msgstr ""
+msgstr "مكان الامر"
 
 msgid "Placeholder"
-msgstr ""
+msgstr "عنصر نائب"
 
 msgid "Placeholder: {tenant} - suspended tenant's ID"
-msgstr ""
+msgstr "معرف المستأجر المعلق - {tenant} :العنصر النائب "
 
 msgid "Placeholder: {token} - created token"
-msgstr ""
+msgstr "الرمز المميز الذي تم إنشاؤه  - {token} :عنصر نائب"
 
 msgid "Placeholders: {host}, {tenant-domain}"
-msgstr ""
+msgstr " {host}, {tenant-domain} :العناصر النائبة"
 
 msgid "Placeholders: {tenant-domain}, {host}, {binaryId}. Whole link to result file is: {tenant-domain}/inventory/binaries/{binaryId}"
-msgstr ""
+msgstr " {tenant-domain}/inventory/binaries/{binaryId} :الرابط الكامل لملف النتيجة هو .{tenant-domain}, {host}, {binaryId} :العناصر النائبة"
 
 msgid "Placeholders: {tenant-domain}, {host}, {token}. Whole link to reset password can be e.g.: {tenant-domain}/apps/devicemanagement/index.html?token={token}"
-msgstr ""
+msgstr "  {tenant-domain}/apps/devicemanagement/index.html?token={token} :يمكن أن يكون الرابط بالكامل لإعادة تعيين كلمة المرور على سبيل المثال .{tenant-domain}, {host}, {binaryId} :العناصر النائبة"
 
 msgid "Placeholders: {tenant-domain}, {host}, {token}. Whole link to setup password can be e.g.: {tenant-domain}/apps/devicemanagement/index.html?token={token}"
-msgstr ""
+msgstr " {tenant-domain}/apps/devicemanagement/index.html?token={token}: يمكن أن يكون الرابط الكامل لكلمة مرور الإعداد ، على سبيل المثال  .{tenant-domain}, {host}, {binaryId} :العناصر النائبة"
 
 msgid "Placeholders: {user}, {exportApi}"
-msgstr ""
+msgstr " {user}, {exportApi} :العناصر النائبة"
 
 msgid "Placing order"
-msgstr ""
+msgstr "طلب"
 
 msgid "Platform application cannot be added to, nor removed from any tenant."
-msgstr ""
+msgstr ".لا يمكن إضافة تطبيق النظام الأساسي أو إزالته من أي مستأجر"
 
 msgid "Play"
-msgstr ""
+msgstr "لعب"
 
 msgid "Please add widgets to this dashboard."
-msgstr ""
+msgstr ".يرجى إضافة الحاجيات إلى لوحة التحكم هذه"
 
 msgid "Please contact your platform administrator."
-msgstr ""
+msgstr ".يرجى الاتصال بمسؤول النظام الأساسي الخاص بك"
 
 msgid "Please enter your credentials from your SMS provider. This enables platform features that utilize SMS services (e.g. two-factor authentication and user notifications)."
-msgstr ""
+msgstr " .يرجى إدخال بيانات اعتمادك من مزود خدمة الرسائل القصيرة الخاص بك. يتيح ذلك ميزات النظام الأساسي التي تستخدم خدمات الرسائل القصيرة مثل المصادقة ذات العاملين وإخطارات المستخدم"
 
 msgid "Please meet 4 out of 5 the conditions below"
-msgstr ""
+msgstr "يرجى استيفاء 4 من 5 الشروط أدناه"
 
 msgid "Please note that devices with longer communication intervals will enter sleep-mode due to inactivity. For the devices in sleep-mode no commands can be executed during this period. In order to pull the device out of sleep-mode, you will need to put the device on a charger."
-msgstr ""
+msgstr " لسحب الجهاز من وضع السكون ، ستحتاج إلى وضع الجهاز على الشاحن .يرجى ملاحظة أن الأجهزة ذات فترات الاتصال الأطول ستدخل وضع السكون بسبب عدم النشاط. بالنسبة للأجهزة في وضع السكون ، لا يمكن تنفيذ أي أوامر خلال هذه الفترة. بالنسبة للأجهزة في وضع السكون ، لا يمكن تنفيذ أي أوامر خلال هذه الفترة "
 
 msgid "Please provide email in user settings in order to use export functionality."
-msgstr ""
+msgstr "يرجى تقديم بريد إلكتروني في إعدادات المستخدم لاستخدام وظيفة التصدير"
 
 msgid "Please retry or <a href=\"mailto:support@cumulocity.com\">reach us</a> if you're not able to upgrade."
-msgstr ""
+msgstr " إذا لم تكن قادرًا على الترقية <a href=\"mailto:support@cumulocity.com\">تصل إلينا</a> :يرجى إعادة المحاولة أو"
 
 msgid "Please select at least one severity."
-msgstr ""
+msgstr ".الرجاء تحديد درجة خطورة واحدة على الأقل"
 
 msgid "Please switch to the control tab to see the current status of the operation."
-msgstr ""
+msgstr ".يرجى التبديل إلى علامة التبويب التحكم لمعرفة الحالة الحالية للعملية"
 
 msgid "Please type something to execute a search."
-msgstr ""
+msgstr ".يرجى كتابة شيء لتنفيذ البحث"
 
 msgid "Please, use your manage tool to change the setup."
-msgstr ""
+msgstr ".من فضلك ، استخدم أداة الإدارة الخاصة بك لتغيير الإعداد"
 
 msgid "Pod \"{{imageName}}\" created."
-msgstr ""
+msgstr "خلقت \"{{imageName}}\" POD"
 
 msgid "Pod sandbox creation failed."
-msgstr ""
+msgstr "Pod فشل إنشاء وضع الحماية لـ"
 
 msgid "Pod synchronization error."
-msgstr ""
+msgstr "POD خطأ مزامنة"
 
 msgid "Points"
-msgstr ""
+msgstr "نقاط"
 
 msgid "Polling rate"
-msgstr ""
+msgstr "معدل الاقتراع"
 
 msgid "Polling rate must be equal to or smaller than transmit rate."
-msgstr ""
+msgstr ".يجب أن يكون معدل الاقتراع مساوياً أو أصغر من معدل الإرسال"
 
 msgid "Popup window failed to open. Please confirm your browser settings."
-msgstr ""
+msgstr " .فشل فتح النافذة المنبثقة. يرجى تأكيد إعدادات المستعرض الخاص بك"
 
 msgid "Port"
-msgstr ""
+msgstr "ميناء"
 
 msgid "Position"
-msgstr ""
+msgstr "موضع"
 
 msgid "Position reporting interval if motion detected"
-msgstr ""
+msgstr "فترة الإبلاغ عن الموقف إذا تم الكشف عن الحركة"
 
 msgid "Position reporting interval if no motion detected"
-msgstr ""
+msgstr "الفاصل الزمني للإبلاغ عن الموضع في حالة عدم اكتشاف حركة"
 
 msgid "Position update event"
-msgstr ""
+msgstr "حدث تحديث الموقف"
 
 msgid "Possible values: \"true`KEEP_ORIGINAL`\", \"false`KEEP_ORIGINAL`\", date until user should remain active"
-msgstr ""
+msgstr " التاريخ حتى يظل المستخدم نشطًا ,\"false`KEEP_ORIGINAL`\" ,\"true`KEEP_ORIGINAL`\" :القيم الممكنة"
 
 msgid "Possible values: URL string, \"false`KEEP_ORIGINAL`\" (hides the link), leave empty (uses the default)"
-msgstr ""
+msgstr " (يخفي الرابط), اتركه فارغا يستخدم الافتراضي \"false`KEEP_ORIGINAL`\" ,URL القيم المحتملة: سلسلة"
 
 msgid "Post-operations saved."
-msgstr ""
+msgstr "تم حفظ العمليات اللاحقة"
 
 msgid "Power"
-msgstr ""
+msgstr "قوة"
 
 msgid "Precision loss may occur, check Cloud Fieldbus specification for details."
-msgstr ""
+msgstr "للحصول على التفاصيل Cloud Fieldbus قد تحدث خسارة دقيقة ، تحقق من مواصفات"
 
 msgid "Predefined Adeunis LoRaWan Pulse"
-msgstr ""
+msgstr " محدد مسبقًا Adeunis LoRaWan نبض"
 
 msgid "Predefined Adeunis LoRaWan Sensor"
-msgstr ""
+msgstr "محدد مسبقًا Adeunis LoRaWan جهاز استشعار"
 
 msgid "Predefined Ascocl CM868LR-CMUS915LR"
-msgstr ""
+msgstr " CM868LR-CMUS915LR محدد مسبقًا"
 
 msgid "Predefined Ascocl CM868LRTH-CMUS915LRTH"
-msgstr ""
+msgstr "CM868LRTH-CMUS915LRTH محدد مسبقًا"
 
 msgid "Predefined Ascolc IR868LR-IRUS915LR"
-msgstr ""
+msgstr "IR868LR-IRUS915LR  محدد مسبقًا"
 
 msgid "Predefined ED1608 General Sensor"
-msgstr ""
+msgstr "محدد مسبقًا ED1608 جهاز استشعار عام"
 
 msgid "Predefined MachineLink commands"
-msgstr ""
+msgstr " المحددة مسبقًا MachineLink أوامر"
 
 msgid "Preferred login mode"
-msgstr ""
+msgstr "وضع تسجيل الدخول المفضل"
 
 msgid "Presets"
-msgstr ""
+msgstr "إعدادات مسبقة"
 
 msgid "Preview"
-msgstr ""
+msgstr "معاينة"
 
 msgid "Preview branding"
-msgstr ""
+msgstr "معاينة العلامة التجارية"
 
 msgid "Preview file"
-msgstr ""
+msgstr "ملف المعاينة"
 
 msgid "Previous page"
-msgstr ""
+msgstr "الصفحة السابقة"
 
 msgid "Previous`page`"
-msgstr ""
+msgstr "الصفحة السابقة"
 
 msgid "Print QR code"
-msgstr ""
+msgstr "طباعة رمز الاستجابة السريعة"
 
 msgid "Print QR codes"
-msgstr ""
+msgstr "QR طباعة رموز"
 
 msgid "Print screen of dashboard"
-msgstr ""
+msgstr "شاشة طباعة لوحة القيادة"
 
 msgid "Print screen of {{name}}"
-msgstr ""
+msgstr "{{name}} شاشة الطباعة"
 
 msgid "Privacy"
-msgstr ""
+msgstr "خصوصية"
 
 msgid "Privacy policy"
-msgstr ""
+msgstr "سياسة خاصة"
 
 msgid "Private key"
-msgstr ""
+msgstr "مفتاح سري"
 
 msgid "Private key cipher does not match"
-msgstr ""
+msgstr "لا يتطابق تشفير المفتاح الخاص"
 
 msgid "Private key must be provided when \"Public / private keys\" option is selected."
-msgstr ""
+msgstr " .يجب توفير المفتاح الخاص عند تحديد خيار المفاتيح العامة / الخاصة"
 
 msgid "Process is being executed"
-msgstr ""
+msgstr "يتم تنفيذ العملية"
 
 msgid "Process`verb` software changes"
-msgstr ""
+msgstr "معالجة تغييرات برنامج الفعل"
 
 msgid "Processing"
-msgstr ""
+msgstr "معالجة"
 
 msgid "Processing file..."
-msgstr ""
+msgstr "... جارٍ معالجة الملف"
 
 msgid "Processing…"
-msgstr ""
+msgstr "...معالجة"
 
 msgid "Product certificate key"
-msgstr ""
+msgstr "مفتاح شهادة المنتج"
 
 msgid "Profibus"
-msgstr ""
+msgstr "Profibus"
 
 msgid "Profibus communication"
-msgstr ""
+msgstr "Profibus اتصالات"
 
 msgid "Profile / Global roles"
-msgstr ""
+msgstr "الملف الشخصي / الأدوار العالمية"
 
 msgid "Profile ID"
-msgstr ""
+msgstr "ملف البطاقة الشخصية"
 
 msgid "Project data"
-msgstr ""
+msgstr "بيانات المشروع"
 
 msgid "Properties"
-msgstr ""
+msgstr "الخصائص"
 
 msgid "Properties library"
-msgstr ""
+msgstr "مكتبة الخصائص"
 
 msgid "Property"
-msgstr ""
+msgstr "خاصية"
 
 msgid "Property deleted."
-msgstr ""
+msgstr ".تم حذف الملكية"
 
 msgid "Property nested inside the fragment"
-msgstr ""
+msgstr "خاصية متداخلة داخل الجزء"
 
 msgid "Property saved."
-msgstr ""
+msgstr ".تم حفظ الملكية"
 
 msgid "Protocol"
-msgstr ""
+msgstr "بروتوكول"
 
 msgid "Protocol \"{{protocol}}\" does not support \"{{credentialsType}}\" credentials type."
-msgstr ""
+msgstr ".نوع أوراق الاعتماد \"{{credentialsType}}\" لا يدعم \"{{protocol}}\" بروتوكول"
 
 msgid "Protocol and encryption"
-msgstr ""
+msgstr "البروتوكول والتشفير"
 
 msgid "Provide access to"
-msgstr ""
+msgstr "توفير الوصول إلى"
 
 msgid "Provide your phone number"
-msgstr ""
+msgstr "أدخل رقم هاتفك"
 
 msgid "Provided password doesn't match your current one."
-msgstr ""
+msgstr ".لا تتطابق كلمة المرور المقدمة مع كلمة المرور الحالية"
 
 msgid "Provided roles"
-msgstr ""
+msgstr "الأدوار المقدمة"
 
 msgid "Provider"
-msgstr ""
+msgstr "مزود"
 
 msgid "Provider name"
-msgstr ""
+msgstr "اسم المزود"
 
 msgid "Provisioned"
-msgstr ""
+msgstr "تم توفيره"
 
 msgid "Public / private keys"
-msgstr ""
+msgstr "مفاتيح عامة / خاصة"
 
 msgid "Public key"
-msgstr ""
+msgstr "المفتاح العمومي"
 
 msgid "Public key discovery URL"
-msgstr ""
+msgstr "لاكتشاف المفتاح العام URL عنوان"
 
 msgid "Public key or ID"
-msgstr ""
+msgstr "المفتاح العام أو الهوية"
 
 msgid "Public key or identity"
-msgstr ""
+msgstr "المفتاح العام أو الهوية"
 
 msgid "Pulling image: \"{{imageName}}\"."
-msgstr ""
+msgstr ".\"{{imageName}}\" :سحب الصورة"
 
 msgid "Pulse 1 setting"
-msgstr ""
+msgstr "إعداد النبض 1"
 
 msgid "Pulse 2 setting"
-msgstr ""
+msgstr "إعداد النبض 2"
 
 msgid "Pump {{number}}"
-msgstr ""
+msgstr "{{number}} مضخة"
 
 msgid "Push connection: active"
-msgstr ""
+msgstr "دفع اتصال: نشط"
 
 msgid "Push connection: inactive"
-msgstr ""
+msgstr "دفع الاتصال: غير نشط"
 
 msgid "Put new snapshot to device"
-msgstr ""
+msgstr "ضع لقطة جديدة على الجهاز"
 
 msgid "Putting new snapshot to device"
-msgstr ""
+msgstr "وضع لقطة جديدة على الجهاز"
 
 msgid "QR code"
-msgstr ""
+msgstr "رمز الاستجابة السريعة"
 
 msgid "QR code loading..."
-msgstr ""
+msgstr "... تحميل رمز الاستجابة السريعة"
 
 msgid "Query Active Jobs"
-msgstr ""
+msgstr "استعلام عن الوظائف النشطة"
 
 msgid "Query Analog Input Hutline"
-msgstr ""
+msgstr "الاستعلام عن إدخال إدخال تناظري"
 
 msgid "Query Eifeler Vacotec server port"
-msgstr ""
+msgstr "Eifeler Vacotec  الاستعلام عن منفذ خادم "
 
 msgid "Query Enabled Services"
-msgstr ""
+msgstr "خدمات تمكين الاستعلام"
 
 msgid "Query Ethernet state"
-msgstr ""
+msgstr "الاستعلام عن حالة إيثرنت"
 
 msgid "Query Firmware Version"
-msgstr ""
+msgstr "إصدار برنامج الاستعلام"
 
 msgid "Query Fresenius VPN proxy status"
-msgstr ""
+msgstr "Fresenius VPN  استعلام عن حالة وكيل"
 
 msgid "Query GSM state"
-msgstr ""
+msgstr "GSM الاستعلام عن حالة "
 
 msgid "Query Hardware"
-msgstr ""
+msgstr "أجهزة الاستعلام"
 
 msgid "Query Inputs Hutline"
-msgstr ""
+msgstr "Hutline مدخلات الاستعلام"
 
 msgid "Query Outputs Hutline"
-msgstr ""
+msgstr "Hutline مخرجات الاستعلام"
 
 msgid "Query ProcessVars"
-msgstr ""
+msgstr "ProcessVars استعلام"
 
 msgid "Query Stations Bus"
-msgstr ""
+msgstr "حافلة محطات الاستعلام"
 
 msgid "Query WLAN state"
-msgstr ""
+msgstr "WLAN الاستعلام عن حالة"
 
 msgid "Quick links"
-msgstr ""
+msgstr "روابط سريعة"
 
 msgid "Quote strings"
-msgstr ""
+msgstr "سلاسل الاقتباس"
 
 msgid "RCSP"
-msgstr ""
+msgstr "RCSP"
 
 msgid "RDB snapshot"
-msgstr ""
+msgstr "RDB لقطة"
 
 msgid "RDB snapshot file"
-msgstr ""
+msgstr "RDB ملف لقطة"
 
 msgid "RDB snapshot saved to files repository."
-msgstr ""
+msgstr "RDB تم حفظ اللقطة في مستودع الملفات"
 
 msgid "RDB snapshot will be retrieved."
-msgstr ""
+msgstr "RDB سيتم استرداد لقطة"
 
 msgid "REACTIVATE"
-msgstr ""
+msgstr "اعادة تفعيل"
 
 msgid "READ"
-msgstr ""
+msgstr "اقرأ"
 
 msgid "REPLACED"
-msgstr ""
+msgstr "تم استبداله"
 
 msgid "REPORT"
-msgstr ""
+msgstr "نقل"
 
 msgid "REST API built-in fields"
-msgstr ""
+msgstr "REST API  الحقول المضمنة في"
 
 msgid "REST API custom fields"
-msgstr ""
+msgstr "REST API الحقول المخصصة"
 
 msgid "RETIRED"
-msgstr ""
+msgstr "متقاعد"
 
 msgid "RSA public key (X.509 Subject Public Key Info)"
-msgstr ""
+msgstr " (X.509  العمومي (معلومات المفتاح العام للموضوع RSA مفتاح"
 
 msgid "RSSI"
-msgstr ""
+msgstr "RSSI"
 
 msgid "RSSI value"
-msgstr ""
+msgstr "RSSI قيمة"
 
 msgid "RUNNING"
-msgstr ""
+msgstr "ادارة"
 
 msgid "Radial Gauge"
-msgstr ""
+msgstr "مقياس شعاعي"
 
 msgid "Radial gauge"
-msgstr ""
+msgstr "مقياس شعاعي"
 
 msgid "Radial gauge and mutiple label and value pairs for data points"
-msgstr ""
+msgstr "المقياس الشعاعي وأزواج القيمة والعلامات لنقاط البيانات"
 
 msgid "Raise alarm"
-msgstr ""
+msgstr "ارفع المنبه"
 
 msgid "Range"
-msgstr ""
+msgstr "نطاق"
 
 msgid "Raw error code"
-msgstr ""
+msgstr "رمز الخطأ الأولي"
 
 msgid "Reach us by phone"
-msgstr ""
+msgstr "تواصل معنا عبر الهاتف"
 
 msgid "Read"
-msgstr ""
+msgstr "اقرأ"
 
 msgid "Read Event-Log"
-msgstr ""
+msgstr "قراءة سجل الأحداث"
 
 msgid "Read FailedIncomingCall-Log"
-msgstr ""
+msgstr "FailedIncomingCall-Log - قراءة"
 
 msgid "Read IncomingMessage-Log"
-msgstr ""
+msgstr "IncomingMessage-Log  - قراءة"
 
 msgid "Read Job-Report"
-msgstr ""
+msgstr "اقرأ تقرير الوظيفة"
 
 msgid "Read Log Counter"
-msgstr ""
+msgstr "قراءة عداد السجل"
 
 msgid "Read Logfile"
-msgstr ""
+msgstr "قراءة ملف السجل"
 
 msgid "Read Login-Log"
-msgstr ""
+msgstr "اقرأ تسجيل الدخول-تسجيل"
 
 msgid "Read SupportLog"
-msgstr ""
+msgstr "اقرأ سجل الدعم"
 
 msgid "Read and write"
-msgstr ""
+msgstr "اقرا و اكتب"
 
 msgid "Read current network status"
-msgstr ""
+msgstr "قراءة حالة الشبكة الحالية"
 
 msgid "Read maximum sensor value"
-msgstr ""
+msgstr "اقرأ القيمة القصوى للمستشعر"
 
 msgid "Read timed out"
-msgstr ""
+msgstr "الوقت المخصص للقراءة انتهى"
 
 msgid "Read-only"
-msgstr ""
+msgstr "يقرأ فقط"
 
 msgid "Read-write"
-msgstr ""
+msgstr "قراءة و كتابة"
 
 msgid "Read-write on process input"
-msgstr ""
+msgstr "قراءة الكتابة على إدخال العملية"
 
 msgid "Read-write on process output"
-msgstr ""
+msgstr "القراءة والكتابة على إخراج العملية"
 
 msgid "Reader"
-msgstr ""
+msgstr "قارئ"
 
 msgid "Readiness probe failed: {{requestMethod}} {{uri}}: {{protocol}}: request canceled while waiting for connection (Client.Timeout exceeded while awaiting headers)."
-msgstr ""
+msgstr " .تم إلغاء الطلب أثناء انتظار الاتصال (تجاوزت مهلة العميل أثناء انتظار الرؤوس): {{requestMethod}} {{uri}}: {{protocol}} :فشل تحقيق الجاهزية"
 
 msgid "Reading interval"
-msgstr ""
+msgstr "فاصل القراءة"
 
 msgid "Real (32-bits)"
-msgstr ""
+msgstr "ريال 32 بت"
 
 msgid "Real (64-bits)"
-msgstr ""
+msgstr "64 بت حقيقي"
 
 msgid "Real-time event processing is currently overloaded and may stop processing your events. Please contact support."
-msgstr ""
+msgstr " .يتم تحميل معالجة الأحداث في الوقت الفعلي بشكل زائد حاليًا وقد تتوقف عن معالجة الأحداث الخاصة بك .يرجى الاتصال بالدعم "
 
 msgid "Realtime"
-msgstr ""
+msgstr "في الوقت الحالى"
 
 msgid "Realtime active"
-msgstr ""
+msgstr "نشط في الوقت الحقيقي"
 
 msgid "Realtime inactive"
-msgstr ""
+msgstr "في الوقت الحقيقي غير نشط"
 
 msgid "Realtime is active. Deactivate it to edit date and time."
-msgstr ""
+msgstr ".الوقت الفعلي نشط. قم بإلغاء تنشيطه لتحرير التاريخ والوقت"
 
 msgid "Realtime streaming analytics"
-msgstr ""
+msgstr "تحليلات تدفق الوقت الحقيقي"
 
 msgid "Reboot device"
-msgstr ""
+msgstr "إعادة تشغيل الجهاز"
 
 msgid "Reboot`verb`"
-msgstr ""
+msgstr "فعل إعادة التشغيل"
 
 msgid "Reboot`verb` (password protected)"
-msgstr ""
+msgstr "كلمة مرور فعل إعادة التشغيل محمية"
 
 msgid "Received"
-msgstr ""
+msgstr "تم الاستلام"
 
 msgid "Received signal code power"
-msgstr ""
+msgstr "قوة رمز الإشارة المستقبلة"
 
 msgid "Recent alarms"
-msgstr ""
+msgstr "الإنذارات الأخيرة"
 
 msgid "Recent data"
-msgstr ""
+msgstr "البيانات الأخيرة"
 
 msgid "Recent operations"
-msgstr ""
+msgstr "العمليات الأخيرة"
 
 msgid "Red range"
-msgstr ""
+msgstr "النطاق الأحمر"
 
 msgid "Red range (max)"
-msgstr ""
+msgstr "(أقصى) النطاق الأحمر"
 
 msgid "Red range (min)"
-msgstr ""
+msgstr "النطاق الأحمر (دقيقة)"
 
 msgid "Red range: {{min}} … {{max}}"
-msgstr ""
+msgstr " {{max}} … {{min}} :النطاق الأحمر"
 
 msgid "Redirect URI"
-msgstr ""
+msgstr "URI إعادة توجيه"
 
 msgid "Redirect URL"
-msgstr ""
+msgstr "URL إعادة توجيه"
 
 msgid "Redirect after logout"
-msgstr ""
+msgstr "إعادة التوجيه بعد تسجيل الخروج"
 
 msgid "Redirect to..."
-msgstr ""
+msgstr "...إعادة توجيه ل"
 
 msgid "Reference device"
-msgstr ""
+msgstr "جهاز مرجعي"
 
 msgid "Reference guide`KEEP_ORIGINAL`"
-msgstr ""
+msgstr "`KEEP_ORIGINAL` دليل مرجعي"
 
 msgid "Reference server"
-msgstr ""
+msgstr "خادم مرجعي"
 
 msgid "Reference to another object with this format: /Object/Instance/Resource, for e.g. /3303/0/5700"
-msgstr ""
+msgstr "/3303/0/5700 على سبيل المثال /Object/Instance/Resource  :مرجع إلى كائن آخر بهذا التنسيق"
 
 msgid "References"
 msgstr ""
