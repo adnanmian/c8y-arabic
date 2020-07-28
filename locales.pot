@@ -9022,55 +9022,55 @@ msgid "Reference to another object with this format: /Object/Instance/Resource, 
 msgstr "/3303/0/5700 على سبيل المثال /Object/Instance/Resource  :مرجع إلى كائن آخر بهذا التنسيق"
 
 msgid "References"
-msgstr ""
+msgstr "المراجع"
 
 msgid "Refresh alarm list contents"
-msgstr ""
+msgstr "تحديث محتويات قائمة التنبيه"
 
 msgid "Refresh device status"
-msgstr ""
+msgstr "تحديث حالة الجهاز"
 
 msgid "Refresh request"
-msgstr ""
+msgstr "طلب التحديث"
 
 msgid "Refresh status page"
-msgstr ""
+msgstr "تحديث صفحة الحالة"
 
 msgid "Refresh token"
-msgstr ""
+msgstr "رمز التحديث"
 
 msgid "Region"
-msgstr ""
+msgstr "منطقة"
 
 msgid "Register"
-msgstr ""
+msgstr "تسجيل"
 
 msgid "Register another tracker"
-msgstr ""
+msgstr "تسجيل تعقب آخر"
 
 msgid "Register device"
-msgstr ""
+msgstr "تسجيل الجهاز"
 
 msgid "Register devices"
-msgstr ""
+msgstr "تسجيل الأجهزة"
 
 msgid "Register new subscription"
-msgstr ""
+msgstr "تسجيل اشتراك جديد"
 
 msgid "Register new tracker"
-msgstr ""
+msgstr "تسجيل تعقب جديد"
 
 msgid "Register smartphone"
-msgstr ""
+msgstr "تسجيل الهاتف الذكي"
 
 msgid "Registers"
-msgstr ""
+msgstr "يسجل"
 
 msgid "Registration"
-msgstr ""
+msgstr "التسجيل"
 
 msgid "Registration date"
-msgstr ""
+msgstr "تاريخ التسجيل"
 
 msgid "Registration failed for 1 device out of {{total}}."
 msgid_plural "Registration failed for {{$count}} devices out of {{total}}."
@@ -9078,7 +9078,7 @@ msgstr[0] ""
 msgstr[1] ""
 
 msgid "Registration lifetime"
-msgstr ""
+msgstr "تاريخ التسجيل"
 
 msgid "Registration succeeded for 1 device."
 msgid_plural "Registration succeeded for all {{$count}} devices."
@@ -9086,1642 +9086,1642 @@ msgstr[0] ""
 msgstr[1] ""
 
 msgid "Regular"
-msgstr ""
+msgstr "منتظم"
 
 msgid "Regular expression"
-msgstr ""
+msgstr "تعبير عادي"
 
 msgid "Relay"
-msgstr ""
+msgstr "تناوب"
 
 msgid "Relay ID"
-msgstr ""
+msgstr "معرف التتابع"
 
 msgid "Relay array control"
-msgstr ""
+msgstr "التحكم في صفيف التتابع"
 
 msgid "Relay control"
-msgstr ""
+msgstr "التحكم في التتابع"
 
 msgid "Relay operation"
-msgstr ""
+msgstr "عملية التتابع"
 
 msgid "Reload"
-msgstr ""
+msgstr "إعادة تحميل"
 
 msgid "Reload application"
-msgstr ""
+msgstr "إعادة تحميل التطبيق"
 
 msgid "Reload now"
-msgstr ""
+msgstr "إعادة التحميل الآن"
 
 msgid "Remember me"
-msgstr ""
+msgstr "تذكرنى"
 
 msgid "Remote Control"
-msgstr ""
+msgstr "جهاز التحكم"
 
 msgid "Remote access"
-msgstr ""
+msgstr "الوصول عن بعد"
 
 msgid "Remote access endpoint"
-msgstr ""
+msgstr "نقطة نهاية الوصول عن بعد"
 
 msgid "Remote cashless"
-msgstr ""
+msgstr "غير نقدي عن بعد"
 
 msgid "Remote control a device's relay array."
-msgstr ""
+msgstr ".جهاز التحكم عن بعد صفيف التتابع للجهاز"
 
 msgid "Remote control a device's relay switch."
-msgstr ""
+msgstr ".التحكم عن بعد التبديل التتابع للجهاز"
 
 msgid "Remotely send a message to a device"
-msgstr ""
+msgstr "إرسال رسالة إلى جهاز عن بعد"
 
 msgid "Remove"
-msgstr ""
+msgstr "إزالة"
 
 msgid "Remove button"
-msgstr ""
+msgstr "زر الإزالة"
 
 msgid "Remove field"
-msgstr ""
+msgstr "إزالة الحقل"
 
 msgid "Remove from list"
-msgstr ""
+msgstr "ازله من القائمة"
 
 msgid "Remove hero"
-msgstr ""
+msgstr "إزالة البطل"
 
 msgid "Remove owner"
-msgstr ""
+msgstr "إزالة المالك"
 
 msgid "Remove permission"
-msgstr ""
+msgstr "إزالة الإذن"
 
 msgid "Remove value"
-msgstr ""
+msgstr "إزالة القيمة"
 
 msgid "Removed child device \"{{name}}\" (ID: {{id}})."
-msgstr ""
+msgstr "({{id}} :هوية شخصية) \"{{name}}\" جهاز طفل تمت إزالته"
 
 msgid "Render type"
-msgstr ""
+msgstr "نوع التقديم"
 
 msgid "Reoccurrence count"
-msgstr ""
+msgstr "عد التكرار"
 
 msgid "Replace"
-msgstr ""
+msgstr "يحل محل"
 
 msgid "Replace certificate"
-msgstr ""
+msgstr "استبدال الشهادة"
 
 msgid "Replace certificate please. Make sure that you upload a valid SSL wildcard certificate with proper common name. Activation for this certificate is disabled."
-msgstr ""
+msgstr ".صالحة بالاسم الشائع المناسب. التنشيط لهذه الشهادة معطل SSL يرجى استبدال الشهادة. تأكد من تحميل شهادة البدل"
 
 msgid "Replace credentials"
-msgstr ""
+msgstr "استبدال أوراق الاعتماد"
 
 msgid "Replica set \"{{replicaSetName}}\" scaled up to \"{{scaleNumber}}\"."
-msgstr ""
+msgstr " \"{{scaleNumber}}\"  تم الارتقاء إلى \"{{replicaSetName}}\" مجموعة النسخ المتماثلة"
 
 msgid "Reply to"
-msgstr ""
+msgstr "الرد على"
 
 msgid "Report"
-msgstr ""
+msgstr "نقل"
 
 msgid "Report deleted."
-msgstr ""
+msgstr ".تم حذف التقرير"
 
 msgid "Reports"
-msgstr ""
+msgstr "التقارير"
 
 msgid "Repository"
-msgstr ""
+msgstr "مخزن"
 
 msgid "Request device Log"
-msgstr ""
+msgstr "طلب سجل الجهاز"
 
 msgid "Request device log"
-msgstr ""
+msgstr "طلب سجل الجهاز"
 
 msgid "Request inventory update"
-msgstr ""
+msgstr "طلب تحديث المخزون"
 
 msgid "Request log"
-msgstr ""
+msgstr "سجل الطلبات"
 
 msgid "Request log file"
-msgstr ""
+msgstr "طلب ملف السجل"
 
 msgid "Request parameters"
-msgstr ""
+msgstr "معلمات الطلب"
 
 msgid "Request support"
-msgstr ""
+msgstr "طلب الدعم"
 
 msgid "Requested current configuration"
-msgstr ""
+msgstr "التكوين الحالي المطلوب"
 
 msgid "Requested data denied access"
-msgstr ""
+msgstr "تم رفض الوصول إلى البيانات المطلوبة"
 
 msgid "Required"
-msgstr ""
+msgstr "مطلوب"
 
 msgid "Required availability"
-msgstr ""
+msgstr "التوافر المطلوب"
 
 msgid "Required interval"
-msgstr ""
+msgstr "الفاصل الزمني المطلوب"
 
 msgid "Required interval must be a number and cannot be longer than a year."
-msgstr ""
+msgstr ".يجب أن يكون الفاصل المطلوب رقمًا ولا يمكن أن يكون أطول من عام"
 
 msgid "Required interval must be a positive number."
-msgstr ""
+msgstr ".يجب أن يكون الفاصل المطلوب رقمًا موجبًا"
 
 msgid "Required interval updated."
-msgstr ""
+msgstr ".تم تحديث الفاصل الزمني المطلوب"
 
 msgid "Required permissions"
-msgstr ""
+msgstr "الأذونات المطلوبة"
 
 msgid "Reschedule"
-msgstr ""
+msgstr "إعادة الجدولة"
 
 msgid "Reseller licencing"
-msgstr ""
+msgstr "ترخيص البائع"
 
 msgid "Resend configuration SMS"
-msgstr ""
+msgstr "التكوين SMS إعادة إرسال"
 
 msgid "Reset"
-msgstr ""
+msgstr "إعادة تعيين"
 
 msgid "Reset Update"
-msgstr ""
+msgstr "إعادة تعيين التحديث"
 
 msgid "Reset applied branding configuration"
-msgstr ""
+msgstr "إعادة تعيين تكوين العلامة التجارية المطبقة"
 
 msgid "Reset branding configuration"
-msgstr ""
+msgstr "إعادة تعيين تكوين العلامة التجارية"
 
 msgid "Reset changes"
-msgstr ""
+msgstr "إعادة تعيين التغييرات"
 
 msgid "Reset min and max values"
-msgstr ""
+msgstr "إعادة تعيين القيم الدنيا والقصوى"
 
 msgid "Reset password"
-msgstr ""
+msgstr "إعادة تعيين كلمة المرور"
 
 msgid "Reset registration data"
-msgstr ""
+msgstr "إعادة تعيين بيانات التسجيل"
 
 msgid "Resource deleted."
-msgstr ""
+msgstr ".تم حذف المورد"
 
 msgid "Resource-based access control"
-msgstr ""
+msgstr "التحكم بالوصول القائم على الموارد"
 
 msgid "Resources"
-msgstr ""
+msgstr "مصادر"
 
 msgid "Resources usage assigned to: Owner"
-msgstr ""
+msgstr "تم تعيين استخدام الموارد للمالك"
 
 msgid "Response"
-msgstr ""
+msgstr "استجابة"
 
 msgid "Response ID"
-msgstr ""
+msgstr "معرف الاستجابة"
 
 msgid "Response interval"
-msgstr ""
+msgstr "فاصل الاستجابة"
 
 msgid "Response template deleted."
-msgstr ""
+msgstr ".تم حذف نموذج الرد"
 
 msgid "Response template saved."
-msgstr ""
+msgstr ".تم حفظ نموذج الرد"
 
 msgid "Responses"
-msgstr ""
+msgstr "استجابات"
 
 msgid "Restart"
-msgstr ""
+msgstr "اعادة البدء"
 
 msgid "Restart device"
-msgstr ""
+msgstr "اعد تشغيل الجهاز"
 
 msgid "Restart tracker"
-msgstr ""
+msgstr "إعادة تشغيل تعقب"
 
 msgid "Restarting tracker"
-msgstr ""
+msgstr "إعادة تشغيل تعقب"
 
 msgid "Restarts`noun`"
-msgstr ""
+msgstr "إعادة تشغيل الاسم"
 
 msgid "Restore dashboard"
-msgstr ""
+msgstr "استعادة لوحة القيادة"
 
 msgid "Restore default dashboard"
-msgstr ""
+msgstr "استعادة لوحة التحكم الافتراضية"
 
 msgid "Result"
-msgstr ""
+msgstr "نتيجة"
 
 msgid "Results found"
-msgstr ""
+msgstr "العثور على نتائج"
 
 msgid "Retention rule deleted."
-msgstr ""
+msgstr ".تم حذف قاعدة الاحتفاظ"
 
 msgid "Retention rules"
-msgstr ""
+msgstr "قواعد الاحتفاظ"
 
 msgid "Retrieve RDB snapshot"
-msgstr ""
+msgstr "RDB استرجاع لقطة"
 
 msgid "Retrieve configuration snapshot"
-msgstr ""
+msgstr "استرجاع لقطة التكوين"
 
 msgid "Retrieving Smart Rules…"
-msgstr ""
+msgstr "…استرداد القواعد الذكية"
 
 msgid "Retrieving alarms…"
-msgstr ""
+msgstr "…استرداد الإنذارات"
 
 msgid "Retry"
-msgstr ""
+msgstr "أعد المحاولة"
 
 msgid "Retry failed"
-msgstr ""
+msgstr "فشلت إعادة المحاولة"
 
 msgid "Return type"
-msgstr ""
+msgstr "نوع الإرجاع"
 
 msgid "Revision"
-msgstr ""
+msgstr "مراجعة"
 
 msgid "Revoke"
-msgstr ""
+msgstr "سحب او إبطال"
 
 msgid "Revoke TOTP secret"
-msgstr ""
+msgstr "TOTP  إبطال سر"
 
 msgid "Right"
-msgstr ""
+msgstr "الأيمن"
 
 msgid "Right margin"
-msgstr ""
+msgstr "الهامش الأيمن"
 
 msgid "Right shift decimal point by the given number of places."
-msgstr ""
+msgstr ".الفاصلة العشرية لليمين بعدد معين من الأماكن"
 
 msgid "Right shift`noun`"
-msgstr ""
+msgstr "اسم التحول الأيمن"
 
 msgid "Role cannot be deleted because it is assigned to users."
-msgstr ""
+msgstr ".لا يمكن حذف الدور لأنه تم تعيينه للمستخدمين"
 
 msgid "Role deleted."
-msgstr ""
+msgstr ".تم حذف الدور"
 
 msgid "Roles"
-msgstr ""
+msgstr "الأدوار"
 
 msgid "Root Device"
-msgstr ""
+msgstr "أن تكون الإثارة"
 
 msgid "Root devices"
-msgstr ""
+msgstr "أجهزة الجذر"
 
 msgid "Rotation widget"
-msgstr ""
+msgstr "القطعة التناوب"
 
 msgid "Rule"
-msgstr ""
+msgstr "قاعدة"
 
 msgid "Rule name"
-msgstr ""
+msgstr "اسم القاعدة"
 
 msgid "Run"
-msgstr ""
+msgstr "يركض"
 
 msgid "Run device"
-msgstr ""
+msgstr "قم بتشغيل الجهاز"
 
 msgid "S/N"
-msgstr ""
+msgstr "S/N"
 
 msgid "S/N:"
-msgstr ""
+msgstr "S/N:"
 
 msgid "SCHEDULED"
-msgstr ""
+msgstr "المقرر"
 
 msgid "SEVERITY"
-msgstr ""
+msgstr "خطورة"
 
 msgid "SHA"
-msgstr ""
+msgstr "SHA"
 
 msgid "SIM"
-msgstr ""
+msgstr "SIM"
 
 msgid "SIM Allocated"
-msgstr ""
+msgstr "SIM تم تخصيص بطاقة"
 
 msgid "SIM Ordered"
-msgstr ""
+msgstr "SIM تم طلب بطاقة"
 
 msgid "SIM details"
-msgstr ""
+msgstr "SIM تفاصيل بطاقة"
 
 msgid "SIM provider settings"
-msgstr ""
+msgstr "SIM إعدادات مزود بطاقة"
 
 msgid "SIM status"
-msgstr ""
+msgstr "SIM حالة"
 
 msgid "SIM status changed."
-msgstr ""
+msgstr ".SIM تغيرت حالة"
 
 msgid "SMS"
-msgstr ""
+msgstr "رسالة قصيرة"
 
 msgid "SMS ID"
-msgstr ""
+msgstr "SMS معرف "
 
 msgid "SMS based"
-msgstr ""
+msgstr "الرسائل النصية القصيرة"
 
 msgid "SMS for initial configuration sent."
-msgstr ""
+msgstr "للتكوين الأولي SMS تم إرسال"
 
 msgid "SMS sent."
-msgstr ""
+msgstr ".تم إرسال الرسائل القصيرة"
 
 msgid "SMS transport is not configured."
-msgstr ""
+msgstr "SMS لم يتم تكوين النقل"
 
 msgid "SMS usage"
-msgstr ""
+msgstr "استخدام الرسائل القصيرة"
 
 msgid "SMTP (STARTTLS)"
-msgstr ""
+msgstr "SMTP (STARTTLS)"
 
 msgid "SMTP (no encryption)"
-msgstr ""
+msgstr "SMTP (بدون تشفير)"
 
 msgid "SMTPS (SSL/TLS)"
-msgstr ""
+msgstr "SMTPS (SSL/TLS)"
 
 msgid "SNMP"
-msgstr ""
+msgstr "SNMP"
 
 msgid "SNMP communication"
-msgstr ""
+msgstr "SNMP اتصال"
 
 msgid "SNMP devices"
-msgstr ""
+msgstr "SNMP أجهزة "
 
 msgid "SNMP version"
-msgstr ""
+msgstr "SNMP إصدار"
 
 msgid "SOS alarm"
-msgstr ""
+msgstr "SOS إنذار"
 
 msgid "SOS contact number"
-msgstr ""
+msgstr "SOS رقم الاتصال"
 
 msgid "SRT 360i Sample Commands"
-msgstr ""
+msgstr "SRT 360i  أوامر عينة"
 
 msgid "SSH"
-msgstr ""
+msgstr "SSH"
 
 msgid "SSH clearkeys"
-msgstr ""
+msgstr "SSH كليركيز"
 
 msgid "SSH clearkeys (password protected)"
-msgstr ""
+msgstr "SSH مفاتيح واضحة (محمية بكلمة مرور)"
 
 msgid "SSH genkeys"
-msgstr ""
+msgstr "SSH الجينات"
 
 msgid "SSH genkeys (password protected)"
-msgstr ""
+msgstr "(محمية بكلمة مرور) SSH مفاتيح"
 
 msgid "SSL certificate"
-msgstr ""
+msgstr "SSL شهادة"
 
 msgid "SSL certificate upload"
-msgstr ""
+msgstr "SSL تحميل الشهادة"
 
 msgid "STRING"
-msgstr ""
+msgstr "خيط"
 
 msgid "SUCCESSFUL"
-msgstr ""
+msgstr "ناجح"
 
 msgid "SUPPORT"
-msgstr ""
+msgstr "الدعم"
 
 msgid "SUSPENDED`tenant`"
-msgstr ""
+msgstr "مستأجر متوقف"
 
 msgid "SVG"
-msgstr ""
+msgstr "SVG"
 
 msgid "SVG content will be sanitized."
-msgstr ""
+msgstr "SVG سيتم تطهير محتوى"
 
 msgid "Sales Configuration"
-msgstr ""
+msgstr "تكوين المبيعات"
 
 msgid "Same as base font"
-msgstr ""
+msgstr "نفس الخط الأساسي"
 
 msgid "Same as headings font"
-msgstr ""
+msgstr "نفس خط العناوين"
 
 msgid "Sampling interval"
-msgstr ""
+msgstr "فترة أخذ العينات"
 
 msgid "Save"
-msgstr ""
+msgstr "حفظ"
 
 msgid "Save &amp; close"
-msgstr ""
+msgstr " أغلق &amp; حفظ"
 
 msgid "Save (SMS)"
-msgstr ""
+msgstr "(SMS) حفظ"
 
 msgid "Save TFA settings"
-msgstr ""
+msgstr "TFA حفظ إعدادات"
 
 msgid "Save access control"
-msgstr ""
+msgstr "حفظ التحكم في الوصول"
 
 msgid "Save and continue"
-msgstr ""
+msgstr "حفظ ومتابعة"
 
 msgid "Save configuration"
-msgstr ""
+msgstr "حفظ التكوين"
 
 msgid "Save credentials"
-msgstr ""
+msgstr "حفظ أوراق الاعتماد"
 
 msgid "Save default application"
-msgstr ""
+msgstr "حفظ التطبيق الافتراضي"
 
 msgid "Save to library"
-msgstr ""
+msgstr "حفظ في المكتبة"
 
 msgid "Save with the following name"
-msgstr ""
+msgstr "حفظ بالاسم التالي"
 
 msgid "Saved configurations"
-msgstr ""
+msgstr "التكوينات المحفوظة"
 
 msgid "Saved to library."
-msgstr ""
+msgstr ".تم الحفظ في المكتبة"
 
 msgid "Saving"
-msgstr ""
+msgstr "إنقاذ"
 
 msgid "Scan M-Bus"
-msgstr ""
+msgstr "M-Bus مسح "
 
 msgid "Scan and connect child devices."
-msgstr ""
+msgstr ".مسح وتوصيل الأجهزة التابعة"
 
 msgid "Scan the QR code"
-msgstr ""
+msgstr "ضوئيًا QR امسح رمز"
 
 msgid "Scan this QR code with your smartphone using the Google Authenticator app."
-msgstr ""
+msgstr " Google Authenticator هذا باستخدام هاتفك الذكي باستخدام تطبيق QR امسح رمز"
 
 msgid "ScanWLAN"
-msgstr ""
+msgstr "ScanWLAN"
 
 msgid "Schedule device restart every day at 1am"
-msgstr ""
+msgstr "إعادة جدولة الجهاز كل يوم الساعة 1 صباحًا"
 
 msgid "Schedule export"
-msgstr ""
+msgstr "جدولة التصدير"
 
 msgid "Schedule interval"
-msgstr ""
+msgstr "جدولة الفاصل الزمني"
 
 msgid "Schedule intervals need to be provided in Coordinated Universal Time (UTC)."
-msgstr ""
+msgstr " .(UTC) يجب توفير فترات الجدول الزمني في التوقيت العالمي المنسق"
 
 msgid "Scheduled bulk operation to complete operation on devices which previously failed."
-msgstr ""
+msgstr "عملية مجمعة مجدولة لإكمال العملية على الأجهزة التي فشلت سابقًا"
 
 msgid "Scheduled exports"
-msgstr ""
+msgstr "الصادرات المجدولة"
 
 msgid "Scope"
-msgstr ""
+msgstr "نطاق"
 
 msgid "Scroll lock"
-msgstr ""
+msgstr "قفل التمرير"
 
 msgid "Search"
-msgstr ""
+msgstr "بحث"
 
 msgid "Search all"
-msgstr ""
+msgstr "بحث عن"
 
 msgid "Search command by name or text"
-msgstr ""
+msgstr "أمر البحث بالاسم أو النص"
 
 msgid "Search controller"
-msgstr ""
+msgstr "تحكم البحث"
 
 msgid "Search files"
-msgstr ""
+msgstr "ابحث في الملفات"
 
 msgid "Search for groups or assets…"
-msgstr ""
+msgstr "…ابحث عن المجموعات أو الأصول"
 
 msgid "Search in examples"
-msgstr ""
+msgstr "ابحث في الأمثلة"
 
 msgid "Search more"
-msgstr ""
+msgstr "ابحث اكثر"
 
 msgid "Search property"
-msgstr ""
+msgstr "خاصية البحث"
 
 msgid "Searching devices…"
-msgstr ""
+msgstr "…أجهزة البحث"
 
 msgid "Secondary brand color"
-msgstr ""
+msgstr "لون العلامة التجارية الثانوية"
 
 msgid "Seconds"
-msgstr ""
+msgstr "الثواني"
 
 msgid "Secret key"
-msgstr ""
+msgstr "مفتاح سري"
 
 msgid "Security code"
-msgstr ""
+msgstr "رمز الحماية"
 
 msgid "Security code will be requested on the target tenant to establish connection."
-msgstr ""
+msgstr ".سيتم طلب رمز الحماية على المستأجر المستهدف لإنشاء اتصال"
 
 msgid "Security instance offset"
-msgstr ""
+msgstr "تعويض مثيل الأمان"
 
 msgid "Security level"
-msgstr ""
+msgstr "مستوى الأمان"
 
 msgid "Security mode"
-msgstr ""
+msgstr "وضع التأمين"
 
 msgid "Security policy"
-msgstr ""
+msgstr "سياسة الأمن"
 
 msgid "See details"
-msgstr ""
+msgstr "انظر التفاصيل"
 
 msgid "Select"
-msgstr ""
+msgstr "تحديد"
 
 msgid "Select API and method above to see required API values."
-msgstr ""
+msgstr "  المطلوبة API والطريقة أعلاه لرؤية قيم API حدد"
 
 msgid "Select SNMP version"
-msgstr ""
+msgstr "SNMP حدد إصدار"
 
 msgid "Select a device and complete the mapping for all light states."
-msgstr ""
+msgstr ".حدد جهازًا وأكمل التعيين لجميع حالات الضوء"
 
 msgid "Select a device protocol…"
-msgstr ""
+msgstr "…حدد بروتوكول الجهاز"
 
 msgid "Select a firmware from the list."
-msgstr ""
+msgstr ".حدد برنامجًا ثابتًا من القائمة"
 
 msgid "Select a message from the SmartREST templates"
-msgstr ""
+msgstr "SmartREST حدد رسالة من قوالب"
 
 msgid "Select a new owner"
-msgstr ""
+msgstr "حدد مالكًا جديدًا"
 
 msgid "Select a predefined command"
-msgstr ""
+msgstr "حدد أمرًا محددًا مسبقًا"
 
 msgid "Select a software from the list."
-msgstr ""
+msgstr ".حدد برنامجًا من القائمة"
 
 msgid "Select all"
-msgstr ""
+msgstr "اختر الكل"
 
 msgid "Select all Admin`checkboxes`"
-msgstr ""
+msgstr "حدد جميع مربعات اختيار المسؤول"
 
 msgid "Select all Read`checkboxes`"
-msgstr ""
+msgstr "حدد كافة مربعات اختيار القراءة"
 
 msgid "Select all`checkboxes`"
-msgstr ""
+msgstr "حدد جميع مربعات الاختيار"
 
 msgid "Select at least one"
-msgstr ""
+msgstr "حدد واحدًا على الأق"
 
 msgid "Select at least one data type for export."
-msgstr ""
+msgstr ".حدد نوع بيانات واحدًا على الأقل للتصدير"
 
 msgid "Select configuration"
-msgstr ""
+msgstr "حدد التكوين"
 
 msgid "Select configuration repository entry to be used"
-msgstr ""
+msgstr "حدد إدخال مستودع التكوين ليتم استخدامه"
 
 msgid "Select connectivity plan"
-msgstr ""
+msgstr "حدد خطة الاتصال"
 
 msgid "Select content style"
-msgstr ""
+msgstr "حدد نمط المحتوى"
 
 msgid "Select contract"
-msgstr ""
+msgstr "حدد العقد"
 
 msgid "Select country"
-msgstr ""
+msgstr "حدد الدولة"
 
 msgid "Select country of residence"
-msgstr ""
+msgstr "حدد بلد الإقامة"
 
 msgid "Select dashboard"
-msgstr ""
+msgstr "حدد لوحة القيادة"
 
 msgid "Select data point"
-msgstr ""
+msgstr "حدد نقطة البيانات"
 
 msgid "Select data point from library"
-msgstr ""
+msgstr "حدد نقطة البيانات من المكتبة"
 
 msgid "Select data point to prefill inputs below"
-msgstr ""
+msgstr "حدد نقطة البيانات لملء المدخلات أدناه"
 
 msgid "Select data points"
-msgstr ""
+msgstr "حدد نقاط البيانات"
 
 msgid "Select date"
-msgstr ""
+msgstr "حدد تاريخ"
 
 msgid "Select device"
-msgstr ""
+msgstr "اختر جهاز"
 
 msgid "Select device profile"
-msgstr ""
+msgstr "حدد ملف تعريف الجهاز"
 
 msgid "Select device property"
-msgstr ""
+msgstr "حدد خاصية الجهاز"
 
 msgid "Select device protocol"
-msgstr ""
+msgstr "حدد بروتوكول الجهاز"
 
 msgid "Select fieldbus property"
-msgstr ""
+msgstr "حدد خاصية ناقل المجال"
 
 msgid "Select file"
-msgstr ""
+msgstr "حدد الملف"
 
 msgid "Select file to upload"
-msgstr ""
+msgstr "حدد ملف للتحميل"
 
 msgid "Select from predefined"
-msgstr ""
+msgstr "اختر من محدد مسبقًا"
 
 msgid "Select from where this value should be taken."
-msgstr ""
+msgstr ".حدد من أين ينبغي أن تؤخذ هذه القيمة"
 
 msgid "Select from which message type the value should be extracted."
-msgstr ""
+msgstr ".حدد من أي نوع رسالة يجب استخراج القيمة"
 
 msgid "Select group"
-msgstr ""
+msgstr "اختر مجموعة"
 
 msgid "Select header style"
-msgstr ""
+msgstr "حدد نمط الرأس"
 
 msgid "Select if the value is BCD encoded."
-msgstr ""
+msgstr "BCD حدد ما إذا كانت القيمة مشفرة"
 
 msgid "Select if the value is a signed number."
-msgstr ""
+msgstr ".حدد ما إذا كانت القيمة رقمًا موقعًا"
 
 msgid "Select if the value is represented in little-endian format based on 8-bit values."
-msgstr ""
+msgstr ".حدد ما إذا كانت القيمة ممثلة بتنسيق نهاية صغيرة بناءً على قيم 8 بت"
 
 msgid "Select initial instructions"
-msgstr ""
+msgstr "حدد التعليمات الأولية"
 
 msgid "Select instance"
-msgstr ""
+msgstr "حدد المثيل"
 
 msgid "Select inventory roles..."
-msgstr ""
+msgstr "...حدد أدوار المخزون"
 
 msgid "Select language"
-msgstr ""
+msgstr "اختار اللغة"
 
 msgid "Select location change event once for 60 seconds"
-msgstr ""
+msgstr "حدد حدث تغيير الموقع مرة واحدة لمدة 60 ثانية"
 
 msgid "Select managed object from list"
-msgstr ""
+msgstr "حدد الكائن المُدار من القائمة"
 
 msgid "Select message"
-msgstr ""
+msgstr "حدد الرسالة"
 
 msgid "Select method"
-msgstr ""
+msgstr "حدد الطريقة"
 
 msgid "Select model"
-msgstr ""
+msgstr "حدد الطراز"
 
 msgid "Select object model for rendering"
-msgstr ""
+msgstr "حدد نموذج الكائن للعرض"
 
 msgid "Select one of the available options"
-msgstr ""
+msgstr "حدد أحد الخيارات المتاحة"
 
 msgid "Select one of the device providers"
-msgstr ""
+msgstr "حدد أحد موفري الجهاز"
 
 msgid "Select or search"
-msgstr ""
+msgstr "حدد أو ابحث"
 
 msgid "Select or search comparison"
-msgstr ""
+msgstr "حدد أو مقارنة البحث"
 
 msgid "Select or search group"
-msgstr ""
+msgstr "حدد أو مجموعة البحث"
 
 msgid "Select or search icon"
-msgstr ""
+msgstr "حدد أو رمز البحث"
 
 msgid "Select or search operation"
-msgstr ""
+msgstr "حدد أو عملية البحث"
 
 msgid "Select or search user"
-msgstr ""
+msgstr "حدد أو ابحث عن مستخدم"
 
 msgid "Select owner"
-msgstr ""
+msgstr "حدد المالك"
 
 msgid "Select property"
-msgstr ""
+msgstr "حدد الملكية"
 
 msgid "Select protocol"
-msgstr ""
+msgstr "حدد البروتوكول"
 
 msgid "Select reference device"
-msgstr ""
+msgstr "حدد جهاز مرجعي"
 
 msgid "Select report"
-msgstr ""
+msgstr "حدد التقرير"
 
 msgid "Select schema properties"
-msgstr ""
+msgstr "حدد خصائص المخطط"
 
 msgid "Select security level"
-msgstr ""
+msgstr "حدد مستوى الأمان"
 
 msgid "Select server IDs from list"
-msgstr ""
+msgstr "حدد معرفات الخادم من القائمة"
 
 msgid "Select temperature readings over 100 degree"
-msgstr ""
+msgstr "حدد قراءات درجة الحرارة أكثر من 100 درجة"
 
 msgid "Select tenant"
-msgstr ""
+msgstr "حدد المستأجر"
 
 msgid "Select text file with multiple Bluetooth MAC addresses. One address per line."
-msgstr ""
+msgstr "  .بلوتوث متعددة. عنوان واحد في كل سطر  MAC حدد ملفًا نصيًا بعناوين"
 
 msgid "Select the actions to be performed with this value."
-msgstr ""
+msgstr ".حدد الإجراءات التي سيتم تنفيذها بهذه القيمة"
 
 msgid "Select the application you would like to preview"
-msgstr ""
+msgstr "حدد التطبيق الذي ترغب في معاينته"
 
 msgid "Select theme"
-msgstr ""
+msgstr "اختر نمطا"
 
 msgid "Select to define the mapping of possible values into strings."
-msgstr ""
+msgstr ".حدد لتعريف تعيين القيم المحتملة في سلاسل"
 
 msgid "Select tracker model"
-msgstr ""
+msgstr "حدد طراز تعقب"
 
 msgid "Select unit conversion"
-msgstr ""
+msgstr "حدد تحويل الوحدة"
 
 msgid "Select verifier"
-msgstr ""
+msgstr "حدد المدقق"
 
 msgid "Select widget"
-msgstr ""
+msgstr "حدد القطعة"
 
 msgid "Selected file has invalid extension."
-msgstr ""
+msgstr ".الملف المحدد له ملحق غير صالح"
 
 msgid "Selected file is no longer available in the platform."
-msgstr ""
+msgstr ".لم يعد الملف المحدد متاحًا في النظام الأساسي"
 
 msgid "Selected file is too large &ndash; size limit is {{limitBytes | bytes}}."
-msgstr ""
+msgstr ". {{limitBytes | bytes}}  الملف المحدد كبير جدًا - الحد الأقصى للحجم هو"
 
 msgid "Selected file is too large."
-msgstr ""
+msgstr ".الملف المحدد كبير جدًا"
 
 msgid "Selected measurement type and series are already used by another register."
-msgstr ""
+msgstr ".يتم بالفعل استخدام نوع وسلسلة قياس مختارة بواسطة سجل آخر"
 
 msgid "Selected measurement type and series are already used by another value in the same message type."
-msgstr ""
+msgstr ".يتم بالفعل استخدام نوع وسلسلة القياس المحددة بواسطة قيمة أخرى في نفس نوع الرسالة"
 
 msgid "Selected measurement type and series are already used by another variable."
-msgstr ""
+msgstr ".نوع ومتسلسل القياس المحدد مستخدمان بالفعل من قبل متغير آخر"
 
 msgid "Selected number, start bit or number of bits overlap with another register."
-msgstr ""
+msgstr ".يتداخل الرقم المحدد أو بت البداية أو عدد البتات مع سجل آخر"
 
 msgid "Selected operation"
-msgstr ""
+msgstr "العملية المختارة"
 
 msgid "Selected unit conversion will be used for displaying data. Select \"No conversion\" to see original units sent by devices."
-msgstr ""
+msgstr "سيتم استخدام تحويل الوحدة المحدد لعرض البيانات. حدد لا تحويل لرؤية الوحدات الأصلية المرسلة بواسطة الأجهزة"
 
 msgid "Selecting a reference server allows you to create device types based on the OPC UA model stored on an OPC UA server. This greatly simplifies the mapping process, since device types can be created based on OPC UA browse paths being actually present on the server."
-msgstr ""
+msgstr " الموجودة بالفعل على الخادم OPC UA يؤدي ذلك إلى تبسيط عملية التعيين إلى حد كبير ، حيث يمكن إنشاء أنواع الأجهزة استنادًا إلى مسارات تصفح .OPC UA المخزن على خادم OPC UA يتيح لك تحديد خادم مرجعي إنشاء أنواع الأجهزة بناءً على نموذج"
 
 msgid "Selecting a reference server requires selecting a reference node."
-msgstr ""
+msgstr ".يتطلب تحديد خادم مرجعي تحديد عقدة مرجعية"
 
 msgid "Selection change is disabled."
-msgstr ""
+msgstr ".تم تعطيل تغيير التحديد"
 
 msgid "Select… (required)"
-msgstr ""
+msgstr "حدد ... (مطلوب)"
 
 msgid "Send"
-msgstr ""
+msgstr "إرسال"
 
 msgid "Send \"{{name}}\" via email"
-msgstr ""
+msgstr "عبر البريد الإلكتروني \"{{name}}\" إرسال"
 
 msgid "Send BCC to"
-msgstr ""
+msgstr "إلى BCC أرسل"
 
 msgid "Send CC to"
-msgstr ""
+msgstr "إلى CC أرسل"
 
 msgid "Send SMS"
-msgstr ""
+msgstr "SMS أرسل"
 
 msgid "Send SMS:"
-msgstr ""
+msgstr ":أرسل رسالة نصية قصيرة"
 
 msgid "Send a text to the LCD display."
-msgstr ""
+msgstr "LCD أرسل نصًا إلى شاشة"
 
 msgid "Send a warning email to a global role when the storage quota is nearly reached."
-msgstr ""
+msgstr ".أرسل بريدًا إلكترونيًا تحذيريًا إلى دور عالمي عندما تقترب حصة التخزين تقريبًا"
 
 msgid "Send alarms that are active since 30 minutes to email"
-msgstr ""
+msgstr "أرسل الإنذارات النشطة منذ 30 دقيقة إلى البريد الإلكتروني"
 
 msgid "Send an operation to restart the device. The process of restart can be monitored under the operations of the device."
-msgstr ""
+msgstr ".أرسل عملية لإعادة تشغيل الجهاز. يمكن مراقبة عملية إعادة التشغيل تحت عمليات الجهاز"
 
 msgid "Send an operation to show a particular message to the device. The device behavior is device dependent."
-msgstr ""
+msgstr ".أرسل عملية لإظهار رسالة معينة للجهاز. سلوك الجهاز يعتمد على الجهاز"
 
 msgid "Send an operation to start or stop device internal tracing. Result of tracing is device dependent, it can create more events or create a file inside the device."
-msgstr ""
+msgstr " .أرسل عملية لبدء أو إيقاف التتبع الداخلي للجهاز. نتيجة التتبع تعتمد على الجهاز ، يمكنها إنشاء المزيد من الأحداث أو إنشاء ملف داخل الجهاز"
 
 msgid "Send an operation to switch a relay on or off."
-msgstr ""
+msgstr ".إرسال عملية لتشغيل التتابع أو إيقاف تشغيله"
 
 msgid "Send an operation to switch an array of relays on or off."
-msgstr ""
+msgstr ".إرسال عملية لتشغيل مجموعة من المرحلات أو إيقاف تشغيلها"
 
 msgid "Send as widget to dashboard"
-msgstr ""
+msgstr "يا مريم ، دعنا نرى ما إذا كان يمكنك اكتشاف هذا ، لول"
 
 msgid "Send as widget to report"
-msgstr ""
+msgstr "إرسال كأداة للإبلاغ"
 
 msgid "Send configuration SMS"
-msgstr ""
+msgstr "التكوين SMS إرسال"
 
 msgid "Send connection status unknown"
-msgstr ""
+msgstr "إرسال حالة الاتصال غير معروفة"
 
 msgid "Send connection: not monitored"
-msgstr ""
+msgstr "اتصال الإرسال: غير مراقب"
 
 msgid "Send connection: offline"
-msgstr ""
+msgstr "إرسال الاتصال: بلا إنترنت"
 
 msgid "Send connection: online"
-msgstr ""
+msgstr "إرسال اتصال: عبر الإنترنت"
 
 msgid "Send dashboard via email"
-msgstr ""
+msgstr "إرسال لوحة القيادة عبر البريد الإلكتروني"
 
 msgid "Send email to suspended tenant's administrator"
-msgstr ""
+msgstr "إرسال بريد إلكتروني إلى مسؤول المستأجر المعلق"
 
 msgid "Send email:"
-msgstr ""
+msgstr ":ارسل بريد الكتروني"
 
 msgid "Send event"
-msgstr ""
+msgstr "إرسال الحدث"
 
 msgid "Send export via email"
-msgstr ""
+msgstr "إرسال التصدير عبر البريد الإلكتروني"
 
 msgid "Send me information about outages, maintenance or updates."
-msgstr ""
+msgstr ".أرسل لي معلومات حول الانقطاعات أو الصيانة أو التحديثات"
 
 msgid "Send measurement"
-msgstr ""
+msgstr "إرسال القياس"
 
 msgid "Send message"
-msgstr ""
+msgstr "أرسل رسالة"
 
 msgid "Send message \"{{msg}}\""
-msgstr ""
+msgstr "\"{{msg}}\" أرسل رسالة"
 
 msgid "Send message \"{{str}}\"."
-msgstr ""
+msgstr ".\"{{str}}\"  أرسل رسالة"
 
 msgid "Send new code"
-msgstr ""
+msgstr "أرسل الرمز الجديد"
 
 msgid "Send notifications to unknown email addresses"
-msgstr ""
+msgstr "إرسال إخطارات إلى عناوين بريد إلكتروني غير معروفة"
 
 msgid "Send operation to scan and connect child devices automatically"
-msgstr ""
+msgstr "إرسال العملية لمسح الأجهزة التابعة وتوصيلها تلقائيًا"
 
 msgid "Send password reset link as email"
-msgstr ""
+msgstr "إرسال رابط إعادة تعيين كلمة المرور كبريد إلكتروني"
 
 msgid "Send sales to Zapier"
-msgstr ""
+msgstr "إرسال المبيعات إلى زابير"
 
 msgid "Send simulator temperature to Zapier"
-msgstr ""
+msgstr "إرسال درجة حرارة المحاكاة إلى زابير"
 
 msgid "Send text"
-msgstr ""
+msgstr "ارسل رسالة"
 
 msgid "Send text to LCD"
-msgstr ""
+msgstr "LCD إرسال نص إلى شاشة"
 
 msgid "Send to"
-msgstr ""
+msgstr "ارسل إلى"
 
 msgid "Send via email"
-msgstr ""
+msgstr "أرسل عبر البريد الإلكتروني"
 
 msgid "Sender address"
-msgstr ""
+msgstr "عنوان المرسل"
 
 msgid "Sensor smartphone dashboard"
-msgstr ""
+msgstr "لوحة أجهزة الاستشعار الهاتف الذكي"
 
 msgid "Sensor threshold"
-msgstr ""
+msgstr "عتبة المستشعر"
 
 msgid "Sensors"
-msgstr ""
+msgstr "أجهزة الاستشعار"
 
 msgid "Sensortag"
-msgstr ""
+msgstr "Sensortag"
 
 msgid "Sent from"
-msgstr ""
+msgstr "ارسلت من"
 
 msgid "Sent operation to apply DHCP settings."
-msgstr ""
+msgstr "DHCP عملية مرسلة لتطبيق إعدادات"
 
 msgid "Sent operation to apply LAN settings."
-msgstr ""
+msgstr "LAN عملية مرسلة لتطبيق إعدادات"
 
 msgid "Sent operation to apply WAN settings."
-msgstr ""
+msgstr "WAN عملية مرسلة لتطبيق إعدادات"
 
 msgid "Sent to"
-msgstr ""
+msgstr "مرسلة إلى"
 
 msgid "Separator line color"
-msgstr ""
+msgstr "لون خط فاصل"
 
 msgid "Serial"
-msgstr ""
+msgstr "مسلسل"
 
 msgid "Serial #1"
-msgstr ""
+msgstr "1# مسلسل"
 
 msgid "Serial #2"
-msgstr ""
+msgstr "2# مسلسل"
 
 msgid "Serial communication"
-msgstr ""
+msgstr "الاتصال التسلسلي"
 
 msgid "Serial number"
-msgstr ""
+msgstr "رقم سري"
 
 msgid "Series"
-msgstr ""
+msgstr "سلسلة"
 
 msgid "Serve cell information"
-msgstr ""
+msgstr "خدمة معلومات الخلية"
 
 msgid "Server URI"
-msgstr ""
+msgstr "URI خادم"
 
 msgid "Server URL"
-msgstr ""
+msgstr "URL خادم"
 
 msgid "Server connection"
-msgstr ""
+msgstr "اتصال الخادم"
 
 msgid "Server creation time"
-msgstr ""
+msgstr "وقت إنشاء الخادم"
 
 msgid "Server error occurred."
-msgstr ""
+msgstr ".حدث خطأ في الخادم"
 
 msgid "Server name"
-msgstr ""
+msgstr "اسم الخادم"
 
 msgid "Server public key"
-msgstr ""
+msgstr "المفتاح العام للخادم"
 
 msgid "Server settings"
-msgstr ""
+msgstr "اعدادات الخادم"
 
 msgid "Server time"
-msgstr ""
+msgstr "وقت الخادم"
 
 msgid "Server time can be different from device times in other fields."
-msgstr ""
+msgstr ".يمكن أن يختلف وقت الخادم عن أوقات الجهاز في المجالات الأخرى"
 
 msgid "Server-side agent unavailable."
-msgstr ""
+msgstr ".وكيل من جانب الخادم غير متاح"
 
 msgid "Server-side agents"
-msgstr ""
+msgstr "وكلاء من جانب الخادم"
 
 msgid "Server-side agents settings"
-msgstr ""
+msgstr "إعدادات وكلاء جانب الخادم"
 
 msgid "Server-side agents settings saved."
-msgstr ""
+msgstr ".تم حفظ إعدادات وكلاء جانب الخادم"
 
 msgid "Service monitoring"
-msgstr ""
+msgstr "مراقبة الخدمة"
 
 msgid "Session IP address"
-msgstr ""
+msgstr "للجلسة IP عنوان"
 
 msgid "Session start"
-msgstr ""
+msgstr "بدء الجلسة"
 
 msgid "Sessions"
-msgstr ""
+msgstr "الجلسات"
 
 msgid "Set"
-msgstr ""
+msgstr "جلس"
 
 msgid "Set ALIVE interval"
-msgstr ""
+msgstr "ALIVE قم بتعيين الفاصل الزمني"
 
 msgid "Set AT command error messaging"
-msgstr ""
+msgstr "AT تعيين رسائل خطأ الأمر"
 
 msgid "Set CAN Bus configuration"
-msgstr ""
+msgstr "CAN Bus اضبط تهيئة"
 
 msgid "Set CAN Open configuration"
-msgstr ""
+msgstr "فتح التكوين CAN اضبط"
 
 msgid "Set CPU reporting interval (in seconds)"
-msgstr ""
+msgstr "تعيين الفاصل الزمني لإعداد تقارير وحدة المعالجة المركزية (بالثواني)"
 
 msgid "Set Config"
-msgstr ""
+msgstr "تعيين التكوين"
 
 msgid "Set DHCP lease time [seconds]"
-msgstr ""
+msgstr " [ثواني] DHCP تعيين وقت تأجير"
 
 msgid "Set FLAGS"
-msgstr ""
+msgstr "تعيين الأعلام"
 
 msgid "Set GPIO notify mode"
-msgstr ""
+msgstr "GPIO تعيين وضع إعلام "
 
 msgid "Set GPS enable"
-msgstr ""
+msgstr "GPS قم بتعيين تمكين"
 
 msgid "Set I/O pin hardware gain"
-msgstr ""
+msgstr "تعيين كسب أجهزة الإدخال / الإخراج"
 
 msgid "Set I/O pin mode"
-msgstr ""
+msgstr "اضبط وضع I/O pin"
 
 msgid "Set I/O pin scale"
-msgstr ""
+msgstr "تعيين مقياس I/O pin"
 
 msgid "Set INHIBTIME interval"
-msgstr ""
+msgstr "INHIBTIME تعيين الفاصل الزمني"
 
 msgid "Set Lua plugins"
-msgstr ""
+msgstr "تعيين الإضافات لوا"
 
 msgid "Set MODE"
-msgstr ""
+msgstr "MODE جلس"
 
 msgid "Set MTU"
-msgstr ""
+msgstr "MTU جلس"
 
 msgid "Set Metric"
-msgstr ""
+msgstr "Metric جلس"
 
-msgid "Set Output Hutline"
-msgstr ""
+msgid "Set Output Hotline"
+msgstr "تعيين الخط الساخن للإخراج"
 
 msgid "Set PPPoE"
-msgstr ""
+msgstr "PPPoE قم بتعيين"
 
 msgid "Set PPPoE (password protected)"
-msgstr ""
+msgstr " (محمي بكلمة مرور) PPPoE تعيين"
 
 msgid "Set Profibus configuration"
-msgstr ""
+msgstr "Profibus تعيين تكوين"
 
 msgid "Set SIM PIN"
-msgstr ""
+msgstr "SIM لبطاقة PIN قم بتعيين"
 
 msgid "Set SIM protection"
-msgstr ""
+msgstr "SIM تعيين حماية "
 
 msgid "Set SOS number"
-msgstr ""
+msgstr "SOS قم بتعيين رقم "
 
 msgid "Set SignalLED"
-msgstr ""
+msgstr "تعيين إشارة"
 
 msgid "Set TestMode"
-msgstr ""
+msgstr "TestMode تعيين"
 
 msgid "Set Time"
-msgstr ""
+msgstr "ضبط الوقت"
 
 msgid "Set Variable Bus"
-msgstr ""
+msgstr "تعيين ناقل متغير"
 
 msgid "Set Variable PV"
-msgstr ""
+msgstr "المتغير PV تعيين"
 
 msgid "Set a parameter"
-msgstr ""
+msgstr "قم بتعيين معلمة"
 
 msgid "Set a parameter (password protected)"
-msgstr ""
+msgstr "تعيين معلمة (محمية بكلمة مرور)"
 
 msgid "Set agent GPIO interval [seconds]"
-msgstr ""
+msgstr "للوكيل [بالثواني]  GPIO تعيين الفاصل الزمني"
 
 msgid "Set agent GPS interval [seconds]"
-msgstr ""
+msgstr "تعيين الفاصل الزمني لتحديد المواقع للوكيل [ثانية]"
 
 msgid "Set agent connection server"
-msgstr ""
+msgstr "تعيين خادم اتصال الوكيل"
 
 msgid "Set agent connection timeout [seconds]"
-msgstr ""
+msgstr "تعيين مهلة اتصال الوكيل [بالثواني]"
 
 msgid "Set agent enable"
-msgstr ""
+msgstr "تمكين تعيين الوكيل"
 
 msgid "Set agent log level"
-msgstr ""
+msgstr "تعيين مستوى سجل الوكيل"
 
 msgid "Set agent modbus port"
-msgstr ""
+msgstr "الوكيل modbus تعيين منفذ "
 
 msgid "Set agent network timeout [seconds]"
-msgstr ""
+msgstr "ضبط مهلة شبكة الوكيل [ثواني]"
 
 msgid "Set agent reconnect interval [seconds]"
-msgstr ""
+msgstr "تعيين الفاصل الزمني لإعادة اتصال الوكيل [بالثواني]"
 
 msgid "Set agent signal strength measurement interval [seconds]"
-msgstr ""
+msgstr "تعيين فاصل قياس قوة إشارة الوكيل [بالثواني]"
 
 msgid "Set alarms"
-msgstr ""
+msgstr "اضبط المنبهات"
 
 msgid "Set as active"
-msgstr ""
+msgstr "تعيين كنشط"
 
 msgid "Set cod"
-msgstr ""
+msgstr "تعيين سمك القد"
 
 msgid "Set cod (password protected)"
-msgstr ""
+msgstr "تعيين كود (محمية بكلمة مرور)"
 
 msgid "Set codconnectreg"
-msgstr ""
+msgstr "codconnectreg  تعيين"
 
 msgid "Set codconnectreg (password protected)"
-msgstr ""
+msgstr "(محمي بكلمة مرور)  codconnectreg  تعيين"
 
 msgid "Set coddialport"
-msgstr ""
+msgstr "coddialport تعيين منفذ "
 
 msgid "Set coddialport (password protected)"
-msgstr ""
+msgstr " (محمي بكلمة مرور)  coddialport تعيين منفذ"
 
 msgid "Set coddisconnect"
-msgstr ""
+msgstr "coddisconnect تعيين منفذ"
 
 msgid "Set coddisconnect (password protected)"
-msgstr ""
+msgstr "(محمي بكلمة مرور)  coddisconnect تعيين منفذ"
 
 msgid "Set codignore.dns"
-msgstr ""
+msgstr "codignore.dns  قم بتعيين"
 
 msgid "Set codignore.dns (password protected)"
-msgstr ""
+msgstr "(محمي بكلمة مرور) codignore.dns تعيين"
 
 msgid "Set codignore.icmp"
-msgstr ""
+msgstr "codignore.icmp قم بتعيين"
 
 msgid "Set codignore.icmp (password protected)"
-msgstr ""
+msgstr "(محمي بكلمة مرور) codignore.icmp تعيين"
 
 msgid "Set codignore.ncsi"
-msgstr ""
+msgstr "codignore.ncsi  قم بتعيين"
 
 msgid "Set codignore.ncsi (password protected)"
-msgstr ""
+msgstr "(محمي بكلمة مرور) codignore.ncsi تعيين"
 
 msgid "Set codignore.ntp"
-msgstr ""
+msgstr "codignore.ntp قم بتعيين"
 
 msgid "Set codignore.ntp (password protected)"
-msgstr ""
+msgstr "(محمي بكلمة مرور) codignore.ntp تعيين "
 
 msgid "Set codignore.tcp"
-msgstr ""
+msgstr "codignore.tcp قم بتعيين"
 
 msgid "Set codignore.tcp (password protected)"
-msgstr ""
+msgstr "(محمي بكلمة مرور)  codignore.tcp تعيين"
 
 msgid "Set codignore.udp"
-msgstr ""
+msgstr "codignore.udp تعيين"
 
 msgid "Set codignore.udp (password protected)"
-msgstr ""
+msgstr "(محمي بكلمة مرور) codignore.udp تعيين"
 
 msgid "Set codminonline"
-msgstr ""
+msgstr "codminonline  تعيين"
 
 msgid "Set codminonline (password protected)"
-msgstr ""
+msgstr "(محمي بكلمة مرور) codminonline  تعيين"
 
 msgid "Set codonline"
-msgstr ""
+msgstr "codonline تعيين"
 
 msgid "Set codonline (password protected)"
-msgstr ""
+msgstr "(محمي بكلمة مرور) codonline تعيين"
 
 msgid "Set codrandomtime"
-msgstr ""
+msgstr "codrandomtime  تعيين"
 
 msgid "Set codrandomtime (password protected)"
-msgstr ""
+msgstr "(محمي بكلمة مرور) codrandomtime  تعيين"
 
 msgid "Set codredial"
-msgstr ""
+msgstr "codredial  تعيين"
 
 msgid "Set codredial (password protected)"
-msgstr ""
+msgstr "(محمي بكلمة مرور) codredial  تعيين "
 
 msgid "Set codverbose"
-msgstr ""
+msgstr "codverbose  تعيين"
 
 msgid "Set codverbose (password protected)"
-msgstr ""
+msgstr "(محمي بكلمة مرور) codverbose  تعيين"
 
 msgid "Set command template"
-msgstr ""
+msgstr "تعيين قالب الأمر"
 
 msgid "Set configuration"
-msgstr ""
+msgstr "ضبط التكوين"
 
 msgid "Set configuration parameter"
-msgstr ""
+msgstr "تعيين معلمة التكوين"
 
 msgid "Set download timeout"
-msgstr ""
+msgstr "تعيين مهلة التنزيل"
 
 msgid "Set download timeout (password protected)"
-msgstr ""
+msgstr "تعيين مهلة التنزيل (محمي بكلمة مرور)"
 
 msgid "Set firmware"
-msgstr ""
+msgstr "قم بتعيين البرامج الثابتة"
 
 msgid "Set forceplmn"
-msgstr ""
+msgstr "forceplmn تعيين"
 
 msgid "Set forceplmn (password protected)"
-msgstr ""
+msgstr "(تعيين مهلة التنزي) forceplmn تعيين"
 
 msgid "Set humidity threshold"
-msgstr ""
+msgstr "تعيين عتبة الرطوبة"
 
 msgid "Set install timeout"
-msgstr ""
+msgstr "تعيين مهلة التثبيت"
 
 msgid "Set install timeout (password protected)"
-msgstr ""
+msgstr "تعيين مهلة التثبيت (محمي بكلمة مرور)"
 
 msgid "Set ledmode"
-msgstr ""
+msgstr "ledmode تعيين"
 
 msgid "Set ledmode (password protected)"
-msgstr ""
+msgstr "(محمي بكلمة مرور) ledmode تعيين "
 
 msgid "Set log level (\"debug`KEEP_ORIGINAL`\", \"info`KEEP_ORIGINAL`\", \"notice`KEEP_ORIGINAL`\", \"warning`KEEP_ORIGINAL`\", \"error`KEEP_ORIGINAL`\", \"critical`KEEP_ORIGINAL`\")"
-msgstr ""
+msgstr " (\"debug`KEEP_ORIGINAL`\", \"info`KEEP_ORIGINAL`\", \"notice`KEEP_ORIGINAL`\", \"warning`KEEP_ORIGINAL`\", \"error`KEEP_ORIGINAL`\", \"critical`KEEP_ORIGINAL`\")  تعيين مستوى السجل"
 
 msgid "Set log quota (in KB)"
-msgstr ""
+msgstr "تعيين حصة السجل (بالكيلوبايت)"
 
 msgid "Set max credit to"
-msgstr ""
+msgstr "تعيين الحد الأقصى للائتمان إلى"
 
 msgid "Set memory reporting interval (in seconds)"
-msgstr ""
+msgstr "تعيين الفاصل الزمني لإعداد تقارير الذاكرة (بالثواني)"
 
 msgid "Set modbus configuration"
-msgstr ""
+msgstr "modbus تعيين تكوين"
 
 msgid "Set motion tracking"
-msgstr ""
+msgstr "تعيين تتبع الحركة"
 
 msgid "Set network update interval [seconds]"
-msgstr ""
+msgstr "تعيين فاصل تحديث الشبكة [ثواني]"
 
 msgid "Set operation to EXECUTING"
-msgstr ""
+msgstr "اضبط العملية على التنفيذ"
 
 msgid "Set operation to FAILED"
-msgstr ""
+msgstr "اضبط العملية على فشل"
 
 msgid "Set operation to SUCCESSFUL"
-msgstr ""
+msgstr "اضبط العملية على النجاح"
 
 msgid "Set password"
-msgstr ""
+msgstr "ضبط كلمة السر"
 
 msgid "Set protocol"
-msgstr ""
+msgstr "ضبط البروتوكول"
 
 msgid "Set pullup voltage [volts]"
-msgstr ""
+msgstr "ضبط جهد السحب [فولت]"
 
 msgid "Set receiver number for SMS mode"
-msgstr ""
+msgstr "SMS تعيين رقم المتلقي لوضع "
 
 msgid "Set reconnect delay [seconds]"
-msgstr ""
+msgstr "تعيين تأخير إعادة الاتصال [ثواني]"
 
 msgid "Set reconnect retries"
-msgstr ""
+msgstr "تعيين إعادة محاولات إعادة الاتصال"
 
 msgid "Set required availability"
-msgstr ""
+msgstr "قم بتعيين التوفر المطلوب"
 
 msgid "Set serial baud rate"
-msgstr ""
+msgstr "تعيين معدل الباود التسلسلي"
 
 msgid "Set serial configuration"
-msgstr ""
+msgstr "تعيين التكوين التسلسلي"
 
 msgid "Set serial port mode"
-msgstr ""
+msgstr "تعيين وضع المنفذ التسلسلي"
 
 msgid "Set server URL (https:// or mqtts://)"
-msgstr ""
+msgstr "(https:// or mqtts://)  للخادم URL قم بتعيين عنوان"
 
 msgid "Set software list"
-msgstr ""
+msgstr "تعيين قائمة البرامج"
 
 msgid "Set ssh.keyauth"
-msgstr ""
+msgstr "ssh.keyauth  قم بتعيين"
 
 msgid "Set ssh.keyauth (password protected)"
-msgstr ""
+msgstr "(محمي بكلمة مرور)  ssh.keyauth تعيين"
 
 msgid "Set ssh.passauth"
-msgstr ""
+msgstr "ssh.passauth قم بتعيين "
 
 msgid "Set ssh.passauth (password protected)"
-msgstr ""
+msgstr "(محمي بكلمة مرور)  ssh.passauth تعيين"
 
 msgid "Set ssh.proto"
-msgstr ""
+msgstr "ssh.proto  تعيين"
 
 msgid "Set ssh.proto (password protected)"
-msgstr ""
+msgstr "(محمي بكلمة مرور) ssh.proto تعيين"
 
 msgid "Set supported operations"
-msgstr ""
+msgstr "تعيين العمليات المدعومة"
 
 msgid "Set syslogserver"
-msgstr ""
+msgstr "syslogserver  قم بتعيين"
 
 msgid "Set syslogserver (password protected)"
-msgstr ""
+msgstr " (محمي بكلمة مرور) syslogserver  تعيين"
 
 msgid "Set system resources measurement interval [seconds]"
-msgstr ""
+msgstr "تعيين الفاصل الزمني لقياس موارد النظام [ثواني]"
 
 msgid "Set temperature threshold"
-msgstr ""
+msgstr "ضبط عتبة درجة الحرارة"
 
 msgid "Set up"
-msgstr ""
+msgstr "اقامة"
 
 msgid "Set up demo"
-msgstr ""
+msgstr "قم بإعداد العرض التوضيحي"
 
 msgid "Setting"
-msgstr ""
+msgstr "ضبط"
 
 msgid "Setting alarms"
-msgstr ""
+msgstr "ضبط المنبهات"
 
 msgid "Setting motion tracking"
-msgstr ""
+msgstr "ضبط تتبع الحركة"
 
 msgid "Setting&hellip;"
-msgstr ""
+msgstr "الإعداد والجحيم ؛"
 
 msgid "Settings"
-msgstr ""
+msgstr "الإعدادات"
 
 msgid "Settings could not be saved."
-msgstr ""
+msgstr ".لا يمكن حفظ الإعدادات"
 
 msgid "Settings saved."
-msgstr ""
+msgstr ".تم حفظ الإعدادات"
 
 msgid "Settings will be applied."
-msgstr ""
+msgstr ".سيتم تطبيق الإعدادات"
 
 msgid "Setup two-factor authentication"
-msgstr ""
+msgstr "قم بإعداد المصادقة ذات العاملين"
 
 msgid "Severities"
-msgstr ""
+msgstr "الشدة"
 
 msgid "Severity"
-msgstr ""
+msgstr "خطورة"
 
 msgid "Shared User Manager"
-msgstr ""
+msgstr "مدير مستخدم مشترك"
 
 msgid "Shell"
-msgstr ""
+msgstr "الصدف"
 
 msgid "Shell command template deleted."
-msgstr ""
+msgstr "Shell تم حذف قالب أمر"
 
 msgid "Should be a valid number"
-msgstr ""
+msgstr "يجب أن يكون رقمًا صالحًا"
 
 msgid "Should be a valid regular expression"
-msgstr ""
+msgstr "يجب أن يكون تعبيرًا عاديًا صالحًا"
 
 msgid "Show"
-msgstr ""
+msgstr "تبين"
 
 msgid "Show GPS data only"
-msgstr ""
+msgstr "فقط GPS إظهار بيانات"
 
 msgid "Show GSM data only"
-msgstr ""
+msgstr "فقط GSM إظهار بيانات"
 
 msgid "Show all"
-msgstr ""
+msgstr "عرض الكل"
 
 msgid "Show all breadcrumbs"
-msgstr ""
+msgstr "عرض كل فتات الخبز"
 
 msgid "Show all data"
-msgstr ""
+msgstr "إظهار جميع البيانات"
 
 msgid "Show checkboxes that are"
-msgstr ""
+msgstr "إظهار خانات الاختيار الموجودة"
 
 msgid "Show cleared alarms"
-msgstr ""
+msgstr "إظهار المنبهات التي تم محوها"
 
 msgid "Show date selection"
-msgstr ""
+msgstr "إظهار تحديد التاريخ"
 
 msgid "Show details"
-msgstr ""
+msgstr "اظهر التفاصيل"
 
 msgid "Show devices in group"
-msgstr ""
+msgstr "إظهار الأجهزة في المجموعة"
 
 msgid "Show devices registered after"
-msgstr ""
+msgstr "عرض الأجهزة المسجلة بعد"
 
 msgid "Show devices where \"{{headerName}}\" contains:"
-msgstr ""
+msgstr " .على \"{{headerName}}\" إظهار الأجهزة حيث يحتوي"
 
 msgid "Show devices with IMEI"
-msgstr ""
+msgstr "IMEI إظهار الأجهزة باستخدام"
 
 msgid "Show devices with active"
-msgstr ""
+msgstr "إظهار الأجهزة النشطة"
 
 msgid "Show devices with maintenance status"
-msgstr ""
+msgstr "إظهار الأجهزة بحالة الصيانة"
 
 msgid "Show devices with model"
-msgstr ""
+msgstr "إظهار الأجهزة مع الطراز"
 
 msgid "Show devices with name"
-msgstr ""
+msgstr "إظهار الأجهزة بالاسم"
 
 msgid "Show devices with push status"
-msgstr ""
+msgstr "عرض الأجهزة بحالة الدفع"
 
 msgid "Show devices with send status"
-msgstr ""
+msgstr "إظهار الأجهزة ذات حالة الإرسال"
 
 msgid "Show devices with serial number"
-msgstr ""
+msgstr "إظهار الأجهزة ذات الرقم التسلسلي"
 
 msgid "Show devices with system ID"
-msgstr ""
+msgstr "إظهار الأجهزة ذات معرف النظام"
 
 msgid "Show equal properties"
-msgstr ""
+msgstr "إظهار خصائص متساوية"
 
 msgid "Show error message"
-msgstr ""
+msgstr "إظهار رسالة الخطأ"
 
 msgid "Show legend"
-msgstr ""
+msgstr "إظهار الأسطورة"
 
 msgid "Show more"
-msgstr ""
+msgstr "أظهر المزيد"
 
 msgid "Show percentages"
-msgstr ""
+msgstr "إظهار النسب المئوية"
 
 msgid "Show status (read-only access)"
-msgstr ""
+msgstr "إظهار الحالة (وصول للقراءة فقط)"
 
 msgid "Show status (read-only)"
-msgstr ""
+msgstr "إظهار الحالة (للقراءة فقط)"
 
 msgid "Show summary"
-msgstr ""
+msgstr "إظهار الملخص"
 
 msgid "Show tooltips"
-msgstr ""
+msgstr "عرض تلميحات"
 
 msgid "Showing 1 child device"
 msgid_plural "Showing {{$count}} child devices"
@@ -10739,274 +10739,274 @@ msgstr[0] ""
 msgstr[1] ""
 
 msgid "Showing {{devices.length}}"
-msgstr ""
+msgstr "{{devices.length}}  عرض"
 
 msgid "Showing {{devices.length}} items"
-msgstr ""
+msgstr "{{devices.length}} عرض عناصر "
 
 msgid "Showing {{devices.length}} of {{totalDevices}}"
-msgstr ""
+msgstr "{{totalDevices}}  من  {{devices.length}}  عرض"
 
 msgid "Showing {{itemsLength}} items"
-msgstr ""
+msgstr "{{itemsLength}}  عرض عناصر"
 
 msgid "Shows a different value for each configured value."
-msgstr ""
+msgstr ".يعرض قيمة مختلفة لكل قيمة مكونة"
 
 msgid "Shows the active alarms for device"
-msgstr ""
+msgstr "يعرض الإنذارات النشطة للجهاز"
 
 msgid "Sielaff CGW variant of Communications Gateway"
-msgstr ""
+msgstr " البديل من بوابة الاتصالات  Sielaff CGW"
 
 msgid "Sielaff OLM2 variant of Communications Gateway"
-msgstr ""
+msgstr "البديل من بوابة الاتصالات Sielaff OLM2"
 
 msgid "Sigfox"
-msgstr ""
+msgstr "Sigfox"
 
 msgid "Sigfox provider settings"
-msgstr ""
+msgstr "Sigfox  إعدادات مزود"
 
 msgid "Sign in"
-msgstr ""
+msgstr "تسجيل الدخول"
 
 msgid "Sign-in method"
-msgstr ""
+msgstr "طريقة تسجيل الدخول"
 
 msgid "Signal"
-msgstr ""
+msgstr "الإشارة"
 
 msgid "Signal quality"
-msgstr ""
+msgstr "جودة الإشارة"
 
 msgid "Signal strength"
-msgstr ""
+msgstr "قوة الاشارة"
 
 msgid "Signal: BER"
-msgstr ""
+msgstr "BER :إشارة"
 
 msgid "Signal: ECN0"
-msgstr ""
+msgstr "ECNO :إشارة"
 
 msgid "Signal: RCSP"
-msgstr ""
+msgstr "RCSP :إشارة"
 
 msgid "Signal: RSSI"
-msgstr ""
+msgstr "RSSI :إشارة"
 
 msgid "Signature verification"
-msgstr ""
+msgstr "التحقق من التوقيع"
 
 msgid "Signed"
-msgstr ""
+msgstr "وقعت"
 
 msgid "Signed (16-bits)"
-msgstr ""
+msgstr "توقيع (16 بت)"
 
 msgid "Signed (24-bits)"
-msgstr ""
+msgstr "توقيع (24 بت)"
 
 msgid "Signed (32-bits)"
 msgstr ""
 
 msgid "Signed (40-bits)"
-msgstr ""
+msgstr "توقيع (32 بت)"
 
 msgid "Signed (48-bits)"
-msgstr ""
+msgstr "توقيع (48 بت)"
 
 msgid "Signed (56-bits)"
-msgstr ""
+msgstr "توقيع (56 بت)"
 
 msgid "Signed (64-bits)"
-msgstr ""
+msgstr "توقيع (64 بت)"
 
 msgid "Signed (8-bits)"
-msgstr ""
+msgstr "توقيع (8 بت)"
 
 msgid "Silo"
-msgstr ""
+msgstr "صومعة"
 
 msgid "Simple bulk registration - template.csv"
-msgstr ""
+msgstr "template.csv - تسجيل مجمع بسيط"
 
 msgid "Simple registration"
-msgstr ""
+msgstr "تسجيل بسيط"
 
 msgid "Simulator"
-msgstr ""
+msgstr "محاكي"
 
 msgid "Simulator deleted."
-msgstr ""
+msgstr ".تم حذف المحاكي"
 
 msgid "Simulator name"
-msgstr ""
+msgstr "اسم المحاكي"
 
 msgid "Simulator state is invalid: {{violations}}"
-msgstr ""
+msgstr "{{violations}} :حالة المحاكاة غير صالحة"
 
 msgid "Simulator {{number}}"
-msgstr ""
+msgstr "{{number}}  محاكي"
 
 msgid "Simulators"
-msgstr ""
+msgstr "محاكيات"
 
 msgid "Single"
-msgstr ""
+msgstr "غير مرتبطة"
 
 msgid "Single location"
-msgstr ""
+msgstr "مكان فردي"
 
 msgid "Single sign-on"
-msgstr ""
+msgstr "علامة واحدة على"
 
 msgid "Single sign-on feature is configured for your tenant."
-msgstr ""
+msgstr ".تم تكوين ميزة تسجيل الدخول الواحد للمستأجر الخاص بك"
 
 msgid "Single sign-on redirect"
-msgstr ""
+msgstr "إعادة توجيه الدخول الموحّد"
 
 msgid "Single tenant"
-msgstr ""
+msgstr "مستأجر واحد"
 
 msgid "Site {{number}}"
-msgstr ""
+msgstr "{{number}} موقع"
 
 msgid "Size"
-msgstr ""
+msgstr "بحجم"
 
 msgid "Skip"
-msgstr ""
+msgstr "تخطى"
 
 msgid "Slash, single or double dots and white space not allowed"
-msgstr ""
+msgstr "مائل ، والنقاط مفردة أو مزدوجة ومساحة بيضاء غير مسموح بها"
 
 msgid "Slave address"
-msgstr ""
+msgstr "عنوان الرقيق"
 
 msgid "Sleep"
-msgstr ""
+msgstr "ينام"
 
 msgid "Slower"
-msgstr ""
+msgstr "أبطأ"
 
 msgid "Smart Rule"
-msgstr ""
+msgstr "القاعدة الذكية"
 
 msgid "Smart Rule \"{{name}}\" activated."
-msgstr ""
+msgstr "\"{{name}}\"  تم تنشيط القاعدة الذكية"
 
 msgid "Smart Rule \"{{name}}\" activated/deactivated for children."
-msgstr ""
+msgstr " للأطفال  \"{{name}}\" تم تنشيط / إلغاء تنشيط القاعدة الذكية"
 
 msgid "Smart Rule \"{{name}}\" created."
-msgstr ""
+msgstr "\"{{name}}\" تم إنشاء القاعدة الذكية"
 
 msgid "Smart Rule \"{{name}}\" deactivated."
-msgstr ""
+msgstr "\"{{name}}\" تم تعطيل القاعدة الذكية"
 
 msgid "Smart Rule \"{{name}}\" deleted."
-msgstr ""
+msgstr ".\"{{name}}\" تم حذف القاعدة الذكية"
 
 msgid "Smart Rule \"{{name}}\" saved."
-msgstr ""
+msgstr ".\"{{name}}\" تم حفظ القاعدة الذكية"
 
 msgid "Smart Rule \"{{name}}\" updated."
-msgstr ""
+msgstr ".\"{{name}}\" تم تحديث القاعدة الذكية "
 
 msgid "Smart Rule activated."
-msgstr ""
+msgstr ".تم تنشيط القاعدة الذكية"
 
 msgid "Smart Rule created."
-msgstr ""
+msgstr ".تم إنشاء القاعدة الذكية"
 
 msgid "Smart Rule deactivated."
-msgstr ""
+msgstr ".تم تعطيل القاعدة الذكية"
 
 msgid "Smart Rule deleted."
-msgstr ""
+msgstr ".تم حذف القاعدة الذكية"
 
 msgid "Smart Rule updated."
-msgstr ""
+msgstr ".تم تحديث القاعدة الذكية"
 
 msgid "Smart Rules"
-msgstr ""
+msgstr "القواعد الذكية"
 
 msgid "Smart group \"{{name}}\" created."
-msgstr ""
+msgstr "{{name}}  تم إنشاء المجموعة الذكية"
 
 msgid "Smart rule"
-msgstr ""
+msgstr "حكم ذكية"
 
 msgid "Smart rules"
-msgstr ""
+msgstr "القواعد الذكية"
 
 msgid "SmartREST template created."
-msgstr ""
+msgstr ".SmartREST تم إنشاء نموذج"
 
 msgid "SmartREST template deleted."
-msgstr ""
+msgstr ".SmartREST تم حذف نموذج"
 
 msgid "SmartREST template imported."
-msgstr ""
+msgstr ".SmartREST تم استيراد قالب"
 
 msgid "SmartREST template with id \"{{templateId}}\" doesn't exist"
-msgstr ""
+msgstr "غير موجود \"{{templateId}}\" برقم التعريف SmartREST نموذج"
 
 msgid "SmartREST templates"
-msgstr ""
+msgstr "SmartREST  قوالب"
 
 msgid "Smartbox Commands"
-msgstr ""
+msgstr "Smartbox أوامر"
 
 msgid "Smartphone sensors"
-msgstr ""
+msgstr "Smartphone أجهزة الاستشعار"
 
 msgid "Smartphones"
-msgstr ""
+msgstr "Smartphones"
 
 msgid "Snapshot assigned on"
-msgstr ""
+msgstr "تم تعيين اللقطة على"
 
 msgid "Software"
-msgstr ""
+msgstr "البرمجيات"
 
 msgid "Software item deleted."
-msgstr ""
+msgstr "تم حذف عنصر البرنامج"
 
 msgid "Software item saved."
-msgstr ""
+msgstr ".تم حفظ عنصر البرنامج"
 
 msgid "Software repository"
-msgstr ""
+msgstr "مستودع البرمجيات"
 
 msgid "Software to install"
-msgstr ""
+msgstr "برنامج لتثبيت"
 
 msgid "Software update"
-msgstr ""
+msgstr "تحديث النظام"
 
 msgid "Some assets or devices might not be shown. Try narrowing search criteria."
-msgstr ""
+msgstr " .قد لا تظهر بعض الأصول أو الأجهزة. حاول تضييق معايير البحث"
 
 msgid "Some entries are invalid. Check the input fields with red borders and select at least one data point."
-msgstr ""
+msgstr " .بعض الإدخالات غير صالحة. تحقق من حقول الإدخال ذات الحدود الحمراء وحدد نقطة بيانات واحدة على الأقل"
 
 msgid "Some users might not be shown. Try narrowing search criteria."
-msgstr ""
+msgstr " .قد لا يظهر بعض المستخدمين. حاول تضييق معايير البحث"
 
 msgid "Sound detector"
-msgstr ""
+msgstr "كاشف الصوت"
 
 msgid "Source"
-msgstr ""
+msgstr "مصدر"
 
 msgid "Source code"
-msgstr ""
+msgstr "مصدر الرمز"
 
 msgid "Source tenant status"
-msgstr ""
+msgstr "حالة المستأجر المصدر"
 
 msgid ""
 "Specifying auto-apply constraints allows you to limit the scope where the device\n"
@@ -11014,31 +11014,31 @@ msgid ""
 msgstr ""
 
 msgid "Split multiple Bluetooth MAC addresses with \";\""
-msgstr ""
+msgstr "باستخدام Bluetooth MAC  قم بتقسيم عدة عناوين "
 
 msgid "Standard Edition"
-msgstr ""
+msgstr "الإصدار القياسي"
 
 msgid "Standard Tenant"
-msgstr ""
+msgstr "مستأجر قياسي"
 
 msgid "Start"
-msgstr ""
+msgstr "بداية"
 
 msgid "Start Process"
-msgstr ""
+msgstr "ابدأ العملية"
 
 msgid "Start autodiscovery"
-msgstr ""
+msgstr "ابدأ الاكتشاف التلقائي"
 
 msgid "Start bit"
-msgstr ""
+msgstr "بت البداية"
 
 msgid "Start by adding your first application."
-msgstr ""
+msgstr ".ابدأ بإضافة أول تطبيق لك"
 
 msgid "Start by registering a device"
-msgstr ""
+msgstr "ابدأ بتسجيل الجهاز"
 
 msgid "Start by uploading a DDF or XML file"
 msgstr ""
