@@ -11041,511 +11041,511 @@ msgid "Start by registering a device"
 msgstr "ابدأ بتسجيل الجهاز"
 
 msgid "Start by uploading a DDF or XML file"
-msgstr ""
+msgstr " XML أو DDF ابدأ بتحميل ملف"
 
 msgid "Start date"
-msgstr ""
+msgstr "تاريخ البدء"
 
 msgid "Started"
-msgstr ""
+msgstr "بدأت"
 
 msgid "Starter Kit"
-msgstr ""
+msgstr "مجموعة انطلاق"
 
 msgid "Starter kit - Full Battery"
-msgstr ""
+msgstr "مجموعة المبتدئين - بطارية كاملة"
 
 msgid "Starter kit - Low Battery"
-msgstr ""
+msgstr "مجموعة البدء - بطارية منخفضة"
 
 msgid "Starter kit logger data"
-msgstr ""
+msgstr "بيانات مسجل مجموعة أدوات المبتدئين"
 
 msgid "State"
-msgstr ""
+msgstr "حالة"
 
 msgid "Statement"
-msgstr ""
+msgstr "بيان"
 
 msgid "States mapping"
-msgstr ""
+msgstr "خرائط الدول"
 
 msgid "Statistic period:"
-msgstr ""
+msgstr ":الفترة الإحصائية"
 
 msgid "Status"
-msgstr ""
+msgstr "الحالة"
 
 msgid "Status check interval"
-msgstr ""
+msgstr "الفاصل الزمني للتحقق من الحالة"
 
 msgid "Status of {{name}} has been changed to {{label}}"
-msgstr ""
+msgstr "{{label}}  إلى {{name}} تم تغيير حالة"
 
 msgid "Status of {{name}} will be changed to {{label}}"
-msgstr ""
+msgstr " {{label}}  إلى {{name}}  سيتم تغيير حالة"
 
 msgid "Step"
-msgstr ""
+msgstr "خطوة"
 
 msgid "Step <span class=\"badge badge-success\">1</span> of 2"
-msgstr ""
+msgstr " من 2 <span class=\"badge badge-success\">1</span> خطوة"
 
 msgid "Step <span class=\"badge badge-success\">2</span> of 2"
-msgstr ""
+msgstr " من 2 <span class=\"badge badge-success\">2</span> خطوة"
 
 msgid "Step after"
-msgstr ""
+msgstr "خطوة بعد"
 
 msgid "Step before"
-msgstr ""
+msgstr "خطوة من قبل"
 
 msgid "Stop Process"
-msgstr ""
+msgstr "أوقف العملية"
 
 msgid "Stop bits"
-msgstr ""
+msgstr "نقطة التوقف"
 
 msgid "Storage (MB)"
-msgstr ""
+msgstr "سعة التخزين (ميجابايت)"
 
 msgid "Storage limit"
-msgstr ""
+msgstr "حد التخزين"
 
 msgid "Storage limit is too high."
-msgstr ""
+msgstr ".حد التخزين مرتفع جدًا"
 
 msgid "Storage limit must be a positive number."
-msgstr ""
+msgstr ".يجب أن يكون حد التخزين رقمًا موجبًا"
 
 msgid "Storage limit per device (MB)"
-msgstr ""
+msgstr "حد التخزين لكل جهاز (ميجابايت)"
 
 msgid "Storage quota"
-msgstr ""
+msgstr "حصة التخزين"
 
 msgid "Storage quota (MB)"
-msgstr ""
+msgstr "حصة التخزين (ميغابايت)"
 
 msgid "Stored demo configuration"
-msgstr ""
+msgstr "التكوين التجريبي المخزنة"
 
 msgid "Stream URL"
-msgstr ""
+msgstr "URL دفق"
 
 msgid "Streaming analytics guide`KEEP_ORIGINAL`"
-msgstr ""
+msgstr " `KEEP_ORIGINAL` دليل تحليلات الجري"
 
 msgid "Street"
-msgstr ""
+msgstr "شارع"
 
 msgid "String"
-msgstr ""
+msgstr "خيط"
 
 msgid "String does not match pattern: {{schema.pattern}}."
-msgstr ""
+msgstr ".{{schema.pattern}} :السلسلة لا تتطابق مع النمط"
 
 msgid "String is too long ({{viewValue.length}} chars), maximum {{schema.maxLength}}."
-msgstr ""
+msgstr ".({{viewValue.length}} chars), maximum {{schema.maxLength}}  السلسلة طويلة جدًا"
 
 msgid "String is too short ({{viewValue.length}} chars), minimum {{schema.minLength}}."
-msgstr ""
+msgstr ".({{viewValue.length}} chars), minimum {{schema.minLength}}  السلسلة قصيرة جدًا"
 
 msgid "Sub-assets"
-msgstr ""
+msgstr "الأصول الفرعية"
 
 msgid "Sub-index"
-msgstr ""
+msgstr "فهرس فرعي"
 
 msgid "Subaccounts"
-msgstr ""
+msgstr "حسابات فرعية"
 
 msgid "Subject"
-msgstr ""
+msgstr "موضوع"
 
 msgid "Subject used for all password reset related emails"
-msgstr ""
+msgstr "الموضوع المستخدم لجميع رسائل البريد الإلكتروني المتعلقة بإعادة تعيين كلمة المرور"
 
 msgid "Submit"
-msgstr ""
+msgstr "إرسال"
 
 msgid "Submit operation"
-msgstr ""
+msgstr "إرسال العملية"
 
 msgid "Subnet mask"
-msgstr ""
+msgstr "قناع الشبكة الفرعية"
 
 msgid "Subscribe"
-msgstr ""
+msgstr "الإشتراك"
 
 msgid "Subscribe to applications and <a href=\"#/applications\">set up</a> your own applications."
-msgstr ""
+msgstr "تطبيقاتك الخاصة  <a href=\"#/applications\"> اقامة<\a> الاشتراك في التطبيقات و"
 
 msgid "Subscribe to microservice"
-msgstr ""
+msgstr "اشترك في الخدمات المصغرة"
 
 msgid "Subscribed applications"
-msgstr ""
+msgstr "طلبات الاشتراك"
 
 msgid "Subscribed apps"
-msgstr ""
+msgstr "التطبيقات المشتركة"
 
 msgid "Subscribed devices are charged as normal devices."
-msgstr ""
+msgstr ".يتم شحن الأجهزة المشتركة كأجهزة عادية"
 
 msgid "Subscribed tenants"
-msgstr ""
+msgstr "المستأجرين المكتتبين"
 
 msgid "Subscription"
-msgstr ""
+msgstr "اشتراك"
 
 msgid "Subscription accepted."
-msgstr ""
+msgstr "تم قبول الاشتراك"
 
 msgid "Subscription code registered."
-msgstr ""
+msgstr ".تسجيل رمز الاشتراك"
 
 msgid "Subscription deleted."
-msgstr ""
+msgstr ".تم حذف الاشتراك"
 
 msgid "Subscription discarded."
-msgstr ""
+msgstr ".تم تجاهل الاشتراك"
 
 msgid "Subscription in destination tenant disabled"
-msgstr ""
+msgstr "تم تعطيل الاشتراك في المستأجر الوجهة"
 
 msgid "Subscription in destination tenant disabled and then connector suspended by source tenant"
-msgstr ""
+msgstr "تم تعطيل الاشتراك في المستأجر الوجهة ، ثم تم تعليق الموصل بواسطة المستأجر المصدر"
 
 msgid "Subscription registration"
-msgstr ""
+msgstr "تسجيل الاشتراك"
 
 msgid "Subtenants"
-msgstr ""
+msgstr "الباطن"
 
 msgid "Successful"
-msgstr ""
+msgstr "ناجح"
 
 msgid "Sum of CPU daily usage in CPU milliseconds"
-msgstr ""
+msgstr "مجموع الاستخدام اليومي لوحدة المعالجة المركزية بالمللي ثانية"
 
 msgid "Sum of memory daily usage"
-msgstr ""
+msgstr "مجموع الذاكرة الاستخدام اليومي"
 
 msgid "Superhero"
-msgstr ""
+msgstr "خارقة"
 
 msgid "Support"
-msgstr ""
+msgstr "الدعم"
 
 msgid "Support link"
-msgstr ""
+msgstr "رابط الدعم"
 
 msgid "Support request"
-msgstr ""
+msgstr "طلب دعم"
 
 msgid "Support request sent"
-msgstr ""
+msgstr "تم إرسال طلب الدعم"
 
 msgid "Support user"
-msgstr ""
+msgstr "مستخدم الدعم"
 
 msgid "Support user access"
-msgstr ""
+msgstr "دعم وصول المستخدم"
 
 msgid "Support user access activated."
-msgstr ""
+msgstr ".تنشيط وصول المستخدم للدعم"
 
 msgid "Support user access deactivated."
-msgstr ""
+msgstr ".دعم وصول المستخدم معطلة"
 
 msgid "Supported fieldbus version"
-msgstr ""
+msgstr ".إصدار ناقل المجال المدعوم"
 
 msgid "Supported files: *.ico"
-msgstr ""
+msgstr " *.ico :الملفات المدعومة"
 
 msgid "Supported files: *.png, *.svg"
-msgstr ""
+msgstr " *.png, *.svg  :الملفات المدعومة"
 
 msgid "Supported operating systems"
-msgstr ""
+msgstr "أنظمة التشغيل المدعومة"
 
 msgid "Supported operations"
-msgstr ""
+msgstr "العمليات المدعومة"
 
 msgid "Suspend tenant"
-msgstr ""
+msgstr "تعليق المستأجر"
 
 msgid "Suspend`tenant`"
-msgstr ""
+msgstr "`tenant`  تعليق"
 
 msgid "Suspending tenants"
-msgstr ""
+msgstr "تعليق المستأجرين"
 
 msgid "Switch"
-msgstr ""
+msgstr "تحول"
 
 msgid "Switch a relay for a certain duration."
-msgstr ""
+msgstr ".قم بتبديل التتابع لمدة معينة"
 
 msgid "Switch motion detector off"
-msgstr ""
+msgstr "أغلق كاشف الحركة"
 
 msgid "Switch motion detector on"
-msgstr ""
+msgstr "قم بتشغيل كاشف الحركة"
 
 msgid "Switch sound detector off"
-msgstr ""
+msgstr "أغلق كاشف الصوت"
 
 msgid "Switch sound detector on"
-msgstr ""
+msgstr "قم بتشغيل كاشف الصوت"
 
 msgid "Switch to ModemMode"
-msgstr ""
+msgstr "ModemMode قم بالتبديل إلى"
 
 msgid "Switch vibration detector off"
-msgstr ""
+msgstr "قم بإيقاف تشغيل كاشف الاهتزاز"
 
 msgid "Switch vibration detector on"
-msgstr ""
+msgstr "قم بتشغيل كاشف الاهتزاز"
 
 msgid "Sync"
-msgstr ""
+msgstr "تزامن"
 
 msgid "Sync selected properties"
-msgstr ""
+msgstr "مزامنة الخصائص المحددة"
 
 msgid "Synchronization operation created."
-msgstr ""
+msgstr ".تم إنشاء عملية التزامن"
 
 msgid "System"
-msgstr ""
+msgstr "النظام"
 
 msgid "System ID"
-msgstr ""
+msgstr "معرف النظام"
 
 msgid "System resource settings"
-msgstr ""
+msgstr "إعدادات موارد النظام"
 
 msgid "TERMINATE"
-msgstr ""
+msgstr "إنهاء"
 
 msgid "TEST READY"
-msgstr ""
+msgstr "اختبار جاهز"
 
 msgid "TFA active"
-msgstr ""
+msgstr "TFA نشط"
 
 msgid "TFA inactive"
-msgstr ""
+msgstr "TFA غير نشط"
 
 msgid "TFA settings saved."
-msgstr ""
+msgstr "TFA تم حفظ إعدادات "
 
 msgid "TFA status"
-msgstr ""
+msgstr "TFA حالة"
 
 msgid "TOTP requires OAuth Internal login mode."
-msgstr ""
+msgstr "OAuth وضع تسجيل الدخول الداخلي لـ  TOTP يتطلب"
 
 msgid "TOTP secret activated. It can be revoked using the button below."
-msgstr ""
+msgstr ".يمكن إبطاله باستخدام الزر أدناه  .TOTP secret تم تنشيط"
 
 msgid "TOTP secret not activated. It can only be activated by the user."
-msgstr ""
+msgstr ".لا يمكن تنشيطه إلا من قبل المستخدم .TOTP لم يتم تنشيط سر"
 
 msgid "TRIAL"
-msgstr ""
+msgstr "التجربة"
 
 msgid "Table of device properties, e.g. name, type or notes."
-msgstr ""
+msgstr "جدول خصائص الجهاز ، على سبيل المثال الاسم أو النوع أو الملاحظات"
 
 msgid "Target"
-msgstr ""
+msgstr "استهداف"
 
 msgid "Target REST API"
-msgstr ""
+msgstr "REST API الهدف"
 
 msgid "Target URL for data connector"
-msgstr ""
+msgstr " المستهدف لموصل البيانات URL عنوان"
 
 msgid "Target URL {{targetUrl}} already used by another connector."
-msgstr ""
+msgstr " مستخدم بالفعل بواسطة موصل آخر {{targetUrl}} الهدف  URL عنوان"
 
 msgid "Target asset or devices"
-msgstr ""
+msgstr "الأصول أو الأجهزة المستهدفة"
 
 msgid "Target assets or devices"
-msgstr ""
+msgstr "استهداف الأصول أو الأجهزة"
 
 msgid "Target group"
-msgstr ""
+msgstr "المجموعة المستهدفة"
 
 msgid "Target value"
-msgstr ""
+msgstr "قيمة الهدف"
 
 msgid "Telephone"
-msgstr ""
+msgstr "هاتف"
 
 msgid "Telnet"
-msgstr ""
+msgstr "تلنت"
 
 msgid "Temperature"
-msgstr ""
+msgstr "درجة الحرارة"
 
 msgid "Temperature decreased by {{value}}°C on \"{{deviceName}}\" in \"{{groupName}}\"."
-msgstr ""
+msgstr ".\"{{groupName}}\" في \"{{deviceName}}\" على {{value}}°C  انخفضت درجة الحرارة بمقدار"
 
 msgid "Temperature increased by {{value}}°C on \"{{deviceName}}\" in \"{{groupName}}\"."
-msgstr ""
+msgstr ".\"{{groupName}}\" في \"{{deviceName}}\" على {{value}}°C  زادت درجة الحرارة بمقدار"
 
 msgid "Temperature is higher than expected."
-msgstr ""
+msgstr ".درجة الحرارة أعلى من المتوقع"
 
 msgid "Temperature is much higher than expected."
-msgstr ""
+msgstr ".درجة الحرارة أعلى بكثير من المتوقع"
 
 msgid "Temperature measurements"
-msgstr ""
+msgstr "قياسات درجة الحرارة"
 
 msgid "Temperature on device #{source.name} (id: #{source.id}) is much higher than expected."
-msgstr ""
+msgstr ".أعلى بكثير من المتوقع  (id: #{source.id}) #{source.name} درجة الحرارة على الجهاز"
 
 msgid "Template"
-msgstr ""
+msgstr "قالب"
 
 msgid "Template ID"
-msgstr ""
+msgstr "معرف القالب"
 
 msgid "Template creation CSV"
-msgstr ""
+msgstr "CSV إنشاء نموذج"
 
 msgid "Template name"
-msgstr ""
+msgstr "اسم القالب"
 
 msgid "Tenant"
-msgstr ""
+msgstr "المستأجر"
 
 msgid "Tenant \"{{tenant}}\" activated."
-msgstr ""
+msgstr ".\"{{tenant}}\"  تم تنشيط المستأجر"
 
 msgid "Tenant \"{{tenant}}\" created."
-msgstr ""
+msgstr ".\"{{tenant}}\" تم إنشاء المستأجر"
 
 msgid "Tenant \"{{tenant}}\" deleted."
-msgstr ""
+msgstr ".\"{{tenant}}\"  تم حذف المستأجر"
 
 msgid "Tenant \"{{tenant}}\" suspended."
-msgstr ""
+msgstr "معلق \"{{tenant}}\" المستأجر"
 
 msgid "Tenant \"{{tenant}}\" updated: {{properties}}."
-msgstr ""
+msgstr " {{properties}} : \"{{tenant}}\" تم تحديث المستأجر"
 
 msgid "Tenant ID"
-msgstr ""
+msgstr "معرف المستأجر"
 
 msgid "Tenant Manager"
-msgstr ""
+msgstr "مدير المستأجر"
 
 msgid "Tenant activated"
-msgstr ""
+msgstr "تم تنشيط المستأجر"
 
 msgid "Tenant created"
-msgstr ""
+msgstr "تم إنشاء المستأجر"
 
 msgid "Tenant deleted"
-msgstr ""
+msgstr "تم حذف المستأجر"
 
 msgid "Tenant deleted."
-msgstr ""
+msgstr "تم حذف المستأجر"
 
 msgid "Tenant management"
-msgstr ""
+msgstr "إدارة المستأجر"
 
 msgid "Tenant options"
-msgstr ""
+msgstr "خيارات المستأجر"
 
 msgid "Tenant policies"
-msgstr ""
+msgstr "سياسات المستأجر"
 
 msgid "Tenant policy"
-msgstr ""
+msgstr "سياسة المستأجر"
 
 msgid "Tenant policy \"{{name}}\" deleted"
-msgstr ""
+msgstr "\"{{name}}\"  تم حذف سياسة المستأجر"
 
 msgid "Tenant policy name changed to \"{{name}}\""
-msgstr ""
+msgstr "\"{{name}}\"  تم تغيير اسم سياسة المستأجر إلى"
 
 msgid "Tenant saved."
-msgstr ""
+msgstr ".حفظ المستأجر"
 
 msgid "Tenant statistics"
-msgstr ""
+msgstr "إحصائيات المستأجر"
 
 msgid "Tenant suspended"
-msgstr ""
+msgstr "تم تعليق المستأجر"
 
 msgid "Tenant suspended email additional receiver"
-msgstr ""
+msgstr "قام المستأجر بتعليق البريد الإلكتروني الإضافي"
 
 msgid "Tenant suspended email subject"
-msgstr ""
+msgstr "المستأجر تعليق موضوع البريد الإلكتروني"
 
 msgid "Tenant suspended email template"
-msgstr ""
+msgstr "مستأجر قالب بريد إلكتروني معلق"
 
 msgid "Tenant updated"
-msgstr ""
+msgstr "تم تحديث المستأجر"
 
 msgid "Tenant updated."
-msgstr ""
+msgstr "تم تحديث المستأجر"
 
 msgid "Tenants"
-msgstr ""
+msgstr "المستأجرين"
 
 msgid "Terminal configuration will be updated."
-msgstr ""
+msgstr ".سيتم تحديث تكوين المحطة الطرفية"
 
 msgid "Terminated"
-msgstr ""
+msgstr "تم إنهاؤه"
 
 msgid "Territory"
-msgstr ""
+msgstr "منطقة"
 
 msgid "Test Scheduler"
-msgstr ""
+msgstr "اختبار المجدول"
 
 msgid "Test Sequencer"
-msgstr ""
+msgstr "اختبار التسلسل"
 
 msgid "Testing"
-msgstr ""
+msgstr "اختبارات"
 
 msgid "Text"
-msgstr ""
+msgstr "نص"
 
 msgid "Text Search"
-msgstr ""
+msgstr "البحث عن النص"
 
 msgid "Text and buttons color"
-msgstr ""
+msgstr "لون النص والأزرار"
 
 msgid "Text color"
-msgstr ""
+msgstr "لون الخط"
 
 msgid "Text color of current item in navigator"
-msgstr ""
+msgstr "لون نص العنصر الحالي في المستكشف"
 
 msgid "Text sent."
-msgstr ""
+msgstr ".تم إرسال النص"
 
 msgid "Text to show if value is one"
-msgstr ""
+msgstr "نص لإظهار ما إذا كانت القيمة واحدة"
 
 msgid "Text to show if value is zero"
-msgstr ""
+msgstr "نص لإظهار ما إذا كانت القيمة صفر"
 
 msgid ""
 "The 'Allowed domain' setting will enable your JavaScript web applications to directly communicate with REST APIs.\n"
@@ -11556,28 +11556,28 @@ msgid ""
 msgstr ""
 
 msgid "The IP address format is invalid."
-msgstr ""
+msgstr " غير صالح IP تنسيق عنوان "
 
 msgid "The URL format is invalid. The only supported protocols are http, https and opc.tcp."
-msgstr ""
+msgstr "  http و https و opc.tcp .غير صالح. البروتوكولات الوحيدة المدعومة هي  URL تنسيق. "
 
 msgid "The application requested data your user does not have access to. Please check the user menu for more details"
-msgstr ""
+msgstr "طلب التطبيق البيانات التي لا يستطيع المستخدم الوصول إليها. يرجى التحقق من قائمة المستخدم لمزيد من التفاصيل"
 
 msgid "The application requested these URL paths but your user is not allowed to access them."
-msgstr ""
+msgstr "هذه ولكن لا يُسمح للمستخدم بالدخول إليها. URL طلب التطبيق مسارات عناوين"
 
 msgid "The chosen name is too long. Please try a shorter one."
-msgstr ""
+msgstr " .الاسم المختار طويل جدًا.  يرجى تجربة واحدة أقصر"
 
 msgid "The code you entered is invalid. Please try again."
-msgstr ""
+msgstr " .الرمز الذي أدخلته غير صالح. حاول مرة اخرى."
 
 msgid "The default application applies to all users of the tenant. Please select the default application from the list below and ensure all users have access to this application."
-msgstr ""
+msgstr " .ينطبق التطبيق الافتراضي على جميع مستخدمي المستأجر.  يرجى تحديد التطبيق الافتراضي من القائمة أدناه والتأكد من وصول جميع المستخدمين إلى هذا التطبيق "
 
 msgid "The device type can be found in the device information tab of the target device."
-msgstr ""
+msgstr ".يمكن العثور على نوع الجهاز في علامة تبويب معلومات الجهاز للجهاز الهدف"
 
 msgid ""
 "The external ID links the device information and the physical world (e.g. serial number, IMEI).\n"
@@ -11588,163 +11588,166 @@ msgid ""
 msgstr ""
 
 msgid "The file is no longer available."
-msgstr ""
+msgstr "لم يعد الملف متاحًا"
 
 msgid "The filename is too long."
-msgstr ""
+msgstr ".اسم الملف طويل جدا"
 
 msgid "The following are recent alarms and events you may want to add:"
-msgstr ""
+msgstr ":فيما يلي الإنذارات والأحداث الأخيرة التي قد ترغب في إضافتها"
 
 msgid "The following contact information will be used."
-msgstr ""
+msgstr ".سيتم استخدام معلومات الاتصال التالية"
 
 msgid "The following error occurred:"
-msgstr ""
+msgstr ":حدث الخطأ التالي"
 
 msgid "The following items will be permanently deleted:"
-msgstr ""
+msgstr ":سيتم حذف العناصر التالية نهائيًا"
 
 msgid "The following settings are managed on platform level."
-msgstr ""
+msgstr ".تتم إدارة الإعدادات التالية على مستوى النظام الأساسي"
 
 msgid "The interval must be a positive value."
-msgstr ""
+msgstr ".يجب أن يكون الفاصل الزمني قيمة موجبة"
 
 msgid "The maximum period attribute indicates the maximum time in seconds the LWM2M client MAY wait between two notifications."
-msgstr ""
+msgstr "بين إشعارين LWM2M تشير سمة الفترة القصوى إلى الحد الأقصى للوقت بالثواني الذي قد ينتظر فيه عميل"
 
 msgid "The minimum period attribute indicates the minimum time in seconds the LWM2M client MUST wait between two notifications."
-msgstr ""
+msgstr "بين إشعارين LWM2M تشير سمة الحد الأدنى للفترة إلى الحد الأدنى من الوقت بالثواني الذي يجب أن ينتظر فيه عميل"
 
 msgid "The number of minutes must be stricly smaller than 60 minutes. Please switch to hours for bigger intervals."
-msgstr ""
+msgstr "يجب أن يكون عدد الدقائق أصغر بكثير من 60  دقيقة.  يرجى التبديل إلى ساعات لفترات أكبر"
 
 msgid "The quota calculation is based on the known number of devices, as displayed below."
-msgstr ""
+msgstr ".يعتمد حساب الحصة النسبية على العدد المعروف من الأجهزة ، كما هو موضح أدناه"
 
 msgid "The relay has been closed."
-msgstr ""
+msgstr ".تم إغلاق التتابع"
 
 msgid "The relay has been opened."
-msgstr ""
+msgstr ".تم فتح التتابع"
 
 msgid "The relay will be closed."
-msgstr ""
+msgstr ".سيتم إغلاق التتابع"
 
 msgid "The relay will be opened."
-msgstr ""
+msgstr ".سيتم فتح التتابع"
 
 msgid "The security policy is set to {{param}}."
-msgstr ""
+msgstr ".{{param}} تم تعيين سياسة الأمان على"
 
 msgid "The selected device does not have coil status and register properties."
-msgstr ""
+msgstr ".الجهاز المحدد ليس لديه حالة ملف وخصائص التسجيل"
 
 msgid "The selected file is not supported."
-msgstr ""
+msgstr ".الملف المحدد غير مدعوم"
 
 msgid "The selected file is too large. The size limit is {{vm.fileSizeLimit | bytes}}."
-msgstr ""
+msgstr ".{{vm.fileSizeLimit | bytes}} الملف المحدد كبير جدًا. الحد الأقصى للحجم"
 
 msgid "The snapshot with the ID {{deviceConfigId}} is assigned to the device but the configuration can't be found in the repository."
-msgstr ""
+msgstr " .للجهاز ولكن لا يمكن العثور على التكوين في المستودع {{deviceConfigId}} يتم تعيين اللقطة ذات المعرف.  "
 
 msgid "The target URL did not accept the connection yet."
-msgstr ""
+msgstr ".لم يقبل عنوان URL الهدف الاتصال بعد"
 
 msgid "The threshold cannot be bigger than 100%."
-msgstr ""
+msgstr " 100% لا يمكن أن تكون العتبة أكبر من"
 
 msgid "The threshold cannot be smaller than 1%."
-msgstr ""
+msgstr "%لا يمكن أن يكون العتبة أصغر من 1"
 
 msgid "The uploaded image cannot be bigger than 4 MB. Please upload a smaller one."
-msgstr ""
+msgstr " .لا يمكن أن تكون الصورة التي تم تحميلها أكبر من 4 ميجا بايت. يرجى تحميل واحد أصغر"
 
 msgid ""
 "The user will be granted access to the listed device groups as allowed by the assigned\n"
 "          inventory roles. Use dropdown to select which roles should be applied to each group and\n"
 "          its children."
 msgstr ""
+" سيتم منح المستخدم حق الوصول إلى مجموعات الأجهزة المدرجة كما هو مسموح به من قبل المعين \n"
+"  أدوار المخزون.  استخدم القائمة المنسدلة لتحديد الأدوار التي يجب تطبيقها على كل مجموعة و \n"
+" .أطفالها"
 
 msgid "The value of the selected data point or property must be one of the following to have the respective light on: true, 1, any non-empty string or any non-null number."
-msgstr ""
+msgstr "يجب أن تكون قيمة نقطة البيانات أو الخاصية المحددة واحدة مما يلي حتى يتم تشغيل الضوء الخاص بها: صحيح ، 1 ، أي سلسلة غير فارغة أو أي رقم غير فارغ"
 
 msgid "The verification code was already sent. For a new verification code, please click on the link above."
-msgstr ""
+msgstr " .تم إرسال رمز التحقق بالفعل. للحصول على رمز تحقق جديد ، يرجى النقر على الرابط أعلاه"
 
 msgid "There are no alarm mappings defined"
-msgstr ""
+msgstr "لم يتم تحديد مخططات إنذار"
 
 msgid "There are no configuration snapshots defined"
-msgstr ""
+msgstr "لم يتم تحديد لقطات تكوين"
 
 msgid "There are no connected child devices."
-msgstr ""
+msgstr ".لا توجد أجهزة فرعية متصلة"
 
 msgid "There are no credentials provided yet. Please provide some."
-msgstr ""
+msgstr " .لا توجد أوراق اعتماد المقدمة حتى الان. يرجى تقديم بعض"
 
 msgid "There are no dashboards available"
-msgstr ""
+msgstr "لا توجد لوحات تحكم متاحة"
 
 msgid "There are no device credentials"
-msgstr ""
+msgstr "لا توجد بيانات اعتماد الجهاز"
 
 msgid "There are no endpoints defined."
-msgstr ""
+msgstr ".لم يتم تحديد نقاط نهاية"
 
 msgid "There are no logs for given time range: {{dateFrom | absoluteDateTimeFormat:'LL, LTS':'+0000'}} - {{dateTo | absoluteDateTimeFormat:'LL, LTS':'+0000'}}."
-msgstr ""
+msgstr " {{dateFrom | absoluteDateTimeFormat:'LL, LTS':'+0000'}} - {{dateTo | absoluteDateTimeFormat:'LL, LTS':'+0000'}}  :لا توجد سجلات للنطاق الزمني المحدد"
 
 msgid "There are no pending operations"
-msgstr ""
+msgstr "لا توجد عمليات معلقة"
 
 msgid "There are no recent logs."
-msgstr ""
+msgstr ".لا توجد سجلات حديثة"
 
 msgid "There are several default inventory roles defined, but you can define your own according to your needs."
-msgstr ""
+msgstr ".هناك العديد من أدوار المخزون الافتراضية المحددة ، ولكن يمكنك تحديد دورك وفقًا لاحتياجاتك"
 
 msgid "There are several default roles defined, but you can define your own according to your needs."
-msgstr ""
+msgstr ".هناك العديد من الأدوار الافتراضية المحددة ، ولكن يمكنك تحديد الأدوار الخاصة بك وفقًا لاحتياجاتك"
 
 msgid "There is already a role with the name \"{{name}}\""
-msgstr ""
+msgstr "\"{{name}}\" يوجد بالفعل دور بالاسم"
 
 msgid "There was a problem processing your payment.<br> Please update the payment method."
-msgstr ""
+msgstr " .يرجى تحديث طريقة الدفع <br> حدثت مشكلة أثناء معالجة دفعتك "
 
 msgid "There was an error processing the post-operations."
-msgstr ""
+msgstr "حدث خطأ في معالجة العمليات اللاحقة"
 
 msgid "These addresses are already in use."
-msgstr ""
+msgstr ".هذه العناوين قيد الاستخدام بالفعل"
 
 msgid "This IP address is invalid"
-msgstr ""
+msgstr "هذا غير صالح IP عنوان"
 
 msgid "This action will revoke the user's stored TOTP secret which will require a new setup."
-msgstr ""
+msgstr "المخزن الخاص بالمستخدم والذي سيتطلب إعدادًا جديدًا TOTP سيؤدي هذا الإجراء إلى إبطال سر"
 
 msgid "This address is already in use."
-msgstr ""
+msgstr ".هذا العنوان قيد الاستخدام بالفعل"
 
 msgid "This application is already assigned to tenant \"{{tenant}}\"."
-msgstr ""
+msgstr " .\"{{tenant}}\" تم تعيين هذا التطبيق بالفعل إلى المستأجر"
 
 msgid "This application is already made available in a global role"
-msgstr ""
+msgstr "هذا التطبيق متاح بالفعل في دور عالمي"
 
 msgid "This application is not accessible by the owner."
-msgstr ""
+msgstr ".لا يمكن الوصول إلى هذا التطبيق من قبل المالك"
 
 msgid "This application was duplicated from \"{{name}}\" and won't get any further updates from it."
-msgstr ""
+msgstr " .ولن يحصل على أي تحديثات أخرى منه \"{{name}}\" تم نسخ هذا التطبيق من"
 
 msgid "This dashboard is shared between all devices of the type <i>{{dashboard.deviceTypeValue}}</i>"
-msgstr ""
+msgstr "<i>{{dashboard.deviceTypeValue}}</i>  لوحة التحكم هذه مشتركة بين جميع الأجهزة من النوع"
 
 msgid "This date is invalid."
 msgstr ""
