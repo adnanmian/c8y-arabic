@@ -12940,66 +12940,68 @@ msgid "You are about to cancel device registration for ID \"{{id}}\". Do you wan
 msgstr "هل تريد المتابعة؟ .\"{{id}}\" أنت على وشك إلغاء تسجيل الجهاز للرقم التعريفي"
 
 msgid "You are about to close your account. Do you want to proceed?"
-msgstr ""
+msgstr "أنت على وشك إغلاق حسابك. هل تريد المتابعة؟"
 
 msgid "You are about to create a local user which will not be able to log in via single sign-on. Do you want to proceed?"
-msgstr ""
+msgstr "أنت على وشك إنشاء مستخدم محلي لن يتمكن من تسجيل الدخول عبر تسجيل الدخول الأحادي. هل تريد المتابعة؟"
 
 msgid "You are about to create a new group \"{{name}}\" and assign the device to it. Do you want to proceed?"
-msgstr ""
+msgstr " وتعيين الجهاز لها. هل تريد المتابعة؟ \"{{name}}\" أنت على وشك إنشاء مجموعة جديدة"
 
 msgid "You are about to create a rule which will permanently delete corresponding data after {{maximumAge}} days (executed at night). Do you want to proceed?"
-msgstr ""
+msgstr "  يومًا (يتم تنفيذها ليلاً). هل تريد المتابعة؟ {{maximumAge}} أنت على وشك إنشاء قاعدة ستحذف البيانات المقابلة نهائيًا بعد"
 
 msgid ""
 "You are about to create branded versions of built-in applications.\n"
 "       This process takes up to 2 minutes."
 msgstr ""
+" .أنت على وشك إنشاء إصدارات ذات علامة تجارية من التطبيقات المضمنة\n"
+" .تستغرق هذه العملية دقيقتين"
 
 msgid "You are about to deactivate a custom domain name."
-msgstr ""
+msgstr ".أنت على وشك إلغاء تنشيط اسم مجال مخصص"
 
 msgid "You are about to delete OpenIT credentials. Deleting credentials will lock out any users with SMS-based two-factor authentication, and deactivate the SMS-based Smart Rules and device communication. Do you want to proceed?"
-msgstr ""
+msgstr "واتصال الجهاز. هل تريد المتابعة؟ SMS وإلغاء تنشيط القواعد الذكية المستندة إلى ,SMS سيؤدي حذف بيانات الاعتماد إلى قفل أي مستخدم بمصادقة ثنائية تستند إلى OpenIT أنت على وشك حذف بيانات اعتماد"
 
 msgid "You are about to delete Smart Rule \"{{name}}\". Do you want to proceed?"
-msgstr ""
+msgstr " هل تريد المتابعة؟ .\"{{name}}\" Smart Rule إنك على وشك حذف"
 
 msgid "You are about to delete SmartREST template \"{{name}}\". Do you want to proceed?"
-msgstr ""
+msgstr " هل تريد المتابعة؟ .\"{{name}}\" SmartREST إنك على وشك حذف نموذج" 
 
 msgid "You are about to delete alarm mapping for alarm type \"{{alarmType}}\". Do you want to proceed?"
-msgstr ""
+msgstr " هل تريد المتابعة؟ .\"{{alarmType}}\" أنت على وشك حذف تعيين التنبيه لنوع التنبيه"
 
 msgid "You are about to delete application \"{{app | humanizeAppName}}\". Do you want to proceed?"
-msgstr ""
+msgstr " هل تريد المتابعة؟ .\"{{app | humanizeAppName}}\" إنك على وشك حذف التطبيق"
 
 msgid "You are about to delete archive \"{{name}}{{description ? (' (' + description + ')') : ''}}\". Do you want to proceed?"
-msgstr ""
+msgstr " \"{{name}}{{description ? (' (' + description + ')') : ''}}\"  أنت على وشك حذف الأرشيف"
 
 msgid "You are about to delete configuration \"{{name}}\". Do you want to proceed?"
-msgstr ""
+msgstr "هل تريد المتابعة؟ \"{{name}}\" إنك على وشك حذف التكوين"
 
 msgid "You are about to delete connector \"{{name}}\". Do you want to proceed?"
-msgstr ""
+msgstr "هل تريد المتابعة؟ .\"{{name}}\" أنت على وشك حذف الموصل"
 
 msgid "You are about to delete data point \"{{kpiLabel}}\". Do you want to proceed?"
-msgstr ""
+msgstr " هل تريد المتابعة؟ .\"{{kpiLabel}}\" أنت على وشك حذف نقطة البيانات"
 
 msgid "You are about to delete device \"{{name}}\". Do you want to proceed?"
-msgstr ""
+msgstr "هل تريد المتابعة؟ .\"{{name}}\" نك على وشك حذف الجهاز"
 
 msgid "You are about to delete device \"{{name}}\". This operation is irreversible. Do you want to proceed?"
-msgstr ""
+msgstr "هذه العملية لا رجعة فيها. هل تريد المتابعة؟ \"{{name}}\" أنت على وشك حذف الجهاز"
 
 msgid "You are about to delete device protocol {{protocolType}} \"{{protocolName}}\". Do you want to proceed?"
-msgstr ""
+msgstr "هل تريد المتابعة؟ \"{{protocolName}}\" {{protocolType}} إنك على وشك حذف بروتوكول الجهاز"
 
 msgid "You are about to delete device type \"{{name}}\". Connected devices of this type will become unavailable. Do you want to proceed?"
-msgstr ""
+msgstr "ستصبح الأجهزة المتصلة من هذا النوع غير متوفرة. هل تريد المتابعة؟.\"{{name}}\" إنك على وشك حذف نوع الجهاز"
 
 msgid "You are about to delete endpoint \"{{config.name}}\" from device \"{{device.name}}\". Do you want to proceed?"
-msgstr ""
+msgstr " هل تريد المتابعة؟ .\"{{device.name}}\" من الجهاز \"{{config.name}}\" إنك على وشك حذف نقطة النهاية"
 
 msgid "You are about to delete file \"{{name}}\". Do you want to proceed?"
 msgstr ""
