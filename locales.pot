@@ -13004,171 +13004,176 @@ msgid "You are about to delete endpoint \"{{config.name}}\" from device \"{{devi
 msgstr " هل تريد المتابعة؟ .\"{{device.name}}\" من الجهاز \"{{config.name}}\" إنك على وشك حذف نقطة النهاية"
 
 msgid "You are about to delete file \"{{name}}\". Do you want to proceed?"
-msgstr ""
+msgstr "هل تريد المتابعة؟ .\"{{name}}\" إنك على وشك حذف الملف"
 
 msgid "You are about to delete firmware item \"{{name}}\". Do you want to proceed?"
-msgstr ""
+msgstr "هل تريد المتابعة؟ \"{{name}}\ أنت على وشك حذف عنصر البرنامج الثابت"
 
 msgid "You are about to delete group \"{{name}}\" and its sub-groups recursively. This operation is irreversible. Do you want to proceed?"
-msgstr ""
+msgstr "ومجموعاتها الفرعية بشكل متكرر. هذه العملية لا رجعة فيها. هل تريد المتابعة؟ \"{{name}}\" أنت على وشك حذف المجموعة"
 
 msgid "You are about to delete group \"{{name}}\". Do you want to proceed?"
-msgstr ""
+msgstr "هل تريد المتابعة؟ .\"{{name}}\" إنك على وشك حذف المجموعة"
 
 msgid "You are about to delete group \"{{name}}\". This operation is irreversible. Do you want to proceed?"
-msgstr ""
+msgstr "هذه العملية لا رجعة فيها. هل تريد المتابعة؟ .\"{{name}}\ إنك على وشك حذف المجموعة"
 
 msgid "You are about to delete report \"{{name}}\". Do you want to proceed?"
-msgstr ""
+msgstr "هل تريد المتابعة؟ \"{{name}}\" إنك على وشك حذف التقرير"
 
 msgid "You are about to delete role \"{{name}}\". Do you want to proceed?"
-msgstr ""
+msgstr "هل تريد المتابعة؟ .\"{{name}}\" إنك على وشك حذف الدور"
 
 msgid "You are about to delete simulator \"{{name}}\". Do you want to proceed?"
-msgstr ""
+msgstr "هل تريد المتابعة؟ .\"{{name}}\" إنك على وشك حذف محاكي"
 
 msgid "You are about to delete software item \"{{name}}\". Do you want to proceed?"
-msgstr ""
+msgstr "هل تريد المتابعة؟ .\"{{name}}\" إنك على وشك حذف عنصر برنامج "
 
 msgid "You are about to delete subscription \"{{connectorName}}\". Do you want to proceed?"
-msgstr ""
+msgstr "هل تريد المتابعة؟ .\"{{connectorName}}\" إنك على وشك حذف الاشتراك"
 
 msgid "You are about to delete tenant \"{{company}}\" (ID \"{{id}}\"). Do you want to proceed?"
-msgstr ""
+msgstr " هل تريد المتابعة؟  \"{{company}}\" (ID \"{{id}}\") إنك على وشك حذف المستأجر"
 
 msgid "You are about to delete the configuration \"{{name}}\". Do you want to proceed?"
-msgstr ""
+msgstr "هل تريد المتابعة؟ \"{{name}}\" إنك على وشك حذف التكوين"
 
 msgid "You are about to delete the current configuration. Do you want to proceed?"
-msgstr ""
+msgstr "أنت على وشك حذف التكوين الحالي. هل تريد المتابعة؟"
 
 msgid "You are about to delete the dashboard \"{{name}}\" from all devices of the type \"{{deviceTypeValue}}\". Do you want to proceed?"
-msgstr ""
+msgstr " هل تريد المتابعة؟ .\"{{deviceTypeValue}}\" من جميع الأجهزة من النوع \"{{name}}\" إنك على وشك حذف لوحة التحكم"
 
 msgid "You are about to delete the dashboard \"{{name}}\". Do you want to proceed?"
-msgstr ""
+msgstr " هل تريد المتابعة؟ .\"{{name}}\" إنك على وشك حذف لوحة التحكم"
 
 msgid "You are about to delete the external ID \"{{externalId}}\" of the type \"{{type}}\". Do you want to proceed?"
-msgstr ""
+msgstr " هل تريد المتابعة؟ .\"{{type}}\" من النوع \"{{externalId}}\" إنك على وشك حذف المعرف الخارجي"
 
 msgid "You are about to delete the global role \"{{name}}\". Do you want to proceed?"
-msgstr ""
+msgstr " هل تريد المتابعة؟ .\"{{name}}\" إنك على وشك حذف الدور العالمي"
 
 msgid "You are about to delete the module \"{{name}}\". Do you want to proceed?"
-msgstr ""
+msgstr " هل تريد المتابعة؟ .\"{{name}}\" إنك على وشك حذف الوحدة"
 
 msgid "You are about to delete the resource with the ID \"{{id}}\". Do you want to proceed?"
-msgstr ""
+msgstr " هل تريد المتابعة؟ .\"{{id}}\" إنك على وشك حذف المورد برقم التعريف"
 
 msgid "You are about to delete this log file. Do you want to proceed?"
-msgstr ""
+msgstr "أنت على وشك حذف ملف السجل هذا. هل تريد المتابعة؟"
 
 msgid "You are about to delete this retention rule. Do you want to proceed?"
-msgstr ""
+msgstr "أنت على وشك حذف قاعدة الاحتفاظ هذه. هل تريد المتابعة؟"
 
 msgid "You are about to delete user \"{{userName}}\". Do you want to proceed?"
-msgstr ""
+msgstr "هل تريد المتابعة؟ .\"{{userName}}\" إنك على وشك حذف المستخدم"
 
 msgid "You are about to delete your IMPACT credentials. Deleting credentials will break connection to IMPACT instance. Do you want to proceed?"
-msgstr ""
+msgstr "هل تريد المتابعة؟ .IMPACT الخاصة بك. سيؤدي حذف بيانات الاعتماد إلى قطع الاتصال بمثيل IMPACT أنت على وشك حذف بيانات اعتماد"
 
 msgid "You are about to leave this page and discard the changes made. Do you want to proceed?"
-msgstr ""
+msgstr "أنت على وشك مغادرة هذه الصفحة وإلغاء التغييرات التي تم إجراؤها. هل تريد المتابعة؟"
 
 msgid "You are about to load registration data saved on {{temporaryRegistration.timestamp}}. Do you want to proceed?"
-msgstr ""
+msgstr " هل تريد المتابعة؟ .{{temporaryRegistration.timestamp}} أنت على وشك تحميل بيانات التسجيل المحفوظة على"
 
 msgid "You are about to overwrite the resource with the ID \"{{id}}\". Do you want to proceed?"
-msgstr ""
+msgstr " هل تريد المتابعة؟ .\"{{id}}\" نت على وشك استبدال المورد بالمعرف"
 
 msgid "You are about to reload application in order to correctly apply measurement units setting changes. Do you want to proceed?"
-msgstr ""
+msgstr "أنت على وشك إعادة تحميل التطبيق لتطبيق تغييرات إعدادات وحدات القياس بشكل صحيح. هل تريد المتابعة؟"
 
 msgid "You are about to reload the application in order to see changes. Do you want to proceed?"
-msgstr ""
+msgstr "أنت على وشك إعادة تحميل التطبيق لمشاهدة التغييرات. هل تريد المتابعة؟"
 
 msgid ""
 "You are about to reset the applied branding configuration.\n"
 "        If you have any extra customization options set, they will be reset as well.\n"
 "        The default branding will be shown to all subtenants. Do you want to proceed?"
 msgstr ""
+" .أنت على وشك إعادة ضبط تهيئة العلامة التجارية المطبقة\n"
+" إذا كان لديك أي خيارات تخصيص إضافية ، فسيتم إعادة تعيينها أيضًا\n"
+"  سيتم عرض العلامة التجارية الافتراضية لجميع الباطن. هل تريد المتابعة؟"
 
 msgid "You are about to save changes in the global role which might affect security."
-msgstr ""
+msgstr ".أنت على وشك حفظ التغييرات في الدور العالمي التي قد تؤثر على الأمان"
 
 msgid "You are about to start processing software changes. Note that this operation is asynchronous. Do you want to proceed?"
-msgstr ""
+msgstr "أنت على وشك البدء في معالجة تغييرات البرامج. لاحظ أن هذه العملية غير متزامنة. هل تريد المتابعة؟"
 
 msgid "You are about to subscribe to the microservice after upload. Do you want to subscribe to it?"
-msgstr ""
+msgstr "أنت على وشك الاشتراك في الخدمة الصغيرة بعد التحميل. هل تريد الاشتراك فيها؟"
 
 msgid "You are about to suspend tenant \"{{company}}\" (ID \"{{id}}\"). Do you want to proceed?"
-msgstr ""
+msgstr " هل تريد المتابعة؟ .\"{{company}}\" (ID \"{{id}}\") أنت على وشك تعليق المستأجر"
 
 msgid "You are about to unassign device \"{{name}}\". Do you want to proceed?"
-msgstr ""
+msgstr " هل تريد المتابعة؟ .\"{{name}}\" أنت على وشك إلغاء تعيين الجهاز"
 
 msgid "You are currently using a trial version. Upgrade to unleash the full potential of Cumulocity's IoT Platform."
-msgstr ""
+msgstr "Cumulocity نت تستخدم حاليًا إصدارًا تجريبيًا. قم بالترقية لإطلاق العنان للإمكانات الكاملة لمنصة إنترنت الأشياء الخاصة ب"
 
 msgid "You can add device to specific group for management tenant only."
-msgstr ""
+msgstr ".يمكنك إضافة جهاز إلى مجموعة محددة لإدارة المستأجر فقط"
 
 msgid "You can add schedules once you saved export configuration."
-msgstr ""
+msgstr ".يمكنك إضافة جداول بمجرد حفظ تكوين التصدير"
 
 msgid ""
 "You can also copy inventory roles from another user or replace this user's roles with the\n"
 "        roles of another user."
 msgstr ""
+" يمكنك أيضًا نسخ أدوار المخزون من مستخدم آخر أو استبدال أدوار هذا المستخدم بـ \n"
+" أدوار مستخدم آخر"
 
 msgid "You can obtain Twitter's widget ID from <a href=\"https://twitter.com/settings/widgets\">Widgets Settings</a>."
-msgstr ""
+msgstr "<a href=\"https://twitter.com/settings/widgets\">إعدادات الأدوات</a>  من Twitter يمكنك الحصول على معرف أداة "
 
 msgid "You can use the following variables in your HTML code:"
-msgstr ""
+msgstr " : الخاص بك HTML يمكنك استخدام المتغيرات التالية في كود"
 
 msgid "You delegated to user \"{{userName}}\"."
-msgstr ""
+msgstr ".\"{{userName}}\" لقد فوضت للمستخدم"
 
 msgid "You don't have permission to admin this device."
-msgstr ""
+msgstr ".ليس لديك إذن لإدارة هذا الجهاز"
 
 msgid "You don't have permissions to enable/disable this owner user."
-msgstr ""
+msgstr ".ليس لديك أذونات لتمكين / تعطيل هذا المستخدم المالك"
 
 msgid "You don't have permissions to execute this operation"
-msgstr ""
+msgstr "ليس لديك أذونات لتنفيذ هذه العملية"
 
 msgid "You have to define at least 1 instance."
-msgstr ""
+msgstr ".يجب عليك تحديد مثيل واحد على الأقل"
 
 msgid "You have to define at most 5 instances."
-msgstr ""
+msgstr ".يجب عليك تحديد 5 حالات على الأكثر"
 
 msgid "You may use the following syntax for specifying post-registration actions:"
-msgstr ""
+msgstr ".يمكنك استخدام بناء الجملة التالي لتحديد إجراءات ما بعد التسجيل"
 
 msgid "You must add a target asset or device."
-msgstr ""
+msgstr ".يجب عليك إضافة أصل أو جهاز مستهدف"
 
 msgid "You must add at least one data point."
-msgstr ""
+msgstr ".يجب عليك إضافة نقطة بيانات واحدة على الأقل"
 
 msgid "You must add at least one retention rule."
-msgstr ""
+msgstr ".يجب عليك إضافة قاعدة احتفاظ واحدة على الأقل"
 
 msgid "You must enable at least one data point."
-msgstr ""
+msgstr ".يجب تمكين نقطة بيانات واحدة على الأقل"
 
 msgid "You must log out in order to apply your changes"
-msgstr ""
+msgstr "يجب عليك تسجيل الخروج لتطبيق التغييرات الخاصة بك"
 
 msgid "You must select at least one property."
-msgstr ""
+msgstr ".يجب تحديد خاصية واحدة على الأقل"
 
 msgid "You need the following permission to access simulators: Simulator Admin."
-msgstr ""
+msgstr "Simulator Admin :تحتاج إلى الإذن التالي للوصول إلى المحاكيات"
 
 msgid "You need these roles to access bulk operations: Bulk Operation Read / Admin"
 msgstr "تحتاج إلى هذه الأدوار للوصول إلى العمليات المجمّعة: قراءة / إدارة العملية المجمّعة"
