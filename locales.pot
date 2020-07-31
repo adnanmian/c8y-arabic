@@ -11750,1033 +11750,1042 @@ msgid "This dashboard is shared between all devices of the type <i>{{dashboard.d
 msgstr "<i>{{dashboard.deviceTypeValue}}</i>  لوحة التحكم هذه مشتركة بين جميع الأجهزة من النوع"
 
 msgid "This date is invalid."
-msgstr ""
+msgstr ".هذا التاريخ غير صالح"
 
 msgid "This engine ID is already in use."
-msgstr ""
+msgstr ".معرف المحرك هذا قيد الاستخدام بالفعل"
 
 msgid "This external ID is not unique"
-msgstr ""
+msgstr "هذا المعرف الخارجي ليس فريدًا"
 
 msgid ""
 "This feature is deprecated and will be decommissioned in the next release.\n"
 "  Please use the <a href=\"/apps/devicemanagement/#/simulators\">new simulator</a> feature instead."
 msgstr ""
+" .تم إيقاف هذه الميزة وسيتم إيقاف تشغيلها في الإصدار التالي \n"
+"   بدلاً من ذلك <a href=\"/apps/devicemanagement/#/simulators\"> المحاكي الجديد </a> يُرجى استخدام ميزة"
 
 msgid "This feature is deprecated. Although it's still fully functional you should rather use new <a href=\"/apps/administration#roles\">Roles</a> feature to set permissions."
-msgstr ""
+msgstr ".لتعيين الأذونات <a href=\"/apps/administration#roles\">الأدوار</a> تم إيقاف هذه الميزة. على الرغم من أنها لا تزال تعمل بكامل طاقتها ، يجب عليك بدلاً من ذلك استخدام ميزة "
 
 msgid "This field is required."
-msgstr ""
+msgstr ".هذه الخانة مطلوبه"
 
 msgid "This field must contain a number."
-msgstr ""
+msgstr ".يجب أن يحتوي هذا الحقل على رقم"
 
 msgid "This greater than attribute defines a threshold high value."
-msgstr ""
+msgstr ".يحدد هذا أكبر من السمة قيمة عالية عتبة"
 
 msgid "This group is not empty. Remove its children first."
-msgstr ""
+msgstr ".هذه المجموعة ليست فارغة. أخرج أطفالها أولاً"
 
 msgid "This group no longer exists."
-msgstr ""
+msgstr ".هذه المجموعة لم تعد موجودة"
 
 msgid "This is a default configuration and cannot be changed."
-msgstr ""
+msgstr ".هذا تكوين افتراضي ولا يمكن تغييره"
 
 msgid "This is the current configuration and cannot be deleted."
-msgstr ""
+msgstr ".هذا هو التكوين الحالي ولا يمكن حذفه"
 
 msgid "This less than attribute defines a threshold low value."
-msgstr ""
+msgstr ".يحدد هذا أقل من السمة قيمة منخفضة عتبة"
 
 msgid "This node id is already in use."
-msgstr ""
+msgstr ".معرف العقدة هذا قيد الاستخدام بالفعل"
 
 msgid "This parameter has a max length of {{param.warnMaxLength}}."
-msgstr ""
+msgstr ".{{param.warnMaxLength}}  يبلغ الحد الأقصى لطول هذه المعلمة"
 
 msgid "This password has already been used earlier. Use a different one."
-msgstr ""
+msgstr "سبق استخدام كلمة المرور هذه سابقًا. استخدم واحدة مختلفة. "
 
 msgid "This permission is overridden by a more generic one in this role."
-msgstr ""
+msgstr ".تم تجاوز هذا الإذن بإذن أكثر عمومية في هذا الدور"
 
 msgid ""
 "This role already has access to all applications.\n"
 "        Revoke all \"Application management\" permissions to grant access only to some applications."
 msgstr ""
+" .هذا الدور لديه حق الوصول إلى جميع التطبيقات \n"
+" لمنح حق الوصول إلى بعض التطبيقات فقط \"Application management\" إبطال جميع أذونات"
 
 msgid "This role has access to the applications selected below."
-msgstr ""
+msgstr ".هذا الدور لديه حق الوصول إلى التطبيقات المحددة أدناه"
 
 msgid "This role is already assigned to a parent asset."
-msgstr ""
+msgstr ".تم تعيين هذا الدور بالفعل إلى الأصل الأصل"
 
 msgid "This setting will enable all the products to be retrieved without payment. Are you sure you want to activate Free vend?"
-msgstr ""
+msgstr "سيؤدي هذا الإعداد إلى تمكين استرداد جميع المنتجات بدون دفع. هل أنت متأكد من أنك تريد تنشيط البائع المجاني؟"
 
 msgid "This step attribute defines a minimum change value between two notifications."
-msgstr ""
+msgstr ".تحدد سمة الخطوة هذه الحد الأدنى لقيمة التغيير بين إشعارين"
 
 msgid "This template ID is already in use. Select another one."
-msgstr ""
+msgstr ".معرف القالب هذا قيد الاستخدام بالفعل. حدد واحدة أخرى"
 
 msgid "This time is invalid."
-msgstr ""
+msgstr ".هذه المرة غير صالحة"
 
 msgid "This user is assigned a global role with 'Application management' permissions. Therefore all applications are accessible."
-msgstr ""
+msgstr ".يتم تعيين دور عالمي لهذا المستخدم مع أذونات "إدارة التطبيقات". لذلك يمكن الوصول إلى جميع التطبيقات."
 
 msgid "This will apply to data coming from specified device"
-msgstr ""
+msgstr ".سيتم تطبيق ذلك على البيانات الواردة من جهاز محدد"
 
 msgid "This will apply to data that has a type property."
-msgstr ""
+msgstr ".سيتم تطبيق ذلك على البيانات التي لها خاصية نوع"
 
 msgid "This will be matched with message ID found in source specified on device type main page"
-msgstr ""
+msgstr "ستتم مطابقة هذا مع معرف الرسالة الموجود في المصدر المحدد في الصفحة الرئيسية لنوع الجهاز"
 
 msgid "This wizard will set up groups hierarchy, create simulated devices, configure dashboards and smart rules."
-msgstr ""
+msgstr ".سيقوم هذا المعالج بإعداد التسلسل الهرمي للمجموعات وإنشاء أجهزة محاكاة وتكوين لوحات المعلومات والقواعد الذكية"
 
 msgid "Threshold (%)"
-msgstr ""
+msgstr ")٪( العتبة "
 
 msgid "Threshold exceeded"
-msgstr ""
+msgstr "تجاوز العتبة"
 
 msgid "Thresholds exceeded"
-msgstr ""
+msgstr "تم تجاوز العتبات"
 
 msgid "Time"
-msgstr ""
+msgstr "زمن"
 
 msgid "Time interval"
-msgstr ""
+msgstr "الفاصل الزمني"
 
 msgid "Time range"
-msgstr ""
+msgstr "النطاق الزمني"
 
 msgid "Time unit"
-msgstr ""
+msgstr "وحدة زمنية"
 
 msgid "Timeout"
-msgstr ""
+msgstr "نفذ الوقت"
 
 msgid "Title"
-msgstr ""
+msgstr "عنوان"
 
 msgid "Title color"
-msgstr ""
+msgstr "Title color"
 
 msgid "Title to be used in browser tab"
-msgstr ""
+msgstr "العنوان المراد استخدامه في علامة تبويب المتصفح"
 
 msgid "Tixi Commands"
-msgstr ""
+msgstr "Tixi أوامر"
 
 msgid "To activate your domain, you need a valid license. Please contact our support to install a license for your domain."
-msgstr ""
+msgstr "نشيط المجال الخاص بك ، تحتاج إلى ترخيص صالح. يرجى الاتصال بدعمنا لتثبيت ترخيص المجال الخاص بك."
 
 msgid "To see the result click <a href=\"#/device/{{deviceId}}/control\">here</a>"
-msgstr ""
+msgstr "<a href=\"#/device/{{deviceId}}/control\">هنا</a>  لمشاهدة النتيجة ، انقر"
 
 msgid "To`date`"
-msgstr ""
+msgstr "حتى الآن"
 
 msgid "To`new-value`"
-msgstr ""
+msgstr "إلى القيمة الجديدة"
 
 msgid "Toggle"
-msgstr ""
+msgstr "تبديل"
 
 msgid "Toggle auto refresh"
-msgstr ""
+msgstr "تبديل التحديث التلقائي"
 
 msgid "Toggle dropdown"
-msgstr ""
+msgstr "تبديل القائمة المنسدلة"
 
 msgid "Toggle full screen"
-msgstr ""
+msgstr "ملء الشاشة تبديل"
 
 msgid "Toggle help text"
-msgstr ""
+msgstr "تبديل نص المساعدة"
 
 msgid "Toggle maintenance mode"
-msgstr ""
+msgstr "تبديل وضع الصيانة"
 
 msgid "Toggle navigator"
-msgstr ""
+msgstr "تبديل المستكشف"
 
 msgid "Toggle operation"
-msgstr ""
+msgstr "تبديل العملية"
 
 msgid "Toggle realtime"
-msgstr ""
+msgstr "تبديل الوقت الفعلي"
 
 msgid "Toggle side drawer"
-msgstr ""
+msgstr "تبديل الدرج الجانبي"
 
 msgid "Toggle toolbar"
-msgstr ""
+msgstr "تبديل شريط الأدوات"
 
 msgid "Token issuer"
-msgstr ""
+msgstr "مُصدر الرمز"
 
 msgid "Token request"
-msgstr ""
+msgstr "طلب الرمز"
 
 msgid "Token saved."
-msgstr ""
+msgstr ".تم حفظ الرمز"
 
 msgid "Too many custom certificates. With empty Certificate ID, you can have only one custom certificate."
-msgstr ""
+msgstr ".شهادات مخصصة كثيرة جدًا. باستخدام معرف الشهادة الفارغ ، يمكنك الحصول على شهادة مخصصة واحدة فقط"
 
 msgid "Top bar"
-msgstr ""
+msgstr "الشريط العلوى"
 
 msgid "Top margin"
-msgstr ""
+msgstr "الهامش العلوي"
 
 msgid "Total inbound transfer"
-msgstr ""
+msgstr "إجمالي النقل الداخلي"
 
 msgid "Trace status"
-msgstr ""
+msgstr "حالة التتبع"
 
 msgid "Track hidden"
-msgstr ""
+msgstr "المسار مخفي"
 
 msgid "Track visible"
-msgstr ""
+msgstr "المسار مرئي"
 
 msgid "Tracker APN"
-msgstr ""
+msgstr "APN متعقب"
 
 msgid "Tracker IMEI"
-msgstr ""
+msgstr "IMEI تعقب"
 
 msgid "Tracker domain name"
-msgstr ""
+msgstr "اسم نطاق تعقب"
 
 msgid "Tracker is now waiting for connection, complete the registration in the \"Pending tracker registrations\" after it connects to the server."
-msgstr ""
+msgstr " بعد اتصاله بالخادم \"Pending tracker registrations\" في انتظار الاتصال الآن ، أكمل التسجيل في Tracker"
 
 msgid "Tracker model chosen."
-msgstr ""
+msgstr ".تم اختيار نموذج تعقب"
 
 msgid "Tracker password"
-msgstr ""
+msgstr "كلمة مرور المقتفي"
 
 msgid "Tracker phone number"
-msgstr ""
+msgstr "رقم هاتف المقتفي"
 
 msgid "Tracker registration"
-msgstr ""
+msgstr "تسجيل تعقب"
 
 msgid "Tracker registration ready."
-msgstr ""
+msgstr ".تسجيل المتتبع جاهز"
 
 msgid "Tracker situation"
-msgstr ""
+msgstr "حالة تعقب"
 
 msgid "Tracking"
-msgstr ""
+msgstr "تتبع"
 
 msgid "Tracking events"
-msgstr ""
+msgstr "تتبع الأحداث"
 
 msgid "Tracking replay"
-msgstr ""
+msgstr "تتبع الإعادة"
 
 msgid "Traffic light"
-msgstr ""
+msgstr "اشارة المرور"
 
 msgid "TransMode"
-msgstr ""
+msgstr "TransMode"
 
 msgid "Translate widget titles if possible"
-msgstr ""
+msgstr "ترجمة عناوين القطعة إذا أمكن"
 
 msgid "Transmit rate"
-msgstr ""
+msgstr "معدل الإرسال"
 
 msgid "Transparent"
-msgstr ""
+msgstr "شفاف"
 
 msgid "Travelers tracking"
-msgstr ""
+msgstr "تتبع المسافرين"
 
 msgid "Trial Tenant"
-msgstr ""
+msgstr "مستأجر المحاكمة"
 
 msgid "Trial expires in"
-msgstr ""
+msgstr "تنتهي المحاكمة في"
 
 msgid "Trial period started"
-msgstr ""
+msgstr "بدأت الفترة التجريبية"
 
 msgid "Trigger on"
-msgstr ""
+msgstr "الزناد على"
 
 msgid "Truncated data."
-msgstr ""
+msgstr ".البيانات المقطوعة"
 
 msgid "Turn LED off."
-msgstr ""
+msgstr ".LED أطفئ مؤشر"
 
 msgid "Turn LED on."
-msgstr ""
+msgstr ".LED قم بتشغيل"
 
 msgid "Turn off"
-msgstr ""
+msgstr "يطفىء"
 
 msgid "Turn on"
-msgstr ""
+msgstr "شغله"
 
 msgid ""
 "Turn on the registered device(s) and wait for connection(s) to be established.\n"
 "      Once a device is connected, its status will change to \"Pending acceptance\".\n"
 "      You will need to approve it by clicking on the \"accept\" button."
 msgstr ""
+" .قم بتشغيل الجهاز (الأجهزة) المسجلة وانتظر حتى يتم إنشاء الاتصال (الاتصالات) \n"
+"  .\"Pending acceptance\" بمجرد توصيل الجهاز ، ستتغير حالته إلى \n"
+"   .\"accept\" ستحتاج إلى الموافقة عليه بالنقر على زر"
 
 msgid "Turn the LED on or off."
-msgstr ""
+msgstr ".أو إيقاف تشغيله LED قم بتشغيل"
 
 msgid "Twitter news"
-msgstr ""
+msgstr "أخبار تويتر"
 
 msgid ""
 "Twitter timeline widgets relying on account settings are no longer supported (see <a href=\"https://twittercommunity.com/t/deprecating-widget-settings/102295\">announcement</a>).\n"
 "  Instead, you can use the HTML widget to embed timelines using code generated at <a href=\"https://publish.twitter.com\">Twitter Publish</a>."
 msgstr ""
+"  .(<a href=\"https://twittercommunity.com/t/deprecating-widget-settings/102295\">إعلان</a>لم تعد أدوات الخط الزمني للتويتر التي تعتمد على إعدادات الحساب مدعومة (انظر"
+"  <a href=\"https://publish.twitter.com\">نشر التغريد</a> لتضمين المخططات الزمنية باستخدام التعليمات البرمجية التي تم إنشاؤها في HTML بدلاً من ذلك ، يمكنك استخدام عنصر واجهة مستخدم"
 
 msgid "Twitter's username"
-msgstr ""
+msgstr "اسم مستخدم تويتر"
 
 msgid "Twitter's widget ID"
-msgstr ""
+msgstr "Twitter معرف عنصر واجهة مستخدم "
 
 msgid "Two factor authentication token expired."
-msgstr ""
+msgstr ".انتهت صلاحية رمز المصادقة ذو العاملين"
 
 msgid "Two-factor authentication"
-msgstr ""
+msgstr "توثيق ذو عاملين"
 
 msgid "Type"
-msgstr ""
+msgstr "نوع"
 
 msgid "Type filter"
-msgstr ""
+msgstr "اكتب عامل التصفية"
 
 msgid "Type here"
-msgstr ""
+msgstr "أكتب هنا"
 
 msgid "Type independent"
-msgstr ""
+msgstr "اكتب بشكل مستقل"
 
 msgid "Type of log"
-msgstr ""
+msgstr "نوع السجل"
 
 msgid "Type of log to"
-msgstr ""
+msgstr "نوع السجل إلى"
 
 msgid "Type to filter"
-msgstr ""
+msgstr "اكتب للتصفية"
 
 msgid "Types"
-msgstr ""
+msgstr "أنواع"
 
 msgid "UDP"
-msgstr ""
+msgstr "UDP"
 
 msgid "UDP with queue mode"
-msgstr ""
+msgstr "مع وضع قائمة الانتظار UDP "
 
 msgid "UI"
-msgstr ""
+msgstr "UI"
 
 msgid "UNSIGNED"
-msgstr ""
+msgstr "غير موقعة"
 
 msgid "URL"
-msgstr ""
+msgstr "URL"
 
 msgid "USER"
-msgstr ""
+msgstr "المستعمل"
 
 msgid "Unable to find option by given key: sigfox-agent/provider.token"
-msgstr ""
+msgstr "sigfox-agent/provider.token :غير قادر على إيجاد خيار بمفتاح معين"
 
 msgid "Unable to get system option: \"{{option}}\"."
-msgstr ""
+msgstr ".\"{{option}}\" :غير قادر على الحصول على خيار النظام"
 
 msgid "Unable to get tenant option: \"{{option}}\"."
-msgstr ""
+msgstr ".\"{{option}}\" :غير قادر على الحصول على خيار المستأجر"
 
 msgid "Unassign"
-msgstr ""
+msgstr "إلغاء التعيين"
 
 msgid "Unassign device"
-msgstr ""
+msgstr "إلغاء تعيين الجهاز"
 
 msgid "Unassign item"
-msgstr ""
+msgstr "إلغاء تعيين العنصر"
 
 msgid "Uncategorized"
-msgstr ""
+msgstr "غير مصنف"
 
 msgid "Uncheck all visible"
-msgstr ""
+msgstr "قم بإلغاء تحديد كل ما هو مرئي"
 
 msgid "Unchecked"
-msgstr ""
+msgstr "غير محدد"
 
 msgid "Undelegate"
-msgstr ""
+msgstr "إلغاء التفويض"
 
 msgid "Under maintenance"
-msgstr ""
+msgstr "تحت الصيانة"
 
 msgid "Unhealthy"
-msgstr ""
+msgstr "غير صحي"
 
 msgid "Unique SGI interface identifier"
-msgstr ""
+msgstr "الفريد SGI معرف واجهة"
 
 msgid "Unique template ID"
-msgstr ""
+msgstr "معرف قالب فريد"
 
 msgid "Unit"
-msgstr ""
+msgstr "وحدة"
 
 msgid "Unit conversion"
-msgstr ""
+msgstr "تحويل الوحدة"
 
 msgid "Unit:"
-msgstr ""
+msgstr ":وحدة"
 
 msgid "Units"
-msgstr ""
+msgstr "الوحدات"
 
 msgid "Unknown"
-msgstr ""
+msgstr "مجهول"
 
 msgid "Unlock"
-msgstr ""
+msgstr "الغاء القفل"
 
 msgid "Unnamed field"
-msgstr ""
+msgstr "حقل بدون اسم"
 
 msgid "Unsigned (16-bits)"
-msgstr ""
+msgstr "غير موقعة (16 بت)"
 
 msgid "Unsigned (24-bits)"
-msgstr ""
+msgstr "غير موقعة (24 بت)"
 
 msgid "Unsigned (32-bits)"
-msgstr ""
+msgstr "غير موقعة (32 بت)"
 
 msgid "Unsigned (40-bits)"
-msgstr ""
+msgstr "غير موقعة (40 بت)"
 
 msgid "Unsigned (48-bits)"
-msgstr ""
+msgstr "غير موقعة (48 بت)"
 
 msgid "Unsigned (56-bits)"
-msgstr ""
+msgstr "غير موقعة (56 بت)"
 
 msgid "Unsigned (64-bits)"
-msgstr ""
+msgstr "غير موقعة (64 بت)"
 
 msgid "Unsigned (8-bits)"
-msgstr ""
+msgstr "غير موقعة (8 بت)"
 
 msgid "Unsubscribe"
-msgstr ""
+msgstr "إلغاء الاشتراك"
 
 msgid "Unsupported device type."
-msgstr ""
+msgstr "نوع الجهاز غير مدعوم"
 
 msgid "Unsupported file format."
-msgstr ""
+msgstr "تنسيق ملف غير معتمد"
 
 msgid "Unsupported tracker model \"{{tracker.device.c8y_Hardware.model}}\". Select one of the supported models from the list below."
-msgstr ""
+msgstr ".حدد أحد النماذج المدعومة من القائمة أدناه .\"{{tracker.device.c8y_Hardware.model}}\" طراز تعقب غير معتمد"
 
 msgid "Up"
-msgstr ""
+msgstr "فوق"
 
 msgid "Up to 120 characters allowed."
-msgstr ""
+msgstr ".مسموح بحد أقصى 120 حرفًا"
 
 msgid "Up to 256 characters allowed."
-msgstr ""
+msgstr ".يُسمح حتى 256 حرفًا"
 
 msgid "Up to 32 characters allowed."
-msgstr ""
+msgstr ".يُسمح بما يصل إلى 32 حرفًا"
 
 msgid "Up to 6 archives can be saved in the platform. If you upload a new archive, the oldest archive that is not active will be deleted. Do you want to proceed?"
-msgstr ""
+msgstr "  يمكن حفظ ما يصل إلى 6 أرشيفات في النظام الأساسي. إذا قمت بتحميل أرشيف جديد ، فسيتم حذف الأرشيف الأقدم غير النشط. هل تريد المتابعة؟ "
 
 msgid "Update"
-msgstr ""
+msgstr "تحديث"
 
 msgid "Update \"{{getLinkedKpiLabel()}}\" in library"
-msgstr ""
+msgstr "في المكتبة  \"{{getLinkedKpiLabel()}}\" تحديث"
 
 msgid "Update Maximum Credit"
-msgstr ""
+msgstr "تحديث الحد الأقصى للائتمان"
 
 msgid "Update a fragment in managed object whenever the value is changed"
-msgstr ""
+msgstr "تحديث جزء في كائن مُدار كلما تغيرت القيمة"
 
 msgid "Update configuration"
-msgstr ""
+msgstr "تحديث التكوين"
 
 msgid "Update device software."
-msgstr ""
+msgstr ".تحديث برنامج الجهاز"
 
 msgid "Update firmware to: {{name}} (version: {{version}})."
-msgstr ""
+msgstr ".( {{version}} :الإصدار){{name}} :تحديث البرنامج الثابت إلى: "
 
 msgid "Update managed object"
-msgstr ""
+msgstr "تحديث الكائن المُدار"
 
 msgid "Update protocol configuration"
-msgstr ""
+msgstr "تحديث تكوين البروتوكول"
 
 msgid "Update settings"
-msgstr ""
+msgstr "تحديث الاعدادات"
 
 msgid "Update severity of existing alarm"
-msgstr ""
+msgstr "تحديث شدة الإنذار الموجود"
 
 msgid "Update status (read/write access)"
-msgstr ""
+msgstr "حالة التحديث (الوصول للقراءة / الكتابة)"
 
 msgid "Update status (write)"
-msgstr ""
+msgstr "تحديث الحالة (كتابة)"
 
 msgid "Update tracker connection settings"
-msgstr ""
+msgstr "تحديث إعدادات اتصال تعقب"
 
 msgid "Update tracker situation"
-msgstr ""
+msgstr "تحديث حالة تعقب"
 
 msgid "Update vending machine"
-msgstr ""
+msgstr "تحديث آلة البيع"
 
 msgid "Updated"
-msgstr ""
+msgstr "محدث"
 
 msgid "Updated child device of \"{{parentDeviceName}}\" (ID: {{parentDeviceId}})."
-msgstr ""
+msgstr "   ( {{parentDeviceId}}  :المعرّف) \"{{parentDeviceName}}\" جهاز فرعي محدث لـ "
 
 msgid "Updating tracker situation"
-msgstr ""
+msgstr "تحديث حالة تعقب"
 
 msgid "Upgrade completed."
-msgstr ""
+msgstr ".اكتملت الترقية"
 
 msgid "Upgrade to Enterprise Tenant"
-msgstr ""
+msgstr "Enterprise Tenant  الترقية إلى"
 
 msgid "Upgrade to Standard Tenant"
-msgstr ""
+msgstr "الترقية إلى المستأجر القياسي"
 
 msgid "Upload"
-msgstr ""
+msgstr "رفع"
 
 msgid "Upload a PKCS #12 (.pk12) file containing the private key and certificate."
-msgstr ""
+msgstr " يحتوي على المفتاح الخاص والشهادة (.pk12) PKCS #12 قم بتحميل ملف"
 
 msgid "Upload a file to bulk-register devices"
-msgstr ""
+msgstr "قم بتحميل ملف لتسجيل الأجهزة بشكل مجمّع"
 
 msgid "Upload a text file"
-msgstr ""
+msgstr "قم بتحميل ملف نصي"
 
 msgid "Upload archive"
-msgstr ""
+msgstr "تحميل أرشيف"
 
 msgid "Upload certificate"
-msgstr ""
+msgstr "تحميل الشهادة"
 
 msgid "Upload file"
-msgstr ""
+msgstr "رفع ملف"
 
 msgid "Upload files"
-msgstr ""
+msgstr "تحميل الملفات"
 
 msgid "Upload keystore"
-msgstr ""
+msgstr "تحميل ملف تخزين المفاتيح"
 
 msgid "Upload microservice"
-msgstr ""
+msgstr "تحميل الخدمات المصغرة"
 
 msgid "Upload web application"
-msgstr ""
+msgstr "تحميل تطبيق ويب"
 
 msgid "Upload {{vm.wizardCtrl.data.chosenMethod.expectedExtension}} file"
-msgstr ""
+msgstr "{{vm.wizardCtrl.data.chosenMethod.expectedExtension}}  تحميل ملف "
 
 msgid "Uploading"
-msgstr ""
+msgstr "تحميل"
 
 msgid "Uploading file"
-msgstr ""
+msgstr "تحميل ملف"
 
 msgid "Uptime"
-msgstr ""
+msgstr "مدة التشغيل"
 
 msgid "Usage between {{start}} - {{end}}"
-msgstr ""
+msgstr " {{end}} - {{start}} الاستخدام بين"
 
 msgid "Usage in the last month ({{lastMonthStart}} - {{lastMonthEnd}}): {{lastMonthUsage}}"
-msgstr ""
+msgstr "({{lastMonthStart}} - {{lastMonthEnd}}): {{lastMonthUsage}}  الاستخدام في الشهر الماضي"
 
 msgid "Usage in this month to date ({{thisMonthStart}} - {{thisMonthEnd}})"
-msgstr ""
+msgstr "({{thisMonthStart}} - {{thisMonthEnd}})  الاستخدام في هذا الشهر حتى الآن"
 
 msgid "Usage statistics"
-msgstr ""
+msgstr "إحصائيات الاستخدام"
 
 msgid "Usage statistics.csv"
-msgstr ""
+msgstr "statistics.csv الاستخدا"
 
 msgid "Use"
-msgstr ""
+msgstr "استعمال"
 
 msgid "Use * to allow any values."
-msgstr ""
+msgstr ".استخدم * للسماح بأي قيم"
 
 msgid "Use DDCMP list #2, RS232 #2"
-msgstr ""
+msgstr "RS232 #2 ,DDCMP # 2  استخدم قائمة"
 
 msgid "Use DDCMP list 2 on RS232 #1"
-msgstr ""
+msgstr " RS232 # 1 على DDCMP 2 استخدم قائمة"
 
 msgid "Use FTL File Id 2 (default 1)"
-msgstr ""
+msgstr "(افتراضي 1) FTL 2 استخدام معرف ملف"
 
 msgid "Use Reset Counters"
-msgstr ""
+msgstr "استخدم عدادات إعادة تعيين"
 
 msgid "Use constant value"
-msgstr ""
+msgstr "استخدم قيمة ثابتة"
 
 msgid "Use enhanced DDCMP @ 2400 on RS232 #1"
-msgstr ""
+msgstr "RS232 #1 المحسن على DDCMP @ 2400  استخدم"
 
 msgid "Use enhanced DDCMP @ 2400 on RS232 #2"
-msgstr ""
+msgstr "RS232 # 2 المحسن على DDCMP @ 2400 استخدم"
 
 msgid "Use placeholders carefully."
-msgstr ""
+msgstr ".استخدم العناصر النائبة بعناية"
 
 msgid "Use server time"
-msgstr ""
+msgstr "استخدم وقت الخادم"
 
 msgid "Use settings as default"
-msgstr ""
+msgstr "استخدم الإعدادات كافتراضية"
 
 msgid "Use the input field above to search for devices."
-msgstr ""
+msgstr ".استخدم حقل الإدخال أعلاه للبحث عن الأجهزة"
 
 msgid "Use the selector above to set the reference device"
-msgstr ""
+msgstr "استخدم المحدد أعلاه لتعيين الجهاز المرجعي"
 
 msgid "Use the wizard to register a new device."
-msgstr ""
+msgstr ".استخدم المعالج لتسجيل جهاز جديد"
 
 msgid "Use this operation"
-msgstr ""
+msgstr "استخدم هذه العملية"
 
 msgid "User"
-msgstr ""
+msgstr "المستعمل"
 
 msgid "User \"{{name}}\" created"
-msgstr ""
+msgstr " \"{{name}}\" تم إنشاء المستخدم"
 
 msgid "User \"{{name}}\" deleted"
-msgstr ""
+msgstr "\"{{name}}\" تم حذف المستخدم"
 
 msgid "User \"{{name}}\" updated: {{updatesList}}"
-msgstr ""
+msgstr " {{updatesList}} :\"{{name}}\" تم تحديث المستخدم"
 
 msgid "User \"{{userName}}\" deleted."
-msgstr ""
+msgstr "\"{{userName}}\" تم حذف المستخدم"
 
 msgid "User \"{{userName}}\" is managed by a remote identity management service defined by an administrator, direct update is forbidden."
-msgstr ""
+msgstr " ن خلال خدمة إدارة الهوية عن بُعد التي يحددها المشرف ، ويحظر التحديث المباشر \"{{userName}}\" تتم إدارة المستخدم"
 
 msgid "User \"{{username}}\" already exists."
-msgstr ""
+msgstr ".موجود بالفعل \"{{username}}\" المستخدم"
 
 msgid "User ID"
-msgstr ""
+msgstr "معرف المستخدم"
 
 msgid "User TOTP secret revoked."
-msgstr ""
+msgstr " الخاص بالمستخدم TOTP تم إلغاء سر"
 
 msgid "User created"
-msgstr ""
+msgstr "تم إنشاء المستخدم"
 
 msgid "User deleted"
-msgstr ""
+msgstr "تم حذف المستخدم"
 
 msgid "User deleted."
-msgstr ""
+msgstr ".تم حذف المستخدم"
 
 msgid "User disabled."
-msgstr ""
+msgstr ".تم تعطيل المستخدم"
 
 msgid "User enabled."
-msgstr ""
+msgstr ".تمكين المستخدم"
 
 msgid "User guide`KEEP_ORIGINAL`"
-msgstr ""
+msgstr "`KEEP_ORIGINAL` دليل المستخدم"
 
 msgid "User management"
-msgstr ""
+msgstr "إدارةالمستخدم"
 
 msgid "User management password reset"
-msgstr ""
+msgstr "إعادة تعيين كلمة مرور إدارة المستخدم"
 
 msgid "User must reset password on next login"
-msgstr ""
+msgstr "يجب على المستخدم إعادة تعيين كلمة المرور عند تسجيل الدخول التالي"
 
 msgid "User permissions"
-msgstr ""
+msgstr "أذونات المستخدم"
 
 msgid "User roles copied."
-msgstr ""
+msgstr ".تم نسخ أدوار المستخدم"
 
 msgid "User saved."
-msgstr ""
+msgstr ".تم حفظ المستخدم"
 
 msgid "User settings"
-msgstr ""
+msgstr "إعدادات المستخدم"
 
 msgid "User to work in Cockpit application. This does not include the access to any device data."
-msgstr ""
+msgstr " .هذا لا يشمل الوصول إلى أي بيانات الجهاز. .Cockpit المستخدم للعمل في تطبيق"
 
 msgid "User unauthorized error message"
-msgstr ""
+msgstr "رسالة خطأ غير مصرح بها المستخدم"
 
 msgid "User updated"
-msgstr ""
+msgstr "تم تحديث المستخدم"
 
 msgid "User with email \"{{email}}\" already exists."
-msgstr ""
+msgstr "  موجود بالفعل \"{{email}}\" المستخدم ذو البريد الإلكتروني"
 
 msgid "User with username or login alias \"{{usernameOrAlias}}\" already exists."
-msgstr ""
+msgstr " موجود بالفعل \"{{usernameOrAlias}}\" المستخدم باسم المستخدم أو الاسم المستعار لتسجيل الدخول"
 
 msgid "User's application access changed."
-msgstr ""
+msgstr ".تم تغيير وصول تطبيق المستخدم"
 
 msgid "Username"
-msgstr ""
+msgstr "اسم المستخدم"
 
 msgid "Username (e.g. email)"
-msgstr ""
+msgstr "اسم المستخدم (مثل البريد الإلكتروني)"
 
 msgid "Username and login alias"
-msgstr ""
+msgstr "اسم المستخدم والاسم المستعار لتسجيل الدخول"
 
 msgid "Username and login alias must be different."
-msgstr ""
+msgstr "يجب أن يكون اسم المستخدم والاسم المستعار لتسجيل الدخول مختلفين"
 
 msgid "Username and password"
-msgstr ""
+msgstr "اسم المستخدم و كلمة السر"
 
 msgid "Username must not contain spaces nor slashes (\"/\", \"\\\") nor (\"+\"), (\":\"), (\"$\") signs."
-msgstr ""
+msgstr "  (\"/\", \"\\\") ولا (\"+\"), (\":\"), (\"$\")  يجب ألا يحتوي اسم المستخدم على مسافات أو شُرط مائلة علامات"
 
 msgid "Username/Password"
-msgstr ""
+msgstr "اسم المستخدم كلمة المرور"
 
 msgid "Users"
-msgstr ""
+msgstr "المستخدمون"
 
 msgid "VAT ID"
-msgstr ""
+msgstr "VAT ID"
 
 msgid "VMC supports undefined credit"
-msgstr ""
+msgstr " الائتمان غير المحدد VMC يدعم"
 
 msgid "VNC"
-msgstr ""
+msgstr "VNC"
 
 msgid "Valid"
-msgstr ""
+msgstr "صالح"
 
 msgid "Valid IMEI number required."
-msgstr ""
+msgstr "صالح IMEI مطلوب رقم"
 
 msgid "Valid URL required."
-msgstr ""
+msgstr "صالح URL مطلوب عنوان"
 
 msgid "Valid from"
-msgstr ""
+msgstr "صالح من تاريخ"
 
 msgid "Valid phone number with country prefix required."
-msgstr ""
+msgstr ".مطلوب رقم هاتف صالح مع بادئة البلد"
 
 msgid "Valid thru"
-msgstr ""
+msgstr "صالح من خلال"
 
 msgid "Valid till"
-msgstr ""
+msgstr "صالح حتى"
 
 msgid "Valid to"
-msgstr ""
+msgstr "صالحة ل"
 
 msgid "Validation rules"
-msgstr ""
+msgstr "قواعد التحقق"
 
 msgid "Validation rules set"
-msgstr ""
+msgstr "تم تعيين قواعد التحقق"
 
 msgid "Validity limit"
-msgstr ""
+msgstr "حد الصلاحية"
 
 msgid "Value"
-msgstr ""
+msgstr "القيمة"
 
 msgid "Value and unit"
-msgstr ""
+msgstr "القيمة والوحدة"
 
 msgid "Value cannot be greater than maximum."
-msgstr ""
+msgstr ".لا يمكن أن تكون القيمة أكبر من الحد الأقصى"
 
 msgid "Value cannot be lower than minimum."
-msgstr ""
+msgstr ".لا يمكن أن تكون القيمة أقل من الحد الأدنى"
 
 msgid "Value cannot be used more than once."
-msgstr ""
+msgstr ".لا يمكن استخدام القيمة أكثر من مرة"
 
 msgid "Value displayed when data is aggregated"
-msgstr ""
+msgstr "القيمة المعروضة عندما يتم تجميع البيانات"
 
 msgid "Value for active"
-msgstr ""
+msgstr "القيمة النشطة"
 
 msgid "Value for inactive"
-msgstr ""
+msgstr "قيمة غير نشطة"
 
 msgid "Value has been changed while you were editing it."
-msgstr ""
+msgstr ".تم تغيير القيمة أثناء قيامك بتحريرها"
 
 msgid "Value in ms"
-msgstr ""
+msgstr "القيمة بالمللي ثانية"
 
 msgid "Value in px"
-msgstr ""
+msgstr "القيمة بالبكسل"
 
 msgid "Value must be a positive number."
-msgstr ""
+msgstr ".يجب أن تكون القيمة رقمًا موجبًا"
 
 msgid "Value must be defined."
-msgstr ""
+msgstr ".يجب تحديد القيمة"
 
 msgid "Value must be greater than range minimum."
-msgstr ""
+msgstr ".يجب أن تكون القيمة أكبر من الحد الأدنى للمدى"
 
 msgid "Value must be greater than respective minimum."
-msgstr ""
+msgstr ".يجب أن تكون القيمة أكبر من الحد الأدنى لكل منها"
 
 msgid "Value must be greater than scale minimum."
-msgstr ""
+msgstr ".يجب أن تكون القيمة أكبر من الحد الأدنى للمقياس"
 
 msgid "Value must be less than range maximum."
-msgstr ""
+msgstr ".يجب أن تكون القيمة أقل من النطاق الأقصى"
 
 msgid "Value must be less than respective maximum."
-msgstr ""
+msgstr ".يجب أن تكون القيمة أقل من الحد الأقصى"
 
 msgid "Value must be less than scale maximum."
-msgstr ""
+msgstr ".يجب أن تكون القيمة أقل من المقياس الأقصى"
 
 msgid "Value normalisation"
-msgstr ""
+msgstr "تطبيع القيمة"
 
 msgid "Value of {{name}} has been changed to {{value}}{{unit}}"
-msgstr ""
+msgstr " {{value}}{{unit}}  إلى {{name}} تم تغيير قيمة"
 
 msgid "Value of {{name}} will be changed to {{value}}{{unit}}"
-msgstr ""
+msgstr " {{value}}{{unit}}  إلى {{name}} سيتم تغيير قيمة"
 
 msgid "Value out of range. Allowed values from {{min | number}} to {{max | number}} with step {{step | number}}. Use up/down arrows to find nearest possible value."
-msgstr ""
+msgstr " .استخدم الأسهم لأعلى / لأسفل للعثور على أقرب قيمة ممكنة .{{step | number}} بالخطوة {{max | number}}  إلى {{min | number}} القيمة خارج النطاق. القيم المسموح بها من"
 
 msgid "Value out of range. Allowed values from {{min | number}} to {{max | number}}."
-msgstr ""
+msgstr ".{{max | number}} إلى {{min | number}} القيمة خارج النطاق. القيم المسموح بها من"
 
 msgid "Value selection"
-msgstr ""
+msgstr "اختيار القيمة"
 
 msgid "Value {{viewValue}} is equal to exclusive maximum {{schema.exclusiveMaximum}}."
-msgstr ""
+msgstr ".{{schema.exclusiveMaximum}}  تساوي الحد الأقصى الحصري  {{viewValue}} القيمة"
 
 msgid "Value {{viewValue}} is equal to exclusive minimum {{schema.exclusiveMinimum}}."
-msgstr ""
+msgstr " {{schema.exclusiveMinimum}} تساوي الحد الأدنى الحصري  {{viewValue}} القيمة"
 
 msgid "Value {{viewValue}} is greater than maximum {{schema.maximum}}."
-msgstr ""
+msgstr ".{{schema.maximum}} أكبر من الحد الأقصى {{viewValue}} القيمة"
 
 msgid "Value {{viewValue}} is less than minimum {{schema.minimum}}."
-msgstr ""
+msgstr ".{{schema.minimum}} أقل من الحد الأدنى {{viewValue}} القيمة"
 
 msgid "Value {{viewValue}} is not a valid number."
-msgstr ""
+msgstr "ليست رقمًا صالحًا {{viewValue}} القيمة"
 
 msgid "Value, unit and time"
-msgstr ""
+msgstr "القيمة والوحدة والوقت"
 
 msgid "Values"
-msgstr ""
+msgstr "القيم"
 
 msgid "Values separated by semicolon, e.g.:"
-msgstr ""
+msgstr ":القيم مفصولة بفاصلة منقوطة ، مثل"
 
 msgid "Variable"
-msgstr ""
+msgstr "متغير"
 
 msgid "Variables"
-msgstr ""
+msgstr "المتغيرات"
 
 msgid "Vehicle tracking device"
-msgstr ""
+msgstr "جهاز تتبع المركبات"
 
 msgid "Vending Machine Settings"
-msgstr ""
+msgstr "إعدادات آلة البيع"
 
 msgid "Vendme"
-msgstr ""
+msgstr "Vendme"
 
 msgid "Verification code"
-msgstr ""
+msgstr "رمز التحقق"
 
 msgid "Verification code SMS resent."
-msgstr ""
+msgstr ".SMS استيقظ رمز التحقق"
 
 msgid "Verification token SMS template"
-msgstr ""
+msgstr "رمز التحقق SMS قالب"
 
 msgid "Verifier"
-msgstr ""
+msgstr "المدقق"
 
 msgid "Verify"
-msgstr ""
+msgstr "تحقق"
 
 msgid "Version"
-msgstr ""
+msgstr "الإصدار"
 
 msgid "Version 1"
-msgstr ""
+msgstr "النسخة 1"
 
 msgid "Version 2c"
-msgstr ""
+msgstr "الإصدار 2 ج"
 
 msgid "Version 3"
-msgstr ""
+msgstr "الإصدار 3"
 
 msgid "Version: {{vm.backendVersion}} (backend), {{vm.uiVersion}} (UI)"
-msgstr ""
+msgstr " (واجهة المستخدم) {{vm.uiVersion}} ,(الخلفية)  {{vm.backendVersion}} :الإصدار"
 
 msgid "Very high temperature detected."
-msgstr ""
+msgstr ".تم الكشف عن درجة حرارة عالية جدًا"
 
 msgid "Vibration"
-msgstr ""
+msgstr "اهتزاز"
 
 msgid "Vibration alarm"
-msgstr ""
+msgstr "إنذار بالاهتزاز"
 
 msgid "Vibration detector"
-msgstr ""
+msgstr "كاشف الاهتزاز"
 
 msgid "Video analytics"
-msgstr ""
+msgstr "تحليلات الفيديو"
 
 msgid "View history"
-msgstr ""
+msgstr "عرض السجل"
 
 msgid "Visible on login page"
-msgstr ""
+msgstr "مرئي على صفحة تسجيل الدخول"
 
 msgid "Visualizes traffic light based on the states of a device"
-msgstr ""
+msgstr "تصور إشارة المرور بناءً على حالات الجهاز"
 
 msgid "Voice usage (sec)"
-msgstr ""
+msgstr "استخدام الصوت (ثانية)"
 
 msgid "WAITING FOR CONNECTION"
-msgstr ""
+msgstr "في انتظار الاتصال"
 
 msgid "WAN"
-msgstr ""
+msgstr "WAN"
 
 msgid "WAN IP address"
-msgstr ""
+msgstr "عنوان  WAN IP"
 
 msgid "WAN Profile"
-msgstr ""
+msgstr "WAN ملف تعريف"
 
 msgid "WARNING"
-msgstr ""
+msgstr "تحذير"
 
 msgid "Wait while groups for current tenant are loaded&hellip;"
-msgstr ""
+msgstr "نتظر بينما يتم تحميل مجموعات المستأجر الحالي"
 
 msgid "Wait while provider settings are loaded&hellip;"
-msgstr ""
+msgstr "انتظر بينما يتم تحميل إعدادات الموفر"
 
 msgid "Wait while providers are loaded"
-msgstr ""
+msgstr "انتظر بينما يتم تحميل مقدمي"
 
 msgid "Wait while settings are loaded&hellip;"
-msgstr ""
+msgstr "انتظر بينما يتم تحميل الإعدادات"
 
 msgid "Waiting"
-msgstr ""
+msgstr "انتظار"
 
 msgid "Waiting for connection"
-msgstr ""
+msgstr "في انتظار الاتصال"
 
 msgid "Waiting for data subscription setup to complete…"
-msgstr ""
+msgstr "...في انتظار اكتمال إعداد اشتراك البيانات "
 
 msgid "Waiting in queue"
-msgstr ""
+msgstr "الانتظار في طابور"
 
 msgid "Wake device on move"
-msgstr ""
+msgstr "استيقظ الجهاز أثناء التنقل"
 
 msgid "Wake device on shock"
-msgstr ""
+msgstr "استيقظ الجهاز عند الصدمة"
 
 msgid "Warning"
-msgstr ""
+msgstr "تحذير"
 
 msgid "Warning alarms"
-msgstr ""
+msgstr "الإنذارات التحذيرية"
 
 msgid "Warning email subject"
-msgstr ""
+msgstr "موضوع البريد الإلكتروني التحذيري"
 
 msgid "Warning email template"
-msgstr ""
+msgstr "قالب البريد الإلكتروني التحذيري"
 
 msgid "Warning: measurements with different units are selected."
-msgstr ""
+msgstr ".تحذير: تم تحديد القياسات بوحدات مختلفة"
 
 msgid "Warnings"
-msgstr ""
+msgstr "تحذيرات"
 
 msgid "We will now log you out and redirect to your new domain {{vm.redirectUrl}} in <b>1</b> second."
 msgid_plural "We will now log you out and redirect to your new domain {{vm.redirectUrl}} in <b>{{$count}}</b> seconds."
@@ -12784,151 +12793,151 @@ msgstr[0] ""
 msgstr[1] ""
 
 msgid "We will use the provided information on the next billing cycle."
-msgstr ""
+msgstr ".سنستخدم المعلومات المقدمة حول دورة الفوترة التالية"
 
 msgid "We will use the provided information on the next<br> billing cycle, starting on {{vm.resolve.contractInfo.NextBillingDate | absoluteDateTimeFormat:'ll'}}."
-msgstr ""
+msgstr ".{{vm.resolve.contractInfo.NextBillingDate | absoluteDateTimeFormat:'ll'}} التالية ، بدءًا من <br> سنستخدم المعلومات المقدمة حول دورة الفوترة"
 
 msgid "Web SDK guide`KEEP_ORIGINAL`"
-msgstr ""
+msgstr "`KEEP_ORIGINAL` للويب SDK دليل"
 
 msgid "Week"
-msgstr ""
+msgstr "أسبوع"
 
 msgid "Welcome"
-msgstr ""
+msgstr "أهلا بك"
 
 msgid "Welcome to"
-msgstr ""
+msgstr "مرحبا بك في"
 
 msgid "Welcome to Administration"
-msgstr ""
+msgstr "مرحبًا بك في الإدارة"
 
 msgid "Welcome to Cockpit application"
-msgstr ""
+msgstr "مرحبا بكم في تطبيق قمرة القيادة"
 
 msgid "Welcome to {{vm.appName | humanizeAppName}}"
-msgstr ""
+msgstr "{{vm.appName | humanizeAppName}} مرحبا بك في"
 
 msgid "When"
-msgstr ""
+msgstr "متي"
 
 msgid "When alarm is received then SMS is sent"
-msgstr ""
+msgstr "عند تلقي الإنذار ، يتم إرسال الرسائل القصيرة"
 
 msgid "When alarm is received then email is sent"
-msgstr ""
+msgstr "عندما يتم تلقي التنبيه ثم يتم إرسال البريد الإلكتروني"
 
 msgid "When clicking OK you agree that a support user gets access to your tenant to help you in your specific problem."
-msgstr ""
+msgstr ".عند النقر فوق موافق ، فإنك توافق على أن مستخدم الدعم يحصل على حق الوصول إلى المستأجر الخاص بك لمساعدتك في مشكلتك المحددة"
 
 msgid "When clicking OK you agree that support personnel from {{company_name}} gets access to your user interface in order to be able to help you with your specific problem."
-msgstr ""
+msgstr " .يحصلون على حق الوصول إلى واجهة المستخدم الخاصة بك من أجل مساعدتك في حل مشكلتك الخاصة {{company_name}} عند النقر فوق "موافق" ، فأنت توافق على أن موظفي الدعم من"
 
 msgid "When clicking OK you agree that you no longer need support from support personnel of {{company_name}}."
-msgstr ""
+msgstr ".{{company_name}}  عند النقر فوق موافق ، فإنك توافق على أنك لم تعد بحاجة إلى دعم من موظفي الدعم في"
 
 msgid "When clicking OK you agree that you no longer need support."
-msgstr ""
+msgstr ".عند النقر فوق "موافق" ، فإنك توافق على أنك لم تعد بحاجة إلى الدعم"
 
 msgid "When enabled, a verification code sent by SMS is required to complete authentication"
-msgstr ""
+msgstr "لإكمال المصادقة SMS عند التمكين ، يلزم إدخال رمز التحقق الذي تم إرساله بواسطة"
 
 msgid "Who"
-msgstr ""
+msgstr "منظمة الصحة العالمية"
 
 msgid "Widget"
-msgstr ""
+msgstr "القطعة"
 
 msgid "Widget can assign device to selected group"
-msgstr ""
+msgstr "القطعة يمكن تعيين جهاز لمجموعة مختارة"
 
 msgid "Widget created."
-msgstr ""
+msgstr "تم إنشاء الأداة"
 
 msgid "Widget displays connectivity status for particular device"
-msgstr ""
+msgstr "يعرض القطعة حالة الاتصال لجهاز معين"
 
 msgid "Widget example content."
-msgstr ""
+msgstr ".محتوى القطعة القطعة"
 
 msgid "Widget for switching relay"
-msgstr ""
+msgstr "القطعة للتبديل التتابع"
 
 msgid "Widget margins"
-msgstr ""
+msgstr "هوامش القطعة"
 
 msgid "Widget title"
-msgstr ""
+msgstr "عنوان الأداة"
 
 msgid "Wireframe"
-msgstr ""
+msgstr "الإطار السلكي"
 
 msgid "With critical alarms"
-msgstr ""
+msgstr "مع أجهزة الإنذار الحرجة"
 
 msgid "With this application you can"
-msgstr ""
+msgstr "مع هذا التطبيق يمكنك"
 
 msgid "World"
-msgstr ""
+msgstr "العالمية"
 
 msgid "Write"
-msgstr ""
+msgstr "كتابة"
 
 msgid "Write application type \"CO2\" to device"
-msgstr ""
+msgstr "على الجهاز \"CO2\" اكتب نوع التطبيق"
 
 msgid "Write-only"
-msgstr ""
+msgstr "اكتب فقط"
 
 msgid "Wrong file format. Expected a *.zip file with a valid manifest."
-msgstr ""
+msgstr ".ملف ببيان صالح *.zip تنسيق ملف خاطئ. تم توقع ملف"
 
 msgid "Wrong file format. Expected a *.zip file with a valid web application."
-msgstr ""
+msgstr ".مع تطبيق ويب صالح *.zip نسيق ملف خاطئ. يتوقع أ"
 
 msgid "X.509 certificate (PEM format)"
-msgstr ""
+msgstr "(PEM تنسيق)X.509 شهادة "
 
 msgid "Xirgo OBD"
-msgstr ""
+msgstr "Xirgo OBD"
 
 msgid "Y Axis"
-msgstr ""
+msgstr "المحور ص"
 
 msgid "Year"
-msgstr ""
+msgstr "عام"
 
 msgid "Yellow range"
-msgstr ""
+msgstr "مجموعة صفراء"
 
 msgid "Yellow range: {{min}} … {{max}}"
-msgstr ""
+msgstr "{{max}} … {{min}} :النطاق الأصفر:"
 
 msgid "Yes"
-msgstr ""
+msgstr "نعم"
 
 msgid "You are about to activate a custom domain name."
-msgstr ""
+msgstr ".أنت على وشك تنشيط اسم مجال مخصص"
 
 msgid "You are about to allow a support user from {{companyName}} to access your tenant to help you with your issue."
-msgstr ""
+msgstr "بالوصول إلى المستأجر لمساعدتك في حل مشكلتك {{companyName}} أنت على وشك السماح لمستخدم دعم من"
 
 msgid "You are about to allow a support user to access your tenant to help you with your issue."
-msgstr ""
+msgstr ".أنت على وشك السماح لمستخدم دعم بالوصول إلى المستأجر لمساعدتك في حل مشكلتك"
 
 msgid "You are about to apply the branding configuration, making it visible to all subtenants. Do you want to proceed?"
-msgstr ""
+msgstr "أنت على وشك تطبيق تهيئة العلامة التجارية ، مما يجعلها مرئية لجميع المستأجرين من الباطن. هل تريد المتابعة؟ "
 
 msgid "You are about to block a support user from accessing your tenant to help you with your issue."
-msgstr ""
+msgstr "أنت على وشك منع مستخدم دعم من الوصول إلى المستأجر لمساعدتك في حل مشكلتك"
 
 msgid "You are about to block a support user from {{companyName}} from accessing your tenant to help you with your issue."
-msgstr ""
+msgstr "من الوصول إلى المستأجر لمساعدتك في حل مشكلتك {{companyName}} أنت على وشك حظر مستخدم دعم من"
 
 msgid "You are about to cancel device registration for ID \"{{id}}\". Do you want to proceed?"
-msgstr ""
+msgstr "هل تريد المتابعة؟ .\"{{id}}\" أنت على وشك إلغاء تسجيل الجهاز للرقم التعريفي"
 
 msgid "You are about to close your account. Do you want to proceed?"
 msgstr ""
