@@ -7376,7 +7376,7 @@ msgid "No aggregation"
 msgstr "لا يوجد تجميع"
 
 msgid "No alarms"
-msgstr "لا تنبيهات"
+msgstr "لا توجد تنبيهات"
 
 msgid "No alarms to display."
 msgstr ".لا توجد منبهات للعرض"
@@ -7403,7 +7403,7 @@ msgid "No bulk operations found."
 msgstr ".لم يتم العثور على عمليات مجمعة"
 
 msgid "No categories available."
-msgstr ".لا فئات متاحة"
+msgstr ".لا توجد فئات متاحة"
 
 msgid "No coils available."
 msgstr ".لا تتوفر لفائف"
@@ -7427,7 +7427,7 @@ msgid "No conversion"
 msgstr "لا تحويل"
 
 msgid "No data available."
-msgstr ".لا تتوافر بيانات"
+msgstr ".لا يوجد بيانات"
 
 msgid "No data connectors to display."
 msgstr ".لا توجد موصلات بيانات لعرضها"
@@ -7454,7 +7454,7 @@ msgid ""
 "No device groups available due to the device owner permissions. The device owner must be\n"
 "          granted access to some device groups first."
 msgstr ""
-"ا توجد مجموعات أجهزة متاحة بسبب أذونات مالك الجهاز يجب أن يكون مالك الجهاز\n"
+"لا توجد مجموعات أجهزة متاحة بسبب أذونات مالك الجهاز يجب أن يكون مالك الجهاز\n"
 "منح الوصول إلى بعض مجموعات الأجهزة أولاً"
 
 msgid "No device profiles."
@@ -7882,7 +7882,7 @@ msgid "OPC UA servers"
 msgstr "خوادم OPC UA"
 
 msgid "OPERATION"
-msgstr "عملية"
+msgstr "عمليات"
 
 msgid "OPERATION STATUS"
 msgstr "حالة التشغيل"
@@ -7903,7 +7903,7 @@ msgid "Object's fragment type (e.g. c8y_IsDevice) to which you grant permission.
 msgstr "  الذي تمنحه الإذن (c8y_IsDevice نوع جزء الكائن (مثل "
 
 msgid "Objects"
-msgstr "شاء"
+msgstr "اشياء"
 
 msgid "Observe sensor value. Causes device to send every new sensor value"
 msgstr " .لاحظ قيمة المستشعر.يجعل الجهاز يرسل كل قيمة جديدة للمستشعر"
@@ -8001,7 +8001,7 @@ msgid "Online"
 msgstr "عبر الانترنت"
 
 msgid "Online / Server platform"
-msgstr "منصة عبر الإنترنت / الخادم"
+msgstr "عبر الإنترنت /منصة الخادم"
 
 msgid "Only connectivity plans with free slots are displayed"
 msgstr "يتم عرض خطط الاتصال فقط مع فتحات مجانية"
@@ -8479,7 +8479,7 @@ msgid "Platform application cannot be added to, nor removed from any tenant."
 msgstr ".لا يمكن إضافة تطبيق النظام الأساسي أو إزالته من أي مستأجر"
 
 msgid "Play"
-msgstr "لعب"
+msgstr "اللعب"
 
 msgid "Please add widgets to this dashboard."
 msgstr ".يرجى إضافة الحاجيات إلى لوحة التحكم هذه"
@@ -10025,7 +10025,7 @@ msgid "Send an operation to switch an array of relays on or off."
 msgstr ".إرسال عملية لتشغيل مجموعة من المرحلات أو إيقاف تشغيلها"
 
 msgid "Send as widget to dashboard"
-msgstr "يا مريم ، دعنا نرى ما إذا كان يمكنك اكتشاف هذا ، لول"
+msgstr "إرسال القطعة إلى لوحة القيادة"
 
 msgid "Send as widget to report"
 msgstr "إرسال كأداة للإبلاغ"
